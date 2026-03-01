@@ -49,5 +49,5 @@ After running, look in:
 - `tables/` — CSV summary tables
 
 #### 3.1 “exhibit” of words
-### Words “laughter”, “happiness”, “love”, “happy”, “ laughed” are rated very positive. These words don’t have any ambiguity, therefor no conflict in meaning interpretation.
-### Words “terrorist”, “suicide”, “rape”, “terrorism”, “murder” were rated as very negative. These words also have one meaning and the rating reflects that.
+##### Words “laughter”, “happiness”, “love”, “happy”, “ laughed” are rated very positive. These words don’t have any ambiguity, therefor no conflict in meaning interpretation.
+##### Words “terrorist”, “suicide”, “rape”, “terrorism”, “murder” were rated as very negative. These words also have one meaning and the rating reflects that.
