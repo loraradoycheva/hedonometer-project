@@ -48,6 +48,20 @@ After running, look in:
 - `figures/` — PNG plots
 - `tables/` — CSV summary tables
 
-3.1) “exhibit” of words
+### 3.1) “exhibit” of words
+
+####  Very positive
 Words “laughter”, “happiness”, “love”, “happy”, “ laughed” are rated very positive. These words don’t have any ambiguity, therefor no conflict in meaning interpretation.
+
+#### Very negative
 Words “terrorist”, “suicide”, “rape”, “terrorism”, “murder” were rated as very negative. These words also have one meaning and the rating reflects that.
+
+#### Highly contested
+“Whiskey” can be associated with a positive connotation, such as a party or drinking with friends, but it can also be associated with alcoholism or health risks. A community that follows religious restrictions on alcohol can interpret this word negatively. Words “pussy”, “fucked” , ‘fucking”, “fuckin’ can be interpreted as slurs or words relating to intercourse, which can have both positive or negative interpretations, hence the conflicting ratings.
+
+#### Weird / culturally loaded
+These words are context sensitive and as they were rated as stand alone words, they may have been interpteted diffenenrly.
+WID and NFl are acronims, so they can have multiple meanings.
+“After-tax” and “overview” follow the same trend but are somewhat unexpected in this rating.
+“After-tax” is likely rated as weird as it appears in economic or political context. Despite the term apprearing to be neutural, taxes are an emotionally and ideologically charged topics, so croedworkers can associate it with either positive or negative connotation. 
+“Overview” is used in many fields, such as corporate or academic.The word also appers to be a neututal term but can be assosiated with a problem focused context.
