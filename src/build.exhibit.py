@@ -45,3 +45,18 @@ exhibit = pd.concat( #this makes the tables merge into one big
 print("\nWORD EXHIBIT (20 WORDS):\n") #this prints the table in terminal 
 print(exhibit)
 #should work, the only problem is that it prints first word in the table as number 0, which i do not know how to change at this point 
+
+from tabulate import tabulate #import the tabulate function(it is used for converting tables into markdown format table)
+
+exhibit = exhibit.reset_index(drop=True)  # cleans the numbering: the Dataframe intex and rows are numbered 0-19. drop=True stops old indexes from being added again
+
+markdown_table = tabulate(exhibit, headers="keys", tablefmt="github", showindex=False)
+# convert the pandas DataFrame into a Markdown format table
+# headers="keys" - DataFrame column names are used as table headers
+# tablefmt="github" - formats table into a GitHub-style Markdown
+# showindex=False -  prevents row numbers (0,1,2...) from appearing
+
+with open("word_exhibit.md", "w") as f: # creates or opens a file "word_exhibit.md" in writing mode. if the file a;ready exisst sa rnew random sample is generatred and the file is overwritten
+    f.write(markdown_table) #writes the markdown table into the file
+
+print("\nMarkdown table saved to 'word_exhibit.md'") # prints conformation message in terminal
