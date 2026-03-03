@@ -65,3 +65,17 @@ WID and NFl are acronims, so they can have multiple meanings.
 “After-tax” and “overview” follow the same trend but are somewhat unexpected in this rating.
 “After-tax” is likely rated as weird as it appears in economic or political context. Despite the term apprearing to be neutural, taxes are an emotionally and ideologically charged topics, so croedworkers can associate it with either positive or negative connotation. 
 “Overview” is used in many fields, such as corporate or academic.The word also appers to be a neututal term but can be assosiated with a problem focused context.
+
+
+
+4.1 Reconstruct the pipeline (data provenance)
+
+1.Word Selection: Researchers complied a list of 10,000 frequently used English words from various sources.
+
+2.Happiness Ratings: Each word was shown to 50 different workers on Amazon Mechanical Turk, who rated how happy the word made them feel on a scale of 1  (sad) to 9 (happy).
+
+3.Score calculation: For each word they calculated average hapiness score (mean of 50 ratings) and standard deviation (how much ratings varied).
+
+4.Corpus Frequency Analysis: Words were ranked by how often they appear in four different collection which includes twitter posts, google books, New York Times articles and song lyrics.
+
+All data was combined into a single tab-delimited filed named Data set S1, referenced as labMT 1.0. 
