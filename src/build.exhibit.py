@@ -51,10 +51,7 @@ from tabulate import tabulate #import the tabulate function(it is used for conve
 exhibit = exhibit.reset_index(drop=True)  # cleans the numbering: the Dataframe intex and rows are numbered 0-19. drop=True stops old indexes from being added again
 
 markdown_table = tabulate(exhibit, headers="keys", tablefmt="github", showindex=False)
-# convert the pandas DataFrame into a Markdown format table
-# headers="keys" - DataFrame column names are used as table headers
-# tablefmt="github" - formats table into a GitHub-style Markdown
-# showindex=False -  prevents row numbers (0,1,2...) from appearing
+# convert the pandas DataFrame into a Markdown format table, assigns DataFrame column names as table headers, formats table into a GitHub-style Markdown and prevents row numbers (0,1,2...) from appearing
 
 with open("word_exhibit.md", "w") as f: # creates or opens a file "word_exhibit.md" in writing mode. if the file a;ready exisst sa rnew random sample is generatred and the file is overwritten
     f.write(markdown_table) #writes the markdown table into the file

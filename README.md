@@ -60,12 +60,22 @@ Words “terrorist”, “suicide”, “rape”, “terrorism”, “murder” 
 “Whiskey” can be associated with a positive connotation, such as a party or drinking with friends, but it can also be associated with alcoholism or health risks. A community that follows religious restrictions on alcohol can interpret this word negatively. Words “pussy”, “fucked” , ‘fucking”, “fuckin’ can be interpreted as slurs or words relating to intercourse, which can have both positive or negative interpretations, hence the conflicting ratings.
 
 #### Weird / culturally loaded
-These words are context sensitive and as they were rated as stand alone words, they may have been interpteted diffenenrly.
-WID and NFl are acronims, so they can have multiple meanings.
-“After-tax” and “overview” follow the same trend but are somewhat unexpected in this rating.
-“After-tax” is likely rated as weird as it appears in economic or political context. Despite the term apprearing to be neutural, taxes are an emotionally and ideologically charged topics, so croedworkers can associate it with either positive or negative connotation. 
-“Overview” is used in many fields, such as corporate or academic.The word also appers to be a neututal term but can be assosiated with a problem focused context.
+These words are context sensitive, and as they were rated as stand alone words, they may have been interpteted diffenenrly.
 
+“Proportions” and “lift” are words with several meanings. Lift can refer to: weightlifting or picking things up, a lifted mood, a facelift, or shoplifting. Proportions are a term used in math, statistics, and health. A more common/everyday use can be “body proportions”. The rating for these words is based on what the annotator associated them with.
+
+“Stevens” being a name(last name or place name) is challenging to accurately inbterpreted without surrounding text or other clarifications of what it refferes to.
+
+“2nd” can be interpreted as second place, which can be either positive(as in its second-best) or negative(that its not the best one).
+
+“Orleans” — refers to New Orleans. The scores are likely based on personal associations with said location. New Orleans is famous for its jazz music, so people who like that will likely rate the word positively. Natural disasters are a frequent occurrence in New Orleans, which can contribute to a negative association and a score, respectively.
+
+Other observations:
+
+1. Words rated as “very positive” show low rating variance.
+2. Highly contested words show the highest standard deviation across all categories; however, some words score close to neutral, like fucking (4.64 happiness score) and pussy (4.8 happiness score). These words are rather neutural that contested.
+3. “Weird / culturally loaded” words cluster around the middle — the deviation from 5(the midpoint) is minimal. This suggests that the actual polarity of these words is not prominent, but rather the score is affected by context variability.
+4. “Very negative words” have the lowest rate of deviation.
 
 
 4.1 Reconstruct the pipeline (data provenance)
