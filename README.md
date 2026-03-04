@@ -47,7 +47,24 @@ python3 src/run_analysis.py
 After running, look in:
 - `figures/` — PNG plots
 - `tables/` — CSV summary tables
-
+### 1.2) Data Dictionary
+- `word` - the english word that is being rated
+  type: text, no missing values
+- `rank` - placement of the word in the dataset
+  type: integer, no missing values
+- `happs` -  happiness rating on a scale from 1-9
+  type: float, no missing values
+- `stddev` - the vatiation of ratings across different annotators
+  type: float, no missing values
+- `1rank` - frequency on twitter
+  type: integer, values are missing
+- `2rank` - frequency on google
+  type: integer, values are missing
+- `3rank` - frequency in NYT articles
+  type: integer, values are missing
+- `4rank` - frequency in lyrics
+  type: integer, values are missing
+  
 ### 3.1) “exhibit” of words
 
 ####  Very positive
