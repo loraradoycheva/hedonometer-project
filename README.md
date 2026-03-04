@@ -56,14 +56,16 @@ After running, look in:
   (type: float, no missing values)
 - `stddev` - the vatiation of ratings across different annotators
   (type: float, no missing values)
-- `1rank` - frequency on twitter
+- `rank.1` - frequency on twitter
   (type: integer, values are missing)
-- `2rank` - frequency on google
+- `rank.2` - frequency on google
   (type: integer, values are missing)
-- `3rank` - frequency in NYT articles
+- `rank.3` - frequency in NYT articles
   (type: integer, values are missing)
-- `4rank` - frequency in lyrics
+- `rank.4` - frequency in lyrics
   (type: integer, values are missing)
+
+Some rank columns are represented as floats in pandas to accomodate their missing values
   
 ### 3.1) “exhibit” of words
 
