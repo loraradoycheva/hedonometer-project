@@ -119,3 +119,6 @@ Other observations:
 4.Corpus Frequency Analysis: Words were ranked by how often they appear in four different collection which includes twitter posts, google books, New York Times articles and song lyrics.
 
 All data was combined into a single tab-delimited filed named Data set S1, referenced as labMT 1.0. 
+
+### Tools Used
+For this assignment there were various tools used to help with writing code in parts that were difficult. Those tools include recommended UVA AI Chat and ChatGPT free version.
