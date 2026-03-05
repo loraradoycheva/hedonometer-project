@@ -83,7 +83,11 @@ There were several sanity checks performed in the code to verify the dataset (if
 
 Firstly, we checked if any rows were duplicated. We got a result that there was `0` duplicated rows, meaning that each of the words appeared only once in the dataset. 
 
-The next thing that we did was a check of random sample of the word set. 
+The next thing that we did was a check of random sample of the word set - it was to see if each column has appropiate values. This check confirmed that each of the rows contains a `word`, `happs` and `stddev`. Some values were missinng but they were appearing as `NaN` which is correct in this form. 
+
+At the last, we checked the words with the highest and the lowest ranking. The most positive words were `laughter`, `happiness`, `love`, `happy` or `joy` and scored 8.0 on happs. The negative words included words such as `suicide`, `cancer`, `kill`, `rape` or `murder` and they scored closely to 1.3 - 1.5. 
+
+Those results were expected and correspond to expectations. What makes those sanity checks interesting is the fact that happs generaly reflects shared interpretation rather than objective truth, as the scores are just a subjective judgments of the words. 
   
 ### 3.1) “exhibit” of words
 
