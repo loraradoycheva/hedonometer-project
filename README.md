@@ -73,7 +73,7 @@ The missing rank `--` means that the word does not appear in the list for that s
 - `rank.4` - frequency in lyrics
   (type: float, values are missing)
 
-Some rank columns are represented as floats in pandas to accomodate their missing values
+Some rank columns are represented as floats instead of integers in pandas to accomodate their missing values
   
 ### 3.1) “exhibit” of words
 
