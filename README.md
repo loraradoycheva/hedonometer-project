@@ -77,6 +77,13 @@ The missing rank `--` means that the word does not appear in the list for that s
   (type: float, values are missing)
 
 Some rank columns are represented as floats instead of integers in pandas to accomodate their missing values
+
+### 1.3) Sanity Checks
+There were several sanity checks performed in the code to verify the dataset (if its loaded correctly and well structured)
+
+Firstly, we checked if any rows were duplicated. We got a result that there was `0` duplicated rows, meaning that each of the words appeared only once in the dataset. 
+
+The next thing that we did was a check of random sample of the word set. 
   
 ### 3.1) “exhibit” of words
 
