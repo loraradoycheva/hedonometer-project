@@ -48,6 +48,9 @@ After running, look in:
 - `figures/` — PNG plots
 - `tables/` — CSV summary tables
 
+### HEDONOMETER PROJECT
+This project is set to analyze the labMT1.0 dataset, that assigns happiness scores to common english words. The scores are based on human ratings. With Python, we are able to clean and explore the dataset, focusing on the statistics part of the dataset and its usage across different corpora. With this dataset we are also able to critically reflect its limitations and design. 
+
 ### 1.1) Load the File
 This dataset was loaded from a file using pandas. The metadata lines on top of the file were skipped during the import, and `--` values were treated as missing values. 
 
