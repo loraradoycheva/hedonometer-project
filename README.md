@@ -47,9 +47,17 @@ python3 src/run_analysis.py
 After running, look in:
 - `figures/` — PNG plots
 - `tables/` — CSV summary tables
+
+### 1.1) Load the File
+This dataset was loaded from a file using pandas. The metadata lines on top of the file were skipped during the import, and `--` values were treated as missing values. 
+
+This dataset contains 10223 rows and 8 columns. Each row represents a single english word and columns contain data about it that are needed for the assignment. 
+
+The missing rank `--` means that the word does not appear in the list for that specific corpus
+
 ### 1.2) Data Dictionary
 - `word` - the english word that is being rated
-  (type: text, no missing values)
+  (type: string, no missing values)
 - `rank` - placement of the word in the dataset
   (type: integer, no missing values)
 - `happs` -  happiness rating on a scale from 1-9
@@ -57,13 +65,13 @@ After running, look in:
 - `stddev` - the vatiation of ratings across different annotators
   (type: float, no missing values)
 - `rank.1` - frequency on twitter
-  (type: integer, values are missing)
+  (type: float, values are missing)
 - `rank.2` - frequency on google
-  (type: integer, values are missing)
+  (type: float, values are missing)
 - `rank.3` - frequency in NYT articles
-  (type: integer, values are missing)
+  (type: float, values are missing)
 - `rank.4` - frequency in lyrics
-  (type: integer, values are missing)
+  (type: float, values are missing)
 
 Some rank columns are represented as floats in pandas to accomodate their missing values
   
@@ -97,7 +105,7 @@ Other observations:
 4. “Very negative words” have the lowest rate of deviation.
 
 
-4.1 Reconstruct the pipeline (data provenance)
+### 4.1 Reconstruct the pipeline (data provenance)
 
 1.Word Selection: Researchers complied a list of 10,000 frequently used English words from various sources.
 
