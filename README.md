@@ -91,9 +91,9 @@ These words corresponded to our expectations. What makes those sanity checks int
 
 ### 2.1) Distribution of happiness scores
 
-The Distribution of Happiness histogram is slightly left skewed, with its mean (at 5.38) infinitesimally smaller than the median (at 5.44). It features a longer, slowly ascending left tail in comparison to its steeper and shorter right one, a pattern which repeats when examining the curves of Kernel Density Estimates (KDE) for each corpus; although the Google Books and NYT curves show a higher density of words approaching the score of 6 than NYT and Twitter. When comparing the box plots for each corpus, we can also see that Google Books has the highest mean and median distribution of happiness, followed closely by NYT, then Twitter and with the mean and median of the Lyrics coming closest (exact values tbd) to the general values. At the same time, Google Books has a seemingly highest negative outlier count out of all four corpuses though the precise count is currently unknown and can be disputed Comparative KDE plot.
+The Distribution of Happiness histogram is slightly left skewed, with its mean (at 5.38) infinitesimally smaller than the median (at 5.44). It features a longer, slowly ascending left tail in comparison to its steeper and shorter right one, a pattern which repeats when examining the curves of Kernel Density Estimates (KDE) for each corpus; although the Google Books and NYT curves show a higher density of words when approaching the score of 6 than NYT and Twitter. When comparing the box plots for each corpus, we can also see that the Google Books corpus has the highest mean and median distribution of happiness, followed closely by NYT, then Twitter and with the mean and median of the Music Lyrics coming closest (exact values tbd) to the general values. At the same time, Google Books corpus has, seemingly, the highest negative outlier count out of all four corpuses, though the precise count is currently unknown and could be disputed by the Comparative KDE plot.
 
-Though the difference is minimal, it is unexpected that the highest density of the more negatively scored words, as evidenced by the bump in its KDE curve between values of 2 and 4, belongs to Music Lyrics rather than Twitter.
+Though the difference is minimal, it is unexpected that the highest density of the more negatively scored words, as evidenced by the bump in its KDE curve between values of 2 and 4, belongs to Music Lyrics rather than Twitter. It could potentially be explained by the timeframe during which the dataset was put together, when Twitter was still a relatively new platform and still establishing its vernacular.
 
 ### 2.2) Which words are "contested"?
 
@@ -119,10 +119,10 @@ Of the 15 most contested words, that is, words with the highest standard deviati
 
 Interestingly, analyzing the lists of most contested words per corpus shows the highest overlap between the general dataset, Twitter and Lyrics, mostly across the category of profanity; meanwhile Google Books and NYT have the highest overlap on polarizing subjects, particularly political and religious ones.
 
-On a larger scale, comparing scatter plots of standard deviation per corpus, shows a persistant and expected fan-shaped pattern, consistent clustering about the mean with a tendency towards lower standard deviation.
+On a larger scale, comparing scatter plots of standard deviation per corpus, shows a persistant and expected fan-shaped pattern, consistently clustering about the mean with a tendency towards lower standard deviation in that area. Furthermore, it reveals that Music Lyrics not only overlap the most in terms top contested words with the combined dataset but may in fact be the main contributor.
 
 ### 2.3) Corpus Comparison
-seaborn heatmaps are being mean to me
+
   
 ### 3.1 “exhibit” of words
 
