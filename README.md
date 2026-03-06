@@ -122,7 +122,16 @@ Interestingly, analyzing the lists of most contested words per corpus shows the 
 On a larger scale, comparing scatter plots of standard deviation per corpus, shows a persistant and expected fan-shaped pattern, consistently clustering about the mean with a tendency towards lower standard deviation in that area. Furthermore, it reveals that Music Lyrics not only overlap the most in terms top contested words with the combined dataset but may in fact be the main contributor.
 
 ### 2.3 Corpus Comparison
+Dividing the labMT dataset into smaller ones that are focused on individual corpora, their respective missing values removed, yields four datasets, each containing exactly 5000 words; of them, only 1816 words overlap across all corpora. Upon further exploration, Google Books and NYT corpora overlap the most with one another, counting 3414 words, however, Twitter has effectively the highest overlap consistency with every other set. This could indicate Twitter being the more linguistically versatile, although, since it has 2400 words in common Google Books and NYT sets at the same time, it is also possible that these particular sets occupy a similar linguistic niche. We find some examples of that when examining top most common words for each corpus against their frequency in other sets.
 
+- `lebron` appears 4999 times on Twitter, 0 times for the rest
+- `lied` appears 4981 times on Twitter and 1455 times in Music Lyrics, 0 times for the rest
+- `chloride` appears 4995 times in Google books, 0 times for the rest
+- `decay` appears 5000 times in Google Books and 3452 times in Music Lyrics, 0 times for the rest
+- `discussing` appears 4998 times in NYT, 0 times for the rest
+- `moreover` appears 4982 times in NYT and 1390 times in Google Books, 0 times for the rest
+- `nuthin` appears 4990 times in Music Lyrics, 0 times for the rest
+- `situations` appears 5000 times in Music Lyrics and 2139 times in Google Books, 0 times for the rest
   
 ### 3.1 “exhibit” of words
 
