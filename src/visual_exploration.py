@@ -10,19 +10,60 @@ numeric_cols = df.columns.drop('word')
 df[numeric_cols] = df[numeric_cols].apply(pd.to_numeric, errors='coerce')
 
 
-df_1 = df.rename(columns={'rank.1':'twitter', 'rank.2':'google', 'rank.3':'nyt', 'rank.4':'lyrics'})
+df_1 = df.rename(columns={'rank.1':'Twitter', 'rank.2':'Google', 'rank.3':'NYT', 'rank.4':'Music Lyrics'})
 #print(df_1.describe().drop(['count']).drop(['rank', 'stddev'], axis=1))
+df_2 = df_1.drop(['word', 'happs', 'rank', 'stddev'], axis=1)
+df_3 = df_2.dropna()
 
-df_twitter = df_1.loc[:, :'twitter'].dropna()
+
+fig, ax = plt.subplots(nrows=1, ncols=2, squeeze=False, sharey = False, figsize=(10,10))
+sns.heatmap(df_2, ax=ax[0, 0])
+ax[0,0].set_ylabel('Rank', fontsize=13)
+ax[0,0].set_title('Including Missing Values', fontsize=13)
+sns.heatmap(df_3, ax=ax[0, 1])
+ax[0,1].set_title('Without Missing Values', fontsize=13)
+
+plt.savefig('figures/heatmap_compare.png')
+
+
+
+
+
+fig, ax = plt.subplots(nrows=1, ncols=2, squeeze=False, sharey = False, figsize=(10,10))
+sns.heatmap(df_2, cmap="flare", ax=ax[0, 0])
+ax[0,0].set_ylabel('Rank', fontsize=13)
+ax[0,0].set_title('Including Missing Values', fontsize=13)
+sns.heatmap(df_3, cmap="flare", ax=ax[0, 1])
+ax[0,1].set_title('Without Missing Values', fontsize=13)
+
+plt.savefig('figures/heatmap_compare_alternate.png')
+
+
+
+
+
+df_twitter = df_1.loc[:, :'Twitter'].dropna()
+print(df_twitter.nlargest(15, 'stddev')[['word', 'happs', 'stddev']])
+#twitter = df_twitter.nlargest(15, 'stddev').to_numpy().tolist()
+#print(twitter)
 #print(df_twitter)
 
-df_google = df_1[['word', 'rank', 'happs', 'stddev', 'google']].dropna()
+df_google = df_1[['word', 'rank', 'happs', 'stddev', 'Google']].dropna()
+print(df_google.nlargest(15, 'stddev')[['word', 'happs', 'stddev']])
+#google = df_google.nlargest(15, 'stddev').to_numpy().tolist()
+#print(google)
 #print(df_google)
 
-df_nyt = df_1[['word', 'rank', 'happs', 'stddev', 'nyt']].dropna()
+df_nyt = df_1[['word', 'rank', 'happs', 'stddev', 'NYT']].dropna()
+print(df_nyt.nlargest(15, 'stddev')[['word', 'happs', 'stddev']])
+#nyt = df_nyt.nlargest(15, 'stddev').to_numpy().tolist()
+#print(nyt)
 #print(df_nyt)
 
-df_lyrics = df_1[['word', 'rank', 'happs', 'stddev', 'lyrics']].dropna()
+df_lyrics = df_1[['word', 'rank', 'happs', 'stddev', 'Music Lyrics']].dropna()
+print(df_lyrics.nlargest(15, 'stddev')[['word', 'happs', 'stddev']])
+#lyrics = df_lyrics.nlargest(15, 'stddev').to_numpy().tolist()
+#print(lyrics)
 #print(df_lyrics)
 
 
@@ -99,4 +140,3 @@ plt.ylabel('Word Density', fontsize=16)
 plt.title('Comparative Word Density', fontsize=20)
 
 plt.savefig('figures/density_compare.png')
-#plt.show()
