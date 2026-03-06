@@ -1,53 +1,3 @@
-# Seminars 3 & 4 — Hedonometer Project
-
-This folder provides project structure and demo script for the Seminars 3 & 4 group project stage using the **labMT 1.0** dataset (Data Set S1 from the Hedonometer paper).
-
-It includes:
-- the labMT 1.0 dataset file (`data/raw/Data_Set_S1.txt`)
-- a runnable demo analysis script (`src/hedonometer_labmt_demo.py`) that produces a *typical* set of outputs aligned to the assignment
-- course documents in `docs/` (original paper + paper companion + assignment + project quickstart), provided as **.pdf**
-
-## Folder layout (course convention)
-
-- `src/` — Python scripts you run
-- `data/raw/` — input data (treat as read-only)
-- `figures/` — PNG plots (embed these in your GitHub README)
-- `tables/` — CSV tables/summaries (optional to embed, but useful for analysis)
-- `docs/` — assignment + paper companion + quickstart handout
-
-## Setup + run (from the project root)
-
-### 1. Create a virtual environment
-
-**macOS / Linux**
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python3 -m pip install --upgrade pip
-```
-
-**Windows (PowerShell)**
-```powershell
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
-py -m pip install --upgrade pip
-```
-
-### 2) Install dependencies
-```bash
-python3 -m pip install -r requirements.txt
-```
-
-### 3) Run the demo analysis
-```bash
-python3 src/run_analysis.py
-```
-
-### What gets generated?
-After running, look in:
-- `figures/` — PNG plots
-- `tables/` — CSV summary tables
-
 ### HEDONOMETER PROJECT
 This project is set to analyze the labMT1.0 dataset, that assigns happiness scores to common english words. The scores are based on human ratings. With Python, we are able to clean and explore the dataset, focusing on words usage across different corpora. With this dataset, we are also able to critically reflect on the limitations and design of the study. 
 
@@ -207,3 +157,55 @@ Future research could leverage more detailed metadata to explore geographic vari
 
 ### Tools Used
 For this assignment there were various tools used to help with writing code in parts that were difficult. Those tools include recommended UVA AI Chat and ChatGPT free version. Notebook LLM was used to better dissect the assigned research paper and understand statistical concepts from it.
+
+
+
+# Hedonometer Project (for reference purposes ONLY)
+
+This folder provides project structure and demo script for the Seminars 3 & 4 group project stage using the **labMT 1.0** dataset (Data Set S1 from the Hedonometer paper).
+
+It includes:
+- the labMT 1.0 dataset file (`data/raw/Data_Set_S1.txt`)
+- a runnable demo analysis script (`src/hedonometer_labmt_demo.py`) that produces a *typical* set of outputs aligned to the assignment
+- course documents in `docs/` (original paper + paper companion + assignment + project quickstart), provided as **.pdf**
+
+## Folder layout (course convention)
+
+- `src/` — Python scripts you run
+- `data/raw/` — input data (treat as read-only)
+- `figures/` — PNG plots (embed these in your GitHub README)
+- `tables/` — CSV tables/summaries (optional to embed, but useful for analysis)
+- `docs/` — assignment + paper companion + quickstart handout
+
+## Setup + run (from the project root)
+
+### 1. Create a virtual environment
+
+**macOS / Linux**
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install --upgrade pip
+```
+
+**Windows (PowerShell)**
+```powershell
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+py -m pip install --upgrade pip
+```
+
+### 2) Install dependencies
+```bash
+python3 -m pip install -r requirements.txt
+```
+
+### 3) Run the demo analysis
+```bash
+python3 src/run_analysis.py
+```
+
+### What gets generated?
+After running, look in:
+- `figures/` — PNG plots
+- `tables/` — CSV summary tables
