@@ -1,0 +1,945 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20150101",
+    "end_date": "20151231",
+    "fq": "(headline.default:(\"states\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 12,
+  "docs": [
+    {
+      "abstract": "President Salva Kiir dissolved the country’s 10 states and created 28 new ones, a move critics say will threaten the peace deal signed in August.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "South Sudan: Creation of New States Draws Opposition Protests",
+        "kicker": "World Briefing | Africa",
+        "print_headline": "South Sudan: Creation of New States Draws Protests From the Opposition"
+      },
+      "_id": "nyt://article/9fee0e20-b3d9-594a-b33f-257ea7753e9e",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "South Sudan",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kiir Mayardit, Salva",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2015-12-26T01:45:53Z",
+      "section_name": "World",
+      "snippet": "President Salva Kiir dissolved the country’s 10 states and created 28 new ones, a move critics say will threaten the peace deal signed in August.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "Brief",
+      "uri": "nyt://article/9fee0e20-b3d9-594a-b33f-257ea7753e9e",
+      "web_url": "https://www.nytimes.com/2015/12/26/world/africa/south-sudan-creation-of-new-states-draws-opposition-protests.html",
+      "word_count": 152
+    },
+    {
+      "abstract": "Defense Secretary Ashton B. Carter, visiting Incirlik Air Base in southern Turkey, said he was “looking for the rest of the world to step up.”",
+      "byline": {
+        "original": "By Michael R. Gordon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Defense Chief Ashton Carter Prods Gulf States to Take Larger Role in ISIS Fight",
+        "kicker": "",
+        "print_headline": "U.S. Defense Chief Prods Gulf States to Take Larger Role in ISIS Fight"
+      },
+      "_id": "nyt://article/41b40f5b-62ea-5daa-8676-102682c56175",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Carter, Ashton B",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Gordon, Michael R",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Persian Gulf",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Incirlik Air Base (Turkey)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Jubeir, Adel al-",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "14",
+      "print_section": "A",
+      "pub_date": "2015-12-16T02:22:50Z",
+      "section_name": "World",
+      "snippet": "Defense Secretary Ashton B. Carter, visiting Incirlik Air Base in southern Turkey, said he was “looking for the rest of the world to step up.”",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/41b40f5b-62ea-5daa-8676-102682c56175",
+      "web_url": "https://www.nytimes.com/2015/12/16/world/middleeast/us-defense-chief-ashton-carter-seeks-more-allied-help-in-isis-fight.html",
+      "word_count": 872
+    },
+    {
+      "abstract": "Kirill V. Kabanov, a member of Russia’s Human Rights Council, says the focus should be on defeating the Islamic State, not Syria’s president.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "How to Beat ISIS: Russia and the United States Should Join Forces",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/82a7c386-b91a-5940-bfb5-78f1730b92a1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-11-18T03:29:11Z",
+      "section_name": "World",
+      "snippet": "Kirill V. Kabanov, a member of Russia’s Human Rights Council, says the focus should be on defeating the Islamic State, not Syria’s president.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/82a7c386-b91a-5940-bfb5-78f1730b92a1",
+      "web_url": "https://www.nytimes.com/2015/11/18/world/middleeast/how-to-beat-isis-russia-and-the-united-states-should-join-forces.html",
+      "word_count": 158
+    },
+    {
+      "abstract": "Among the 13 people extradited are two top drug lords, including an American citizen, Edgar Valdez Villarreal, as well as others charged in the murders of U.S. government workers.",
+      "byline": {
+        "original": "By Azam Ahmed"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mexico, Signaling Shift, Extradites Drug Kingpins to United States",
+        "kicker": "",
+        "print_headline": "Mexico, Signaling Shift, Extradites Drug Kingpins to United States"
+      },
+      "_id": "nyt://article/fea7832f-9d4d-5e1b-93ab-6cc0c41cf65f",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Ahmed, Azam",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Extradition",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Cartels",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Valdez Villarreal, Edgar",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Costilla Sanchez, Jorge Eduardo",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Guzman Loera, Joaquin",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Customs and Border Protection (US)",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Pena Nieto, Enrique",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 12
+        },
+        {
+          "name": "Organization",
+          "value": "Zetas",
+          "rank": 13
+        },
+        {
+          "name": "Organization",
+          "value": "Immigration and Customs Enforcement (US)",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2015-10-01T00:58:54Z",
+      "section_name": "World",
+      "snippet": "Among the 13 people extradited are two top drug lords, including an American citizen, Edgar Valdez Villarreal, as well as others charged in the murders of U.S. government workers.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/fea7832f-9d4d-5e1b-93ab-6cc0c41cf65f",
+      "web_url": "https://www.nytimes.com/2015/10/01/world/americas/mexico-signaling-shift-extradites-drug-kingpins-to-united-states.html",
+      "word_count": 536
+    },
+    {
+      "abstract": "As one expectant mother discovered, many Chinese seeking to give birth in the United States are encountering new obstacles, as the government cracks down on abuses.",
+      "byline": {
+        "original": "By Cao Li"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Closer Scrutiny as Chinese Seek to Give Birth in the United States",
+        "kicker": "Sinosphere",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e9ff839e-e0d8-5a92-87e6-83123be2eb13",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Pregnancy and Childbirth",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Visas",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Customs and Border Protection (US)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Homeland Security Department",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Los Angeles International Airport",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Los Angeles (Calif)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-08-26T03:41:12Z",
+      "section_name": "World",
+      "snippet": "As one expectant mother discovered, many Chinese seeking to give birth in the United States are encountering new obstacles, as the government cracks down on abuses.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e9ff839e-e0d8-5a92-87e6-83123be2eb13",
+      "web_url": "https://sinosphere.blogs.nytimes.com/2015/08/25/closer-scrutiny-as-chinese-seek-to-give-birth-in-the-united-states/",
+      "word_count": 1213
+    },
+    {
+      "abstract": "The endorsement of the agreement to constrain Iran’s nuclear program came at a meeting of the Gulf Cooperation Council attended by Mr. Kerry.",
+      "byline": {
+        "original": "By Michael R. Gordon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "John Kerry Wins Gulf States’ Cautious Support for Iran Deal",
+        "kicker": "",
+        "print_headline": "Kerry Wins Gulf States&#8217; Cautious Support for Iran Deal"
+      },
+      "_id": "nyt://article/a97e38b0-b5af-5104-86f8-5162f9b87311",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Gordon, Michael R (Per)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kerry, John",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Gulf Cooperation Council",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Middle East",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Bahrain",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Kuwait",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Oman",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Qatar",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "United Arab Emirates",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Pool photo by Brendan Smialowski",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/08/03/multimedia/kerry-doha-iran/kerry-doha-iran-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/08/03/multimedia/kerry-doha-iran/kerry-doha-iran-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2015-08-03T15:45:44Z",
+      "section_name": "World",
+      "snippet": "The endorsement of the agreement to constrain Iran’s nuclear program came at a meeting of the Gulf Cooperation Council attended by Mr. Kerry.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a97e38b0-b5af-5104-86f8-5162f9b87311",
+      "web_url": "https://www.nytimes.com/2015/08/04/world/middleeast/gulf-states-cautiously-support-iran-nuclear-deal.html",
+      "word_count": 1047
+    },
+    {
+      "abstract": "Delegates from more than 17 governments agreed to assist the strife-torn native areas of would-be migrants, as a boat with 727 people was found off Myanmar.",
+      "byline": {
+        "original": "By Thomas Fuller"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Asian States Say They’ll Focus on Causes of Migrant Crisis",
+        "kicker": "",
+        "print_headline": "Asian States Say They&#8217;ll Focus on Causes of Migrant Crisis"
+      },
+      "_id": "nyt://article/5ba1e8ff-a4b4-592e-bf15-b17524fd5da4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Myanmar",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Fuller, Thomas",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Bangladesh",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Indonesia",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Rohingya (Ethnic Group)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Migrants from Myanmar read the Quran on Friday in Langsa, Indonesia. In Bangkok, delegates from several countries held talks on the crisis.",
+        "credit": "Sergey Ponomarev for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/05/30/world/MIGRANTS/MIGRANTS-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/05/30/world/MIGRANTS/MIGRANTS-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2015-05-29T09:49:40Z",
+      "section_name": "World",
+      "snippet": "Delegates from more than 17 governments agreed to assist the strife-torn native areas of would-be migrants, as a boat with 727 people was found off Myanmar.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/5ba1e8ff-a4b4-592e-bf15-b17524fd5da4",
+      "web_url": "https://www.nytimes.com/2015/05/30/world/asia/myanmar-deflects-un-criticism-over-rohingya.html",
+      "word_count": 843
+    },
+    {
+      "abstract": "A de facto alliance in the region against Iran has opened the way to more sales to Arab states, and raised fears of an arms race.",
+      "byline": {
+        "original": "By Mark Mazzetti and Helene Cooper"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Sale of U.S. Arms Fuels the Wars of Arab States",
+        "kicker": "",
+        "print_headline": "Sale of U.S. Arms Fuels the Wars of Arab States"
+      },
+      "_id": "nyt://article/f04889ba-c648-59da-9c8a-7d56995b15cd",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Mazzetti, Mark",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Trade",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Cooper, Helene",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Middle East",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Lockheed Martin Corporation",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Boeing Company",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Persian Gulf",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "Qatar is seeking to purchase Boeing F-15 fighters to replace its aging French Mirage jets, above.",
+        "credit": "Louisa Gouliamaki/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/04/19/world/SUB-JP-ARMS/SUB-JP-ARMS-articleLarge.jpg",
+          "height": 376,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/04/19/world/SUB-JP-ARMS/SUB-JP-ARMS-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2015-04-18T23:59:44Z",
+      "section_name": "World",
+      "snippet": "A de facto alliance in the region against Iran has opened the way to more sales to Arab states, and raised fears of an arms race.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/f04889ba-c648-59da-9c8a-7d56995b15cd",
+      "web_url": "https://www.nytimes.com/2015/04/19/world/middleeast/sale-of-us-arms-fuels-the-wars-of-arab-states.html",
+      "word_count": 1306
+    },
+    {
+      "abstract": "Highlights from the International Herald Tribune archives. Nazis invade Norway and Denmark in 1940.",
+      "byline": {
+        "original": "By International Herald Tribune"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "1940: Nazis Enter Nordic States",
+        "kicker": "IHT Retrospective",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e22c6ca8-cb42-5f08-a6a3-ee73963a2fac",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "World War II (1939-45)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Denmark",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Norway",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-04-09T16:07:31Z",
+      "section_name": "World",
+      "snippet": "Highlights from the International Herald Tribune archives. Nazis invade Norway and Denmark in 1940.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/e22c6ca8-cb42-5f08-a6a3-ee73963a2fac",
+      "web_url": "https://iht-retrospective.blogs.nytimes.com/2015/04/09/1940-nazis-enter-nordic-states/",
+      "word_count": 130
+    },
+    {
+      "abstract": "Vice President Samuel Sam-Sumana said that he had requested asylum at the American Embassy after soldiers surrounded his home in the wake of his expulsion from the governing party.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Sierra Leone Official Seeks Asylum in United States",
+        "kicker": "",
+        "print_headline": "Sierra Leone Official Seeks Asylum"
+      },
+      "_id": "nyt://article/464c4d26-a0c4-5251-b06a-664d7adfbe0e",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Sierra Leone",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Koroma, Ernest Bai",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Sam-Sumana, Samuel (1962- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Asylum, Right of",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-03-14T21:03:42Z",
+      "section_name": "World",
+      "snippet": "Vice President Samuel Sam-Sumana said that he had requested asylum at the American Embassy after soldiers surrounded his home in the wake of his expulsion from the governing party.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/464c4d26-a0c4-5251-b06a-664d7adfbe0e",
+      "web_url": "https://www.nytimes.com/2015/03/15/world/africa/sierra-leone-official-seeks-asylum.html",
+      "word_count": 181
+    },
+    {
+      "abstract": "The secretary of state said a deal would not lead the Obama administration to let down its guard against Iranian interference in the region.",
+      "byline": {
+        "original": "By Michael R. Gordon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "John Kerry, in Saudi Arabia, Reassures Gulf States on Iran Nuclear Talks",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2a5ded72-5cd3-5f8f-9c77-34209115a52a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Gulf Cooperation Council",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Kerry, John",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State John Kerry walked alongside Saud al-Faisal, the foreign minister of Saudi Arabia, center, before a meeting with King Salman on Thursday.",
+        "credit": "Pool photo by Evan Vucci",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/03/06/world/06diplo/06diplo-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/03/06/world/06diplo/06diplo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-03-05T15:52:04Z",
+      "section_name": "World",
+      "snippet": "The secretary of state said a deal would not lead the Obama administration to let down its guard against Iranian interference in the region.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/2a5ded72-5cd3-5f8f-9c77-34209115a52a",
+      "web_url": "https://www.nytimes.com/2015/03/06/world/middleeast/john-kerry-in-saudi-arabia-reassures-gulf-states-on-iran-nuclear-talks.html",
+      "word_count": 570
+    },
+    {
+      "abstract": "Highlights from the International Herald Tribune archives: U.S. begins peace talks with other neutral states in 1940.",
+      "byline": {
+        "original": "By International Herald Tribune"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "1940: U.S. Talks With Neutral States",
+        "kicker": "IHT Retrospective",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/88645f43-7106-507c-8dc6-e3b958f0aad9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "World War II (1939-45)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Washington (DC)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Cordell Hull, who served as secretary of state from 1933 to 1944.",
+        "credit": "U.S. Department of State from United States",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/02/11/blogs/11iht-oldfeb11-hull/11iht-oldfeb11-hull-articleLarge.jpg",
+          "height": 731,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/02/11/blogs/11iht-oldfeb11-hull/11iht-oldfeb11-hull-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-02-10T13:15:44Z",
+      "section_name": "World",
+      "snippet": "Highlights from the International Herald Tribune archives: U.S. begins peace talks with other neutral states in 1940.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/88645f43-7106-507c-8dc6-e3b958f0aad9",
+      "web_url": "https://iht-retrospective.blogs.nytimes.com/2015/02/10/1940-u-s-talks-with-neutral-states/",
+      "word_count": 103
+    }
+  ]
+}
