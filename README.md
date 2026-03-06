@@ -1,4 +1,126 @@
-# Seminars 3 & 4 — Hedonometer (Project Folder)
+### HEDONOMETER PROJECT
+This project is set to analyze the labMT1.0 dataset, that assigns happiness scores to common english words. The scores are based on human ratings. With Python, we are able to clean and explore the dataset, focusing on the statistics part of the dataset and its usage across different corpora. With this dataset we are also able to critically reflect its limitations and design. 
+
+### 1.1) Load the File
+This dataset was loaded from a file using pandas. The metadata lines on top of the file were skipped during the import, and `--` values were treated as missing values. 
+
+This dataset contains 10223 rows and 8 columns. Each row represents a single english word and columns contain data about it that are needed for the assignment. 
+
+The missing rank `--` means that the word does not appear in the list for that specific corpus
+
+### 1.2) Data Dictionary
+- `word` - the english word that is being rated
+  (type: string, no missing values)
+- `rank` - placement of the word in the dataset
+  (type: integer, no missing values)
+- `happs` -  happiness rating on a scale from 1-9
+  (type: float, no missing values)
+- `stddev` - the vatiation of ratings across different annotators
+  (type: float, no missing values)
+- `rank.1` - frequency on twitter
+  (type: float, values are missing)
+- `rank.2` - frequency on google
+  (type: float, values are missing)
+- `rank.3` - frequency in NYT articles
+  (type: float, values are missing)
+- `rank.4` - frequency in lyrics
+  (type: float, values are missing)
+
+Some rank columns are represented as floats instead of integers in pandas to accomodate their missing values
+
+### 1.3) Sanity Checks
+There were several sanity checks performed in the code to verify the dataset (if its loaded correctly and well structured)
+
+Firstly, we checked if any rows were duplicated. We got a result that there was `0` duplicated rows, meaning that each of the words appeared only once in the dataset. 
+
+The next thing that we did was a check of random sample of the word set - it was to see if each column has appropiate values. This check confirmed that each of the rows contains a `word`, `happs` and `stddev`. Some values were missinng but they were appearing as `NaN` which is correct in this form. 
+
+At the last, we checked the words with the highest and the lowest ranking. The most positive words were `laughter`, `happiness`, `love`, `happy` or `joy` and scored 8.0 on happs. The negative words included words such as `suicide`, `cancer`, `kill`, `rape` or `murder` and they scored closely to 1.3 - 1.5. 
+
+Those results were expected and correspond to expectations. What makes those sanity checks interesting is the fact that happs generaly reflects shared interpretation rather than objective truth, as the scores are just a subjective judgments of the words. 
+
+### 2.1) Distribution of happiness scores
+
+The Distribution of Happiness histogram is slightly left skewed, with its mean (at 5.38) infinitesimally smaller than the median (at 5.44). It features a longer, slowly ascending left tail in comparison to its steeper and shorter right one, a pattern which repeats when examining the curves of Kernel Density Estimates (KDE) for each corpus; although the Google Books and NYT curves show a higher density of words approaching the score of 6 than NYT and Twitter. When comparing the box plots for each corpus, we can also see that Google Books has the highest mean and median distribution of happiness, followed closely by NYT, then Twitter and with the mean and median of the Lyrics coming closest (exact values tbd) to the general values. At the same time, Google Books has a seemingly highest negative outlier count out of all four corpuses though the precise count is currently unknown and can be disputed Comparative KDE plot.
+
+Though the difference is minimal, it is unexpected that the highest density of the more negatively scored words, as evidenced by the bump in its KDE curve between values of 2 and 4, belongs to Music Lyrics rather than Twitter.
+
+### 2.2) Which words are "contested"?
+
+| word         |happs    |stddev    |
+| -------------|---------|----------|
+| fucking      |4.64     |2.9260    |
+| fuckin       |3.86     |2.7405    |
+| fucked       |3.56     |2.7117    |
+| pussy        |4.80     |2.6650    |
+| whiskey      |5.72     |2.6422    |
+| slut         |3.57     |2.6300    |
+| cigarettes   |3.31     |2.5997    |
+| fuck         |4.14     |2.5794    |
+| mortality    |4.38     |2.5546    |
+| cigarette    |3.09     |2.5163    |
+| motherfuckers|2.51     |2.4675    |
+| churches     |5.70     |2.4599    |
+| motherfucking|2.64     |2.4558    |
+| capitalism   |5.16     |2.4524    |
+| porn         |4.18     |2.4302    |
+
+Of the 15 most contested words, that is, words with the highest standard deviation across all corpuses, 87%  fall below the general mean and median happiness score, with a little over 50% falling into the category of profanity and the rest being divided between 'guilty pleasures' (e.h. "whiskey", "cigarettes" or "porn") or "polarizing subjects" (e.g. "capitalism" or "churches").
+
+Interestingly, analyzing the lists of most contested words per corpus shows the highest overlap between the general dataset, Twitter and Lyrics, mostly across the category of profanity; meanwhile Google Books and NYT have the highest overlap on polarizing subjects, particularly political and religious ones.
+
+On a larger scale, comparing scatter plots of standard deviation per corpus, shows a persistant and expected fan-shaped pattern, consistent clustering about the mean with a tendency towards lower standard deviation.
+
+### 2.3) Corpus Comparison
+seaborn heatmaps are being mean to me
+  
+### 3.1) “exhibit” of words
+
+####  Very positive
+Words “laughter”, “happiness”, “love”, “happy”, “ laughed” are rated very positive. These words don’t have any ambiguity, therefor no conflict in meaning interpretation.
+
+#### Very negative
+Words “terrorist”, “suicide”, “rape”, “terrorism”, “murder” were rated as very negative. These words also have one meaning and the rating reflects that.
+
+#### Highly contested
+“Whiskey” can be associated with a positive connotation, such as a party or drinking with friends, but it can also be associated with alcoholism or health risks. A community that follows religious restrictions on alcohol can interpret this word negatively. Words “pussy”, “fucked” , ‘fucking”, “fuckin’ can be interpreted as slurs or words relating to intercourse, which can have both positive or negative interpretations, hence the conflicting ratings.
+
+#### Weird / culturally loaded
+These words are context sensitive, and as they were rated as stand alone words, they may have been interpteted diffenenrly.
+
+“Proportions” and “lift” are words with several meanings. Lift can refer to: weightlifting or picking things up, a lifted mood, a facelift, or shoplifting. Proportions are a term used in math, statistics, and health. A more common/everyday use can be “body proportions”. The rating for these words is based on what the annotator associated them with.
+
+“Stevens” being a name(last name or place name) is challenging to accurately inbterpreted without surrounding text or other clarifications of what it refferes to.
+
+“2nd” can be interpreted as second place, which can be either positive(as in its second-best) or negative(that its not the best one).
+
+“Orleans” — refers to New Orleans. The scores are likely based on personal associations with said location. New Orleans is famous for its jazz music, so people who like that will likely rate the word positively. Natural disasters are a frequent occurrence in New Orleans, which can contribute to a negative association and a score, respectively.
+
+Other observations:
+
+1. Words rated as “very positive” show low rating variance.
+2. Highly contested words show the highest standard deviation across all categories; however, some words score close to neutral, like fucking (4.64 happiness score) and pussy (4.8 happiness score). These words are rather neutural that contested.
+3. “Weird / culturally loaded” words cluster around the middle — the deviation from 5(the midpoint) is minimal. This suggests that the actual polarity of these words is not prominent, but rather the score is affected by context variability.
+4. “Very negative words” have the lowest rate of deviation.
+
+
+### 4.1 Reconstruct the pipeline (data provenance)
+
+1.Word Selection: Researchers complied a list of 10,000 frequently used English words from various sources.
+
+2.Happiness Ratings: Each word was shown to 50 different workers on Amazon Mechanical Turk, who rated how happy the word made them feel on a scale of 1  (sad) to 9 (happy).
+
+3.Score calculation: For each word they calculated average hapiness score (mean of 50 ratings) and standard deviation (how much ratings varied).
+
+4.Corpus Frequency Analysis: Words were ranked by how often they appear in four different collection which includes twitter posts, google books, New York Times articles and song lyrics.
+
+All data was combined into a single tab-delimited filed named Data set S1, referenced as labMT 1.0. 
+
+### Tools Used
+For this assignment there were various tools used to help with writing code in parts that were difficult. Those tools include recommended UVA AI Chat and ChatGPT free version.
+
+
+# Hedonometer (Structure and Syntax Reminder)
 
 This folder provides an **example project structure** (and an instructor/demo script) for the Seminars 3 & 4 group project using the **labMT 1.0** dataset (Data Set S1 from the Hedonometer paper).
 
@@ -47,89 +169,3 @@ python3 src/run_analysis.py
 After running, look in:
 - `figures/` — PNG plots
 - `tables/` — CSV summary tables
-
-### HEDONOMETER PROJECT
-This project is set to analyze the labMT1.0 dataset, that assigns happiness scores to common english words. The scores are based on human ratings. With Python, we are able to clean and explore the dataset, focusing on the statistics part of the dataset and its usage across different corpora. With this dataset we are also able to critically reflect its limitations and design. 
-
-### 1.1) Load the File
-This dataset was loaded from a file using pandas. The metadata lines on top of the file were skipped during the import, and `--` values were treated as missing values. 
-
-This dataset contains 10223 rows and 8 columns. Each row represents a single english word and columns contain data about it that are needed for the assignment. 
-
-The missing rank `--` means that the word does not appear in the list for that specific corpus
-
-### 1.2) Data Dictionary
-- `word` - the english word that is being rated
-  (type: string, no missing values)
-- `rank` - placement of the word in the dataset
-  (type: integer, no missing values)
-- `happs` -  happiness rating on a scale from 1-9
-  (type: float, no missing values)
-- `stddev` - the vatiation of ratings across different annotators
-  (type: float, no missing values)
-- `rank.1` - frequency on twitter
-  (type: float, values are missing)
-- `rank.2` - frequency on google
-  (type: float, values are missing)
-- `rank.3` - frequency in NYT articles
-  (type: float, values are missing)
-- `rank.4` - frequency in lyrics
-  (type: float, values are missing)
-
-Some rank columns are represented as floats instead of integers in pandas to accomodate their missing values
-
-### 1.3) Sanity Checks
-There were several sanity checks performed in the code to verify the dataset (if its loaded correctly and well structured)
-
-Firstly, we checked if any rows were duplicated. We got a result that there was `0` duplicated rows, meaning that each of the words appeared only once in the dataset. 
-
-The next thing that we did was a check of random sample of the word set - it was to see if each column has appropiate values. This check confirmed that each of the rows contains a `word`, `happs` and `stddev`. Some values were missinng but they were appearing as `NaN` which is correct in this form. 
-
-At the last, we checked the words with the highest and the lowest ranking. The most positive words were `laughter`, `happiness`, `love`, `happy` or `joy` and scored 8.0 on happs. The negative words included words such as `suicide`, `cancer`, `kill`, `rape` or `murder` and they scored closely to 1.3 - 1.5. 
-
-Those results were expected and correspond to expectations. What makes those sanity checks interesting is the fact that happs generaly reflects shared interpretation rather than objective truth, as the scores are just a subjective judgments of the words. 
-  
-### 3.1) “exhibit” of words
-
-####  Very positive
-Words “laughter”, “happiness”, “love”, “happy”, “ laughed” are rated very positive. These words don’t have any ambiguity, therefor no conflict in meaning interpretation.
-
-#### Very negative
-Words “terrorist”, “suicide”, “rape”, “terrorism”, “murder” were rated as very negative. These words also have one meaning and the rating reflects that.
-
-#### Highly contested
-“Whiskey” can be associated with a positive connotation, such as a party or drinking with friends, but it can also be associated with alcoholism or health risks. A community that follows religious restrictions on alcohol can interpret this word negatively. Words “pussy”, “fucked” , ‘fucking”, “fuckin’ can be interpreted as slurs or words relating to intercourse, which can have both positive or negative interpretations, hence the conflicting ratings.
-
-#### Weird / culturally loaded
-These words are context sensitive, and as they were rated as stand alone words, they may have been interpteted diffenenrly.
-
-“Proportions” and “lift” are words with several meanings. Lift can refer to: weightlifting or picking things up, a lifted mood, a facelift, or shoplifting. Proportions are a term used in math, statistics, and health. A more common/everyday use can be “body proportions”. The rating for these words is based on what the annotator associated them with.
-
-“Stevens” being a name(last name or place name) is challenging to accurately inbterpreted without surrounding text or other clarifications of what it refferes to.
-
-“2nd” can be interpreted as second place, which can be either positive(as in its second-best) or negative(that its not the best one).
-
-“Orleans” — refers to New Orleans. The scores are likely based on personal associations with said location. New Orleans is famous for its jazz music, so people who like that will likely rate the word positively. Natural disasters are a frequent occurrence in New Orleans, which can contribute to a negative association and a score, respectively.
-
-Other observations:
-
-1. Words rated as “very positive” show low rating variance.
-2. Highly contested words show the highest standard deviation across all categories; however, some words score close to neutral, like fucking (4.64 happiness score) and pussy (4.8 happiness score). These words are rather neutural that contested.
-3. “Weird / culturally loaded” words cluster around the middle — the deviation from 5(the midpoint) is minimal. This suggests that the actual polarity of these words is not prominent, but rather the score is affected by context variability.
-4. “Very negative words” have the lowest rate of deviation.
-
-
-### 4.1 Reconstruct the pipeline (data provenance)
-
-1.Word Selection: Researchers complied a list of 10,000 frequently used English words from various sources.
-
-2.Happiness Ratings: Each word was shown to 50 different workers on Amazon Mechanical Turk, who rated how happy the word made them feel on a scale of 1  (sad) to 9 (happy).
-
-3.Score calculation: For each word they calculated average hapiness score (mean of 50 ratings) and standard deviation (how much ratings varied).
-
-4.Corpus Frequency Analysis: Words were ranked by how often they appear in four different collection which includes twitter posts, google books, New York Times articles and song lyrics.
-
-All data was combined into a single tab-delimited filed named Data set S1, referenced as labMT 1.0. 
-
-### Tools Used
-For this assignment there were various tools used to help with writing code in parts that were difficult. Those tools include recommended UVA AI Chat and ChatGPT free version.
