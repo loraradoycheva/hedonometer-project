@@ -58,7 +58,7 @@ This dataset contains 10223 rows and 8 columns. Each row represents a single Eng
 
 The missing rank `--` means that the word does not appear in the list for that specific corpus.
 
-### 1.2) Data Dictionary
+### 1.2 Data Dictionary
 - `word` - the english word that is being rated
   (type: string, no missing values)
 - `rank` - placement of the word in the dataset
@@ -89,13 +89,13 @@ At the last, we checked the words with the highest and lowest ranking. The most 
 
 These words corresponded to our expectations. What makes those sanity checks interesting is the fact that happs generaly reflects shared interpretation rather than objective truth, as the scores are just a subjective judgments of the words. 
 
-### 2.1) Distribution of happiness scores
+### 2.1 Distribution of happiness scores
 
 The Distribution of Happiness histogram is slightly left skewed, with its mean (at 5.38) infinitesimally smaller than the median (at 5.44). It features a longer, slowly ascending left tail in comparison to its steeper and shorter right one, a pattern which repeats when examining the curves of Kernel Density Estimates (KDE) for each corpus; although the Google Books and NYT curves show a higher density of words when approaching the score of 6 than NYT and Twitter. When comparing the box plots for each corpus, we can also see that the Google Books corpus has the highest mean and median distribution of happiness, followed closely by NYT, then Twitter and with the mean and median of the Music Lyrics coming closest (exact values tbd) to the general values. At the same time, Google Books corpus has, seemingly, the highest negative outlier count out of all four corpuses, though the precise count is currently unknown and could be disputed by the Comparative KDE plot.
 
 Though the difference is minimal, it is unexpected that the highest density of the more negatively scored words, as evidenced by the bump in its KDE curve between values of 2 and 4, belongs to Music Lyrics rather than Twitter. It could potentially be explained by the timeframe during which the dataset was put together, when Twitter was still a relatively new platform and still establishing its vernacular.
 
-### 2.2) Which words are "contested"?
+### 2.2 Which words are "contested"?
 
 | word         |happs    |stddev    |
 | -------------|---------|----------|
@@ -121,7 +121,7 @@ Interestingly, analyzing the lists of most contested words per corpus shows the 
 
 On a larger scale, comparing scatter plots of standard deviation per corpus, shows a persistant and expected fan-shaped pattern, consistently clustering about the mean with a tendency towards lower standard deviation in that area. Furthermore, it reveals that Music Lyrics not only overlap the most in terms top contested words with the combined dataset but may in fact be the main contributor.
 
-### 2.3) Corpus Comparison
+### 2.3 Corpus Comparison
 
   
 ### 3.1 “exhibit” of words
