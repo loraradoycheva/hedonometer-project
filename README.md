@@ -115,9 +115,9 @@ Though the difference is minimal, it is unexpected that the highest density of t
 | capitalism   |5.16     |2.4524    |
 | porn         |4.18     |2.4302    |
 
-Of the 15 most contested words, that is, words with the highest standard deviation across all corpuses, 87%  fall below the general mean and median happiness score, with a little over 50% falling into the category of profanity and the rest being divided between 'guilty pleasures' (e.h. "whiskey", "cigarettes" or "porn") or "polarizing subjects" (e.g. "capitalism" or "churches").
+Of the 15 most contested words, that is, words with the highest standard deviation across all corpuses, 87%  fall below the general mean and median happiness score, with a little over 50% falling into the category of profanity and the rest being divided between 'guilty pleasures' (e.g. "whiskey", "cigarettes", "porn") or 'polarizing subjects' (e.g. "capitalism", "churches").
 
-Interestingly, analyzing the lists of most contested words per corpus shows the highest overlap between the general dataset, Twitter and Lyrics, mostly across the category of profanity; meanwhile Google Books and NYT have the highest overlap on polarizing subjects, particularly political and religious ones.
+Interestingly, analyzing the lists of most contested words per corpus shows the highest overlap between the general dataset, Twitter and Music Lyrics, mostly across the category of profanity; meanwhile Google Books and NYT have the highest overlap on polarizing subjects, particularly political (e.g. "capitalism", "capitalist", "execution") and religious (e.g. "christianity", "christ","marriage", "islam") ones.
 
 On a larger scale, comparing scatter plots of standard deviation per corpus, shows a persistant and expected fan-shaped pattern, consistently clustering about the mean with a tendency towards lower standard deviation in that area. Furthermore, it reveals that Music Lyrics not only overlap the most in terms top contested words with the combined dataset but may in fact be the main contributor.
 
