@@ -77,7 +77,94 @@ Step 3: Draw a bar chart showing those overlaps
 - Words like 'hong' and 'kong' were manually excluded as they appear only as 
   part of 'Hong Kong' and their hedonometer scores are misleading
 
+
+
 ### Results
 - Mean happiness score: **5.161** (scale 1-9, 5=neutral)
 - 1000/1000 headlines successfully scored
 - Most frequent emotional words: new, says, police, protests, election, killed
+
+
+2023 Analysis
+
+ Data
+
+Source: New York Times API
+Time Period: November and December 2023
+Sample Size: 1,000 headlines
+Total Words Analyzed: 15,000 words
+
+Methodology
+
+1.	Data Collection
+
+- Headlines collected using the NYT Article Search API
+- Limited to World news section
+
+2.	Text Processing
+
+- Converted all text to lowercase
+- Removed punctuation and special characters
+- Split headlines into individual words
+- Filtered out stop words (common words like "the", "and", "of")
+
+3.	Happiness Scoring
+
+- Used labMT happiness lexicon
+- LabMT contains 10,000 words with happiness scores from 1 (sad) to 9 (happy)
+- Each word matched to its happiness score
+- Words not in lexicon excluded from scoring (reported as N/A)
+
+4.	Analysis
+
+- Calculated the frequency of each word across all headlines
+- Identified the top 100 most frequent words
+- Added happiness scores to top words
+- Calculated average happiness of top words
+- Analyzed document-level happiness scores per headline
+
+
+
+
+Results
+
+Top 15 Most Frequent Content Words (Stop Words Removed)
+
+| Rank | Word | Frequency |
+|------|------|-----------|
+| 1 | gaza | 180 |
+| 2 | israel | 175 |
+| 3 | says | 105 |
+| 4 | israeli | 100 |
+| 5 | hamas | 75 |
+| 6 | hostages | 70 |
+| 7 | war | 65 |
+| 8 | after | 60 |
+| 9 | fire | 60 |
+| 10 | ukraine | 50 |
+| 11 | military | 45 |
+| 12 | say | 40 |
+| 13 | cease | 35 |
+| 14 | over | 30 |
+| 15 | new | 25 |
+
+
+Key Findings
+
+Average happiness of top 100 words: 5.72
+Happiest word in top 100: "new" (6.82)
+Least happy word in top 100: "war" (1.80)
+
+
+<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/6e9acf6c-92c9-42a5-9481-72c3996f6beb" />
+
+
+
+
+
+
+
+
+
+
+
