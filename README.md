@@ -156,8 +156,6 @@ Happiest word in top 100: "new" (6.82)
 Least happy word in top 100: "war" (1.80)
 
 
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/6e9acf6c-92c9-42a5-9481-72c3996f6beb" />
-
 
 
 
