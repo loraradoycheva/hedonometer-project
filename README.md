@@ -134,6 +134,9 @@ Least happy word in top 100: "killed" (1.56)
 Most Frequent Content Words (Stop Words Removed)
 
 
+
+Word | Frequency | Happiness Score |
+|------|-----------|-----------------|
 | gaza | 180 | 4.44 |
 | israel | 179 | 4.78 |
 | says | 103 | 5.28 |
@@ -150,6 +153,7 @@ Most Frequent Content Words (Stop Words Removed)
 | say | 38 | 5.54 |
 | over | 35 | 4.82 |
 | cease | 35 | 4.32 |
+
 
 
 
