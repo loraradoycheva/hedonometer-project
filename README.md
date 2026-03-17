@@ -124,36 +124,37 @@ Methodology
 - Analyzed document-level happiness scores per headline
 
 
-
-
 Results
 
-Top 15 Most Frequent Content Words (Stop Words Removed)
 
-| Rank | Word | Frequency |
-|------|------|-----------|
-| 1 | gaza | 180 |
-| 2 | israel | 175 |
-| 3 | says | 105 |
-| 4 | israeli | 100 |
-| 5 | hamas | 75 |
-| 6 | hostages | 70 |
-| 7 | war | 65 |
-| 8 | after | 60 |
-| 9 | fire | 60 |
-| 10 | ukraine | 50 |
-| 11 | military | 45 |
-| 12 | say | 40 |
-| 13 | cease | 35 |
-| 14 | over | 30 |
-| 15 | new | 25 |
+Average happiness of top 100 words: 5.03
+Happiest word in top 100: "sea" (6.94)
+Least happy word in top 100: "killed" (1.56)
+
+Most Frequent Content Words (Stop Words Removed)
 
 
-Key Findings
+| gaza | 180 | 4.44 |
+| israel | 179 | 4.78 |
+| says | 103 | 5.28 |
+| israeli | 93 | 4.82 |
+| hamas | 81 | Not in lexicon |
+| hostages | 70 | Not in lexicon |
+| war | 59 | 1.80 |
+| ukraine | 43 | Not in lexicon |
+| fire | 45 | 3.80 |
+| military | 38 | 4.78 |
+| new | 35 | 6.82 |
+| killed | 33 | 1.56 |
+| after | 57 | 5.08 |
+| say | 38 | 5.54 |
+| over | 35 | 4.82 |
+| cease | 35 | 4.32 |
 
-Average happiness of top 100 words: 5.72
-Happiest word in top 100: "new" (6.82)
-Least happy word in top 100: "war" (1.80)
+
+
+
+
 
 
 
