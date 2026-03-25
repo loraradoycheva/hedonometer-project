@@ -1,0 +1,855 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20170101",
+    "end_date": "20171231",
+    "fq": "(headline.default:(\"discuss\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 12,
+  "docs": [
+    {
+      "abstract": "A film about an abduction case was banned by Pakistan’s censors, but a public outcry, fueled by a social media campaign, helped overturn the ruling.",
+      "byline": {
+        "original": "By Mehreen Zahra-Malik"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pakistani Women Seize Film Dispute as Chance to Discuss Rape and Injustice",
+        "kicker": "",
+        "print_headline": "A Pakistani Film, Banned Then Revived, Strikes a Timely Nerve"
+      },
+      "_id": "nyt://article/bdfef281-b415-5cec-b0f1-247215edb868",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Movies",
+          "rank": 1
+        },
+        {
+          "name": "Title",
+          "value": "Verna (Movie)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Censorship",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Khan, Mahira",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Women's Rights",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "#MeToo Movement",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "In the Pakistani film “Verna,” Mahira Khan plays a teacher who is raped by the son of a powerful politician. The movie was banned by Pakistan’s censors, but an appellate panel reversed that decision after a public outcry.",
+        "credit": "Walnut Communications",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/23/world/23pakistanfilm-1/23pakistanfilm-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/23/world/23pakistanfilm-1/23pakistanfilm-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-12-25T08:23:49Z",
+      "section_name": "World",
+      "snippet": "A film about an abduction case was banned by Pakistan’s censors, but a public outcry helped overturn the ruling.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/bdfef281-b415-5cec-b0f1-247215edb868",
+      "web_url": "https://www.nytimes.com/2017/12/25/world/asia/pakistan-rape-film-verna-mahira-khan.html",
+      "word_count": 1180
+    },
+    {
+      "abstract": "The leaders of Germany’s largest parties met to sound out a possible renewed deal weeks after talks on an alternative arrangement fell apart.",
+      "byline": {
+        "original": "By Melissa Eddy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Merkel and Social Democrats Discuss Another Grand Coalition",
+        "kicker": "",
+        "print_headline": "Merkel Meets Old Partners To Reunite A Coalition"
+      },
+      "_id": "nyt://article/c6c42625-894a-5b9e-aafa-fe7d0193b0db",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Schulz, Martin (1955- )",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Chancellor Angela Merkel of Germany with Martin Schulz, leader of the Social Democrats, in Parliament this month.",
+        "credit": "Odd Andersen/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/12/01/world/01germany1/01germany1-articleLarge.jpg",
+          "height": 394,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/12/01/world/01germany1/01germany1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-11-30T16:25:59Z",
+      "section_name": "World",
+      "snippet": "The leaders of Germany’s largest parties met to sound out a possible renewed deal weeks after talks on an alternative arrangement fell apart.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c6c42625-894a-5b9e-aafa-fe7d0193b0db",
+      "web_url": "https://www.nytimes.com/2017/11/30/world/europe/germany-merkel-coalition-talks.html",
+      "word_count": 893
+    },
+    {
+      "abstract": "President Xi Jinping’s special envoy met with North Korean officials in Pyongyang as Washington presses China to rein in its neighbor’s nuclear weapons and missile programs.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China Envoy Discusses ‘Situation of the Korean Peninsula’ With North",
+        "kicker": "",
+        "print_headline": "North Korea Greets Envoy From China"
+      },
+      "_id": "nyt://article/4bca3fd1-d46f-58a4-8d0f-17925ca42ee5",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Tests",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Song Tao, left, a special envoy from China, met on Friday with North Korean officials in Pyongyang.",
+        "credit": "Kyodo News, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/19/world/19nkorea-china-1/19nkorea-china-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/19/world/19nkorea-china-1/19nkorea-china-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2017-11-18T16:14:19Z",
+      "section_name": "World",
+      "snippet": "President Xi Jinping’s special envoy met with North Korean officials in Pyongyang as Washington presses China to rein in its neighbor’s nuclear weapons and missile programs.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/4bca3fd1-d46f-58a4-8d0f-17925ca42ee5",
+      "web_url": "https://www.nytimes.com/2017/11/18/world/asia/north-korea-china-song-tao.html",
+      "word_count": 338
+    },
+    {
+      "abstract": "A conversation with Ben C. Solomon and Hannah Beech, Southeast Asia correspondents for The New York Times.",
+      "byline": {
+        "original": "By Ben C. Solomon, Hannah Beech and Damien Cave"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Discussing the Rohingya Refugee Crisis",
+        "kicker": "On the Ground",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e10511e4-9ef2-5455-b748-7bbc1a07bfa8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "vis-multimedia",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Rohingya (Ethnic Group)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Children lining up for food in the Balukhali refugee camp outside Cox’s Bazar, Bangladesh.",
+        "credit": "Sergey Ponomarev for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/07/world/09rohingya-conversation-1/09rohingya-conversation-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/07/world/09rohingya-conversation-1/09rohingya-conversation-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-10-11T15:52:59Z",
+      "section_name": "World",
+      "snippet": "A conversation with Ben C. Solomon and Hannah Beech, Southeast Asia correspondents for The New York Times.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e10511e4-9ef2-5455-b748-7bbc1a07bfa8",
+      "web_url": "https://www.nytimes.com/2017/10/11/world/asia/rohingya-refugee-crisis.html",
+      "word_count": 904
+    },
+    {
+      "abstract": "This week’s Australia newsletter features a conversation with our correspondent in Seoul, South Korea.",
+      "byline": {
+        "original": "By Damien Cave"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Discussing North Korea",
+        "kicker": "Letter 23",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f2189c86-9d7f-5fc6-b02a-3f81a007a11b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Tennis",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Music",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Barnett, Courtney (1988- )",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Cook, Timothy D",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Hingis, Martina",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Tallent, Gabriel",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "A Japanese soldier taking part in a drill near Tokyo on Tuesday in response to North Korea’s missile launch.",
+        "credit": "Issei Kato/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/30/world/01australialetter23-29korea-1-copy/29korea-1-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/30/world/01australialetter23-29korea-1-copy/29korea-1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-09-01T01:03:14Z",
+      "section_name": "World",
+      "snippet": "This week’s Australia newsletter features a conversation with our correspondent in Seoul, South Korea.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "Newsletter",
+      "uri": "nyt://article/f2189c86-9d7f-5fc6-b02a-3f81a007a11b",
+      "web_url": "https://www.nytimes.com/2017/08/31/world/australia/letter23-discussing-north-korea-choe-sang-hun.html",
+      "word_count": 995
+    },
+    {
+      "abstract": "Prime Minister Justin Trudeau of Canada has a penchant for quirky hosiery. His Irish counterpart, Leo Varadkar, in a tribute, outdid him.",
+      "byline": {
+        "original": "By Ed O’Loughlin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trudeau Visits Ireland to Discuss Trade, but Host’s Socks Steal the Show",
+        "kicker": "",
+        "print_headline": "Irish Premier Shows Trudeau His Own Fancy Footwork"
+      },
+      "_id": "nyt://article/740b4a81-9a69-5d29-b951-8b816b820442",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Group of Twenty",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Macron, Emmanuel (1977- )",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trudeau, Justin",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Varadkar, Leo",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Dublin (Ireland)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Justin Trudeau of Canada and Prime Minister Leo Varadkar of Ireland, who revealed his red socks, at a news conference in Dublin on Tuesday. Mr. Trudeau is the leader with a penchant for wearing eye-catching socks.",
+        "credit": "Clodagh Kilcoyne/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/07/05/world/05Ireland1/05Ireland1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/07/05/world/05Ireland1/05Ireland1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-07-04T19:23:09Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Justin Trudeau of Canada has a penchant for quirky hosiery. His Irish counterpart, Leo Varadkar, in a tribute, outdid him.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/740b4a81-9a69-5d29-b951-8b816b820442",
+      "web_url": "https://www.nytimes.com/2017/07/04/world/europe/trudeau-canada-varadkar-ireland-socks.html",
+      "word_count": 706
+    },
+    {
+      "abstract": "A Foreign Ministry spokesman confirmed that the subject of U.S. citizens of Iranian descent being held in Iran came up at a meeting last week in Vienna.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran and U.S. Discuss Issue of Americans Imprisoned by Tehran",
+        "kicker": "",
+        "print_headline": "Iran and United States Discuss Issue of Dual Citizens’ Imprisonment by Tehran"
+      },
+      "_id": "nyt://article/3bb1b1c6-c7dd-5427-98d5-ea8c33a90990",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Prisons and Prisoners",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "International Atomic Energy Agency",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Rezaian, Jason",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Namazi, Baquer",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Jared Genser, left, a lawyer, and Babak Namazi, the brother and son of two Iranian-Americans being held prisoner in Iran, speaking last week in Vienna.\n\n",
+        "credit": "Leonhard Foeger/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/02/world/02iran1/02iran1-articleLarge.jpg",
+          "height": 422,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/02/world/02iran1/02iran1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-05-01T22:37:00Z",
+      "section_name": "World",
+      "snippet": "A Foreign Ministry spokesman confirmed that the subject of U.S. citizens of Iranian descent being held in Iran came up at a meeting last week in Vienna.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/3bb1b1c6-c7dd-5427-98d5-ea8c33a90990",
+      "web_url": "https://www.nytimes.com/2017/05/01/world/middleeast/americans-held-in-iran.html",
+      "word_count": 611
+    },
+    {
+      "abstract": "A prominent Chinese state-run newspaper warned the North that it faced a cutoff of vital oil supplies if it dared test a nuclear weapon.",
+      "byline": {
+        "original": "By Jane Perlez"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Xi and Trump Discuss Rising Tensions With North Korea",
+        "kicker": "",
+        "print_headline": "Xi and Trump Discuss  Rising Korean Tensions"
+      },
+      "_id": "nyt://article/6ca95c20-5d97-546e-b784-9fd5c3e799b3",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Tests",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Global Times",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Flight operations on the United States aircraft carrier Carl Vinson last week. The Carl Vinson and other warships are heading toward the Korean Peninsula in an effort to deter the North from testing a nuclear weapon or launching missiles.",
+        "credit": "Matt Brown/U.S. Navy, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/13/world/13korea-1/13korea-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/13/world/13korea-1/13korea-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-04-12T07:27:36Z",
+      "section_name": "World",
+      "snippet": "China’s leader, Xi Jinping, and Mr. Trump spoke by phone about the escalating tensions with North Korea, while a Chinese state-run newspaper warned the North that it faced a cutoff of vital oil supplies if it dared test a nuclear weapon.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/6ca95c20-5d97-546e-b784-9fd5c3e799b3",
+      "web_url": "https://www.nytimes.com/2017/04/12/world/asia/trump-china-north-korea-xi-jinping.html",
+      "word_count": 656
+    },
+    {
+      "abstract": "Declan Walsh, the Cairo bureau chief for The Times, led a group of journalists in discussing press freedom and the difficulties of working in public spaces in Egypt.",
+      "byline": {
+        "original": "By DECLAN WALSH"
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "Journalists in Egypt Discuss Press Freedom There and Around the World",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/9680054a-3d9f-5f35-91b8-f7dba8ba1c89",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Hassan Ammar/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/13/world/13presidential-egypt/13presidential-egypt-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/13/world/13presidential-egypt/13presidential-egypt-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-03-15T12:22:57Z",
+      "section_name": "World",
+      "snippet": "Declan Walsh, the Cairo bureau chief for The Times, led a group of journalists in discussing press freedom and the difficulties of working in public spaces in Egypt.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/9680054a-3d9f-5f35-91b8-f7dba8ba1c89",
+      "web_url": "https://www.nytimes.com/interactive/2017/03/15/world/africa/egypt-press-freedom.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "The meeting was called to discuss how to avoid an unintended confrontation as forces from all three nations operate on an increasingly crowded battlefield in northern Syria.",
+      "byline": {
+        "original": "By Michael R. Gordon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Top U.S. General Discusses Syria With Counterparts From Russia and Turkey",
+        "kicker": "",
+        "print_headline": "Top Generals Hold Talks to Head Off Syria Clashes"
+      },
+      "_id": "nyt://article/42e04da6-f2c5-5a15-a564-c20b8dfcc136",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Dunford, Joseph F Jr",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Gerasimov, Valery V",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A convoy of United States armored vehicles in Manbij, northern Syria. A Pentagon spokesman said Monday that the deployment was intended as a “visible sign of deterrence and reassurance” to dissuade Turkish-backed militias and other groups from attacking the area.",
+        "credit": "Delil Souleiman/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/08/world/08Military1/08Military1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/08/world/08Military1/08Military1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-03-08T00:05:57Z",
+      "section_name": "World",
+      "snippet": "The meeting was called to discuss how to avoid an unintended confrontation as forces from all three nations operate on an increasingly crowded battlefield in northern Syria.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/42e04da6-f2c5-5a15-a564-c20b8dfcc136",
+      "web_url": "https://www.nytimes.com/2017/03/07/world/middleeast/russia-turkey-syria-deconfliction.html",
+      "word_count": 694
+    },
+    {
+      "abstract": "President Trump and Prime Minister Shinzo Abe of Japan will meet in Washington, and they’ll probably broach trade and defense ties, targets of critical Twitter posts by Mr. Trump.",
+      "byline": {
+        "original": "By Motoko Rich"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump and Abe to Talk: Why They Are Meeting and What They’ll Discuss",
+        "kicker": "",
+        "print_headline": "Talk About Trade and Defense, and a Little Golf"
+      },
+      "_id": "nyt://article/8afea917-f3b2-53cc-bcaa-0a746e447d74",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Abe, Shinzo",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Shinzo Abe of Japan during a ceremony at a base north of Tokyo last year. He will meet with President Trump on Friday in the Oval Office.",
+        "credit": "Eugene Hoshiko/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/10/world/asia/10japan3/10japan3-articleLarge.jpg",
+          "height": 412,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/10/world/asia/10japan3/10japan3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "16",
+      "print_section": "A",
+      "pub_date": "2017-02-09T21:31:03Z",
+      "section_name": "World",
+      "snippet": "President Trump and Prime Minister Shinzo Abe of Japan will meet in Washington, and they’ll probably broach trade and defense ties, targets of critical Twitter posts by Mr. Trump.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/8afea917-f3b2-53cc-bcaa-0a746e447d74",
+      "web_url": "https://www.nytimes.com/2017/02/09/world/asia/trump-abe-meeting-japan-trade-defense.html",
+      "word_count": 787
+    },
+    {
+      "abstract": "A spokesman for the new secretary general, António Guterres, said that a phone call between the two men “went quite well,” though he did not elaborate on what they spoke about.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump and U.N. Leader Discuss ‘Cooperation’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d1e30c62-3226-5e68-a0b0-fa55e5888533",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Guterres, Antonio",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United Nations Framework Convention on Climate Change",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Obama, Barack",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The United Nations secretary general, António Guterres, at the organization’s headquarters in New York on Tuesday. A United Nations spokesman said Mr. Guterres initiated a phone call with President-elect Donald J. Trump on Wednesday.",
+        "credit": "Seth Wenig/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/06/world/05NATIONS-1/05NATIONS-1-articleLarge.jpg",
+          "height": 416,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/06/world/05NATIONS-1/05NATIONS-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-01-05T02:53:18Z",
+      "section_name": "World",
+      "snippet": "A spokesman for the new secretary general, António Guterres, said that a phone call between the two men “went quite well,” though he did not elaborate on what they spoke about.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/d1e30c62-3226-5e68-a0b0-fa55e5888533",
+      "web_url": "https://www.nytimes.com/2017/01/04/world/americas/united-nations-donald-trump-antonio-guterres.html",
+      "word_count": 468
+    }
+  ]
+}

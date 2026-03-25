@@ -1,0 +1,2915 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20210101",
+    "end_date": "20211231",
+    "fq": "(headline.default:(\"claim\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 45,
+  "docs": [
+    {
+      "abstract": "Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.”",
+      "byline": {
+        "original": "By Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese Tennis Player Denies Sexual Abuse Claim, Raising More Questions",
+        "kicker": "",
+        "print_headline": "Chinese Tennis Player Reverses Sexual Abuse Accounts"
+      },
+      "_id": "nyt://article/2d9b04fd-d837-5386-891c-509b4904a8db",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Peng Shuai",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Zhang Gaoli",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Tennis",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Peng Shuai has been one of China’s highest-ranked tennis players, reaching No. 1 in doubles in 2014 and as high as 14th as a singles player.",
+        "credit": "Susana Vera/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/12/20/world/20china-tennis1/merlin_199445445_74e48042-13eb-4320-b564-9372e99df463-articleLarge.jpg",
+          "height": 427,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/12/20/world/20china-tennis1/20china-tennis1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2021-12-19T23:52:03Z",
+      "section_name": "World",
+      "snippet": "Peng Shuai said in an interview with a Singaporean newspaper that she had been misunderstood. She also said, “I’ve been very free all along.”",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/2d9b04fd-d837-5386-891c-509b4904a8db",
+      "web_url": "https://www.nytimes.com/2021/12/20/world/asia/china-tennis-peng-shuai.html",
+      "word_count": 828
+    },
+    {
+      "abstract": "Seven months after a war with Israel, hundreds are dead but otherwise little has changed. It’s a familiar pattern.",
+      "byline": {
+        "original": "By Patrick Kingsley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hamas, Claiming Victory Over Israel, Is Stuck in Same Old Cycle",
+        "kicker": "",
+        "print_headline": "Endless Cycles of War and Posturing Leave Hamas Deadlocked With Israel"
+      },
+      "_id": "nyt://article/5d5e5683-6092-595b-b06a-73cc646d9714",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Fatah, Al",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Palestinian Authority",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Zahar, Mahmoud al-",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Egypt",
+          "rank": 13
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "Hamas and its allies fired thousands of rockets — like this one on display in Rafah, Gaza — at Israel in May.",
+        "credit": "Hosam Salem for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/12/19/world/19hamas14/merlin_195743781_94b42b1b-44f8-4c7e-a1a6-befc16f62d44-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/12/19/world/19hamas14/19hamas14-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2021-12-19T17:10:42Z",
+      "section_name": "World",
+      "snippet": "Seven months after a war with Israel, hundreds are dead but otherwise little has changed. It’s a familiar pattern.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/5d5e5683-6092-595b-b06a-73cc646d9714",
+      "web_url": "https://www.nytimes.com/2021/12/19/world/middleeast/hamas-israel-gaza-war.html",
+      "word_count": 1458
+    },
+    {
+      "abstract": "The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution.",
+      "byline": {
+        "original": "By Eric Lipton and Dionne Searcey"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Congo Ousts Mining Leader in a Cloud of Corruption Claims",
+        "kicker": "",
+        "print_headline": "Congo Ousts Top Leader Of State Mining Company"
+      },
+      "_id": "nyt://article/b8ca7bb8-46e5-5e1b-ba48-66d0703d7081",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Mines and Mining",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Cobalt",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Gecamines SA",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Yuma Mulimbi, Albert",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Tshisekedi, Felix",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Congo, Democratic Republic of (Congo-Kinshasa)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Ashley Gilbertson for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/12/03/multimedia/03YUMA/merlin_192673635_78b87959-8695-4f76-87d5-25ef29c6ebc8-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/12/03/multimedia/03YUMA/03YUMA-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Investigative",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2021-12-04T02:23:50Z",
+      "section_name": "World",
+      "snippet": "The country’s president removed Albert Yuma Mulimbi as chairman of the state mining firm. Cobalt in Congo is a crucial resource in the global clean energy revolution.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/b8ca7bb8-46e5-5e1b-ba48-66d0703d7081",
+      "web_url": "https://www.nytimes.com/2021/12/03/world/congo-cobalt-albert-yuma-mulimbi.html",
+      "word_count": 764
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anatoly Kurmanaev"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Both parties claim victory as Honduras awaits election results.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/07773312-3667-5912-92d6-781e1afc831b",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Voters wait for their ballots at a polling station in Tegucigalpa.",
+        "credit": "Moises Castillo/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/11/28/multimedia/28honduras-photo1/28honduras-photo1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/11/28/multimedia/28honduras-photo1/28honduras-photo1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-11-29T00:51:28Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/07773312-3667-5912-92d6-781e1afc831b",
+      "web_url": "https://www.nytimes.com/2021/11/28/world/americas/hondurans-cast-their-votes-in-peace-then-await-results-amid-fears-of-fraud.html",
+      "word_count": 326
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Stephen Castle and Mark Landler"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A claim of herd immunity reignites debate over U.K. Covid policy.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/22ee0dee-e761-562c-9c66-52d283c2ef06",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The National Covid Memorial Wall in London.",
+        "credit": "Neil Hall/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/11/24/multimedia/24virus-briefing-uk-herd-immunity-1/24virus-briefing-uk-herd-immunity-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/11/24/multimedia/24virus-briefing-uk-herd-immunity-1/24virus-briefing-uk-herd-immunity-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-11-24T20:57:43Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/22ee0dee-e761-562c-9c66-52d283c2ef06",
+      "web_url": "https://www.nytimes.com/live/2021/11/24/world/covid-vaccine-boosters-mandates/a-claim-of-herd-immunity-reignites-debate-over-uk-covid-policy",
+      "word_count": 328
+    },
+    {
+      "abstract": "Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed.",
+      "byline": {
+        "original": "By Stephen Castle and Mark Landler"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Claim of Herd Immunity Reignites Debate Over U.K. Covid Policy",
+        "kicker": "",
+        "print_headline": "Talk of Herd Immunity Revives Debate on U.K. Covid Policy"
+      },
+      "_id": "nyt://article/a4ad1011-b812-5bba-a53d-7ac4b6925e15",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Disease Rates",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Economic Conditions and Trends",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Ferguson, Neil M",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Johnson, Boris",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Moving a Covid patient at King’s College Hospital in London earlier this year. ",
+        "credit": "Pool photo by Kirsty Wigglesworth",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/11/24/world/24uk-virus-1/merlin_182926920_b6fe04af-83ea-4ae5-8c64-f38a19e7671c-articleLarge.jpg",
+          "height": 389,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/11/24/world/24uk-virus-1/24uk-virus-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2021-11-24T19:29:48Z",
+      "section_name": "World",
+      "snippet": "Neil Ferguson, a leading epidemiologist, said the country had almost reached a state of herd immunity as it settled into a new normal of about 40,000 cases a day. Other experts disagreed.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/a4ad1011-b812-5bba-a53d-7ac4b6925e15",
+      "web_url": "https://www.nytimes.com/2021/11/24/world/europe/uk-virus-herd-immunity.html",
+      "word_count": 1276
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Annie Correal and Luis Ferré-Sadurní"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New York’s $2.1 billion fund for undocumented workers is running out of money after a blitz of claims.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bb5b3ba8-a14c-51bd-bbed-6e87522a1281",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Sharon Pemberton, 52, originally from the island nation of St. Kitts and Nevis, lost her job as a housekeeper during the pandemic and has been ineligible for state and federal pandemic relief programs due to her immigration status. ",
+        "credit": "Desiree Rios for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/10/19/lens/19-briefing-undocumented/merlin_196450269_270d1d38-be80-490a-bb48-2832634ffa8f-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/10/19/lens/19-briefing-undocumented/19-briefing-undocumented-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-10-20T09:03:26Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/bb5b3ba8-a14c-51bd-bbed-6e87522a1281",
+      "web_url": "https://www.nytimes.com/live/2021/10/20/world/covid-vaccine-boosters/new-yorks-2-1-billion-fund-for-undocumented-workers-is-running-out-of-money-after-a-blitz-of-claims",
+      "word_count": 241
+    },
+    {
+      "abstract": "The Social Democrats made significant gains on Sunday’s election but will need to find coalition partners to form a government.",
+      "byline": {
+        "original": "By Melissa Eddy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Vowing to modernize industry and ‘halt man-made climate change,’ Olaf Scholz claims a mandate.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/70c7a689-8b76-53ab-a133-b57eac30b669",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Scholz, Olaf (1958- )",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Olaf Scholz at the German Social Democrats party headquarters following the SPD’s narrow win in the federal elections, in Berlin, on Monday.",
+        "credit": "Sean Gallup/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/09/27/world/27germany-election-briefing-scholz/merlin_195415275_7956aa03-251f-4fdd-801d-8f21ec0d3dfc-articleLarge.jpg",
+          "height": 413,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/09/27/world/27germany-election-briefing-scholz/27germany-election-briefing-scholz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-09-27T08:48:03Z",
+      "section_name": "World",
+      "snippet": "The Social Democrats made significant gains on Sunday’s election but will need to find coalition partners to form a government.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/70c7a689-8b76-53ab-a133-b57eac30b669",
+      "web_url": "https://www.nytimes.com/2021/09/27/world/olaf-scholz-germany-election.html",
+      "word_count": 309
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Jack Nicas"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Brazil’s new social media policy protects false election claims, and probably Covid misinformation, too.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8a3cde05-5e58-52af-8880-44c82d0356ad",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Jair Bolsonaro of Brazil speaking to his supporters during Independence Day celebrations in São Paulo on Tuesday. ",
+        "credit": "Victor Moriyama for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/09/09/multimedia/09virus-briefing-brazil-01/merlin_194347494_81e1a20f-e816-406d-8ee9-b7c6d9d80593-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/09/09/multimedia/09virus-briefing-brazil-01/09virus-briefing-brazil-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-09-09T16:30:52Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/8a3cde05-5e58-52af-8880-44c82d0356ad",
+      "web_url": "https://www.nytimes.com/live/2021/09/09/world/covid-delta-variant-vaccine/brazils-new-social-media-policy-protects-false-election-claims-and-probably-covid-misinformation-too",
+      "word_count": 367
+    },
+    {
+      "abstract": "Militants posted images apparently taken in Bazarak, the capital of Panjshir Province in Afghanistan, where opposition forces have fought against their rule.",
+      "byline": {
+        "original": "By Sami Sahak, Wali Arian and Jim Huylebroek"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Taliban Claim Control Over Panjshir Valley, but Resistance Vows to Fight On",
+        "kicker": "",
+        "print_headline": "Taliban Claim to Control Panjshir Valley, Last Hold of Afghan Resistance"
+      },
+      "_id": "nyt://article/1b54f2af-5141-5488-8549-d7d9b343615d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Bazarak (Afghanistan)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Panjshir Valley (Afghanistan)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Zabihullah Mujahid, spokesman for the Taliban, during a news conference in Kabul, Afghanistan, on Monday.",
+        "credit": "Jim Huylebroek for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/09/06/world/06afghanistan-panjshir-04/merlin_194280738_75ee97b5-93bb-499e-8fcd-39f169d32001-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/09/06/world/06afghanistan-panjshir-04/06afghanistan-panjshir-04-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2021-09-06T10:43:07Z",
+      "section_name": "World",
+      "snippet": "Militants posted images apparently taken in Bazarak, the capital of Panjshir Province in Afghanistan, where opposition forces have fought against their rule.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/1b54f2af-5141-5488-8549-d7d9b343615d",
+      "web_url": "https://www.nytimes.com/2021/09/06/world/asia/afghanistan-panjshir-taliban-resistance.html",
+      "word_count": 850
+    },
+    {
+      "abstract": "A previous inquiry was cut short when the chief anti-corruption prosecutor was fired, but media reports of cash payments have prompted another one.",
+      "byline": {
+        "original": "By Jody García and Natalie Kitroeff"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Guatemala Investigates Claim of Bribe Paid to Its President",
+        "kicker": "",
+        "print_headline": "Guatemala President Faces Inquiry on Bribe Accusation"
+      },
+      "_id": "nyt://article/103c1f5f-1c6d-538c-af6b-1fc919530bd8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Bribery and Kickbacks",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Giammattei, Alejandro",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Sandoval, Juan Francisco",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Guatemala",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "President Alejandro Giammattei of Guatemala speaking at a news conference in Guatemala City this summer.",
+        "credit": "Erin Schaff/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/09/04/world/03guatemala-print1/03GUATEMALA1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/09/04/world/03guatemala-print1/03GUATEMALA1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2021-09-03T21:47:13Z",
+      "section_name": "World",
+      "snippet": "A previous inquiry was cut short when the chief anti-corruption prosecutor was fired, but media reports of cash payments have prompted another one.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/103c1f5f-1c6d-538c-af6b-1fc919530bd8",
+      "web_url": "https://www.nytimes.com/2021/09/03/world/americas/guatemala-president-bribe-giammattei.html",
+      "word_count": 401
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By James C. McKinley Jr."
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Public health experts dispute some Republicans’ claim that migrants are spurring a rise in Covid cases.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0bb8495a-49e0-5bed-a9df-594243852d57",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Migrants who crossed the border illegally and turned themselves in waiting to be processed at a center in Del Rio, Texas, in June.",
+        "credit": "Eric Gay/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-distortions-migrants/merlin_190018194_ed40c6b4-3057-4024-bde0-0c51bc263bcb-articleLarge.jpg",
+          "height": 389,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-distortions-migrants/06virus-briefing-distortions-migrants-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-08-07T16:56:27Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/0bb8495a-49e0-5bed-a9df-594243852d57",
+      "web_url": "https://www.nytimes.com/live/2021/08/06/world/covid-delta-variant-vaccine/public-health-experts-dispute-some-republicans-claim-that-migrants-are-spurring-a-rise-in-covid-cases",
+      "word_count": 243
+    },
+    {
+      "abstract": "The hourslong raid, which killed eight people, targeted a top military official’s home near Kabul’s fortified green zone.",
+      "byline": {
+        "original": "By Christina Goldbaum"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Taliban Claim Responsibility for Major Attack in Afghan Capital",
+        "kicker": "",
+        "print_headline": "Taliban Claim Responsibility For Attack In Kabul"
+      },
+      "_id": "nyt://article/a8a9d964-3cbf-543f-b051-da42c6ddba3b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Mohammadi, Bismillah Khan",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Afghan security personnel assessing the damage in Kabul on Wednesday after a Taliban attack on the home of the acting defense minister.",
+        "credit": "Wakil Kohsar/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/08/04/world/04afghanistan-attack01/merlin_192616680_d610c5b9-7b9b-46a8-a8e1-d8cd4400f4ab-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/08/04/world/04afghanistan-attack01/04afghanistan-attack01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2021-08-04T12:16:11Z",
+      "section_name": "World",
+      "snippet": "The hourslong raid, which killed eight people, targeted a top military official’s home near Kabul’s fortified green zone.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/a8a9d964-3cbf-543f-b051-da42c6ddba3b",
+      "web_url": "https://www.nytimes.com/2021/08/04/world/asia/afghanistan-kabul-taliban-attack.html",
+      "word_count": 632
+    },
+    {
+      "abstract": "Less than a week before the twice-extended moratorium is due to expire, a trade association for residential landlords sued the federal government over losses they say were not covered by pandemic relief funds.",
+      "byline": {
+        "original": "By Glenn Thrush"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. landlords claim in a lawsuit that an eviction freeze unfairly cost them billions.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8b61c1c7-f39f-5d14-b35a-3f4b69f1ff87",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Renters demonstrated against evictions at the California Apartment Association headquarters in Sacramento last month.",
+        "credit": "Paul Kitagaki Jr./The Sacramento Bee, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/07/27/world/27virus-briefing-MoratoriumLawsuit/merlin_189895503_8e1bddf1-50da-4123-81e6-f2d6c444c7cf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/07/27/world/27virus-briefing-MoratoriumLawsuit/27virus-briefing-MoratoriumLawsuit-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-07-27T21:59:30Z",
+      "section_name": "World",
+      "snippet": "Less than a week before the twice-extended moratorium is due to expire, a trade association for residential landlords sued the federal government over losses they say were not covered by pandemic relief funds.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/8b61c1c7-f39f-5d14-b35a-3f4b69f1ff87",
+      "web_url": "https://www.nytimes.com/live/2021/07/27/world/covid-delta-variant-vaccine/us-landlords-claim-in-a-lawsuit-that-an-eviction-freeze-unfairly-cost-them-billions",
+      "word_count": 467
+    },
+    {
+      "abstract": "The tennis star, who lit the Olympic cauldron, took a drubbing on social media, with some questioning her identity or right to represent the country.",
+      "byline": {
+        "original": "By Motoko Rich"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Critics Pounce on Naomi Osaka After Loss, Denting Japan’s Claim to Diversity",
+        "kicker": "",
+        "print_headline": "Critics Pounce on Naomi Osaka After Loss, Denting Japan’s Claim to Diversity"
+      },
+      "_id": "nyt://article/afb6c817-cad4-51d5-a643-e9b44df20c14",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Olympic Games (2020)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Race and Ethnicity",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Mental Health and Disorders",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Tennis",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Black People",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Osaka, Naomi (1997- )",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Tokyo (Japan)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Naomi Osaka of Japan during her defeat by Marketa Vondrousova of the Czech Republic in Tokyo on Tuesday.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/07/27/world/27olympics-japan-03/merlin_191639949_38eec268-3c8d-4afc-8d57-e9d3b45ebb3d-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/07/27/world/27olympics-japan-03/27olympics-japan-03-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "B",
+      "pub_date": "2021-07-27T14:09:39Z",
+      "section_name": "World",
+      "snippet": "The tennis star, who lit the Olympic cauldron, took a drubbing on social media, with some questioning her identity or right to represent the country.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/afb6c817-cad4-51d5-a643-e9b44df20c14",
+      "web_url": "https://www.nytimes.com/2021/07/27/world/asia/naomi-osaka-olympics-loss.html",
+      "word_count": 1052
+    },
+    {
+      "abstract": "A revealing look at the effort to recruit Colombian military veterans for what was described as a noble nation-building effort in Haiti but ended with 18 of them arrested and three of them dead.",
+      "byline": {
+        "original": "By Julie Turkewitz and Anatoly Kurmanaev"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Big Dreams and False Claims: How Colombians Got Embroiled in Haiti Assassination",
+        "kicker": "",
+        "print_headline": "Veterans Were Promised Noble Cause in Haiti"
+      },
+      "_id": "nyt://article/d363d30a-6897-52d6-82ae-22cd6b01365b",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Haiti",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Moise, Jovenel (1968- )",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Mercenaries and Private Military Contractors",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Colombia",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "CTU Security",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Police patrolling the streets of Pétionville, a suburb of Port-au-Prince, on Monday night.",
+        "credit": "Federico Rios for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/07/13/world/13haiti-colombia/merlin_190777221_f921776c-2f0a-4bca-8630-6366c2c13a2c-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/07/13/world/13haiti-colombia/13haiti-colombia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2021-07-14T00:15:01Z",
+      "section_name": "World",
+      "snippet": "A revealing look at the effort to recruit Colombian military veterans for what was described as a “noble” nation-building effort in Haiti, but ended with 18 of them arrested and three of them dead.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/d363d30a-6897-52d6-82ae-22cd6b01365b",
+      "web_url": "https://www.nytimes.com/2021/07/13/world/americas/haiti-colombia-military-veterans.html",
+      "word_count": 1360
+    },
+    {
+      "abstract": "The suspect is the third with U.S. ties to be held in the assassination of Haiti’s president.",
+      "byline": {
+        "original": "By Catherine Porter"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Haiti’s police claim a Florida-based doctor recruited mercenaries.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/647da692-a510-55d4-8d87-d6a7baacdf1c",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Haiti",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Moise, Jovenel (1968- )",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Florida",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/07/12/world/americas/Screen-Shot-2021-07-12-at-11/Screen-Shot-2021-07-12-at-11-articleLarge.png",
+          "height": 333,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/07/12/world/americas/Screen-Shot-2021-07-12-at-11/Screen-Shot-2021-07-12-at-11-thumbStandard.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-07-11T23:23:41Z",
+      "section_name": "World",
+      "snippet": "The suspect is the third with U.S. ties to be held in the assassination of Haiti’s president.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/647da692-a510-55d4-8d87-d6a7baacdf1c",
+      "web_url": "https://www.nytimes.com/2021/07/11/world/haiti-arrests-florida-doctor-moise.html",
+      "word_count": 617
+    },
+    {
+      "abstract": "Other countries have faced similar challenges, often with poor results, from protracted limbo to, in the worst cases, civil war.",
+      "byline": {
+        "original": "By Roger Cohen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Dueling Claims to Power. Broken Institutions. How Does Haiti Fix This?",
+        "kicker": "",
+        "print_headline": "Institutional Weakness Compounds Predicament Of Haiti’s Power Struggle"
+      },
+      "_id": "nyt://article/547c2946-62ee-53e8-8c53-d1a1fd2f626f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Constitutions",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Aristide, Jean-Bertrand",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Joseph, Claude",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Henry, Ariel",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Moise, Jovenel (1968- )",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Haiti",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "The Haitian flag flies at half-staff on the grounds of the Presidential Palace in Port-au-Prince on Saturday.",
+        "credit": "Ricardo Arduengo/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/07/11/world/11haiti-vacuum-top/merlin_190649691_88f88df9-d390-48d7-a63f-76fa2f531a89-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/07/11/world/11haiti-vacuum-top/11haiti-vacuum-top-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2021-07-11T22:20:46Z",
+      "section_name": "World",
+      "snippet": "Other countries have faced similar challenges, often with poor results, from protracted limbo to, in the worst cases, civil war.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/547c2946-62ee-53e8-8c53-d1a1fd2f626f",
+      "web_url": "https://www.nytimes.com/2021/07/11/world/americas/haiti-power-dispute.html",
+      "word_count": 1161
+    },
+    {
+      "abstract": "The two men maintained that the plot to kill President Jovenel Moïse had been planned intensively for a month, a judge involved with the investigation said.",
+      "byline": {
+        "original": "By Catherine Porter and Frances Robles"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Two arrested Americans claim they were just ‘translators’ in the assassination plot, a Haitian judge says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2383a9fe-2be6-5802-9b4d-1e0580d5c29b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Moise, Jovenel (1968- )",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Haiti",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Florida",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A crowd surrounded a police vehicle carrying two suspects in Port-au-Prince on Thursday.",
+        "credit": "Jean Marc Herve Abelard/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/07/09/world/09haiti-president-briefing-american-suspect/merlin_190560783_1395ec8c-fc17-42c8-adfe-d8eef3e99c6c-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/07/09/world/09haiti-president-briefing-american-suspect/09haiti-president-briefing-american-suspect-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-07-09T08:46:06Z",
+      "section_name": "World",
+      "snippet": "The two men maintained that the plot to kill President Jovenel Moïse had been planned intensively for a month, a judge involved with the investigation said.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/2383a9fe-2be6-5802-9b4d-1e0580d5c29b",
+      "web_url": "https://www.nytimes.com/2021/07/09/world/americas/two-arrested-americans-claim-they-were-just-translators-in-the-assassination-plot-a-haitian-judge-says.html",
+      "word_count": 966
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Evan Hill, Muyi Xiao, Brenna Smith, Robin Stein, Ainara Tiefenthäler and Dieu-Nalio Chery"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In a video, assassins in Haiti claim to be agents from the U.S. Drug Enforcement Administration.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/50135095-8949-516e-88e5-093cdc1562eb",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/07/08/autossell/haiti-2/haiti-2-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/07/08/autossell/haiti-2/haiti-2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-07-09T00:52:09Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/50135095-8949-516e-88e5-093cdc1562eb",
+      "web_url": "https://www.nytimes.com/live/2021/07/08/world/jovenel-moise-assassinated/in-a-video-assassins-in-haiti-claim-to-be-agents-from-the-us-drug-enforcement-administration",
+      "word_count": 259
+    },
+    {
+      "abstract": "Despite the interim prime minister’s claim that he is in charge after the president’s assassination, a volatile political situation poses yet another challenge to democracies in the Western Hemisphere.",
+      "byline": {
+        "original": "By Constant Méheut, Michael Crowley, Natalie Kitroeff, Anatoly Kurmanaev and Catherine Porter"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Political Crisis in Haiti Deepens Over Rival Claims to Power",
+        "kicker": "",
+        "print_headline": "Power Vacuum  As Rivals Duel  To Lead Haiti"
+      },
+      "_id": "nyt://article/fd920246-b1f9-523b-ae22-e56cf281a593",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Haiti",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Moise, Jovenel (1968- )",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Joseph, Claude",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Henry, Ariel",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Constitutions",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Claude Joseph speaking in Port-au-Prince on Thursday. The interim prime minister has taken command of the government and security services following the assassination of President Jovenel Moïse.",
+        "credit": "Richard Pierrin/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/07/08/world/08haiti-powerplay1sub/merlin_190566447_6380050f-b337-4241-a8cb-81db982c2fd8-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/07/08/world/08haiti-powerplay1sub/08haiti-powerplay1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2021-07-08T23:11:14Z",
+      "section_name": "World",
+      "snippet": "Despite the interim prime minister’s claim that he is in charge after the president’s assassination, a volatile political situation poses yet another challenge to democracies in the Western Hemisphere.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/fd920246-b1f9-523b-ae22-e56cf281a593",
+      "web_url": "https://www.nytimes.com/2021/07/08/world/americas/haiti-prime-minister.html",
+      "word_count": 1700
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A top U.N. official in Haiti offers support for Claude Joseph’s claim of national authority.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/576bdf58-98f0-57b8-af7e-826ce0791281",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Haitian Foreign Minister Claude Joseph during an interview, February 2021 in Port-au-Prince, Haiti.",
+        "credit": "Orlando Barríia/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/07/08/world/08haiti-president-briefing-united-nations/merlin_183681747_894e5a60-e563-4767-a835-8707f5fda790-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/07/08/world/08haiti-president-briefing-united-nations/08haiti-president-briefing-united-nations-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-07-08T19:56:56Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/576bdf58-98f0-57b8-af7e-826ce0791281",
+      "web_url": "https://www.nytimes.com/live/2021/07/08/world/jovenel-moise-assassinated/a-top-un-official-in-haiti-offers-support-for-claude-josephs-claim-of-national-authority",
+      "word_count": 320
+    },
+    {
+      "abstract": "Some deaths were not counted as part of prison virus tallies because hospitalized inmates were officially released from custody before they died.",
+      "byline": {
+        "original": "By Maura Turcotte, Rachel Sherman, Rebecca Griesbach, Ann Hinga Klein, Brendon Derr and Timothy Williams"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Covid may have claimed the lives of even more U.S. inmates than reported.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cf6fdaa1-c376-5305-909e-91709d1cd1e0",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Juan Cruz Jr. and his mother, Delfina Cruz, with a portrait of his father, who died of Covid-19 while awaiting trial in a New York jail.",
+        "credit": "Amr Alfiky for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/06/30/us/00virus-hidden-deaths3/merlin_188571426_74312542-4f38-456f-8448-cc07f98b8720-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/06/30/us/00virus-hidden-deaths3/merlin_188571426_74312542-4f38-456f-8448-cc07f98b8720-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-07-07T21:20:04Z",
+      "section_name": "World",
+      "snippet": "Some deaths were not counted as part of prison virus tallies because hospitalized inmates were officially released from custody before they died.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/cf6fdaa1-c376-5305-909e-91709d1cd1e0",
+      "web_url": "https://www.nytimes.com/live/2021/07/08/world/covid-19-vaccine-coronavirus-updates/covid-may-have-claimed-the-lives-of-even-more-us-inmates-than-reported",
+      "word_count": 382
+    },
+    {
+      "abstract": "A month after polls closed, officials have yet to declare a victor in the presidential vote, as they consider Keiko Fujimori’s demand that ballots be thrown out.",
+      "byline": {
+        "original": "By Mitra Taj and Julie Turkewitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fraud Claims, Unproved, Delay Peru’s Election Result and Energize the Right",
+        "kicker": "",
+        "print_headline": "Accusations of Election Fraud Ignite Class Dispute Over Peru’s Next President"
+      },
+      "_id": "nyt://article/787a59c3-bd0d-52c0-b2bc-3cb3c9ad1ca4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Castillo, Pedro (1969- )",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Fujimori, Keiko",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Fujimori, Alberto K",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Lima (Peru)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Peru",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Voter Fraud (Election Fraud)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Right-Wing Extremism and Alt-Right",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Shining Path",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Supporters of Keiko Fujimori, the right-wing presidential candidate, protesting last month in Lima, Peru’s capital.",
+        "credit": "Marco Garro for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/07/04/world/04peru-far-right1/merlin_190105245_6ca5c01c-5438-436c-9995-2d9c70455e67-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/07/04/world/04peru-far-right1/04peru-far-right1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2021-07-04T14:17:10Z",
+      "section_name": "World",
+      "snippet": "A month after polls closed, officials have yet to declare a victor in the presidential vote, as they consider Keiko Fujimori’s demand that ballots be thrown out.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/787a59c3-bd0d-52c0-b2bc-3cb3c9ad1ca4",
+      "web_url": "https://www.nytimes.com/2021/07/04/world/americas/peru-president-election-right-wing.html",
+      "word_count": 1147
+    },
+    {
+      "abstract": "A tank platoon was sent home from Lithuania after members were suspected of sexual assault, and racist and anti-Semitic behavior, in the latest embarrassment for Germany’s armed forces.",
+      "byline": {
+        "original": "By Melissa Eddy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Germany Recalls Platoon on NATO Mission Over Sexual Assault and Racism Claims",
+        "kicker": "",
+        "print_headline": "Germany Recalls Platoon on NATO Mission Over Claims of Sexual Assault and Racism"
+      },
+      "_id": "nyt://article/65eb678f-09b3-578e-bacd-f1b295121cdd",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Lithuania",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "North Atlantic Treaty Organization",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Discrimination",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Anti-Semitism",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "German tanks during an exercise in Munster, Germany, in June. The country’s armed forces have struggled for years to identify and weed out far-right extremists.",
+        "credit": "Focke Strangmann/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/06/17/world/17germany-army/merlin_188636604_72df1a35-2a4e-4be5-8586-6c4104a7a0cc-articleLarge.jpg",
+          "height": 333,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/06/17/world/17germany-army/17germany-army-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2021-06-17T13:44:54Z",
+      "section_name": "World",
+      "snippet": "A tank platoon was sent home from Lithuania after members were suspected of sexual assault, and racist and anti-Semitic behavior, in the latest embarrassment for Germany’s armed forces.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/65eb678f-09b3-578e-bacd-f1b295121cdd",
+      "web_url": "https://www.nytimes.com/2021/06/17/world/europe/germany-military-sexual-assault-racism.html",
+      "word_count": 608
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Raymond Zhong and Christopher F. Schuetze"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Taiwan claims that China has kept it from buying German vaccines, an accusation China called ‘fabricated.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f503d146-8870-59ca-b8b9-81350776385e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A medical worker administers a dose of the AstraZeneca Covid-19 vaccine New Taipei City, Taiwan on Wednesday. The island is facing a vaccine shortage during its first major outbreak of the virus.",
+        "credit": "Ann Wang/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/06/16/us/16virus-briefing-taiwan-china-vaccine/merlin_189317091_ceb18be1-416c-4395-8985-3fc0fe0bae44-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/06/16/us/16virus-briefing-taiwan-china-vaccine/16virus-briefing-taiwan-china-vaccine-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-06-17T00:39:08Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/f503d146-8870-59ca-b8b9-81350776385e",
+      "web_url": "https://www.nytimes.com/live/2021/06/16/world/covid-vaccine-coronavirus-mask/taiwan-claims-that-china-has-kept-it-from-buying-german-vaccines-an-accusation-china-called-fabricated",
+      "word_count": 192
+    },
+    {
+      "abstract": "The removal of a Turkish citizen from his home in Kenya is part of the crackdown by President Recep Tayyip Erdogan on those he sees as connected to a failed 2016 coup.",
+      "byline": {
+        "original": "By Carlotta Gall and Abdi Latif Dahir"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Turkey Claims to Have ‘Captured’ Cleric’s Relative in Kenya",
+        "kicker": "",
+        "print_headline": "Striking at Gulen Movement, Turkey Says It ‘Captured’ Cleric’s Relative in Kenya"
+      },
+      "_id": "nyt://article/8cd9d5ca-b9a8-5a2e-9cb4-125fa51dc237",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Coups D'Etat and Attempted Coups D'Etat",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "National Intelligence Organization (Turkey)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Gulen, Fethullah",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Istanbul (Turkey)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Kenya",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "People faced off against a tank near the Fatih Sultan Mehmet bridge during a coup attempt in Istanbul in July 2016.&nbsp;",
+        "credit": "Gurcan Ozturk/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/05/31/world/31Turkey01/merlin_109973053_8a7ce668-77c8-4317-aa11-3aaa1297770e-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/05/31/world/31Turkey01/merlin_109973053_8a7ce668-77c8-4317-aa11-3aaa1297770e-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2021-05-31T10:34:46Z",
+      "section_name": "World",
+      "snippet": "The removal of a Turkish citizen from his home in Kenya is part of the crackdown by President Recep Tayyip Erdogan on those he sees as connected to a failed 2016 coup.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/8cd9d5ca-b9a8-5a2e-9cb4-125fa51dc237",
+      "web_url": "https://www.nytimes.com/2021/05/31/world/europe/turkey-kenya-gulen.html",
+      "word_count": 934
+    },
+    {
+      "abstract": "President Recep Tayyip Erdogan, already hampered by an economic crisis and a surge in coronavirus cases, is now battling allegations of corruption in his ranks.",
+      "byline": {
+        "original": "By Carlotta Gall"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Claims From an Organized Crime Boss Rock Turkey’s Government",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/46af13ad-9894-5801-91d7-5b870228c16a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Organized Crime",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Justice and Development Party (Turkey)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Peker, Sedat",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Organized crime boss Sedat Peker in Istanbul in 2014.",
+        "credit": "Islam Yakut/Anadolu Agency, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/05/18/world/18TURKEY-ERDOGAN01/18TURKEY-ERDOGAN01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/05/18/world/18TURKEY-ERDOGAN01/18TURKEY-ERDOGAN01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-05-18T15:56:52Z",
+      "section_name": "World",
+      "snippet": "President Recep Tayyip Erdogan, already hampered by an economic crisis and a surge in coronavirus cases, is now battling allegations of corruption in his ranks.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/46af13ad-9894-5801-91d7-5b870228c16a",
+      "web_url": "https://www.nytimes.com/2021/05/18/world/europe/turkey-erdogan-crime-corruption.html",
+      "word_count": 1342
+    },
+    {
+      "abstract": "Slovakia says that Sputnik V doses it received did “not have the same characteristics and properties” as a version endorsed by a respected British medical journal.",
+      "byline": {
+        "original": "By Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Slovakia Claims a Bait-and-Switch With the Russian Vaccines it Ordered",
+        "kicker": "",
+        "print_headline": "Slovakia Claims Bait-and-Switch With the Russian Vaccines It Ordered"
+      },
+      "_id": "nyt://article/6191f866-8288-520f-a22c-970ed6102bfe",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Vaccination and Immunization",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Drugs (Pharmaceuticals)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Russian Direct Investment Fund",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Lancet, The (Journal)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Slovakia",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The former Slovak prime minister, Igor Matovic, at the airport in Kosice, Slovakia, in March, to welcome the arrival of the Russian-developed Sputnik V vaccine.",
+        "credit": "Peter Lazar/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/04/08/world/08virus-slovakia/08virus-slovakia-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/04/08/world/08virus-slovakia/08virus-slovakia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2021-04-08T18:30:47Z",
+      "section_name": "World",
+      "snippet": "Slovakia says that Sputnik V doses it received did “not have the same characteristics and properties” as a version endorsed by a respected British medical journal.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/6191f866-8288-520f-a22c-970ed6102bfe",
+      "web_url": "https://www.nytimes.com/2021/04/08/world/europe/slovakia-coronavirus-russia-vaccine-sputnik.html",
+      "word_count": 908
+    },
+    {
+      "abstract": "The accusations in the Democratic Republic of Congo came three years after the British charity’s government assistance was suspended over sexual exploitation in Haiti.",
+      "byline": {
+        "original": "By Megan Specia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "After Claims of Sexual Abuse, Oxfam Suspends 2 Workers in Africa",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/78cbd097-2867-59ad-ad6e-38314f88680c",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Oxfam",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Congo, Democratic Republic of (Congo-Kinshasa)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "An Ebola treatment center in Mangina, Democratic Republic of Congo, in 2019.",
+        "credit": "Hugh Kinsella Cunningham/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/04/02/world/02drc-oxfam01/02drc-oxfam01-articleLarge-v2.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/04/02/world/02drc-oxfam01/02drc-oxfam01-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-04-02T14:33:57Z",
+      "section_name": "World",
+      "snippet": "The accusations in the Democratic Republic of Congo came three years after the British charity’s government assistance was suspended over sexual exploitation in Haiti.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/78cbd097-2867-59ad-ad6e-38314f88680c",
+      "web_url": "https://www.nytimes.com/2021/04/02/world/africa/congo-oxfam-sexual-abuse.html",
+      "word_count": 666
+    },
+    {
+      "abstract": "The state veterinary service said it had approved a vaccine for carnivores, including domestic cats and dogs.",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia claims to be the first country to develop coronavirus shots for animals.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/00b3d23e-a14e-54ed-9921-5c449e9d050a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Minks (Animals)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Dogs",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Animals",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Pets",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Vaccination and Immunization",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Injecting a rabbit at a laboratory in Vladimir, Russia, in December. The vaccine was developed in part as a public health tool, in case the virus begins to spread easily from animals to humans.",
+        "credit": "Vetandlife.Ru/via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/03/31/us/31virus-briefing-russia-vaccine-animals/merlin_185794983_5271f0d8-c3ad-4624-ada8-83eef99e65f3-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/03/31/us/31virus-briefing-russia-vaccine-animals/31virus-briefing-russia-vaccine-animals-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-03-31T13:18:21Z",
+      "section_name": "World",
+      "snippet": "The state veterinary service said it had approved a vaccine for carnivores, including domestic cats and dogs.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/00b3d23e-a14e-54ed-9921-5c449e9d050a",
+      "web_url": "https://www.nytimes.com/2021/03/31/world/europe/russia-covid-vaccine-animals.html",
+      "word_count": 440
+    },
+    {
+      "abstract": "An affiliate of the militant group has seized large swaths of territory, including another important port town, but the assault last week demonstrated a new level of boldness.",
+      "byline": {
+        "original": "By Christina Goldbaum"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Responsibility for Mozambique Attack",
+        "kicker": "",
+        "print_headline": "Islamic State Has Claimed Mozambique Town Attack"
+      },
+      "_id": "nyt://article/5edcd388-2a87-5d00-892d-ef17f83ffb93",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "World Food Program",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Mozambique",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Palma (Mozambique)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The port of the Paquitequete neighborhood in Mozambique, where people displaced by the assault on Palma were expected to arrive.",
+        "credit": "Alfredo Zuniga/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/03/30/world/30mozambique/merlin_185752818_549fc0f4-755e-4af9-ba55-e10725437dcc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/03/30/world/30mozambique/merlin_185752818_549fc0f4-755e-4af9-ba55-e10725437dcc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2021-03-30T12:02:12Z",
+      "section_name": "World",
+      "snippet": "An affiliate of the militant group has seized large swaths of territory, including another important port town, but the assault last week demonstrated a new level of boldness.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/5edcd388-2a87-5d00-892d-ef17f83ffb93",
+      "web_url": "https://www.nytimes.com/2021/03/30/world/africa/isis-mozambique-attack.html",
+      "word_count": 653
+    },
+    {
+      "abstract": "The archbishop of Hamburg offered his resignation and the cardinal of Cologne suspended two senior officials over failures to report accusations of clerical sexual abuse.",
+      "byline": {
+        "original": "By Melissa Eddy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Cologne Catholic Church Failed in Handling Sex Abuse Claims, Report Finds",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1c18a169-fc91-54af-bfd2-082411516245",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Cologne (Germany)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Priests",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Cardinal Rainer Maria Woelki, left, said at a news conference in Cologne, Germany, on Thursday that he was “deeply moved and shamed” by the report’s findings.",
+        "credit": "Pool photo by Andreas Rentz",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/03/18/world/18germany-church-1/18germany-church-1-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/03/18/world/18germany-church-1/18germany-church-1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-03-18T16:13:05Z",
+      "section_name": "World",
+      "snippet": "The archbishop of Hamburg offered his resignation and the cardinal of Cologne suspended two senior officials over failures to report accusations of clerical sexual abuse.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1c18a169-fc91-54af-bfd2-082411516245",
+      "web_url": "https://www.nytimes.com/2021/03/18/world/europe/cologne-church-sexual-abuse.html",
+      "word_count": 754
+    },
+    {
+      "abstract": "The Myanmar military’s latest accusations against the ousted civilian leader suggest a monthslong campaign to neutralize the country’s most popular politician.",
+      "byline": {
+        "original": "By Hannah Beech"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Latest Claim in the Effort Against Aung San Suu Kyi: A Bag of Cash",
+        "kicker": "",
+        "print_headline": "‘Black Envelope’ of Cash: New Attack on Myanmar’s Leader"
+      },
+      "_id": "nyt://article/446b1974-4bb5-58fc-965b-d68e19c797cd",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coups D'Etat and Attempted Coups D'Etat",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "National League for Democracy (Myanmar)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Open Society Foundations",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Aung San Suu Kyi",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Myanmar",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Medical students, doctors and engineers joined the protest against the military coup in Mandalay, Myanmar, last month.",
+        "credit": "The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/03/18/world/18myanmar-1sub/merlin_184302633_23f979c6-53f2-41c0-aa9b-1f52e375e6f6-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/03/18/world/18myanmar-1sub/18myanmar-1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2021-03-18T10:58:46Z",
+      "section_name": "World",
+      "snippet": "The Myanmar military’s latest accusations against the ousted civilian leader suggest a monthslong campaign to neutralize the country’s most popular politician.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/446b1974-4bb5-58fc-965b-d68e19c797cd",
+      "web_url": "https://www.nytimes.com/2021/03/18/world/asia/myanmar-coup-Daw-Aung-San-Suu-Kyi.html",
+      "word_count": 1140
+    },
+    {
+      "abstract": "Some see unsettling parallels with another powerful man halfway across the world.",
+      "byline": {
+        "original": "By Yan Zhuang"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Why the Rape Claim Against Australia’s Attorney General Seems Familiar",
+        "kicker": "Letter 198",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5a253709-a597-5d4f-9f99-4c50e9de1915",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Porter, Christian (1970- )",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Morrison, Scott (1968- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Kavanaugh, Brett M",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "“The things that are claimed to have happened did not happen,” Australia’s attorney general, Christian Porter, said last week in Perth.",
+        "credit": "Stefan Gosatti/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/03/03/world/12australialetter198/merlin_184503198_d83f497a-69f9-4952-be7c-5895a2990059-articleLarge.jpg",
+          "height": 385,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/03/03/world/12australialetter198/03oz-rape-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-03-12T20:19:33Z",
+      "section_name": "World",
+      "snippet": "Some see unsettling parallels with another powerful man halfway across the world.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/5a253709-a597-5d4f-9f99-4c50e9de1915",
+      "web_url": "https://www.nytimes.com/2021/03/12/world/australia/christian-porter-brett-kavanaugh.html",
+      "word_count": 1175
+    },
+    {
+      "abstract": "The cabinet minister offered his defense just two weeks after a separate case in which a government staff member said she was sexually assaulted in Parliament.",
+      "byline": {
+        "original": "By Damien Cave"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "It ‘Just Didn’t Happen’: Australia’s Attorney General Denies Rape Claim",
+        "kicker": "",
+        "print_headline": "An Australian Official Denies a Rape in 1988"
+      },
+      "_id": "nyt://article/ebde1074-5f44-5101-9cf8-44202492ee2b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Attorneys General",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "#MeToo Movement",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Porter, Christian (1970- )",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Higgins, Brittany",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "“The things that are claimed to have happened did not happen,” Australia’s attorney general, Christian Porter, said Wednesday in Perth.",
+        "credit": "Stefan Gosatti/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/03/03/world/03oz-rape-1/merlin_184503198_d83f497a-69f9-4952-be7c-5895a2990059-articleLarge.jpg",
+          "height": 385,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/03/03/world/03oz-rape-1/03oz-rape-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2021-03-03T12:12:16Z",
+      "section_name": "World",
+      "snippet": "The cabinet minister offered his defense just two weeks after a separate case in which a government staff member said she was sexually assaulted in Parliament.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/ebde1074-5f44-5101-9cf8-44202492ee2b",
+      "web_url": "https://www.nytimes.com/2021/03/03/world/australia/christian-porter-rape-case.html",
+      "word_count": 1335
+    },
+    {
+      "abstract": "People who convert in Israel to Reform or Conservative Judaism have a right to citizenship, the Supreme Court ruled, chipping at the power of Orthodox authorities that see them as non-Jewish.",
+      "byline": {
+        "original": "By Patrick Kingsley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israeli Court Says Converts to Non-Orthodox Judaism Can Claim Citizenship",
+        "kicker": "",
+        "print_headline": "Ruling in Israel Broadens View Of Which Jews Can Be Citizens"
+      },
+      "_id": "nyt://article/1b37444e-a419-5bb4-b7f9-d57d257100a2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Orthodox Judaism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Citizenship and Naturalization",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Decisions and Verdicts",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The heads of the Jewish Reform and Conservative movement carrying Torahs at the Western Wall in 2016.",
+        "credit": "Sebastian Scheiner/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/03/01/world/01israel-jews-2-promo/merlin_184440636_e46d4a31-b316-4d6e-87f6-5cac223d1a9c-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/03/01/world/01israel-jews-2-promo/01israel-jews-2-promo-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2021-03-01T22:49:50Z",
+      "section_name": "World",
+      "snippet": "People who convert in Israel to Reform or Conservative Judaism have a right to citizenship, the Supreme Court ruled, chipping at the power of Orthodox authorities that see them as non-Jewish.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/1b37444e-a419-5bb4-b7f9-d57d257100a2",
+      "web_url": "https://www.nytimes.com/2021/03/01/world/middleeast/israel-jewish-converts-citizenship.html",
+      "word_count": 848
+    },
+    {
+      "abstract": "Brittany Higgins has filed a formal police report against a former government employee who she said raped her in Australia’s Parliament House in 2019, roiling the government.",
+      "byline": {
+        "original": "By Livia Albeck-Ripka"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "She Made a ‘Soul-Destroying’ Rape Claim. Then 3 Others Came Forward.",
+        "kicker": "",
+        "print_headline": "Claim of Rape in Australian Defense Minister’s Office Is Pursued With Police"
+      },
+      "_id": "nyt://article/351f65ff-9aae-50e2-af28-4b63cc278ee5",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Higgins, Brittany",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Morrison, Scott (1968- )",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Reynolds, Linda (1965- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Women's Rights",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Brittany Higgins outside Parliament House in Canberra, Australia, in 2018.",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/02/24/world/24oz-rape-1/24oz-rape-1-articleLarge.jpg",
+          "height": 663,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/02/24/world/24oz-rape-1/24oz-rape-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2021-02-24T10:28:33Z",
+      "section_name": "World",
+      "snippet": "Brittany Higgins has filed a formal police report against a former government employee who she said raped her in Australia’s Parliament House in 2019, roiling the government.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/351f65ff-9aae-50e2-af28-4b63cc278ee5",
+      "web_url": "https://www.nytimes.com/2021/02/24/world/australia/australia-parliament-house-rape-claim.html",
+      "word_count": 1067
+    },
+    {
+      "abstract": "Priya Ramani had faced up to two years in prison after making sexual harassment accusations against M.J. Akbar, once a prominent member of the Modi government.",
+      "byline": {
+        "original": "By Emily Schmall and Shalini Venugopal Bhagat"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Indian Court Clears Journalist of Defamation Claim in #MeToo Case",
+        "kicker": "",
+        "print_headline": "India Journalist Is Cleared of Defamation After Her Harassment Claims"
+      },
+      "_id": "nyt://article/d5987424-1253-5023-8520-d209ed68ecf7",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "#MeToo Movement",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Libel and Slander",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Akbar, M J",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Suits and Litigation (Civil)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Decisions and Verdicts",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "M.J. Akbar, center, leaving court in New Delhi in 2018. He filed a defamation lawsuit against a journalist after she accused him of sexual harassment.",
+        "credit": "Anushree Fadnavis/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/02/16/world/00india-metoo-1/00india-metoo-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/02/16/world/00india-metoo-1/00india-metoo-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2021-02-17T09:59:12Z",
+      "section_name": "World",
+      "snippet": "Priya Ramani had faced up to two years in prison after making sexual harassment accusations against M.J. Akbar, once a prominent member of the Modi government.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/d5987424-1253-5023-8520-d209ed68ecf7",
+      "web_url": "https://www.nytimes.com/2021/02/17/world/asia/india-mj-akbar-metoo.html",
+      "word_count": 1225
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Karen Weise"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New York sues Amazon, claiming the company failed to adequately protect workers from Covid-19.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b0f2ec1f-f77d-5958-afc3-4b314c0e4522",
+      "keywords": [],
+      "multimedia": {
+        "caption": "An employee scans packages at Amazon’s distribution center in Staten Island, N.Y., November 2020. Conditions at the site is the focus of a lawsuit.",
+        "credit": "Brendan Mcdermid/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/02/16/world/16virus-briefing-ny-amazon/merlin_180447747_7df82b37-b35c-46fa-bc8d-c8f0d95a151a-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/02/16/world/16virus-briefing-ny-amazon/16virus-briefing-ny-amazon-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-02-17T03:42:06Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/b0f2ec1f-f77d-5958-afc3-4b314c0e4522",
+      "web_url": "https://www.nytimes.com/live/2021/02/16/world/covid-19-coronavirus/new-york-sues-amazon-claiming-the-company-failed-to-adequately-protect-workers-from-covid-19",
+      "word_count": 364
+    },
+    {
+      "abstract": "A former government staff member said she had been made to choose between going to the police and keeping her job. Prime Minister Scott Morrison apologized.",
+      "byline": {
+        "original": "By Livia Albeck-Ripka"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Parliament Rape Claim Roils Australian Government",
+        "kicker": "",
+        "print_headline": "Rape at Parliament House  Jolts Australian Politicians"
+      },
+      "_id": "nyt://article/039e55f8-c59b-5032-a820-0eab15fcf0ba",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Liberal Party (Australia)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Morrison, Scott (1968- )",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Higgins, Brittany",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Reynolds, Linda (1965- )",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Brittany Higgins outside Parliament House in Canberra, Australia, in 2018.",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/02/15/world/15oz-rape-1/15oz-rape-1-articleLarge-v4.jpg",
+          "height": 656,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/02/15/world/15oz-rape-1/15oz-rape-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2021-02-15T10:43:59Z",
+      "section_name": "World",
+      "snippet": "A former government staff member said she had been made to choose between going to the police and keeping her job. Prime Minister Scott Morrison apologized.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/039e55f8-c59b-5032-a820-0eab15fcf0ba",
+      "web_url": "https://www.nytimes.com/2021/02/15/world/australia/raped-parliament-house.html",
+      "word_count": 1052
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Patricia Mazzei"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "How many lives will Covid claim? Projecting virus deaths in the U.S. has proved to be difficult.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0dff1835-3cf2-54d3-8f0d-c919eac669a7",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "The death toll in California has prompted state officials to send more refrigerated trailers to local governments to serve as makeshift morgues.",
+        "credit": "LA County Dept. of Medical Examiner-Coroner, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/01/22/us/22virus-briefing-deaths-projections/22virus-briefing-deaths-projections-articleLarge.jpg",
+          "height": 423,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/01/22/us/22virus-briefing-deaths-projections/22virus-briefing-deaths-projections-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-01-23T14:25:02Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/0dff1835-3cf2-54d3-8f0d-c919eac669a7",
+      "web_url": "https://www.nytimes.com/live/2021/01/23/world/covid-19-coronavirus/how-many-lives-will-covid-claim-projecting-virus-deaths-in-the-us-has-proved-to-be-difficult",
+      "word_count": 420
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Gina Kolata"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Drug prevents virus infections in nursing homes, maker claims.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/98be8740-a39a-5d78-a855-7e3e13ba4bbc",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Lab employees in Italy working to produce the antibody treatments developed by Eli Lilly.",
+        "credit": "Riccardo Antimiani/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/01/21/world/21virus-briefing-antibody/21virus-briefing-antibody-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/01/21/world/21virus-briefing-antibody/21virus-briefing-antibody-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-01-22T10:24:37Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/98be8740-a39a-5d78-a855-7e3e13ba4bbc",
+      "web_url": "https://www.nytimes.com/live/2021/01/22/world/covid-19-coronavirus/drug-prevents-virus-infections-in-nursing-homes-maker-claims",
+      "word_count": 264
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Sydney Ember"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. unemployment claims jump sharply, showing the pandemic’s continuing economic toll.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5cd5a5c3-65e4-5655-939d-b10ea96ab2ef",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A closed restaurant in Santa Barbara, Calif. The winter coronavirus wave has pummeled the leisure and hospitality industries.",
+        "credit": "Bryan Denton for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/01/14/us/14economy-briefing-jobless/14economy-briefing-jobless-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/01/14/us/14economy-briefing-jobless/14economy-briefing-jobless-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-01-14T13:46:02Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/5cd5a5c3-65e4-5655-939d-b10ea96ab2ef",
+      "web_url": "https://www.nytimes.com/2021/01/14/world/us-unemployment-claims-jump-sharply-showing-the-pandemics-continuing-economic-toll.html",
+      "word_count": 300
+    },
+    {
+      "abstract": "Most officials believe the Taliban are behind the attacks on civil leaders, but others fear that factions are using chaos as a cover to settle scores, in an echo of Afghanistan’s past civil war.",
+      "byline": {
+        "original": "By Fahim Abed and Thomas Gibbons-Neff"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Targeted Killings Are Terrorizing Afghans. And No One Is Claiming Them.",
+        "kicker": "",
+        "print_headline": "Afghans Living In Fear as More Become Targets"
+      },
+      "_id": "nyt://article/6234dcac-994a-50f0-9a52-db39ce74b7ea",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Afghan security officials inspecting the scene of a magnetic bomb blast that killed Kabul’s deputy governor, Mahbubullah Mohibi, and his secretary in December. No one claimed responsibility for the attack.",
+        "credit": "EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/01/02/world/02afghan-assassination-sub1/02afghan-assassination-sub1-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/01/02/world/02afghan-assassination-sub1/02afghan-assassination-sub1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2021-01-02T17:28:41Z",
+      "section_name": "World",
+      "snippet": "Most officials believe the Taliban are behind the attacks on civil leaders, but others fear that factions are using chaos as a cover to settle scores, in an echo of Afghanistan’s past civil war.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/6234dcac-994a-50f0-9a52-db39ce74b7ea",
+      "web_url": "https://www.nytimes.com/2021/01/02/world/asia/afghanistan-targeted-killings.html",
+      "word_count": 1423
+    }
+  ]
+}

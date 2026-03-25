@@ -1,0 +1,99 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20190101",
+    "end_date": "20191231",
+    "fq": "(headline.default:(\"discuss\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 1,
+  "docs": [
+    {
+      "abstract": "Sergey V. Lavrov is set to visit the White House on Tuesday afternoon, for a conversation that could include extending the last major nuclear treaty between the United States and Russia.",
+      "byline": {
+        "original": "By David E. Sanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russian Foreign Minister Likely to Discuss Nuclear Arms With Trump and Pompeo",
+        "kicker": "",
+        "print_headline": "White House  May Discuss Nuclear Deal With Russia"
+      },
+      "_id": "nyt://article/5df5177c-7545-527f-a2d2-496f1317e3af",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Lavrov, Sergey V",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Strategic Arms Reduction Treaty",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Sergey V. Lavrov, Russia’s foreign minister, will be in Washington this week.",
+        "credit": "Ahmad Al-Rubaye/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/12/09/us/politics/09dc-diplo/merlin_162311577_735adeee-3991-42d6-9de5-29b59673202a-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/12/09/us/politics/09dc-diplo/09dc-diplo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2019-12-10T00:12:26Z",
+      "section_name": "World",
+      "snippet": "The White House has said nothing official about a meeting the Kremlin has announced, but any talks with Sergey V. Lavrov could include extending the last major nuclear treaty between the countries.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/5df5177c-7545-527f-a2d2-496f1317e3af",
+      "web_url": "https://www.nytimes.com/2019/12/09/world/europe/lavrov-trump-pompeo-nuclear.html",
+      "word_count": 697
+    }
+  ]
+}

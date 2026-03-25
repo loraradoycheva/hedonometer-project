@@ -1,0 +1,4025 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20220101",
+    "end_date": "20221231",
+    "fq": "(headline.default:(\"claim\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 75,
+  "docs": [
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Tariq Panja"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A $40 million Ukrainian claim against FIFA shows how even soccer is feeling the strain of war.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/35682e69-0904-589c-bee9-0dbc0d31883e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Shakhtar Donetsk players and coaches after a match in October in Glasgow, Scotland.",
+        "credit": "Russell Cheyne/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/12/20/multimedia/20ukraine-briefing-soccer-VERSION-01-1-83a0/20ukraine-briefing-soccer-VERSION-01-1-83a0-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/12/20/multimedia/20ukraine-briefing-soccer-VERSION-01-1-83a0/20ukraine-briefing-soccer-VERSION-01-1-83a0-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Sports",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-12-20T19:21:32Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/35682e69-0904-589c-bee9-0dbc0d31883e",
+      "web_url": "https://www.nytimes.com/live/2022/12/21/world/volodymyr-zelensky-russia-ukraine-news/a-40-million-ukrainian-claim-against-fifa-shows-how-even-soccer-is-feeling-the-strain-of-war",
+      "word_count": 407
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anatoly Kurmanaev"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Kremlin plays down Putin’s claim of territorial gains in Ukraine.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/56da40fa-c3ad-5d95-87b5-20e6e2beda5f",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A photograph released by Russian state media showing President Vladimir V. Putin during a meeting, via video conference, in Moscow on Wednesday.",
+        "credit": "Mikhail Metzel/Sputnik, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/12/07/multimedia/08ukraine-briefing-peskov-image/07ukraine-ledeall-1-1-f21e-articleLarge.jpg",
+          "height": 396,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/12/07/multimedia/08ukraine-briefing-peskov-image/07ukraine-ledeall-1-1-f21e-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-12-09T09:17:25Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/56da40fa-c3ad-5d95-87b5-20e6e2beda5f",
+      "web_url": "https://www.nytimes.com/live/2022/12/09/world/brittney-griner-russia-ukraine-news/the-kremlin-plays-down-putins-claim-of-territorial-gains-in-ukraine",
+      "word_count": 349
+    },
+    {
+      "abstract": "A “complex and extensive” initial investigation into debris from the northern leak site of the natural gas pipelines showed evidence of explosives, Swedish prosecutors said, but",
+      "byline": {
+        "original": "By Melissa Eddy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Residue of explosives at the Nord Stream site backs European claims of sabotage.",
+        "kicker": "",
+        "print_headline": "Authorities Say Pipeline Blast Was an Act Of Sabotage "
+      },
+      "_id": "nyt://article/c50a4ee9-b9d5-5d12-806b-189b344c1d65",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A series of undersea explosions ripped holes in the Nord Stream pipelines in late September.",
+        "credit": "Danish Defence Command, via Agence France-Press — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/02/world/18ukraine-briefing-pipeline-image/03ambriefing-europe-nl-promo-oct-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/02/world/18ukraine-briefing-pipeline-image/03ambriefing-europe-nl-promo-oct-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "B",
+      "pub_date": "2022-11-18T10:58:58Z",
+      "section_name": "World",
+      "snippet": "A “complex and extensive” initial investigation into debris from the northern leak site of the natural gas pipelines showed evidence of explosives, Swedish prosecutors said, but",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/c50a4ee9-b9d5-5d12-806b-189b344c1d65",
+      "web_url": "https://www.nytimes.com/live/2022/11/18/world/russia-ukraine-war-news/swedish-investigators-find-traces-of-explosives-on-debris-from-the-ruptured-nord-stream-pipelines",
+      "word_count": 552
+    },
+    {
+      "abstract": "A report from the military found no voter fraud — but left room for Bolsonaro’s supporters to argue maybe he’d actually won.",
+      "byline": {
+        "original": "By Jack Nicas"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Brazil Counted All Its Votes in Hours. It Still Faces Fraud Claims.",
+        "kicker": "",
+        "print_headline": "Brazil Election Report Finds No Sign of Fraud, Yet Fuels Disbelief"
+      },
+      "_id": "nyt://article/a11a45f8-dbcb-5305-a392-a1c503e901de",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Brazil",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Bolsonaro, Jair (1955- )",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Da Silva, Luiz Inacio Lula",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Moraes, Alexandre de (1968- )",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Voter Fraud (Election Fraud)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Rumors and Misinformation",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Voting Machines",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Computer Security",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Voting and Voters",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Polls and Public Opinion",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Supporters of President Jair Bolsonaro demonstrated last week in São Paulo after his electoral defeat, calling for military intervention.",
+        "credit": "Victor Moriyama for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/10/world/10brazil-election1/merlin_215911746_fdb407ca-1390-474b-b100-a53c18d1d8cc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/10/world/10brazil-election1/10brazil-election1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2022-11-10T16:06:20Z",
+      "section_name": "World",
+      "snippet": "A report from the military found no voter fraud — but left room for Bolsonaro’s supporters to argue maybe he’d actually won.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/a11a45f8-dbcb-5305-a392-a1c503e901de",
+      "web_url": "https://www.nytimes.com/2022/11/10/world/americas/brazil-election-fraud.html",
+      "word_count": 1394
+    },
+    {
+      "abstract": "The International Atomic Energy Agency said its inspections had found no evidence of illegal nuclear activity at three sites that figured in Russia’s claims.",
+      "byline": {
+        "original": "By Matthew Mpoke Bigg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.N.’s nuclear watchdog finds no evidence for Russia’s claim that Ukraine is readying a ‘dirty bomb.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/57b7b38d-87fc-53d6-b89e-a91647b7d40f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Dirty Bombs and Radiological Weapons",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "International Atomic Energy Agency",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Rafael M. Grossi, the director general of the International Atomic Energy Agency, the U.N.’s nuclear watchdog, after visiting the Zaporizhzhia nuclear complex in September.",
+        "credit": "Jim Huylebroek for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/03/multimedia/03ukraine-briefing-IAEA-dirty-bomb-01-1-5c16/03ukraine-briefing-IAEA-dirty-bomb-01-1-5c16-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/03/multimedia/03ukraine-briefing-IAEA-dirty-bomb-01-1-5c16/03ukraine-briefing-IAEA-dirty-bomb-01-1-5c16-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-11-03T18:54:47Z",
+      "section_name": "World",
+      "snippet": "The International Atomic Energy Agency said its inspections had found no evidence of illegal nuclear activity at three sites that figured in Russia’s claims.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/57b7b38d-87fc-53d6-b89e-a91647b7d40f",
+      "web_url": "https://www.nytimes.com/2022/11/03/world/europe/iaea-ukraine-dirty-bomb.html",
+      "word_count": 400
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Matt Stevens"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.N.’s nuclear agency is investigating ‘dirty bomb’ claims at Ukraine’s request.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/27e7dbe1-b51b-5cd8-b744-3e1251151d45",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Preparing to clear a building of possible explosives in a part of Ukraine’s Kherson region that was previously occupied by Russian forces.",
+        "credit": "Finbarr O'Reilly for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/01/multimedia/01ukraine-briefing-dirty-bomb-inspection-1-b09d/01ukraine-briefing-dirty-bomb-inspection-1-b09d-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/01/multimedia/01ukraine-briefing-dirty-bomb-inspection-1-b09d/01ukraine-briefing-dirty-bomb-inspection-1-b09d-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-11-01T09:30:22Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/27e7dbe1-b51b-5cd8-b744-3e1251151d45",
+      "web_url": "https://www.nytimes.com/live/2022/11/01/world/russia-ukraine-war-news/the-uns-nuclear-agency-is-investigating-dirty-bomb-claims-at-ukraines-request",
+      "word_count": 340
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ken Bensinger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Right-wing voices in the United States claim Lula’s victory in Brazil was fraudulent.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/94fbf73b-817d-5749-afa5-54e9920d6190",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Stephen Bannon exiting a Manhattan courthouse last month after surrendering to the Manhattan district attorney’s office.",
+        "credit": "Sarah Blesener for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/10/31/multimedia/31brazil-us-politics-bannon-1-fde1/31brazil-us-politics-bannon-1-fde1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/10/31/multimedia/31brazil-us-politics-bannon-1-fde1/31brazil-us-politics-bannon-1-fde1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-31T16:59:28Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/94fbf73b-817d-5749-afa5-54e9920d6190",
+      "web_url": "https://www.nytimes.com/live/2022/10/31/world/brazil-election-lula-bolsonaro/right-wing-voices-the-united-states-claim-lulas-victory-in-brazil-was-fraudulent",
+      "word_count": 384
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Julian E. Barnes and David E. Sanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Chinese cybergroup helped spread false claims about the Nord Stream blasts, a cybersecurity firm says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3d50b6f8-71a8-5132-b862-3cc7130fd0d6",
+      "keywords": [],
+      "multimedia": {
+        "caption": "This handout image released by Danish military authorities shows leaking gas from the Nord Stream 2 gas pipeline, off Denmark’s Baltic island of Bornholm, in late September.",
+        "credit": "Danish Defence, via Agence France-Presse/ Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/28/business/26ukraine-briefing-chinese-cyber-1/26ukraine-briefing-chinese-cyber-1-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/28/business/26ukraine-briefing-chinese-cyber-1/28pipeline-explainer-4-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-26T18:34:24Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/3d50b6f8-71a8-5132-b862-3cc7130fd0d6",
+      "web_url": "https://www.nytimes.com/live/2022/10/26/world/russia-ukraine-war-news/a-chinese-cybergroup-helped-spread-false-claims-about-the-nord-stream-blasts-a-cybersecurity-firm-says",
+      "word_count": 366
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By David E. Sanger, Eric Schmitt and Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Dept. warns that ‘dirty bomb’ claims could be a pretext for Russian escalation.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1ad9f4a1-3bfc-54b3-bf9a-964e8cbc4466",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ukrainian soldiers collected unexploded ordnance on Monday in a region that was previously occupied by Russian forces.",
+        "credit": "Finbarr O'Reilly for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/24/multimedia/24ukraine-briefing-nukes-dc-sub-1-39ee/24ukraine-briefing-nukes-dc-sub-1-39ee-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/24/multimedia/24ukraine-briefing-nukes-dc-sub-1-39ee/24ukraine-briefing-nukes-dc-sub-1-39ee-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-24T22:10:54Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/1ad9f4a1-3bfc-54b3-bf9a-964e8cbc4466",
+      "web_url": "https://www.nytimes.com/live/2022/10/24/world/-russia-ukraine-war-news/dirty-bomb-russia",
+      "word_count": 499
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Schwirtz, Matthew Mpoke Bigg, Andrew E. Kramer and Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine claims Russians are withdrawing from Enerhodar, but the status of the southern city remains unclear.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/36815b96-9a89-5782-b062-014c97213837",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The Zaporizhzhia nuclear power plant in August.",
+        "credit": "David Guttenfelder for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/10/20/world/20ukraine-briefing-enerhodar-sub/merlin_211410852_5dce6362-13ff-498d-8c2d-315950031bc2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/10/20/world/20ukraine-briefing-enerhodar-sub/merlin_211410852_5dce6362-13ff-498d-8c2d-315950031bc2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-20T09:51:59Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/36815b96-9a89-5782-b062-014c97213837",
+      "web_url": "https://www.nytimes.com/live/2022/10/20/world/russia-ukraine-war-news/the-apparent-russian-pullback-comes-amid-a-weekslong-ukrainian-counteroffensive",
+      "word_count": 582
+    },
+    {
+      "abstract": "The allegations of possible ties to Russian intelligence were reported this month by a German satirical news show.",
+      "byline": {
+        "original": "By Christopher F. Schuetze"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "German Cyber Chief Removed Over Claims of Ties to Russia",
+        "kicker": "",
+        "print_headline": "German Cyber Chief Placed on Leave After Report of Possible Ties to Russia"
+      },
+      "_id": "nyt://article/d4817f50-bcf4-5255-9cf1-3cd399890b3f",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Schonbohm, Arne",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Cyberwarfare and Defense",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Appointments and Executive Changes",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "ZDF Magazin Royale reported that Arne Schönbohm kept contact with a lobbying group he co-founded a decade ago that included at least one Russian cybersecurity firm.",
+        "credit": "Christophe Gateau/PA via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/10/18/world/18GERMANY-CYBER_1/18GERMANY-CYBER_1-articleLarge.jpg",
+          "height": 418,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/10/18/world/18GERMANY-CYBER_1/18GERMANY-CYBER_1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2022-10-18T19:56:28Z",
+      "section_name": "World",
+      "snippet": "The allegations of possible ties to Russian intelligence were reported this month by a German satirical news show.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/d4817f50-bcf4-5255-9cf1-3cd399890b3f",
+      "web_url": "https://www.nytimes.com/2022/10/18/world/europe/germany-cyber-chief-russia.html",
+      "word_count": 715
+    },
+    {
+      "abstract": "Some Canadian universities now require additional proof to back up Indigenous heritage, replacing self-declaration policies.",
+      "byline": {
+        "original": "By Vjosa Isai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Doubts Over Indigenous Identity in Academia Spark ‘Pretendian’ Claims",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/19cd2ccd-85fa-5981-a252-992698831d27",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Indigenous People",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Colleges and Universities",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Indigenous chiefs in traditional regalia during a powwow in July, where Pope Francis apologized for the Catholic Church’s role in abuse in the residential school system.",
+        "credit": "Ian Willms for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/10/15/world/15canadaletter/merlin_210604515_55e84857-c0fe-4f4e-9a61-3c12637de3ce-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/10/15/world/15canadaletter/merlin_210604515_55e84857-c0fe-4f4e-9a61-3c12637de3ce-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-15T10:00:02Z",
+      "section_name": "World",
+      "snippet": "Some Canadian universities now require additional proof to back up Indigenous heritage, replacing self-declaration policies.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/19cd2ccd-85fa-5981-a252-992698831d27",
+      "web_url": "https://www.nytimes.com/2022/10/15/world/canada/canada-indigenous-identity-pretendians.html",
+      "word_count": 1050
+    },
+    {
+      "abstract": "Russia says it is nationalizing and taking over operational control of the six-reactor plant, which its troops captured in March but which Ukrainian engineers have continued to operate.",
+      "byline": {
+        "original": "By Carly Olson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N.’s nuclear agency does not recognize Russia’s claim to the Zaporizhzhia nuclear plant.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c7f0f591-2377-5613-aae1-c8fcb00f213e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Energy",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "The director general of the International Atomic Energy Agency, Rafael Mariano Grossi, spoke to the news media after meeting with President Volodymyr Zelensky of Ukraine in Kyiv on Thursday.",
+        "credit": "Valentyn Ogirenko/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/10/06/multimedia/06ukraine-briefing-grossi-presser-1-7a58/06ukraine-briefing-grossi-presser-1-7a58-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/10/06/multimedia/06ukraine-briefing-grossi-presser-1-7a58/06ukraine-briefing-grossi-presser-1-7a58-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-06T17:06:32Z",
+      "section_name": "World",
+      "snippet": "Russia says it is nationalizing and taking over operational control of the six-reactor plant, which its troops captured in March but which Ukrainian engineers have continued to operate.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c7f0f591-2377-5613-aae1-c8fcb00f213e",
+      "web_url": "https://www.nytimes.com/2022/10/06/world/europe/uns-nuclear-agency-does-not-recognize-russias-claim-to-the-zaporizhzhia-nuclear-plant.html",
+      "word_count": 417
+    },
+    {
+      "abstract": "Russia has found a lone ally in North Korea, which on Tuesday said it was backing Moscow’s annexation of four Ukrainian provinces after widely discredited referendums.",
+      "byline": {
+        "original": "By John Yoon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea supports Russia’s illegal claim to Ukrainian land.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7e03c8d9-7cf0-5318-8e41-35b3f3c07ee1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Security Council (UN)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Vladimir V. Putin of Russia and the North Korean leader, Kim Jong-un, in Vladivostok, Russia, in 2019.",
+        "credit": "Pool photo by Alexander Zemlianichenko",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/22/world/04ukraine-briefing-nkorea-image2/22nkorea-03-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/22/world/04ukraine-briefing-nkorea-image2/22nkorea-03-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-04T11:09:55Z",
+      "section_name": "World",
+      "snippet": "Russia has found a lone ally in North Korea, which on Tuesday said it was backing Moscow’s annexation of four Ukrainian provinces after widely discredited referendums.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7e03c8d9-7cf0-5318-8e41-35b3f3c07ee1",
+      "web_url": "https://www.nytimes.com/live/2022/10/04/world/russia-ukraine-war-news/north-korea-russia-ukraine-annexation",
+      "word_count": 365
+    },
+    {
+      "abstract": "Russia’s president decreed on Friday that four regions of Ukraine including Donetsk, where Lyman is located, would be absorbed into Russia.",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Putin’s claims to Donetsk are news to the residents of newly liberated Lyman.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2e6d3ad9-ac99-50e1-b154-ff01ce892d35",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "A destroyed building in Lyman, Ukraine, on Sunday.",
+        "credit": "Nicole Tung for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/02/world/02ukraine-briefing-lyman-annexation02/merlin_214208241_5ae2307f-54e0-48a1-89aa-610ec8b2f334-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/02/world/02ukraine-briefing-lyman-annexation02/02ukraine-briefing-lyman-annexation02-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-02T19:39:49Z",
+      "section_name": "World",
+      "snippet": "Russia’s president decreed on Friday that four regions of Ukraine including Donetsk, where Lyman is located, would be absorbed into Russia.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/2e6d3ad9-ac99-50e1-b154-ff01ce892d35",
+      "web_url": "https://www.nytimes.com/2022/10/02/world/europe/putin-russia-donetsk-lyman.html",
+      "word_count": 401
+    },
+    {
+      "abstract": "After accusations against him became public, the Vatican said that in 2020 it had punished Bishop Carlos Ximenes Belo, a hero of the independence movement in his native East Timor.",
+      "byline": {
+        "original": "By Jason Horowitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Vatican Disciplined Nobel Laureate Bishop Over Child Abuse Claims",
+        "kicker": "",
+        "print_headline": "Allegations of Child Abuse  Led Vatican to Discipline  A Nobel Laureate Bishop"
+      },
+      "_id": "nyt://article/78dc8fab-d62a-547d-8dc3-3527e1ef11b7",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Belo, Carlos Ximenes",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Priests",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Child Abuse and Neglect",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Nobel Prizes",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "East Timor",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Bishop Carlos Ximenes Belo in Dili, East Timor, in 2006.",
+        "credit": "Glenn Campbell/The Sydney Morning Herald/Fairfax Media, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/29/world/29vatican-abuse/29vatican-abuse-articleLarge.jpg",
+          "height": 418,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/29/world/29vatican-abuse/29vatican-abuse-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2022-09-29T18:19:09Z",
+      "section_name": "World",
+      "snippet": "After accusations against him became public, the Vatican said that in 2020 it had punished Bishop Carlos Ximenes Belo, a hero of the independence movement in his native East Timor.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/78dc8fab-d62a-547d-8dc3-3527e1ef11b7",
+      "web_url": "https://www.nytimes.com/2022/09/29/world/asia/vatican-bishop-belo.html",
+      "word_count": 1027
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Emma Bubola"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "At a Meloni vigil, red peppers and silence precede a claim of victory.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8b605038-6881-59d0-8ff2-83c373c98286",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Italy",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Meloni, Giorgia (1977- )",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Rome (Italy)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "The campaign headquarters of Brothers of Italy on Sunday night. ",
+        "credit": "Andreas Solaro/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/25/multimedia/25italy-briefing-meloni-mood-1-1-d7cd/25italy-briefing-meloni-mood-1-1-d7cd-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/25/multimedia/25italy-briefing-meloni-mood-1-1-d7cd/25italy-briefing-meloni-mood-1-1-d7cd-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-09-25T21:37:05Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/8b605038-6881-59d0-8ff2-83c373c98286",
+      "web_url": "https://www.nytimes.com/live/2022/09/25/world/italy-elections/at-a-meloni-vigil-red-peppers-and-suspense-after-the-polls-close",
+      "word_count": 198
+    },
+    {
+      "abstract": "Pyongyang accused the United States of spreading “reckless” rumors, but added that it had the right to build and export arms.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea Denies U.S. Claims of Arms Sales to Russia",
+        "kicker": "",
+        "print_headline": "North Korea Denies Selling Arms to Moscow, Accusing U.S. of Spreading Rumors"
+      },
+      "_id": "nyt://article/fa0d432c-4e8b-597c-9c6e-eef2980150f0",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Security Council (UN)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Trade",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "President Vladimir V. Putin of Russia and the North Korean leader, Kim Jong-un, in Vladivostok, Russia, in 2019.",
+        "credit": "Pool photo by Alexander Zemlianichenko",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/22/world/22nkorea-03/22nkorea-03-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/22/world/22nkorea-03/22nkorea-03-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2022-09-22T05:19:43Z",
+      "section_name": "World",
+      "snippet": "Pyongyang accused the United States of spreading “reckless” rumors, but added that it had the right to build and export arms.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/fa0d432c-4e8b-597c-9c6e-eef2980150f0",
+      "web_url": "https://www.nytimes.com/2022/09/22/world/asia/north-korea-russia-arms-us.html",
+      "word_count": 499
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Cassandra Vinograd"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine’s military claims it has crossed a river that Russia marked as a defensive line.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d5cf7519-8802-552c-a4e6-b8ca6a2491a6",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The Oskil River in the Kharkiv region of northeastern Ukraine. It flows south toward the eastern regions of Donetsk and Luhansk.",
+        "credit": "Vyacheslav Madiyevskyy/Ukrinform, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/18/multimedia/18ukraine-briefing-oskil-river-1/18ukraine-briefing-oskil-river-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/18/multimedia/18ukraine-briefing-oskil-river-1/18ukraine-briefing-oskil-river-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-09-19T13:09:53Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/d5cf7519-8802-552c-a4e6-b8ca6a2491a6",
+      "web_url": "https://www.nytimes.com/live/2022/09/18/world/ukraine-russia-war/ukraines-military-claims-it-has-crossed-a-river-that-russia-marked-as-a-defensive-line",
+      "word_count": 316
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine also claims progress in the south and redoubles calls for Russians to surrender.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7b3aadef-d678-5764-a454-06ace4c43fb1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ukrainian soldiers operating a drone near the Kherson front in Ukraine this month.",
+        "credit": "Jim Huylebroek for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/10/multimedia/12ukraine-blog-south-image2/10dc-intel-ukz-ta-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/10/multimedia/12ukraine-blog-south-image2/10dc-intel-ukz-ta-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-09-12T12:36:55Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7b3aadef-d678-5764-a454-06ace4c43fb1",
+      "web_url": "https://www.nytimes.com/live/2022/09/12/world/ukraine-russia-war/ukraine-also-claims-progress-in-the-south-and-redoubles-calls-for-russians-to-surrender",
+      "word_count": 355
+    },
+    {
+      "abstract": "Israel is investigating accusations against David Govrin over his conduct in Rabat, the Moroccan capital. The two countries sealed formal ties in 2020 as part of a wider regional realignment.",
+      "byline": {
+        "original": "By Aida Alami and Patrick Kingsley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel Recalls Morocco Envoy After Misconduct Claims, Unsettling New Ties",
+        "kicker": "",
+        "print_headline": "Allegations of Misconduct Test New Ties Between Israel and Morocco"
+      },
+      "_id": "nyt://article/6ef3ce0f-9e71-5173-b61f-f816d0255a22",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Morocco",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Govrin, David",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "David Govrin, right, the head of the Israeli liaison office in Rabat, Morocco, last year with Yair Lapid, now the prime minister of Israel.",
+        "credit": "Israeli Foreign Affairs Ministry",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/06/world/06Morocco-Israel/merlin_193190904_d093b62b-ea55-428d-b934-3f09af9dc824-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/06/world/06Morocco-Israel/06Morocco-Israel-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2022-09-06T18:22:41Z",
+      "section_name": "World",
+      "snippet": "Israel is investigating accusations against David Govrin over his conduct in Rabat, the Moroccan capital. The two countries sealed formal ties in 2020 as part of a wider regional realignment.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/6ef3ce0f-9e71-5173-b61f-f816d0255a22",
+      "web_url": "https://www.nytimes.com/2022/09/06/world/middleeast/israel-morocco-envoy-misconduct.html",
+      "word_count": 696
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Steven Lee Myers"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia has called a forum to air unsupported claims of U.S. bioweapons labs.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3a50f6c1-fbdf-553d-931a-2e14fe51aa7e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-09-04T13:36:32Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/3a50f6c1-fbdf-553d-931a-2e14fe51aa7e",
+      "web_url": "https://www.nytimes.com/live/2022/09/04/world/ukraine-russia-war-news/russia-has-called-a-forum-to-air-unsupported-claims-of-us-bioweapons-labs",
+      "word_count": 212
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine claims to have broken through Russian defenses at multiple points in the Kherson region.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cc10dbf8-3570-5b97-b673-0708ad009dae",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A camouflaged Ukrainian tank in the Kherson region last month.",
+        "credit": "David Guttenfelder for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/30/world/30ukraine-briefing-south-tuesday/merlin_210732474_5495e322-8cab-481d-b3e2-a513df797fa2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/30/world/30ukraine-briefing-south-tuesday/30ukraine-briefing-south-tuesday-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-08-30T11:07:59Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/cc10dbf8-3570-5b97-b673-0708ad009dae",
+      "web_url": "https://www.nytimes.com/live/2022/08/30/world/ukraine-russia-war-news/ukraine-claims-to-have-broken-through-russian-defenses-at-multiple-points",
+      "word_count": 673
+    },
+    {
+      "abstract": "The hacking group, Killnet, said the attack was in retaliation for Estonia’s removal of a Soviet tank from a World War II memorial.",
+      "byline": {
+        "original": "By Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Estonia says it repelled a major cyberattack claimed by Russian hackers.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2ae3e250-619c-5452-aeae-a275c29d6ca3",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Cyberwarfare and Defense",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Estonia",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Estonia’s removal of a Soviet-era tank that had stood at a war memorial on its border with Russia may have sparked the biggest wave of cyberattacks on Estonia in more than a decade.",
+        "credit": "Sergei Grits/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/18/multimedia/18ukraine-briefing-estonia-cyber-topart-b/18ukraine-briefing-estonia-cyber-topart-b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/18/multimedia/18ukraine-briefing-estonia-cyber-topart-b/18ukraine-briefing-estonia-cyber-topart-b-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-08-18T16:33:38Z",
+      "section_name": "World",
+      "snippet": "The hacking group, Killnet, said the attack was in retaliation for Estonia’s removal of a Soviet tank from a World War II memorial.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/2ae3e250-619c-5452-aeae-a275c29d6ca3",
+      "web_url": "https://www.nytimes.com/2022/08/18/world/europe/estonia-cyber-attack-russia.html",
+      "word_count": 552
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Hwaida Saad"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A ship that Ukraine claims is carrying stolen grain has been allowed to depart Lebanon.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5c85c03e-c8da-50d0-aa80-c041744578ec",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The Laodicea, a ship that Ukrainian officials said was carrying stolen grain, docked in Tripoli in Lebanon last week.",
+        "credit": "Walid Saleh/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/04/world/04ukraine-briefing-lebanon-grain/04ukraine-briefing-lebanon-grain-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/04/world/04ukraine-briefing-lebanon-grain/04ukraine-briefing-lebanon-grain-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-08-04T12:24:04Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/5c85c03e-c8da-50d0-aa80-c041744578ec",
+      "web_url": "https://www.nytimes.com/live/2022/08/04/world/brittney-griner-trial-russia-ukraine/a-ship-that-ukraine-claims-is-carrying-stolen-grain-has-been-allowed-to-depart-lebanon",
+      "word_count": 389
+    },
+    {
+      "abstract": "The Laodicea, a Syrian cargo ship, arrived in Tripoli, Lebanon, on Wednesday carrying about 10,000 tons of wheat and barley.",
+      "byline": {
+        "original": "By Hwaida Saad"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Lebanon says it is investigating Ukraine’s claim that a docked ship contains plundered grain.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0f35c7f2-2718-540b-b9bb-30a3cb7416e6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Tripoli (Lebanon)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Freight (Cargo)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Ships and Shipping",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Grain",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The Laodicea docked at port of Tripoli in northern Lebanon on Friday.",
+        "credit": "Walid Saleh/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/07/30/world/30ukraine-briefing-lebanon1/30ukraine-briefing-lebanon1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/07/30/world/30ukraine-briefing-lebanon1/30ukraine-briefing-lebanon1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-07-29T16:03:21Z",
+      "section_name": "World",
+      "snippet": "The Laodicea, a Syrian cargo ship, arrived in Tripoli, Lebanon, on Wednesday carrying about 10,000 tons of wheat and barley.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/0f35c7f2-2718-540b-b9bb-30a3cb7416e6",
+      "web_url": "https://www.nytimes.com/2022/07/29/world/europe/ukraine-grain-lebanon-ship-syria.html",
+      "word_count": 641
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Eduardo Medina"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia orders search engines to put a disclaimer on Wikipedia results it claims are ‘fakes.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/79a3cefd-8ebe-558f-953d-7a611d2b1318",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Vladimir V. Putin of Russia signed into law a measure intended to silence war critics earlier this year.",
+        "credit": "Dmitry Azarov/Sputnik, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/20/world/20ukraine-briefing-wikipedia/merlin_209349915_d7b664ab-a4e1-42e1-afda-aeb4c73734c2-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/20/world/20ukraine-briefing-wikipedia/20ukraine-briefing-wikipedia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-07-20T23:27:39Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/79a3cefd-8ebe-558f-953d-7a611d2b1318",
+      "web_url": "https://www.nytimes.com/2022/07/21/world/europe/russia-orders-search-engines-to-put-a-disclaimer-on-wikipedia-results-it-claims-are-fakes.html",
+      "word_count": 437
+    },
+    {
+      "abstract": "The initial ruling clears the way for Harry to pursue a libel claim against The Mail on Sunday over its reporting about his police protection.",
+      "byline": {
+        "original": "By Christine Hauser"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "High Court Sides With Prince Harry in Libel Claim",
+        "kicker": "",
+        "print_headline": "Investigating Libel Claim, Court Sides With Prince"
+      },
+      "_id": "nyt://article/04b33f4a-0d09-56cf-a72e-f6529a9a52b3",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Harry, Duke of Sussex",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Libel and Slander",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Suits and Litigation (Civil)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Decisions and Verdicts",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Newspapers",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Mail on Sunday, The (Newspaper)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Markle, Meghan",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Royal Families",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Prince Harry in London last month. He has filed a libel claim against a British tabloid over its reporting about his dispute with the British government over his family’s police protection.",
+        "credit": "Daniel Leal/Agence France-Presse, via Pool via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/07/08/multimedia/08xp-harry/08xp-harry-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/07/08/multimedia/08xp-harry/08xp-harry-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2022-07-08T14:40:33Z",
+      "section_name": "World",
+      "snippet": "The initial ruling clears the way for Harry to pursue a libel claim against The Mail on Sunday over its reporting about his police protection.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/04b33f4a-0d09-56cf-a72e-f6529a9a52b3",
+      "web_url": "https://www.nytimes.com/2022/07/08/world/europe/prince-harry-defamation-the-mail.html",
+      "word_count": 545
+    },
+    {
+      "abstract": "An analysis of nearly eight million articles about Ukraine from Russian websites shows that references to Nazism have spiked to unprecedented levels during the war.",
+      "byline": {
+        "original": "By Charlie Smart"
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "How the Russian Media Spread False Claims About Ukrainian Nazis",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/f9d9ef41-7132-5ec1-ae56-1282471975f9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Propaganda",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "World War II (1939-45)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Holocaust and the Nazi Era",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/07/01/us/ukraine-nazis-russia-media-promo-1656702473593/ukraine-nazis-russia-media-promo-1656702473593-articleLarge.png",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/07/01/us/ukraine-nazis-russia-media-promo-1656702473593/ukraine-nazis-russia-media-promo-1656702473593-thumbStandard.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Graphics",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-07-02T09:00:01Z",
+      "section_name": "World",
+      "snippet": "An analysis of nearly eight million articles about Ukraine from Russian websites shows that references to Nazism have spiked to unprecedented levels during the war.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/f9d9ef41-7132-5ec1-ae56-1282471975f9",
+      "web_url": "https://www.nytimes.com/interactive/2022/07/02/world/europe/ukraine-nazis-russia-media.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukrainian forces claim gains in the south, bringing them to within 12 miles of occupied Kherson.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0b839b08-95e8-5520-aa1b-37d331284cc7",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A Ukrainian serviceman in a trench between Mykolaiv and Kherson on Sunday.",
+        "credit": "Genya Savilov/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/06/14/multimedia/14ukraine-briefing-kherson/14ukraine-briefing-kherson-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/06/14/multimedia/14ukraine-briefing-kherson/14ukraine-briefing-kherson-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-06-14T13:35:58Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/0b839b08-95e8-5520-aa1b-37d331284cc7",
+      "web_url": "https://www.nytimes.com/live/2022/06/14/world/russia-ukraine-war-news/ukrainian-forces-claim-gains-in-the-south-bringing-them-to-within-12-miles-of-occupied-kherson",
+      "word_count": 483
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Biden’s claim that Zelensky ‘didn’t want to hear’ warnings about an invasion hits a nerve in Ukraine.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b16378c9-7232-5b5d-8f84-98930b9a000a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Biden held a call with President Volodymyr Zelensky of Ukraine in December to discuss Russia’s military build-up on Ukraine’s borders.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/06/11/world/11ukraine-blog-zelensky01/merlin_199015077_536328a0-82b1-404e-b07f-c6063891aee5-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/06/11/world/11ukraine-blog-zelensky01/11ukraine-blog-zelensky01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-06-11T17:43:07Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/b16378c9-7232-5b5d-8f84-98930b9a000a",
+      "web_url": "https://www.nytimes.com/live/2022/06/12/world/russia-ukraine-war-news/bidens-claim-that-zelensky-didnt-want-to-hear-warnings-about-an-invasion-hits-a-nerve-in-ukraine",
+      "word_count": 520
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea reports an increase in cases despite its claim to have the virus under control.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fefa2c88-d958-5442-bc43-84974314eedf",
+      "keywords": [],
+      "multimedia": {
+        "caption": "An empty street on Friday in Pyongyang, North Korea.",
+        "credit": "Kim Won Jin/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/30/world/30virus-briefing-north-korea/merlin_207606096_a6b59ff2-0316-4208-b88b-e35b389201e0-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/30/world/30virus-briefing-north-korea/30virus-briefing-north-korea-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-30T10:29:36Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/fefa2c88-d958-5442-bc43-84974314eedf",
+      "web_url": "https://www.nytimes.com/live/2022/05/30/world/covid-19-mandates-vaccine-cases/north-korea-reports-increase-in-cases-despite-its-claim-to-have-the-virus-under-control",
+      "word_count": 450
+    },
+    {
+      "abstract": "The government said it had reversed the trajectory of its outbreak, although a true picture of its severity remained elusive.",
+      "byline": {
+        "original": "By Jin Yu Young"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea claims a ‘positive trend’ in battling the virus.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1c04bad0-b746-5877-befe-31d992bbf9f5",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A photograph provided by the North Korean state media showed Kim Jong-un, the country’s leader, at a coronavirus meeting in Pyongyang on Saturday.",
+        "credit": "Korean Central News Agency, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/23/world/23virus-briefing-the-koreas/merlin_207229824_674e4429-d852-4f84-b4a9-dacb39eb363f-articleLarge.jpg",
+          "height": 397,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/23/world/23virus-briefing-the-koreas/23virus-briefing-the-koreas-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-23T10:32:51Z",
+      "section_name": "World",
+      "snippet": "The government said it had reversed the trajectory of its outbreak, although a true picture of its severity remained elusive.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/1c04bad0-b746-5877-befe-31d992bbf9f5",
+      "web_url": "https://www.nytimes.com/2022/05/23/world/asia/north-korea-covid.html",
+      "word_count": 262
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Jason Horowitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pro-Russia hackers claim responsibility for an attack on Italian websites.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/6776bbea-b6c2-5a1e-a349-f515328c02d7",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-20T12:55:31Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/6776bbea-b6c2-5a1e-a349-f515328c02d7",
+      "web_url": "https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war/pro-russia-hackers-claim-responsibility-for-an-attack-on-italian-websites",
+      "word_count": 301
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Cora Engelbrecht"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine claims gains against Moscow’s forces in Kharkiv, near the Russian border.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7ddd4113-f2cb-5f12-934d-06d0cc25ed8e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Debris in the Ukrainian town of Ruska Lozova, north of Kharkiv, last week.",
+        "credit": "Tyler Hicks/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/11/world/11ukraine-blog-kharkiv/merlin_206412129_03be59ba-d9e3-409b-b13f-f9bd37097b37-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/11/world/11ukraine-blog-kharkiv/11ukraine-blog-kharkiv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-11T12:40:10Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7ddd4113-f2cb-5f12-934d-06d0cc25ed8e",
+      "web_url": "https://www.nytimes.com/live/2022/05/11/world/russia-ukraine-war-news/ukraine-claims-gains-against-moscows-forces-in-kharkiv-near-the-russian-border",
+      "word_count": 482
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Cora Engelbrecht and Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia claims advances in the east, amid clashes over a highway described as the ‘road of life.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e67c1431-a780-5d56-8a95-3951acdc9c55",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Volunteers delivering food and supplies to residents in the eastern Ukrainian city of Sievierodonetsk, the apparent target of a concentration of Russian forces.",
+        "credit": "Yasuyoshi Chiba/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/10/world/10ukraine-blog-luhansk/10ukraine-blog-luhansk-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/10/world/10ukraine-blog-luhansk/10ukraine-blog-luhansk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-10T10:15:33Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/e67c1431-a780-5d56-8a95-3951acdc9c55",
+      "web_url": "https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news/russia-claims-advances-in-the-east-amid-clashes-over-a-highway-described-as-the-road-of-life",
+      "word_count": 397
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Erika Solomon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Germany’s chancellor denounces Putin’s claims that he is fighting ‘Nazis.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/77209bfa-c71b-5813-8ec9-27463edca2ea",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Chancellor Olaf Scholz addressing the nation on the war in Ukraine, on Sunday.",
+        "credit": "Pool photo by Britta Pedersen",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/08/world/08ukraine-blog-scholz/merlin_206581068_624dc605-d532-45bc-b04e-b94231620591-articleLarge.jpg",
+          "height": 391,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/08/world/08ukraine-blog-scholz/08ukraine-blog-scholz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-08T20:13:58Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/77209bfa-c71b-5813-8ec9-27463edca2ea",
+      "web_url": "https://www.nytimes.com/live/2022/05/08/world/ukraine-russia-war-news/germanys-chancellor-denounces-putins-claims-that-he-is-fighting-nazis",
+      "word_count": 311
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Victoria Kim"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Kremlin, accused of deporting hundreds of thousands to Russia, claims they went voluntarily.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1bedb2c0-281f-54cd-b5a1-dc94d9b45f7f",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Families in Zaporizhzhia, Ukraine, last week after fleeing the besieged city of Mariupol.",
+        "credit": "Lynsey Addario for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/30/world/30ukraine-blog-russia-evacuations/merlin_205766544_d6a038bb-4e5e-47c8-81f5-af5ca52ebe78-articleLarge.jpg",
+          "height": 408,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/30/world/30ukraine-blog-russia-evacuations/30ukraine-blog-russia-evacuations-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-30T16:32:07Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/1bedb2c0-281f-54cd-b5a1-dc94d9b45f7f",
+      "web_url": "https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news/the-kremlin-accused-of-deporting-hundreds-of-thousands-to-russia-claims-they-went-voluntarily",
+      "word_count": 498
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Alexandra E. Petri"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘Ukraine was intended only as a beginning’: Zelensky responds to a Russian claim of broader war aims.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/493745e9-8e2a-5950-8221-0b997becfc1f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Ukrainian Presidential Press Office, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/22/world/22ukraine-blog-zelensky-nightly-address/merlin_205823604_9ff513ae-6620-4aa7-8b5a-7ec57de8f3f2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/22/world/22ukraine-blog-zelensky-nightly-address/merlin_205823604_9ff513ae-6620-4aa7-8b5a-7ec57de8f3f2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-23T01:00:54Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/493745e9-8e2a-5950-8221-0b997becfc1f",
+      "web_url": "https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news/ukraine-was-intended-only-as-a-beginning-zelensky-responds-to-a-russian-claim-of-broader-war-aims",
+      "word_count": 330
+    },
+    {
+      "abstract": "A major shift in policy came from an obscure general and not the president or top commander.",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Skepticism greets a bold Russian claim about war aims, based on its source.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/88ab6f76-148c-5658-be5a-df0cd3a36f41",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Vladimir V. Putin holding an online meeting of Russia’s Security Council in Moscow, on Thursday.",
+        "credit": "Mikhail Klimentyev/Agence France-Presse, via Sputnik/Afp Via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/22/multimedia/22ukraine-blog-russian-commander2/22ukraine-blog-russian-commander2-articleLarge.jpg",
+          "height": 396,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/22/multimedia/22ukraine-blog-russian-commander2/22ukraine-blog-russian-commander2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-22T17:01:28Z",
+      "section_name": "World",
+      "snippet": "A major shift in policy came from an obscure general and not the president or top commander.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/88ab6f76-148c-5658-be5a-df0cd3a36f41",
+      "web_url": "https://www.nytimes.com/2022/04/22/world/skepticism-greets-a-bold-russian-claim-about-war-aims-based-on-its-source.html",
+      "word_count": 466
+    },
+    {
+      "abstract": "With casualties mounting and progress slow in his war on Ukraine, Vladimir V. Putin is eager to present it to the Russian people as a success.",
+      "byline": {
+        "original": "By Anton Troianovski, Ivan Nechepurenko and Richard Pérez-Peña"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Calling Off Steel Plant Assault, Putin Prematurely Claims Victory in Mariupol",
+        "kicker": "",
+        "print_headline": "Putin Proclaims Fall of Mariupol, Yet Fight Goes On"
+      },
+      "_id": "nyt://article/3f695b26-ad69-5f16-b732-8bac36c7a46c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Mariupol (Ukraine)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Propaganda",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Aid",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Trade",
+          "rank": 13
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 14
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 15
+        }
+      ],
+      "multimedia": {
+        "caption": "A Ukrainian family arriving in Zaporizhzhia on Thursday after fleeing the Russian-occupied village of Tokmak, near Mariupol.",
+        "credit": "Lynsey Addario for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/21/world/21ukraine-blog-ledeall-3/merlin_205761789_753a9f9f-86cc-4a35-b21f-13f76960393c-articleLarge.jpg",
+          "height": 431,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/21/world/21ukraine-blog-ledeall-3/21ukraine-blog-ledeall-3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2022-04-21T22:14:46Z",
+      "section_name": "World",
+      "snippet": "With casualties mounting and progress slow in his war on Ukraine, Vladimir V. Putin is eager to present it to the Russian people as a success.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3f695b26-ad69-5f16-b732-8bac36c7a46c",
+      "web_url": "https://www.nytimes.com/2022/04/21/world/europe/putin-mariupol-steel-plant.html",
+      "word_count": 1598
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anton Troianovski"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Putin calls off an assault on the last Ukrainian holdout in Mariupol, and tries to claim a victory.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5eef5892-d550-5bbc-94de-5c3657835333",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Smoke from the besieged Azovstal steel mill complex in Mariupol on Wednesday. Soldiers and civilians were holding out in a warren of underground bunkers beneath the complex.",
+        "credit": "Alexander Ermochenko/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/20/world/21ukraine-blog-reporter-updates-anton/merlin_205719801_033643cc-81ed-4a61-bfa5-6575899e0f3f-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/20/world/21ukraine-blog-reporter-updates-anton/20ukraine-blog-ledeall-7-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-21T10:22:04Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/5eef5892-d550-5bbc-94de-5c3657835333",
+      "web_url": "https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news/putin-calls-off-an-assault-on-the-last-ukrainian-holdout-in-mariupol-and-tries-to-claim-a-victory",
+      "word_count": 378
+    },
+    {
+      "abstract": "While Vladimir Putin boasts that Russia is holding up under Western sanctions, his central bank chief and the mayor of Moscow warned that the worst was yet to come.",
+      "byline": {
+        "original": "By Anton Troianovski and Patricia Cohen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Bleak assessments of the Russian economy clash with Putin’s rosy claims.",
+        "kicker": "",
+        "print_headline": "Burden of Sanctions on Moscow Begins to Show"
+      },
+      "_id": "nyt://article/cebe100b-cae4-53e0-a740-063967a82e4a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Economic Conditions and Trends",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Moscow (Russia)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Contrary to President Vladimir V. Putin’s optimism, two senior Russian officials cautioned on Monday that the real economic pain was yet to come.",
+        "credit": "Alexander Zemlianichenko/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/18/world/18ukraine-blog-russia-economy/merlin_205486908_51a9dab4-cd7c-4145-a1de-f3e2cf6c3a8e-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/18/world/18ukraine-blog-russia-economy/merlin_205486908_51a9dab4-cd7c-4145-a1de-f3e2cf6c3a8e-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2022-04-18T15:00:00Z",
+      "section_name": "World",
+      "snippet": "While Vladimir Putin boasts that Russia is holding up under Western sanctions, his central bank chief and the mayor of Moscow warned that the worst was yet to come.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/cebe100b-cae4-53e0-a740-063967a82e4a",
+      "web_url": "https://www.nytimes.com/2022/04/18/world/europe/russian-economy-bleak-assessments.html",
+      "word_count": 1212
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia claims widespread strikes as it prepares for offensive in Ukraine’s east.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/94486810-08ba-5575-88de-396f2f834ae0",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Tanks with Russian fighters on Sunday near Mariupol, Ukraine. Russia on Monday stepped up missile strikes around Ukraine as its forces prepared for a renewed offensive in the east.",
+        "credit": "Alexander Ermochenko/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/18/world/18ukraine-blog-russia-strikes/merlin_205611021_d58a108f-f087-4296-ace4-87e9ba5a7e21-articleLarge.jpg",
+          "height": 388,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/18/world/18ukraine-blog-russia-strikes/18ukraine-blog-russia-strikes-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-18T12:18:50Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/94486810-08ba-5575-88de-396f2f834ae0",
+      "web_url": "https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news/russia-conducts-missile-strikes-ahead-of-offensive-in-ukraines-east",
+      "word_count": 576
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ivan Nechepurenko, Marc Santora and James C. McKinley Jr."
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia claims it has surrounded a steel plant where Mariupol’s last defenders are holding out.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c14d33fd-b44b-5c1f-82e6-2b6ffd75b7cb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mariupol (Ukraine)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "The Azovstal steel plant in the distance beyond damaged buildings in Mariupol, Ukraine, last month.",
+        "credit": "Alexander Ermochenko/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/12/world/16ukraine-blog-mariupol-on-the-brink-sub/merlin_204668286_77a9eb2e-6864-42c6-9fef-8ad29d07b044-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/12/world/16ukraine-blog-mariupol-on-the-brink-sub/merlin_204668286_77a9eb2e-6864-42c6-9fef-8ad29d07b044-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-16T20:35:19Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/c14d33fd-b44b-5c1f-82e6-2b6ffd75b7cb",
+      "web_url": "https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news/russia-claims-it-has-surrounded-a-steel-plant-where-mariupols-last-defenders-are-holding-out",
+      "word_count": 352
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ivan Nechepurenko and Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia claims to hit Ukrainian military-related sites in Kyiv and Mykolaiv.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1b97185b-9eb7-557f-a4ff-a23aa1d209b1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-16T08:36:41Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/1b97185b-9eb7-557f-a4ff-a23aa1d209b1",
+      "web_url": "https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news/russia-claims-to-hit-ukrainian-military-related-sites-in-kyiv-and-mykolaiv",
+      "word_count": 98
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anton Troianovski"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russian warship sinks after Ukraine claims to have hit it with missiles.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8e7cc268-dec2-556f-b272-e5277b4a3e9f",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The Russian guided-missile cruiser Moskva moored in Sevastopol, Crimea, in 2013.",
+        "credit": "Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/14/multimedia/14ukraine-blog-moskva-photo/14ukraine-blog-moskva-photo-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/14/multimedia/14ukraine-blog-moskva-photo/14ukraine-blog-moskva-photo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-14T21:36:15Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/8e7cc268-dec2-556f-b272-e5277b4a3e9f",
+      "web_url": "https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news/russian-warship-sinks-after-ukraine-claims-to-have-hit-it-with-missiles",
+      "word_count": 475
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Carlotta Gall and Daniel Berehulak"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Evidence belies Putin’s claim that Bucha atrocities are ‘fake.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4819f860-544c-5f02-926a-1c017fb9d2e4",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Multiple bodies of civilians, who authorities say were killed by Russian forces, were found in a communal grave outside St. Andrew’s Church in Bucha, Ukraine.",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/12/multimedia/12ukraine-blog-bucha-terror-1/12ukraine-blog-bucha-terror-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/12/multimedia/12ukraine-blog-bucha-terror-1/12ukraine-blog-bucha-terror-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-12T21:02:54Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/4819f860-544c-5f02-926a-1c017fb9d2e4",
+      "web_url": "https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news/evidence-belies-putins-claim-that-bucha-atrocities-are-fake",
+      "word_count": 401
+    },
+    {
+      "abstract": "Ukrainian commanders said “a poisonous substance” caused respiratory difficulties and neurological symptoms in a handful of soldiers and civilians.",
+      "byline": {
+        "original": "By Marc Santora, Megan Specia and Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Western powers look into an unverified claim of possible use of a chemical agent in Mariupol.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fb1f6e5c-abea-5889-b20d-39ff163efdc0",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mariupol (Ukraine)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "An iron and steel plant in the distance beyond damaged buildings in Mariupol, Ukraine, last month.",
+        "credit": "Alexander Ermochenko/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/12/world/12ukraine-blog-chemical-mariupol3/merlin_204668286_77a9eb2e-6864-42c6-9fef-8ad29d07b044-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/12/world/12ukraine-blog-chemical-mariupol3/merlin_204668286_77a9eb2e-6864-42c6-9fef-8ad29d07b044-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-12T13:47:26Z",
+      "section_name": "World",
+      "snippet": "Ukrainian commanders said “a poisonous substance” caused respiratory difficulties and neurological symptoms in a handful of soldiers and civilians.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fb1f6e5c-abea-5889-b20d-39ff163efdc0",
+      "web_url": "https://www.nytimes.com/2022/04/12/world/europe/chemical-weapons-russia-mariupol.html",
+      "word_count": 656
+    },
+    {
+      "abstract": "The images rebut Russia’s claim that the killing of civilians in Bucha, near Kyiv, took place after its soldiers had left town.",
+      "byline": {
+        "original": "By Malachy Browne, David Botti and Haley Willis"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Satellite images show bodies lay in Bucha for weeks, despite Russian claims.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c1b7c039-cf01-59e5-99f4-55448d471498",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Bucha (Ukraine)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Kyiv (Ukraine)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "vis-video",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Maxar Technologies",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/04/world/europe/bucha-cover1/bucha-cover1-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/04/world/europe/bucha-cover1/bucha-cover1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Video",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-04T19:16:52Z",
+      "section_name": "World",
+      "snippet": "The images rebut Russia’s claim that the killing of civilians in Bucha, near Kyiv, took place after its soldiers had left town.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c1b7c039-cf01-59e5-99f4-55448d471498",
+      "web_url": "https://www.nytimes.com/2022/04/04/world/europe/bucha-ukraine-bodies.html",
+      "word_count": 486
+    },
+    {
+      "abstract": "The prime minister of Pakistan, whose coalition has lost support in the National Assembly, claimed the coming vote was a conspiracy between opposition lawmakers and the United States.",
+      "byline": {
+        "original": "By Christina Goldbaum and Salman Masood"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Claiming No-Confidence Vote Is Compromised, Imran Khan Says He Won’t Accept Result",
+        "kicker": "",
+        "print_headline": "Claiming Conspiracy, Pakistan Leader Vows to Dismiss No-Confidence Vote"
+      },
+      "_id": "nyt://article/0231fa8c-b315-5187-b05e-49b2026887f1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Khan, Imran",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Imran Khan at a military parade in Islamabad last month. Abandoned by coalition partners, he faces a no-confidence vote on Sunday.",
+        "credit": "Anjum Naveed/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/02/world/02Pakistan-Khan1/merlin_204779697_e3e7f60e-7fcc-41bb-b06f-8d2116b4f581-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/02/world/02Pakistan-Khan1/02Pakistan-Khan1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2022-04-02T18:04:40Z",
+      "section_name": "World",
+      "snippet": "The prime minister of Pakistan, whose coalition has lost support in the National Assembly, claimed the coming vote was a conspiracy between opposition lawmakers and the United States.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/0231fa8c-b315-5187-b05e-49b2026887f1",
+      "web_url": "https://www.nytimes.com/2022/04/02/world/asia/imran-khan-pakistan-no-confidence.html",
+      "word_count": 1006
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Map: Evidence backs up some claims of Ukrainian advances.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9a42cff6-82c6-5316-a51c-7d5e7d6444d5",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "Josh Holder",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/25/us/ukraine-maps-promo-1645801007862/ukraine-maps-promo-1645801007862-articleLarge-v10.png",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/25/us/ukraine-maps-promo-1645801007862/ukraine-maps-promo-1645801007862-thumbStandard-v10.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-01T22:14:07Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/9a42cff6-82c6-5316-a51c-7d5e7d6444d5",
+      "web_url": "https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war/map-evidence-backs-up-some-claims-of-ukrainian-advances",
+      "word_count": 164
+    },
+    {
+      "abstract": "Ukrainian soldiers have essentially retaken, for now, the town of Irpin, the scene of fierce fighting in recent weeks. Its success shows the steep challenges Russia faces in trying to capture Ukraine’s capital.",
+      "byline": {
+        "original": "By Andrew E. Kramer and Daniel Berehulak"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Kyiv Suburb, Ukrainian Military Claims a Big Prize",
+        "kicker": "",
+        "print_headline": "At the Edge of Kyiv, Signs of a Russian Retreat"
+      },
+      "_id": "nyt://article/372fb5f2-7c7f-5396-ac7f-14ff04fe299f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Irpin (Ukraine)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Kyiv (Ukraine)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Ukrainian fighters of the Odin Unit, including some foreign fighters from the United States and Britain, waiting to advance during a clearing-out operation of remaining Russian forces on Tuesday in Irpin, Ukraine.",
+        "credit": "Daniel Berehulak for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/29/world/29ukraine-kyiv-social/29ukraine-kyiv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/29/world/29ukraine-kyiv-social/29ukraine-kyiv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2022-03-29T22:08:18Z",
+      "section_name": "World",
+      "snippet": "Ukrainian soldiers have essentially retaken, for now, the town of Irpin, the scene of fierce fighting in recent weeks. Its success shows the steep challenges Russia faces in trying to capture Ukraine’s capital.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/372fb5f2-7c7f-5396-ac7f-14ff04fe299f",
+      "web_url": "https://www.nytimes.com/2022/03/29/world/ukraine-russia-kyiv-irpin.html",
+      "word_count": 1368
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Helene Cooper"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pentagon casts doubt on Russia’s claim to be pulling back troops near Kyiv.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8f01dc02-8ad2-5644-a9ac-954310777f72",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Heavy fighting around Kyiv has been constant since the first days of the war.",
+        "credit": "Ivor Prickett for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/29/multimedia/29ukraine-blog-pentagon-briefing-topart/29ukraine-blog-pentagon-briefing-topart-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/29/multimedia/29ukraine-blog-pentagon-briefing-topart/29ukraine-blog-pentagon-briefing-topart-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-29T20:36:52Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/8f01dc02-8ad2-5644-a9ac-954310777f72",
+      "web_url": "https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war/pentagon-casts-doubt-on-russias-claim-to-be-pulling-back-troops-near-kyiv",
+      "word_count": 256
+    },
+    {
+      "abstract": "With the fighting raging and sputtering attempts at diplomacy continuing, diplomacy between the two sides was continuing, with talks planned in Istanbul on Tuesday.",
+      "byline": {
+        "original": "By Andrew E. Kramer and Steven Erlanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine Claims Some Battle Successes as Russia Focuses on Another Front",
+        "kicker": "",
+        "print_headline": "Ukraine Says It’s Retaken Land Near Kyiv"
+      },
+      "_id": "nyt://article/b22df2df-7aee-5bf0-add8-74ed3d807e28",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Kyiv (Ukraine)",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "North Atlantic Treaty Organization",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Macron, Emmanuel (1977- )",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "Ukrainian soldiers rest in Kyiv, Ukraine, after their day fighting out on the front lines north of the capital on Monday.",
+        "credit": "Daniel Berehulak for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/28/world/28ukraine-blog-ledeall01/merlin_204655314_2ac5f0e5-1d7f-4517-992d-cfe7901d9ff9-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/28/world/28ukraine-blog-ledeall01/28ukraine-blog-ledeall01-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2022-03-28T21:57:38Z",
+      "section_name": "World",
+      "snippet": "With the fighting raging and sputtering attempts at diplomacy continuing, diplomacy between the two sides was continuing, with talks planned in Istanbul on Tuesday.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b22df2df-7aee-5bf0-add8-74ed3d807e28",
+      "web_url": "https://www.nytimes.com/2022/03/28/world/europe/irpin-donbas-poison.html",
+      "word_count": 1467
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Safak Timur"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine and Russia make some progress in talks, but still disagree on territorial claims, Erdogan says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8703d586-89e8-56ac-ac73-4b49f6d7468d",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A Ukrainian soldier patrolled the front line in Luhansk, a separatist area in eastern Ukraine, before the Russian invasion in February.",
+        "credit": "Tyler Hicks/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/23/world/25ukraine-blog-turkey-president-topart/merlin_202688295_9c7107b9-ee76-4680-8291-bcfaa71a472b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/23/world/25ukraine-blog-turkey-president-topart/25ukraine-blog-turkey-president-topart-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-25T15:26:51Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/8703d586-89e8-56ac-ac73-4b49f6d7468d",
+      "web_url": "https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war/ukraine-and-russia-make-some-progress-in-talks-but-still-disagree-on-territorial-claims-erdogan-says",
+      "word_count": 154
+    },
+    {
+      "abstract": "The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy.",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine Tries to Seize Momentum With Claims of Counteroffensive",
+        "kicker": "",
+        "print_headline": "In Retaliating, Ukraine Sends Signal to the World"
+      },
+      "_id": "nyt://article/080266d4-4e4a-54f4-99fe-0a1f137fa399",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Irpin (Ukraine)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Kyiv (Ukraine)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Lt. Tetiana Chornovol, commander of an anti-tank missile unit, on the outskirts of Kyiv earlier this month.",
+        "credit": "Lynsey Addario for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/24/world/24ukraine-counteroffensive1/merlin_203890455_77259126-197c-48db-a2cb-0ccdfc5f8d86-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/24/world/24ukraine-counteroffensive1/24ukraine-counteroffensive1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2022-03-24T21:20:12Z",
+      "section_name": "World",
+      "snippet": "The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/080266d4-4e4a-54f4-99fe-0a1f137fa399",
+      "web_url": "https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html",
+      "word_count": 1407
+    },
+    {
+      "abstract": "The destruction of the ship would be a success for the Ukrainians as they seek to keep Russia from reinforcing and resupplying its forces as they struggle to gain momentum.",
+      "byline": {
+        "original": "By Marc Santora, Ivan Nechepurenko and Haley Willis"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukrainian forces claim to destroy a Russian landing ship.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f40525f5-c0de-5d97-9f7a-62edbd3aeeb6",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Smoke was visible near a seaport in Berdyansk, Ukraine, on Thursday after the Ukrainian Navy reported that it had sunk the Russian ship Orsk in the Sea of Azov.",
+        "credit": "Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/24/world/24ukraine-blog-ship/merlin_204390348_8d34b37e-cea5-4781-ad4b-813f1bba1797-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/24/world/24ukraine-blog-ship/merlin_204390348_8d34b37e-cea5-4781-ad4b-813f1bba1797-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-24T11:52:01Z",
+      "section_name": "World",
+      "snippet": "The destruction of the ship would be a success for the Ukrainians as they seek to keep Russia from reinforcing and resupplying its forces as they struggle to gain momentum.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/f40525f5-c0de-5d97-9f7a-62edbd3aeeb6",
+      "web_url": "https://www.nytimes.com/2022/03/24/world/europe/russian-landing-ship-berdyansk-ukraine.html",
+      "word_count": 400
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Andrew E. Kramer and Lynsey Addario"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine claims to shoot down 10 Russian rockets and planes.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bf89777b-bbd8-5c24-bbc6-73185db7e3de",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "Lynsey Addario for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/16/world/16ukraine-blog-kyiv8/merlin_203976798_103f33d7-7b82-4311-a27e-e49f594cfac7-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/16/world/16ukraine-blog-kyiv8/merlin_203976798_103f33d7-7b82-4311-a27e-e49f594cfac7-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-17T09:13:24Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/bf89777b-bbd8-5c24-bbc6-73185db7e3de",
+      "web_url": "https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war/ukraine-claims-to-shoot-down-10-russian-rockets-and-planes-over-kyiv",
+      "word_count": 202
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ivan Nechepurenko and Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Kremlin claims it’s not seizing Ukrainian cities in order to spare civilians.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/59ce9099-5b59-5dd7-8cd9-10bb0bab2f3a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A worker removed debris from a building in Kharkiv, Ukraine, on Sunday. The city has been devastated by repeated shelling.",
+        "credit": "Stanislav Kozliuk/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-kremlin-statement-sub/merlin_203831169_243392ba-3426-4b5d-adb6-11437bb9dfe6-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-kremlin-statement-sub/14ukraine-blog-kremlin-statement-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-14T14:16:35Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/59ce9099-5b59-5dd7-8cd9-10bb0bab2f3a",
+      "web_url": "https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war/the-kremlin-claims-its-not-seizing-ukrainian-cities-in-order-to-spare-civilians",
+      "word_count": 381
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Austin Ramzy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Chechen strongman claims he has joined Russian troops outside Kyiv.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/46c45c4d-a0fa-5966-a838-e790d10c8835",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ramzan A. Kadyrov, in the Chechen capital of Grozny last month.",
+        "credit": "Chingis Kondarov/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/13/world/13ukraine-blog-kadyrov/merlin_202846401_04df2a4d-8fe8-4eae-ac60-0716b37256bc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/13/world/13ukraine-blog-kadyrov/13ukraine-blog-kadyrov-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-14T05:43:28Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/46c45c4d-a0fa-5966-a838-e790d10c8835",
+      "web_url": "https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war/chechen-strongman-claims-he-has-joined-russian-troops-outside-kyiv",
+      "word_count": 241
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Putin claimed Russia didn’t send conscripts to Ukraine, but the Defense Ministry said otherwise.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5067bed9-f55d-56ff-981e-739ca6a1dfcd",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Russian vehicles sat abandoned in the snow of a forest near the eastern Ukrainian city of Kharkiv.",
+        "credit": "Sergey Bobok/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/09/multimedia/09ukraine-blog-russia-conscripts-topart/09ukraine-blog-russia-conscripts-topart-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/09/multimedia/09ukraine-blog-russia-conscripts-topart/09ukraine-blog-russia-conscripts-topart-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-09T17:53:33Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/5067bed9-f55d-56ff-981e-739ca6a1dfcd",
+      "web_url": "https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war/putin-claimed-russia-didnt-send-conscripts-to-ukraine-but-the-defense-ministry-said-otherwise",
+      "word_count": 239
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Claims of downed Russian planes indicate that Ukraine’s air defenses remain intact.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/22286034-bdd1-5e86-b374-4740a4c54927",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A Ukrainian soldier manning an anti-aircraft gun at a front-line position northeast of Kyiv on Thursday.",
+        "credit": "Aris Messinis/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/08/multimedia/08ukraine-blog-warplanes-01/08ukraine-blog-warplanes-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/08/multimedia/08ukraine-blog-warplanes-01/08ukraine-blog-warplanes-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-08T09:47:10Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/22286034-bdd1-5e86-b374-4740a4c54927",
+      "web_url": "https://www.nytimes.com/live/2022/03/08/world/ukraine-russia-war/claims-of-downed-russian-planes-indicate-that-ukraines-air-defenses-remain-intact",
+      "word_count": 446
+    },
+    {
+      "abstract": "Protest against the war in Ukraine has a new cultural front — food and drink names — as people across the world show solidarity with Ukraine by renaming or boycotting Russian-made products.",
+      "byline": {
+        "original": "By Dan Bilefsky"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Quebec restaurant that claimed to invent poutine rebrands to rebuke Putin (Poutine in French).",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fde6b307-f07f-5e78-9521-c38b53ae9734",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "Poutine at Le Roy Jucep, in Quebec.",
+        "credit": "John Zada/Alamy ",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/07/us/07ukraine-blog-Foodnamechanges-poutine2/07ukraine-blog-Foodnamechanges-poutine2-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/07/us/07ukraine-blog-Foodnamechanges-poutine2/07ukraine-blog-Foodnamechanges-poutine2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-07T16:57:05Z",
+      "section_name": "World",
+      "snippet": "Protest against the war in Ukraine has a new cultural front — food and drink names — as people across the world show solidarity with Ukraine by renaming or boycotting Russian-made products.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fde6b307-f07f-5e78-9521-c38b53ae9734",
+      "web_url": "https://www.nytimes.com/2022/03/07/world/europe/poutine-putin-le-roy-jucep.html",
+      "word_count": 611
+    },
+    {
+      "abstract": "More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years.",
+      "byline": {
+        "original": "By Ismail Khan and Salman Masood"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Bombing of Pakistani Mosque, Killing Dozens",
+        "kicker": "",
+        "print_headline": "ISIS Bombing Kills Dozens At Pakistani Shiite Mosque"
+      },
+      "_id": "nyt://article/65e217af-e620-58aa-8463-d9bcde020d8d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State Khorasan",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Peshawar (Pakistan)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Security officials at the site of an attack on a Shiite mosque on Friday in Peshawar, Pakistan.",
+        "credit": "Bilawal Arbab/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/04/world/04pakistan-mosque-03/04pakistan-mosque-03-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/04/world/04pakistan-mosque-03/04pakistan-mosque-03-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "14",
+      "print_section": "A",
+      "pub_date": "2022-03-04T12:52:13Z",
+      "section_name": "World",
+      "snippet": "More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/65e217af-e620-58aa-8463-d9bcde020d8d",
+      "web_url": "https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html",
+      "word_count": 671
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anton Troianovski"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia claims to control Kherson, a strategic city, but Ukraine says the battle for it isn’t over.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/19608637-7cbc-5c80-8af6-c4f07523d61e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-02T09:10:26Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/19608637-7cbc-5c80-8af6-c4f07523d61e",
+      "web_url": "https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war/russia-claims-to-control-kherson-a-strategic-city-but-ukraine-says-the-battle-for-it-isnt-over",
+      "word_count": 209
+    },
+    {
+      "abstract": "Russian state television aired brief remarks by Mr. Putin as he spoke by video to his Security Council.",
+      "byline": {
+        "original": "By Anton Troianovski"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Putin claims Russia has been fighting ‘nationalist groups,’ not the Ukrainian army.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/96ec7985-172d-538c-83f4-c3710212d0ac",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Russian President Vladimir V. Putin entering a meeting with members of Russia’s Security Council via a video link in Moscow, on Friday.",
+        "credit": "Alexey Nikolsky/Sputnik, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/25/world/25ukraine-briefing-putin01/merlin_202835841_3a1aac54-9f36-4416-9050-4b63755fea41-articleLarge.jpg",
+          "height": 420,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/25/world/25ukraine-briefing-putin01/25ukraine-briefing-putin01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-25T15:51:56Z",
+      "section_name": "World",
+      "snippet": "Russian state television aired brief remarks by Mr. Putin as he spoke by video to his Security Council.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/96ec7985-172d-538c-83f4-c3710212d0ac",
+      "web_url": "https://www.nytimes.com/2022/02/25/world/europe/putin-russia-ukraine-army.html",
+      "word_count": 251
+    },
+    {
+      "abstract": "The invocations serve to justify not just Moscow’s actions in Ukraine, but also its wider quest for a new imperial identity rooted in Russian ethnicity.",
+      "byline": {
+        "original": "By Max Fisher"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Putin’s Baseless Claims of Genocide Hint at More Than War",
+        "kicker": "The Interpreter",
+        "print_headline": "Putin’s Baseless Claims of Genocide in Ukraine Hint at More Than War"
+      },
+      "_id": "nyt://article/c646ba2a-10da-55ca-b955-aae02b8f23ca",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "People's Militia (Donetsk People's Republic)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Crimea (Ukraine)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "President Vladimir V. Putin of Russia at a virtual Security Council meeting on Friday. Analysts and the West say his use of certain language may indicate a prelude to invasion.",
+        "credit": "Mikhail Klimentyev/Sputnik, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/19/world/19int-russia-01/19int-russia-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/19/world/19int-russia-01/19int-russia-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2022-02-19T13:07:58Z",
+      "section_name": "World",
+      "snippet": "The invocations serve to justify not just Moscow’s actions in Ukraine, but also its wider quest for a new imperial identity rooted in Russian ethnicity.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c646ba2a-10da-55ca-b955-aae02b8f23ca",
+      "web_url": "https://www.nytimes.com/2022/02/19/world/europe/putin-ukraine-genocide.html",
+      "word_count": 1315
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Haley Willis, Ainara Tiefenthäler, Brenna Smith and Masha Froliak"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "What videos show about disputed claims in eastern Ukraine.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/50be02c7-37e6-5c37-8697-cdf98cb64ca5",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "Baza via Telegram",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/18/video/18vi-vidonbas-cover/18vi-vidonbas-cover-articleLarge.jpg",
+          "height": 486,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/18/video/18vi-vidonbas-cover/18vi-vidonbas-cover-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-18T23:52:15Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/50be02c7-37e6-5c37-8697-cdf98cb64ca5",
+      "web_url": "https://www.nytimes.com/2022/02/19/world/europe/what-videos-reveal-about-tensions-in-eastern-ukraine.html",
+      "word_count": 146
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Marc Santora, Ivan Nechepurenko, Eric Schmitt, Michael D. Shear and Shashank Bengali"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A spike in shelling heightens fears that Russia may claim a pretext to invade.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ec781e75-072e-5776-878c-a42e8ec5c47e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A Ukrainian military tank exercise in Donetsk Oblast was abruptly canceled Thursday as soldiers  prepared to move to an undisclosed location.",
+        "credit": "Tyler Hicks/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/17/17ukraine-briefing-morning-LEDE-sub02/merlin_202391595_a911d835-128c-4904-ae46-fc80504c3ba7-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/17/17ukraine-briefing-morning-LEDE-sub02/17ukraine-briefing-morning-LEDE-sub02-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-17T10:10:03Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/ec781e75-072e-5776-878c-a42e8ec5c47e",
+      "web_url": "https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news/western-reports-of-russias-continued-military-buildup-around-ukraine-heighten-tensions",
+      "word_count": 682
+    },
+    {
+      "abstract": "The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers.",
+      "byline": {
+        "original": "By Emma Bubola and Raphael Minder"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Who built Putin’s long table? Competing claims arise from Spain and Italy.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5c6be803-6fff-5291-86f4-25abeee2d857",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Furniture",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Chancellor Olaf Scholz of Germany on Tuesday.",
+        "credit": "Mikhail Klimentyev/Sputnik, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/16/world/16ukraine-briefing-table03sub-promo/16ukraine-briefing-table03sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/16/world/16ukraine-briefing-table03sub-promo/16ukraine-briefing-table03sub-promo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-16T17:43:07Z",
+      "section_name": "World",
+      "snippet": "The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/5c6be803-6fff-5291-86f4-25abeee2d857",
+      "web_url": "https://www.nytimes.com/2022/02/16/world/putin-table.html",
+      "word_count": 459
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael D. Shear, David E. Sanger and Eric Schmitt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. and British officials say Russia’s claim it has pulled back troops is false.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/357fc413-52ee-5b0b-b389-c3e41ba5a031",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A Ukrainian military front line position near Katerynivka, in Luhansk Oblast of eastern Ukraine.",
+        "credit": "Tyler Hicks/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/16/world/16ukraine-briefing-lede-2/merlin_202301472_d85aa1b2-21a4-4d2e-af3e-68f39ee75ea9-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/16/world/16ukraine-briefing-lede-2/merlin_202301472_d85aa1b2-21a4-4d2e-af3e-68f39ee75ea9-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-16T09:55:59Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/357fc413-52ee-5b0b-b389-c3e41ba5a031",
+      "web_url": "https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news/russia-announces-more-troop-withdrawals-offering-tenuous-hope-for-ukraine",
+      "word_count": 909
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Sarah Maslin Nir"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Ottawa, protesters push against snow and claims that they’re extremists.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2617329d-f1da-5518-8946-6f2b8b3378a4",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Inclement weather on Saturday did not stop protesters from blocking streets in Ottawa, Canada’s capital.",
+        "credit": "Brett Gundlock for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/12/multimedia/12canada-protests-briefing-ottawa-scene-01/12canada-protests-briefing-ottawa-scene-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/12/multimedia/12canada-protests-briefing-ottawa-scene-01/12canada-protests-briefing-ottawa-scene-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-12T20:22:31Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/2617329d-f1da-5518-8946-6f2b8b3378a4",
+      "web_url": "https://www.nytimes.com/live/2022/02/12/world/canada-protest-trudeau/in-ottawa-protesters-push-against-snow-and-claims-that-theyre-extremists",
+      "word_count": 664
+    },
+    {
+      "abstract": "The cases emerged in a neighborhood that borders the city’s Olympic Park.",
+      "byline": {
+        "original": "By John Liu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Beijing finds Omicron and claims mail from abroad might be to blame. Experts say that’s very unlikely.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c50ef017-dfc3-55b4-a720-696468b55b27",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Postal Service and Post Offices",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Beijing (China)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Olympic Games (2022)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Parcels on the street waiting to be delivered in Beijing on Tuesday. Experts say the risk of catching coronavirus from a cardboard or paper surface is very low.",
+        "credit": "Ng Han Guan/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/18/multimedia/18virus-briefing-china-cases-mail-01/18virus-briefing-china-cases-mail-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/18/multimedia/18virus-briefing-china-cases-mail-01/18virus-briefing-china-cases-mail-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-01-18T16:09:12Z",
+      "section_name": "World",
+      "snippet": "The cases emerged in a neighborhood that borders the city’s Olympic Park.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/c50ef017-dfc3-55b4-a720-696468b55b27",
+      "web_url": "https://www.nytimes.com/live/2022/01/18/world/omicron-covid-vaccine-tests/china-mail-olympics",
+      "word_count": 368
+    },
+    {
+      "abstract": "Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack.",
+      "byline": {
+        "original": "By Shuaib Almosawa, Vivian Yee and Isabella Kwai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Yemen’s Houthi Militia Claims Rare Military Strike on U.A.E.",
+        "kicker": "",
+        "print_headline": "Houthi Militia Attacks U.A.E., Hitting Tankers"
+      },
+      "_id": "nyt://article/4465fdcf-6eb8-56c1-b3f3-d905ac049cbd",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Drones (Pilotless Planes)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Houthis",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Yemen",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Abu Dhabi (United Arab Emirates)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "United Arab Emirates",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "An Abu Dhabi National Oil Company storage facility on Monday. ",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/17/world/17uae/merlin_200460987_b782ba45-5005-447b-91a4-36478d61f1ea-articleLarge.jpg",
+          "height": 380,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/17/world/17uae/17uae-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2022-01-17T13:55:09Z",
+      "section_name": "World",
+      "snippet": "Emirati officials said that several people had been killed in an explosion of fuel tankers in Abu Dhabi, apparently caused by a drone attack.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/4465fdcf-6eb8-56c1-b3f3-d905ac049cbd",
+      "web_url": "https://www.nytimes.com/2022/01/17/world/middleeast/uae-attack-yemen-houthi.html",
+      "word_count": 755
+    }
+  ]
+}

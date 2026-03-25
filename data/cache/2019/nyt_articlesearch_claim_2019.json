@@ -1,0 +1,3166 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20190101",
+    "end_date": "20191231",
+    "fq": "(headline.default:(\"claim\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 43,
+  "docs": [
+    {
+      "abstract": "A would-be Chinese defector named two Hong Kong executives as acting as a front for Chinese intelligence agencies. The authorities in Taiwan had started tracking them in 2016.",
+      "byline": {
+        "original": "By Steven Lee Myers and Chris Horton"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Claims of China’s Meddling Roil Taiwan Ahead of Elections",
+        "kicker": "",
+        "print_headline": "Claims of Interference by China Roil Taiwan Ahead of Elections"
+      },
+      "_id": "nyt://article/b330c458-036e-54d4-990a-6241dd838830",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Taiwan",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Wang Liqiang",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Soldiers at a flag-lowering ceremony at Liberty Square in Taipei, Taiwan’s capital, last month. The self-governing island will vote for a new president in January.",
+        "credit": "Henry Lin/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/12/06/world/00china-taiwan1/00china-taiwan1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/12/06/world/00china-taiwan1/00china-taiwan1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2019-12-06T09:23:15Z",
+      "section_name": "World",
+      "snippet": "A would-be Chinese defector named two Hong Kong executives as acting as a front for Chinese intelligence agencies.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/b330c458-036e-54d4-990a-6241dd838830",
+      "web_url": "https://www.nytimes.com/2019/12/06/world/asia/china-taiwan-election-defector.html",
+      "word_count": 1339
+    },
+    {
+      "abstract": "The works, previously credited to Monet, Picasso and Dalí, have been removed from display at Dumfries House in Scotland.",
+      "byline": {
+        "original": "By Iliana Magra"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Forger Claims Credit for Paintings in Prince Charles’s Charity Headquarters",
+        "kicker": "",
+        "print_headline": "Forger Claims Paintings in Prince’s Charity"
+      },
+      "_id": "nyt://article/c1b2a559-6d67-5904-8ce7-0592123f8ddd",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Art",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Forgery",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Charles, Prince of Wales",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Dali, Salvador",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Monet, Claude",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Picasso, Pablo",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Dumfries House, an 18th-century estate, houses the headquarters of the Prince’s Foundation.",
+        "credit": "Jeff J. Mitchell/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/11/04/world/04royal-scam/04royal-scam-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/11/04/world/04royal-scam/04royal-scam-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2019-11-04T17:05:24Z",
+      "section_name": "World",
+      "snippet": "The works, previously credited to Monet, Picasso and Dalí, have been removed from display at Dumfries House in Scotland.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c1b2a559-6d67-5904-8ce7-0592123f8ddd",
+      "web_url": "https://www.nytimes.com/2019/11/04/world/europe/prince-charles-fake-art-dumfries-house.html",
+      "word_count": 738
+    },
+    {
+      "abstract": "At least 53 soldiers and one civilian died in one of the deadliest attacks to hit the nation’s military in recent memory.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mali Says 54 Are Killed in Jihadist Attack on Army; ISIS Claims Responsibility",
+        "kicker": "",
+        "print_headline": "54 Dead at Mali Military Post in Attack Linked to Jihadists"
+      },
+      "_id": "nyt://article/625a9947-ca9f-55a0-8fa1-f1dffebf7d49",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Mali",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Malian soldiers on parade in Bamako last year. At least 53 soldiers and one civilian have been killed in a jihadist attack which was one of the deadliest strikes against the West African country’s military in recent memory.",
+        "credit": "Michele Cattani/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/11/02/world/02Mali-sub/merlin_163718058_1713608d-0e55-4c7d-b8ce-9f8d51d0b639-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/11/02/world/02Mali-sub/02Mali-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2019-11-02T10:19:08Z",
+      "section_name": "World",
+      "snippet": "At least 53 soldiers and one civilian died in one of the deadliest attacks to hit the nation’s military in recent memory.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/625a9947-ca9f-55a0-8fa1-f1dffebf7d49",
+      "web_url": "https://www.nytimes.com/2019/11/02/world/africa/mali-jihadist-attack.html",
+      "word_count": 307
+    },
+    {
+      "abstract": "The clashing claims by President Ashraf Ghani and rival Abdullah Abdullah could set up a political crisis, some fear.",
+      "byline": {
+        "original": "By Mujib Mashal and Fahim Abed"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Both Afghan Candidates Claim the Lead Even Before Votes Are Tallied",
+        "kicker": "",
+        "print_headline": "Both Afghan Candidates Claim the Lead Even Before Votes Are Tallied"
+      },
+      "_id": "nyt://article/962df3b1-f82a-5207-b717-a59216edbba0",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Abdullah, Abdullah",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Ghani, Ashraf",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Abdullah Abdullah, center, a top contender in the presidential election, claimed victory in Kabul on Monday, but vote counting is in the early stages.",
+        "credit": "Jim Huylebroek for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/09/30/world/30Afghanistan1/merlin_161824938_f8a6010a-cc80-4e1d-82c9-4e821c15bbdc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/09/30/world/30Afghanistan1/merlin_161824938_f8a6010a-cc80-4e1d-82c9-4e821c15bbdc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2019-09-30T15:45:32Z",
+      "section_name": "World",
+      "snippet": "The clashing claims by President Ashraf Ghani and rival Abdullah Abdullah could set up a political crisis, some fear.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/962df3b1-f82a-5207-b717-a59216edbba0",
+      "web_url": "https://www.nytimes.com/2019/09/30/world/asia/afghanistan-election.html",
+      "word_count": 1082
+    },
+    {
+      "abstract": "Visits to the islands, which South Korea controls, tend to spike when relations with Japan are at a low, as they are now.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "South Korean Lawmakers Visit Disputed Islets Claimed by Japan",
+        "kicker": "",
+        "print_headline": "South Koreans Visit Contested Islands"
+      },
+      "_id": "nyt://article/3400b71f-d155-5368-ba12-dce081f8d8e4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "South Korea conducted a military drill on Aug. 25 near the disputed islands it calls Dokdo. Japan, which also claims them, calls them Takeshima.",
+        "credit": "South Korea Navy, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/08/31/us/politics/31skorea-sub/31skorea-sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/08/31/us/politics/31skorea-sub/31skorea-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2019-08-31T09:39:26Z",
+      "section_name": "World",
+      "snippet": "Visits to the islands, which South Korea controls, tend to spike when relations with Japan are at a low, as they are now.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3400b71f-d155-5368-ba12-dce081f8d8e4",
+      "web_url": "https://www.nytimes.com/2019/08/31/world/asia/south-korea-dokdo-japan.html",
+      "word_count": 427
+    },
+    {
+      "abstract": "The exercises are meant to protect South Korea’s claim to a set of islets also claimed by Japan, as ties between the two countries are at their worst in years.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "South Korea Launches Military Exercise for Islets Also Claimed by Japan",
+        "kicker": "",
+        "print_headline": "South Korea Holds Exercises Near Islets Japan Also Claims"
+      },
+      "_id": "nyt://article/6b7ace27-3734-5529-bee4-6ff715089692",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Dokdo Islands",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Special forces from the South Korean Army during a drill on Ulleung Island on Sunday.",
+        "credit": "South Korea Navy, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/08/26/world/26skorea1/merlin_159685701_36b9a3b7-0961-48f1-8825-d26d61c7f785-articleLarge.jpg",
+          "height": 429,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/08/26/world/26skorea1/25skorea1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2019-08-25T04:05:32Z",
+      "section_name": "World",
+      "snippet": "The exercises are meant to protect South Korea’s claim to a set of islets also claimed by Japan, as ties between the two countries are at their worst in years.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/6b7ace27-3734-5529-bee4-6ff715089692",
+      "web_url": "https://www.nytimes.com/2019/08/25/world/asia/south-korea-japan-islands.html",
+      "word_count": 553
+    },
+    {
+      "abstract": "A senior police officer said that the country’s deposed leader had admitted to receiving the money.",
+      "byline": {
+        "original": "By Declan Walsh"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Al-Bashir Trial in Sudan Opens with Claim of $90 Million Payment From Saudis",
+        "kicker": "",
+        "print_headline": "Sudan’s Ex-Leader, Now on Trial, Admits to Receiving $90 Million From Saudis"
+      },
+      "_id": "nyt://article/26d0c9e9-b7ea-572f-9909-bb2cf798bc71",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Bashir, Omar Hassan Al-",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Mohammed bin Salman (1985- )",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Sudan",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Omar al-Bashir, center, in a defendant’s cage during the opening of his corruption trial on Monday in Khartoum, Sudan.",
+        "credit": "Ebrahim Hamid/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/08/19/world/19sudan/merlin_159448245_1ca20701-cc0a-4802-89dd-e8a28715eb73-articleLarge.jpg",
+          "height": 405,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/08/19/world/19sudan/19sudan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2019-08-19T14:35:43Z",
+      "section_name": "World",
+      "snippet": "A senior police officer said that the country’s deposed leader had admitted to receiving the money.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/26d0c9e9-b7ea-572f-9909-bb2cf798bc71",
+      "web_url": "https://www.nytimes.com/2019/08/19/world/africa/al-bashir-sudan-corruption.html",
+      "word_count": 788
+    },
+    {
+      "abstract": "“Due to what women wear, we are seduced and end up breaking the country’s laws and face prosecution,” a lawmaker said in proposing a law that would protect male assailants.",
+      "byline": {
+        "original": "By Daniel Victor"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "After Claiming Men Are ‘Seduced’ Into Rape, Malaysian Senator Apologizes",
+        "kicker": "",
+        "print_headline": "An Apology For Pinning Sex Assault On Victims"
+      },
+      "_id": "nyt://article/27acffaa-7a3e-5864-a95b-99ce06794971",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Malaysia",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Women's Rights",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Imran, Mohamad",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A 2015 protest in Kuala Lumpur demanding better protection for women and girls against sexual violence. For more than a year, Malaysia has debated a sexual harassment bill that would protect women in the workplace. No law has been approved.",
+        "credit": "Mohd Samsul Mohd Said/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/08/01/multimedia/01xp-malaysiaharrass/merlin_158724552_e64be740-b259-4ce7-b2ca-eb06f06b648c-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/08/01/multimedia/01xp-malaysiaharrass/01xp-malaysiaharrass-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2019-08-01T10:24:30Z",
+      "section_name": "World",
+      "snippet": "“Due to what women wear, we are seduced and end up breaking the country’s laws and face prosecution,” a lawmaker said in proposing a law that would protect male assailants.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/27acffaa-7a3e-5864-a95b-99ce06794971",
+      "web_url": "https://www.nytimes.com/2019/08/01/world/asia/malaysia-sexual-assault-seduced.html",
+      "word_count": 562
+    },
+    {
+      "abstract": "The announcement in Beijing was impossible to verify in tightly controlled Xinjiang, and runs counter to accounts of detentions compiled by U.S. officials and activists.",
+      "byline": {
+        "original": "By Chris Buckley and Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Doubt Greets China’s Claim That Muslims Have Been Released From Camps",
+        "kicker": "",
+        "print_headline": "China Claims to Free Muslims From Camps, but Critics Are Skeptical"
+      },
+      "_id": "nyt://article/e8adb52e-54d2-595c-8840-e2a481c054a0",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Uighurs (Chinese Ethnic Group)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Xinjiang (China)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Buildings believed to be part of a re-education camp in Xinjiang in June.",
+        "credit": "Greg Baker/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/07/30/world/30china-xinjiang1/merlin_157967862_71aa9421-cc95-4bad-955a-b3561e9f273b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/07/30/world/30china-xinjiang1/30china-xinjiang1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2019-07-30T05:37:04Z",
+      "section_name": "World",
+      "snippet": "The announcement in Beijing was impossible to verify in tightly controlled Xinjiang, and runs counter to accounts of detentions compiled by U.S. officials.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e8adb52e-54d2-595c-8840-e2a481c054a0",
+      "web_url": "https://www.nytimes.com/2019/07/30/world/asia/china-xinjiang.html",
+      "word_count": 1780
+    },
+    {
+      "abstract": "The attorney general’s decision overturned an immigration appeals board ruling in 2018 that a Mexican migrant whose father was targeted by a drug cartel was eligible for asylum.",
+      "byline": {
+        "original": "By Zolan Kanno-Youngs"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Justice Dept. Moves to Block Asylum Claims Based on Family Ties",
+        "kicker": "",
+        "print_headline": "Barr Moves to End Asylum Claims Based on Persecution of Relatives"
+      },
+      "_id": "nyt://article/e49c3af8-c827-5bab-a205-876c47ff6d89",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Barr, William P",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Asylum, Right of",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Courts and the Judiciary",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Board of Immigration Appeals",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Justice Department",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Central America",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Decisions and Verdicts",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Migrants waiting in line to apply for asylum at the port of entry between the United States and Mexico in Tijuana this month.",
+        "credit": "Carlos Jasso/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/07/29/us/politics/29dc-asylum/merlin_158220813_3ef86098-7846-47cd-b902-dc6a8f631fac-articleLarge.jpg",
+          "height": 396,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/07/29/us/politics/29dc-asylum/29dc-asylum-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "15",
+      "print_section": "A",
+      "pub_date": "2019-07-29T22:31:08Z",
+      "section_name": "World",
+      "snippet": "The attorney general’s decision overturned an immigration appeals board ruling in 2018 that a Mexican migrant whose father was targeted by a drug cartel was eligible for asylum.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/e49c3af8-c827-5bab-a205-876c47ff6d89",
+      "web_url": "https://www.nytimes.com/2019/07/29/world/americas/justice-department-asylum-families.html",
+      "word_count": 749
+    },
+    {
+      "abstract": "Among his most explosive allegations was that he had witnessed the murders of three children.",
+      "byline": {
+        "original": "By Palko Karasz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.K. Man Who Made Up Child Abuse Claims Is Sentenced to 18 Years",
+        "kicker": "",
+        "print_headline": "British Man Who Made Up Claims of Child Sexual Abuse Is Sentenced to 18 Years"
+      },
+      "_id": "nyt://article/cb3b870e-a241-5120-87ea-dab22f15ea5c",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Beech, Carl",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Child Abuse and Neglect",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Frauds and Swindling",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Carl Beech, left, was convicted of 12 counts of perverting the course of justice and one count of fraud.",
+        "credit": "David Rose/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/07/26/world/26uk-abuse/merlin_158484075_b603c09d-a081-49fc-aa7f-cde64ea4855c-articleLarge.jpg",
+          "height": 451,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/07/26/world/26uk-abuse/26uk-abuse-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2019-07-26T18:18:22Z",
+      "section_name": "World",
+      "snippet": "Among his most explosive allegations was that he had witnessed the murders of three children.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/cb3b870e-a241-5120-87ea-dab22f15ea5c",
+      "web_url": "https://www.nytimes.com/2019/07/26/world/europe/carl-beech-child-abuse.html",
+      "word_count": 658
+    },
+    {
+      "abstract": "The proposed settlement also commits the country’s military to improve its complaints process and to create a forum for victims to share their experiences with the military’s top brass.",
+      "byline": {
+        "original": "By Ian Austen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Canada Earmarks $690 Million to Settle Claims of Sexual Misconduct in Military",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f65c1b05-2e39-5cf7-802f-f47e930f6dde",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Canadian Armed Forces",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A Canadian military base in Borden, Ontario.",
+        "credit": "Creative Touch Imaging/NurPhoto, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/07/18/world/18canada-military/18canada-military-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/07/18/world/18canada-military/18canada-military-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2019-07-19T00:04:13Z",
+      "section_name": "World",
+      "snippet": "The proposed settlement also commits the country’s military to improve its complaints process and to create a forum for victims to share their experiences with the military’s top brass.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/f65c1b05-2e39-5cf7-802f-f47e930f6dde",
+      "web_url": "https://www.nytimes.com/2019/07/18/world/canada/military-sexual-misconduct-class-action.html",
+      "word_count": 633
+    },
+    {
+      "abstract": "Somali forces ended an all-night siege on a hotel in the southern port city of Kismayo on Saturday morning.",
+      "byline": {
+        "original": "By Hussein Mohamed and Anemona Hartocollis"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "At Least 26 Dead in Somalia Hotel Attack Claimed by Shabab",
+        "kicker": "",
+        "print_headline": "Attack Kills 26 at Hotel In Somalia"
+      },
+      "_id": "nyt://article/f125698c-e217-5aef-b812-1f9305f93839",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Shabab",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Kismayo (Somalia)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Hotels and Travel Lodgings",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Al Qaeda",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Somalia",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The Asasey hotel in Kismayo, Somalia, on Saturday, after a suicide attack and an overnight siege there left at least 26 people dead.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/07/13/world/13somalia-sub/merlin_157882677_7382a749-2caa-4579-a050-d939d39ea295-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/07/13/world/13somalia-sub/13somalia-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2019-07-13T09:31:58Z",
+      "section_name": "World",
+      "snippet": "Somali forces ended an all-night siege on a hotel in the southern port city of Kismayo on Saturday morning.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/f125698c-e217-5aef-b812-1f9305f93839",
+      "web_url": "https://www.nytimes.com/2019/07/13/world/africa/somalia-shabab-hotel-kismayo.html",
+      "word_count": 608
+    },
+    {
+      "abstract": "At least 10 people, including a Canadian journalist, were killed by militant Islamists in an attack on a hotel in the port city of Kismayo, a Somali official said.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Somalia Attack Claimed by Shabab Kills 10, Including Canadian Journalist",
+        "kicker": "",
+        "print_headline": "Terrorist Strike in Somalia Kills Canadian Journalist and 9 Others"
+      },
+      "_id": "nyt://article/72dec4f9-68b2-585c-968a-e0f4265fdcb5",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Somalia",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Shabab",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Mogadishu (Somalia)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Workers at the port in the coastal town of Kismayo in southern Somalia. An attack on Friday by extremists on a hotel in the city killed 10.",
+        "credit": "Siegfried Modola/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/07/12/us/12SOMALIA-1/merlin_76444451_d329ebbd-239f-4073-8014-119d7d30e6e4-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/07/12/us/12SOMALIA-1/12SOMALIA-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2019-07-13T01:44:33Z",
+      "section_name": "World",
+      "snippet": "At least 10 people, including a Canadian journalist, were killed by militant Islamists in an attack on a hotel in the port city of Kismayo, a Somali official said.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/72dec4f9-68b2-585c-968a-e0f4265fdcb5",
+      "web_url": "https://www.nytimes.com/2019/07/12/world/africa/somalia-attack-shabab-hodan-nalayeh.html",
+      "word_count": 252
+    },
+    {
+      "abstract": "Judges threw out accusations by Prabowo Subianto, the son-in-law of the former dictator Suharto, clearing the way for a second term for President Joko Widodo.",
+      "byline": {
+        "original": "By Richard C. Paddock"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Indonesia Court Rejects Presidential Candidate’s Voting Fraud Claims",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c79b2cd4-04bd-5f83-8acd-0210648392dd",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Indonesia",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Joko Widodo",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Prabowo Subianto",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Voting and Voters",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The final hearing on the court challenge to the results of April’s presidential election in Jakarta, Indonesia, on Thursday.",
+        "credit": "Tatan Syuflana/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/06/27/world/27indonesia-1/merlin_157074705_b5dbf0ad-6567-47b6-8194-3730746fe15a-articleLarge.jpg",
+          "height": 404,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/06/27/world/27indonesia-1/27indonesia-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2019-06-27T14:50:10Z",
+      "section_name": "World",
+      "snippet": "Judges threw out accusations by Prabowo Subianto, the son-in-law of the former dictator Suharto, clearing the way for a second term for President Joko Widodo.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/c79b2cd4-04bd-5f83-8acd-0210648392dd",
+      "web_url": "https://www.nytimes.com/2019/06/27/world/asia/indonesia-widodo-prabowo-election-fraud.html",
+      "word_count": 511
+    },
+    {
+      "abstract": "Britain’s High Court did not give a reason for scrapping the case against the front-runner to replace Theresa May as prime minister.",
+      "byline": {
+        "original": "By Palko Karasz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Case Against Boris Johnson Over Brexit Claims Dismissed in U.K. Court",
+        "kicker": "",
+        "print_headline": "British Court Throws Out Johnson Case Over Brexit"
+      },
+      "_id": "nyt://article/9926fb48-7da7-579e-a26a-24fd1bce53f8",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Johnson, Boris",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Great Britain Withdrawal from EU (Brexit)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Conservative Party (Great Britain)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Referendums",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A British court decision removes a potential hurdle for Boris Johnson, who aims to succeed Theresa May as prime minister.",
+        "credit": "Henry Nicholls/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/06/07/world/07boris1/merlin_155960445_190e1cff-f8a9-423e-af82-eab0fd6c0fe5-articleLarge.jpg",
+          "height": 384,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/06/07/world/07boris1/07boris1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2019-06-07T15:22:16Z",
+      "section_name": "World",
+      "snippet": "Britain’s High Court did not give a reason for scrapping the case against the front-runner to replace Theresa May as prime minister.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/9926fb48-7da7-579e-a26a-24fd1bce53f8",
+      "web_url": "https://www.nytimes.com/2019/06/07/world/europe/boris-johnson-brexit.html",
+      "word_count": 577
+    },
+    {
+      "abstract": "The former foreign secretary is accused of lying during the Brexit campaign by inferring that Britain paid 350 million pounds every week to the European Union.",
+      "byline": {
+        "original": "By Ceylan Yeginsu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Boris Johnson Is Summoned to Court Over Brexit Claims",
+        "kicker": "",
+        "print_headline": "Brexit Booster Called to Court Over False Claims"
+      },
+      "_id": "nyt://article/3263173d-ecf6-5833-a3e6-2a55047b05c2",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Johnson, Boris",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Great Britain Withdrawal from EU (Brexit)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Referendums",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Boris Johnson arguing for Brexit in 2016. The campaign implied that Britain paid £350 million a week to the European Union.",
+        "credit": "Christopher Furlong/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/05/29/world/29Johnson-sub/merlin_108325546_6e4e45d5-5a0f-41b6-ba72-63084f39da73-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/05/29/world/29Johnson-sub/29Johnson-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2019-05-29T11:31:59Z",
+      "section_name": "World",
+      "snippet": "The former foreign secretary is accused of lying during the Brexit campaign by inferring that Britain paid 350 million pounds every week to the European Union.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3263173d-ecf6-5833-a3e6-2a55047b05c2",
+      "web_url": "https://www.nytimes.com/2019/05/29/world/europe/boris-johnson-brexit.html",
+      "word_count": 703
+    },
+    {
+      "abstract": "The Trump administration is laying the groundwork for major military action against Iran, but it may have a hard time rallying domestic and international support.",
+      "byline": {
+        "original": "By Helene Cooper and Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Skeptical U.S. Allies Resist Trump’s New Claims of Threats From Iran",
+        "kicker": "",
+        "print_headline": "U.S. Allies Respond Skeptically To Latest Claims of Iran Threat"
+      },
+      "_id": "nyt://article/2ce298f5-cca5-52c2-91bc-6423d182783a",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "United States Central Command",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Bolton, John R",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/05/16/world/middleeast/bolton-video/bolton-video-articleLarge-v4.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/05/16/world/middleeast/bolton-video/bolton-video-thumbStandard-v4.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2019-05-15T01:00:30Z",
+      "section_name": "World",
+      "snippet": "Intelligence and military officials in Europe said that over the past year, the aggressive moves have originated in Washington, not Tehran.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/2ce298f5-cca5-52c2-91bc-6423d182783a",
+      "web_url": "https://www.nytimes.com/2019/05/14/world/middleeast/trump-iran-threats.html",
+      "word_count": 1541
+    },
+    {
+      "abstract": "Saudi Arabia, the United Arab Emirates and a private company said four ships were struck as the United States ordered forces to the region to counter Iran. But officials did not say who was to blame.",
+      "byline": {
+        "original": "By Vivian Yee"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Claim of Attacks on 4 Oil Vessels Raises Tensions in Middle East",
+        "kicker": "",
+        "print_headline": "Tensions Rise in Middle East as Four Oil Vessels Report Being Attacked"
+      },
+      "_id": "nyt://article/a24abefa-6ca6-57c0-b5df-9af3180464db",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Ships and Shipping",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Sabotage (Crime)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "United Arab Emirates",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Damage to a Norwegian oil tanker on Monday off the coast of the United Arab Emirates.",
+        "credit": "Emirati National Media Council, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/05/13/world/13Saudi-tanker/merlin_154774671_9efca3bc-f0f2-465f-a78a-46582287b49e-articleLarge.jpg",
+          "height": 800,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/05/13/world/13Saudi-tanker/13Saudi-tanker-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2019-05-13T04:29:48Z",
+      "section_name": "World",
+      "snippet": "Two tankers were sabotaged off the coast of the United Arab Emirates in attacks that caused “significant damage” to the vessels, Saudi Arabia said.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a24abefa-6ca6-57c0-b5df-9af3180464db",
+      "web_url": "https://www.nytimes.com/2019/05/13/world/middleeast/saudi-arabia-oil-tanker-sabotage.html",
+      "word_count": 1198
+    },
+    {
+      "abstract": "Two legends of long-distance running, Mo Farah and Haile Gebrselassie, found themselves embroiled in a very public war of words.",
+      "byline": {
+        "original": "By Anna Schaverien"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Olympic Athletes’ Feud Goes Public, With Claims of Hotel Theft and Gym Attack",
+        "kicker": "",
+        "print_headline": "Olympians Feud Publicly After Hotel Theft Claim"
+      },
+      "_id": "nyt://article/58f5e9d8-36b6-595a-b510-8cf416cfb0a5",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Track and Field",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Farah, Mo",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Gebrselassie, Haile",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Addis Ababa (Ethiopia)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Robberies and Thefts",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Hotels and Travel Lodgings",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Yaya Africa Athletics Village (Addis Ababa, Ethiopia, Hotel)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Running",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Mo Farah during the Great North Run last year in Newcastle Upon Tyne, England.",
+        "credit": "Ian Macnicol/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/04/26/world/25runners-feud1/merlin_143503464_30a32e5f-07e5-4f5b-ae2e-3c5b6b199855-articleLarge.jpg",
+          "height": 404,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/04/26/world/25runners-feud1/25runners-fued1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Sports",
+      "print_page": "9",
+      "print_section": "B",
+      "pub_date": "2019-04-25T17:56:05Z",
+      "section_name": "World",
+      "snippet": "Two legends of long-distance running, Mo Farah and Haile Gebrselassie, found themselves embroiled in a very public war of words.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/58f5e9d8-36b6-595a-b510-8cf416cfb0a5",
+      "web_url": "https://www.nytimes.com/2019/04/25/world/europe/mo-farah-haile-gebrselassie-robbery.html",
+      "word_count": 918
+    },
+    {
+      "abstract": "If the link to ISIS proves substantial, it would reinforce worries by Western security officials and others that the group remains a potent threat.",
+      "byline": {
+        "original": "By Jeffrey Gettleman, Dharisha Bastians and Mujib Mashal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Sri Lanka Attacks, and President Vows Shakeup",
+        "kicker": "",
+        "print_headline": "ISIS Claims Responsibility For Bombings in Sri Lanka"
+      },
+      "_id": "nyt://article/bf7b514e-5322-5c8a-8287-f0e038a30e56",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sri Lanka Easter Bombings (April, 2019)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "National Thowheeth Jama'ath",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Sri Lanka",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Sirisena, Maithripala",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Wickremesinghe, Ranil",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Colombo (Sri Lanka)",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Zaharan, Mohammed (d 2019)",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Funeral ribbons hanging across a road leading to St. Anthony’s Shrine in Colombo, the capital, which remained under a nighttime curfew.",
+        "credit": "Carl Court/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/04/23/world/23srilanka2/merlin_153852294_cb86ef97-6224-4365-a4a3-6317904e9bdf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/04/23/world/23srilanka2/merlin_153852294_cb86ef97-6224-4365-a4a3-6317904e9bdf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2019-04-23T23:54:28Z",
+      "section_name": "World",
+      "snippet": "If the connections prove substantial, they would reinforce worries by Western security officials and others that the group remains a potent threat.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/bf7b514e-5322-5c8a-8287-f0e038a30e56",
+      "web_url": "https://www.nytimes.com/2019/04/23/world/asia/isis-sri-lanka-blasts.html",
+      "word_count": 1636
+    },
+    {
+      "abstract": "After the Islamic State said it was behind the attacks, grief for some was hardening into anger. Hundreds of Muslim families fled religiously mixed areas.",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Grief, Anger and Recriminations in Sri Lanka as ISIS Claims It Staged Bomb Attacks",
+        "kicker": "Live Briefing",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ee9442d6-e919-5707-9277-2cd05ad8f66e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sri Lanka Easter Bombings (April, 2019)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "National Thowheeth Jama'ath",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Sri Lanka",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Mourners at the mass funeral at St. Sebastian’s Church in Negombo, Sri Lanka, on Tuesday.",
+        "credit": "Adam Dean for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/04/23/world/23srilanka-briefing-video2/23srilanka-briefing-video2-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/04/23/world/23srilanka-briefing-video2/23srilanka-briefing-video2-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2019-04-23T04:24:34Z",
+      "section_name": "World",
+      "snippet": "The first funerals for some of the 310 people killed in Sunday’s attacks were scheduled for Tuesday.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/ee9442d6-e919-5707-9277-2cd05ad8f66e",
+      "web_url": "https://www.nytimes.com/2019/04/23/world/asia/sri-lanka-bombing.html",
+      "word_count": 2114
+    },
+    {
+      "abstract": "Islamic State propagandists said the group was responsible for an assault that left eight Congolese soldiers dead. It was the group’s first Congo attack.",
+      "byline": {
+        "original": "By Steve Wembi and Joseph Goldstein"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims First Attack in the Democratic Republic of Congo",
+        "kicker": "",
+        "print_headline": "ISIS Claims Attack in Congo, Moving Into Troubled Region"
+      },
+      "_id": "nyt://article/cf470256-40d4-592e-afea-35d1a70d853d",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Allied Democratic Forces",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Congo, Democratic Republic of (Congo-Kinshasa)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A health worker at an Ebola treatment center in Beni, Democratic Republic of Congo.",
+        "credit": "Baz Ratner/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/04/19/world/19congo/merlin_153625836_f549602d-9335-4954-93a1-78f71653fe5e-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/04/19/world/19congo/19congo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2019-04-19T16:47:30Z",
+      "section_name": "World",
+      "snippet": "Islamic State propagandists said the group was responsible for an assault that left eight Congolese soldiers dead. It was the group’s first Congo attack.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/cf470256-40d4-592e-afea-35d1a70d853d",
+      "web_url": "https://www.nytimes.com/2019/04/19/world/africa/isis-congo-attack.html",
+      "word_count": 414
+    },
+    {
+      "abstract": "A public relations firm aligned with Likud said it was behind the placement of more than a thousand cameras in predominantly Arab polling stations.",
+      "byline": {
+        "original": "By Megan Specia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel Voting Cameras Lowered Arab Turnout, Netanyahu Backers Claim",
+        "kicker": "",
+        "print_headline": "Firm Boasts Of Its Effort To Suppress Arab Turnout"
+      },
+      "_id": "nyt://article/ff6e9341-a88b-5d4a-8750-018e985bf3a3",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Cameras",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Arabs",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Likud Party (Israel)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Voting and Voters",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "An Arab voter at a polling station in the northern Israeli town of Tayibe.",
+        "credit": "Ahmad Gharabli/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/04/10/world/10israel-cameras1/merlin_153256452_a2970c6d-6492-42c8-85ce-59df19d1b265-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/04/10/world/10israel-cameras1/10israel-cameras1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2019-04-10T23:07:56Z",
+      "section_name": "World",
+      "snippet": "A public relations firm aligned with Likud said it was behind the placement of more than a thousand cameras in predominantly Arab polling stations.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/ff6e9341-a88b-5d4a-8750-018e985bf3a3",
+      "web_url": "https://www.nytimes.com/2019/04/10/world/middleeast/netanyahu-cameras-arab-voter-turnout.html",
+      "word_count": 453
+    },
+    {
+      "abstract": "Though he has been dead 27 years, Mr. Begin’s legacy is being selectively invoked by parties across the political spectrum ahead of the April 9 election.",
+      "byline": {
+        "original": "By Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Israel Campaign, All Sides Claim Fabled Voice From the Grave: Menachem Begin",
+        "kicker": "",
+        "print_headline": "In Israel Campaign,  All Sides Invoke  Begin’s Fabled Voice"
+      },
+      "_id": "nyt://article/496114d5-5573-5cf2-81c0-eebcf7b88598",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Likud Party (Israel)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Yediot Aharonot",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Gantz, Benny",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Shamir, Yitzhak",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Political Advertising",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Begin, Menachem",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Benjamin Netanyahu, center, at the Menachem Begin Heritage Center last month.",
+        "credit": "Abir Sultan/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/04/01/world/01israel-begin1/merlin_151906065_9de1144a-8e76-4aad-a3a1-8a9aec031538-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/04/01/world/01israel-begin1/01israel-begin1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2019-04-02T09:00:08Z",
+      "section_name": "World",
+      "snippet": "Though Menachem Begin has been dead 27 years, his legacy is being selectively invoked ahead of the April 9 election.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/496114d5-5573-5cf2-81c0-eebcf7b88598",
+      "web_url": "https://www.nytimes.com/2019/04/02/world/middleeast/israel-election-menachem-begin.html",
+      "word_count": 1192
+    },
+    {
+      "abstract": "For the first time, the United States shot two interceptors at a single warhead, boosting the outlook for antimissile defenses.",
+      "byline": {
+        "original": "By William J. Broad and David E. Sanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pentagon Claims Success in Test of New Tactic to Down Incoming Missiles",
+        "kicker": "",
+        "print_headline": "Pentagon Claims Success in Test of New Method to Intercept Missiles"
+      },
+      "_id": "nyt://article/8aaf0fde-2f5b-5f63-89bf-5dd24c57560b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Missiles and Missile Defense Systems",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Defense Department",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Marshall Islands",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Vandenberg Air Force Base (Calif)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The Pentagon said the test, the first in nearly two years, was conducted over the Pacific Ocean and used two interceptors fired from Vandenberg Air Force Base in California. <br /><br />",
+        "credit": "Jason Reed/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/03/25/us/politics/25-missile/merlin_146884416_493226de-12cd-4334-8ca2-b5fe719298c8-articleLarge.jpg",
+          "height": 383,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/03/25/us/politics/25-missile/25-missile-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2019-03-26T01:09:18Z",
+      "section_name": "World",
+      "snippet": "For the first time, the United States shot two interceptors at a single warhead, boosting the outlook for antimissile defenses.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/8aaf0fde-2f5b-5f63-89bf-5dd24c57560b",
+      "web_url": "https://www.nytimes.com/2019/03/25/world/asia/us-missile-defenses-.html",
+      "word_count": 645
+    },
+    {
+      "abstract": "On Thursday, President Trump tweeted about a hilly plateau beside the Sea of Galilee that has been one of Israel’s quieter frontiers for 52 years.",
+      "byline": {
+        "original": "By Jacey Fortin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Brief History of the Golan Heights, Claimed by Israel and Syria",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8e5884de-8276-5ad6-831a-29c794963d53",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Golan Heights",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Arab-Israeli War (1967)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Middle East",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Benjamin Netanyahu of Israel, center right, visited the Golan Heights this month with Senator Lindsey Graham of South Carolina, center left, and David Friedman, right, the United States’ ambassador to Israel.",
+        "credit": "Ronen Zvulun/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/03/21/business/21xp-golanheights/merlin_152014272_182faad6-8b82-4356-98ef-8e77fe4b4290-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/03/21/business/21xp-golanheights/21xp-golanheights-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2019-03-22T03:22:57Z",
+      "section_name": "World",
+      "snippet": "On Thursday, President Trump tweeted about a hilly plateau beside the Sea of Galilee that has been one of Israel’s quieter frontiers for 52 years.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/8e5884de-8276-5ad6-831a-29c794963d53",
+      "web_url": "https://www.nytimes.com/2019/03/21/world/middleeast/golan-heights-israel.html",
+      "word_count": 828
+    },
+    {
+      "abstract": "An Iranian asylum seeker said he converted from Islam to Christianity because it was a “peaceful” religion. The Home Office used Bible verses about vengeance as a basis to deny the claim.",
+      "byline": {
+        "original": "By Anna Schaverien"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Rejecting Asylum Claim, U.K. Quotes Bible to Say Christianity Is Not ‘Peaceful’",
+        "kicker": "",
+        "print_headline": "U.K. Quotes Bible Verses In Rejecting Asylum Claim "
+      },
+      "_id": "nyt://article/2485bf08-a758-5aec-92f2-d27a85650093",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Asylum, Right of",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Bible",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Religion and Belief",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Church of England",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "An Iranian national was refused asylum by Britain’s Home Office, which cited Bible verses about violence to argue that Christianity was not a “peaceful” religion.",
+        "credit": "Facundo Arrizabalaga/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/03/21/world/21uk-asylum/merlin_137349633_e9bb8c43-a517-4b02-87a2-62a292bc1f0d-articleLarge.jpg",
+          "height": 353,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/03/21/world/21uk-asylum/21uk-asylum-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2019-03-21T16:11:38Z",
+      "section_name": "World",
+      "snippet": "An Iranian asylum seeker said he converted from Islam to Christianity because it was a “peaceful” religion. The Home Office used Bible verses about vengeance as a basis to deny the claim.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/2485bf08-a758-5aec-92f2-d27a85650093",
+      "web_url": "https://www.nytimes.com/2019/03/21/world/europe/britain-asylum-seeker-christianity.html",
+      "word_count": 746
+    },
+    {
+      "abstract": "The Japanese call them “juhyo,” or ice monsters, and armies of these abominable snowmen once spread across the country’s northern mountains. But they are at risk because of warming temperatures.",
+      "byline": {
+        "original": "By Motoko Rich"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Japan’s Enchanting Ice Monsters, Claimed by Climate Change",
+        "kicker": "Japan Dispatch",
+        "print_headline": "Giant Snow Monsters That May Soon Be Dinosaurs"
+      },
+      "_id": "nyt://article/7d334fe0-8c77-5b56-9e21-5373a0625ca5",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Global Warming",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Yamagata Prefecture (Japan)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Ice",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Skiing",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Travel and Vacations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Forests and Forestry",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Snow and Snowstorms",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A ropeway over snow-covered trees to the peak of Mount Zao, which draws tourists from around Asia to see the “juhyo,” as the snowy formations on trees are called in Japanese. Climate change now threatens them.",
+        "credit": "James Whitlow Delano for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/04/05/world/05snowmonsters1a-promo/05snowmonsters1a-promo-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/04/05/world/05snowmonsters1a-promo/05snowmonsters1a-promo-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2019-03-14T09:00:11Z",
+      "section_name": "World",
+      "snippet": "The Japanese call them “juhyo,” or ice monsters. The snowy formations on trees once spread across the country’s northern mountains. But they are at risk.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/7d334fe0-8c77-5b56-9e21-5373a0625ca5",
+      "web_url": "https://www.nytimes.com/2019/03/14/world/asia/japan-juhyo-snow-monsters-climate-change.html",
+      "word_count": 1064
+    },
+    {
+      "abstract": "A news outlet in Northern Ireland received a claim of responsibility for four devices posted to London and Glasgow, saying a fifth had also been sent.",
+      "byline": {
+        "original": "By Palko Karasz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Explosive Packages in U.K. Are Claimed as I.R.A. Attack, Police Say",
+        "kicker": "",
+        "print_headline": "British Police Investigating Link to I.R.A. In Bomb Case"
+      },
+      "_id": "nyt://article/34de5622-e52e-5206-a522-991ca62225cf",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Northern Ireland",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Irish Republican Army",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Scotland Yard (Metropolitan Police Service)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Ireland",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A package containing an explosive device was sent to the Compass Centre, an office building on the grounds of Heathrow Airport, near London, last week.",
+        "credit": "British Metropolitan Police, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/03/12/world/12UK-bombs/merlin_151694820_35b2a02c-398d-4595-aa5b-174907851d83-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/03/12/world/12UK-bombs/12UK-bombs-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2019-03-12T14:41:22Z",
+      "section_name": "World",
+      "snippet": "A news outlet in Northern Ireland received a claim of responsibility for four devices posted to London and Glasgow, saying a fifth had also been sent.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/34de5622-e52e-5206-a522-991ca62225cf",
+      "web_url": "https://www.nytimes.com/2019/03/12/world/europe/uk-explosive-packages-ira.html",
+      "word_count": 486
+    },
+    {
+      "abstract": "A reconstruction of the moment when a truck bearing humanitarian supplies was set on fire shows the likely cause was a Molotov cocktail thrown by a protester.",
+      "byline": {
+        "original": "By Nicholas Casey, Christoph Koettl and Deborah Acosta"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Footage Contradicts U.S. Claim That Nicolás Maduro Burned Aid Convoy",
+        "kicker": "",
+        "print_headline": "Maduro Burned Aid? Footage Shows Otherwise"
+      },
+      "_id": "nyt://article/b8b9ab4e-90c7-57d1-b65f-8fe3b8328674",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Guaido, Juan",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Maduro, Nicolas",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "United States Agency for International Development",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Video Recordings, Downloads and Streaming",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Rumors and Misinformation",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Natasha Vásquez/Afp",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/03/11/world/americas/11a2-truck/AIDTRUCK-articleLarge.jpg",
+          "height": 327,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/03/11/world/americas/11a2-truck/AIDTRUCK-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2019-03-10T09:00:08Z",
+      "section_name": "World",
+      "snippet": "A reconstruction of the moment when a truck bearing humanitarian supplies was set on fire shows the likely cause was a Molotov cocktail thrown by a protester.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/b8b9ab4e-90c7-57d1-b65f-8fe3b8328674",
+      "web_url": "https://www.nytimes.com/2019/03/10/world/americas/venezuela-aid-fire-video.html",
+      "word_count": 1361
+    },
+    {
+      "abstract": "The firings were portrayed as a badly needed consensus on electoral reform. The dismissed commissioners called the move a political decision by officials who hope to serve in a new government.",
+      "byline": {
+        "original": "By David Zucchino and Fahim Abed"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Afghan Government Fires Election Officials After Votes Tainted by Fraud Claims",
+        "kicker": "",
+        "print_headline": "Afghan Government Fires Officials Who Oversaw Elections Marred by Fraud"
+      },
+      "_id": "nyt://article/3b62030b-bbe1-560c-b27f-666bf4107239",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Appointments and Executive Changes",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Independent Election Commission (Afghanistan)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Ghani, Ashraf",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Ashraf Ghani of Afghanistan registered as a candidate for the presidential election last month in Kabul, the capital.",
+        "credit": "Rahmat Gul/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/02/13/world/13afghan-ghani/merlin_149479458_42a9d569-1d82-40b0-81fe-a39e092c066b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/02/13/world/13afghan-ghani/merlin_149479458_42a9d569-1d82-40b0-81fe-a39e092c066b-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2019-02-12T22:47:17Z",
+      "section_name": "World",
+      "snippet": "The firings were portrayed as a badly needed consensus on electoral reform. The dismissed commissioners called the move a political decision by officials who hope to serve in a new government.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3b62030b-bbe1-560c-b27f-666bf4107239",
+      "web_url": "https://www.nytimes.com/2019/02/12/world/asia/afghanistan-election-voter-fraud.html",
+      "word_count": 940
+    },
+    {
+      "abstract": "One Mexican state recently helped migrants reach a city on the border with Texas. Cities and other states helped in the past — for humanitarian reasons.",
+      "byline": {
+        "original": "By Elisabeth Malkin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fact Checking Trump’s Claim That Mexico Sent Migrants to the Border",
+        "kicker": "",
+        "print_headline": "Mix of Fact And Fiction On Migrants In Speech"
+      },
+      "_id": "nyt://article/e5430e54-62c8-50f3-9f93-e257fc009c59",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Illegal Immigration",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "State of the Union Message (US)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Central American migrants line up for food and get some rest at a temporary shelter in Piedras Negras, in the Mexican state of Coahuila, on the border with Texas.",
+        "credit": "Julio Cesar Aguilar/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/02/07/world/07mexico1/merlin_150249090_0605f28a-8a77-4c59-8a2e-4676c7778481-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/02/07/world/07mexico1/07mexico1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "18",
+      "print_section": "A",
+      "pub_date": "2019-02-06T17:37:43Z",
+      "section_name": "World",
+      "snippet": "One Mexican state recently helped migrants reach a city on the border with Texas. Cities and other states helped in the past — for humanitarian reasons.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/e5430e54-62c8-50f3-9f93-e257fc009c59",
+      "web_url": "https://www.nytimes.com/2019/02/06/world/americas/trump-state-union-migrants-border.html",
+      "word_count": 541
+    },
+    {
+      "abstract": "The win by Mr. Bukele, the former mayor of the country’s capital, offered a rebuke to the country’s main political parties.",
+      "byline": {
+        "original": "By Gene Palumbo and Elisabeth Malkin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Nayib Bukele, an Outsider Candidate, Claims Victory in El Salvador Election",
+        "kicker": "",
+        "print_headline": "Salvadorans’ Choice for President Is Rebuke to Two Traditional Parties"
+      },
+      "_id": "nyt://article/65a34147-4fa0-5e01-bdab-b949e80a7882",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "El Salvador",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Bukele, Nayib",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Calleja, Carlos",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Nayib Bukele after casting his ballot on Sunday in El Salvador.",
+        "credit": "Jose Cabezas/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/02/04/world/04salvador/merlin_150143091_2d52db39-e49f-474e-9f22-fca557f2d977-articleLarge.jpg",
+          "height": 394,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/02/04/world/04salvador/04salvador-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2019-02-04T04:28:23Z",
+      "section_name": "World",
+      "snippet": "The win by Mr. Bukele, the former mayor of the country’s capital, offered a rebuke to the country’s main political parties.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/65a34147-4fa0-5e01-bdab-b949e80a7882",
+      "web_url": "https://www.nytimes.com/2019/02/03/world/americas/salvador-bukele-election.html",
+      "word_count": 1108
+    },
+    {
+      "abstract": "Anastasia Vashukevich, who filmed herself on the yacht of one of Russia’s richest oligarchs, was arrested in Moscow after being deported from Thailand.",
+      "byline": {
+        "original": "By Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Escort Who Claimed to Have Proof of Russian Meddling Is Released From Detention",
+        "kicker": "",
+        "print_headline": "Escort Linked to Oligarch Is Released"
+      },
+      "_id": "nyt://article/031eb49e-92cf-5e46-a7bd-51d9e6fd7cd5",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Vashukevich, Anastasia",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kirillov, Alexander",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Deripaska, Oleg V",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Anastasia Vashukevich, a Belarusian escort and blogger who also goes by the name Nastya Rybka, at a court hearing in Moscow on Saturday.",
+        "credit": "Maxim Shipenkov/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/01/23/world/23escort/merlin_149435661_3eae2ef9-78db-4d08-bc1c-58160df0e5a6-articleLarge.jpg",
+          "height": 414,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/01/23/world/23escort/23escort-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2019-01-22T17:02:52Z",
+      "section_name": "World",
+      "snippet": "Anastasia Vashukevich, who filmed herself on the yacht of one of Russia’s richest oligarchs, was arrested in Moscow after being deported from Thailand.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/031eb49e-92cf-5e46-a7bd-51d9e6fd7cd5",
+      "web_url": "https://www.nytimes.com/2019/01/22/world/europe/nastya-rybka-russia.html",
+      "word_count": 472
+    },
+    {
+      "abstract": "The United Nations said the peacekeepers were killed, and 25 others wounded, while repelling an attack.",
+      "byline": {
+        "original": "By Rukmini Callimachi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Al Qaeda Claims U.N. Peacekeeper Attack That Killed 10 in Mali",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a58852fd-102e-5b19-a816-56a205fd1eba",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mali",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "United Nations peacekeepers patrolling the streets of Gao, Mali, in August.",
+        "credit": "Seyllou/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/01/21/world/21mali1/21mali1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/01/21/world/21mali1/21mali1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2019-01-20T21:55:48Z",
+      "section_name": "World",
+      "snippet": "The United Nations said the peacekeepers were killed, and 25 others wounded, while repelling an attack.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/a58852fd-102e-5b19-a816-56a205fd1eba",
+      "web_url": "https://www.nytimes.com/2019/01/20/world/africa/united-nations-peacekeepers-killed-mali.html",
+      "word_count": 459
+    },
+    {
+      "abstract": "Anastasia Vashukevich, who said she had recordings that shed light on meddling in the 2016 American election, had been deported from Thailand.",
+      "byline": {
+        "original": "By Alan Yuhas"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Belarusian Escort Who Claimed Evidence of Russian Meddling Is Detained in Moscow",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/edece157-e156-56e5-b836-f18f9f725b63",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Deportation",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kirillov, Alexander",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Vashukevich, Anastasia",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Deripaska, Oleg V",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Thailand",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Moscow (Russia)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Anastasia Vashukevich, a Belarusian escort who claimed to have knowledge of Russian election interference, before being deported from Thailand on Thursday.",
+        "credit": "Jorge Silva/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/01/18/world/18belarusian/merlin_149303439_130be940-f850-4ecf-b9fc-4116c8b97921-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/01/18/world/18belarusian/merlin_149303439_130be940-f850-4ecf-b9fc-4116c8b97921-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2019-01-18T01:11:10Z",
+      "section_name": "World",
+      "snippet": "Anastasia Vashukevich, who said she had recordings that shed light on meddling in the 2016 American election, had been deported from Thailand.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/edece157-e156-56e5-b836-f18f9f725b63",
+      "web_url": "https://www.nytimes.com/2019/01/17/world/europe/anastasia-vashukevich-nastya-rybka-detained.html",
+      "word_count": 618
+    },
+    {
+      "abstract": "The Shabab group, which has ties to Al Qaeda, struck a luxury hotel and an office complex in Kenya’s capital.",
+      "byline": {
+        "original": "By Kimiko de Freytas-Tamura"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Shabab Claim Responsibility for Deadly Assault on Nairobi Hotel-Office Complex",
+        "kicker": "",
+        "print_headline": "Militants Stage Deadly Assault at Kenyan Hotel-Office Complex"
+      },
+      "_id": "nyt://article/e7cea198-4ac7-571e-8e00-619e08e4aa70",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Shabab",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Nairobi (Kenya)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "DusitD2 Nairobi (Nairobi, Kenya, Hotel)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Survivors of the attack.",
+        "credit": "Andrew Renneisen/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/01/16/world/16nairobi-1-print/merlin_149213556_d892fa4e-9729-401b-be38-6a7e76e63b56-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/01/16/world/16nairobi-1-print/merlin_149213556_d892fa4e-9729-401b-be38-6a7e76e63b56-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2019-01-15T13:46:45Z",
+      "section_name": "World",
+      "snippet": "The Shabab group, which has ties to Al Qaeda, attacked a luxury hotel and an office complex in Kenya’s capital.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/e7cea198-4ac7-571e-8e00-619e08e4aa70",
+      "web_url": "https://www.nytimes.com/2019/01/15/world/africa/nairobi-attack.html",
+      "word_count": 1044
+    },
+    {
+      "abstract": "The blast Monday, which was heard across Kabul, killed at least four people and wounded 90. The militants said the target was a compound where foreigners lived.",
+      "byline": {
+        "original": "By Fatima Faizi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Deadly Bombing in Afghan Capital Is Claimed by Taliban",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/66e6d6f1-dcb5-5e22-b88c-e83d9dd08a1b",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "G4S PLC",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Afghans wounded in the blast receive treatment at a hospital in Kabul on Monday.",
+        "credit": "Omar Sobhani/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/01/15/world/15afghanistan1/merlin_149167029_7d59f375-72a8-4162-89ce-3c1ecd1b2de3-articleLarge.jpg",
+          "height": 406,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/01/15/world/15afghanistan1/15afghanistan1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2019-01-14T19:50:57Z",
+      "section_name": "World",
+      "snippet": "The blast Monday, which was heard across Kabul, killed at least four people and wounded 90. The militants said the target was a compound where foreigners lived.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/66e6d6f1-dcb5-5e22-b88c-e83d9dd08a1b",
+      "web_url": "https://www.nytimes.com/2019/01/14/world/asia/kabul-afghanistan-bombing.html",
+      "word_count": 273
+    },
+    {
+      "abstract": "At a moment when Poland finds itself torn by political conflicts that are cast as an existential fight for the country’s soul, the pope’s legacy is just one more battleground.",
+      "byline": {
+        "original": "By Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In a Divided Poland, Pope John Paul II Is Claimed by All Sides",
+        "kicker": "",
+        "print_headline": "Legacy of ‘Our Pope’ Forms One More Battle Line in a Divided Poland"
+      },
+      "_id": "nyt://article/052e3953-5b11-538a-8102-33879aa87903",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "John Paul II",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Poland",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Priests",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Krakow (Poland)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A man praying at a chapel in Krakow, Poland, before the blood-stained robes worn by Pope John Paul II when he was nearly killed by an assassin in 1981.",
+        "credit": "Maciek Nabrdalik for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/01/13/world/13poland-print/merlin_148356648_4618186f-1a79-48ab-b441-a13be4fc8ad8-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/01/13/world/13poland-print/27Wadowice1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2019-01-12T08:13:31Z",
+      "section_name": "World",
+      "snippet": "At a moment when Poland finds itself torn by political conflicts that are cast as an existential fight for the country’s soul, the pope’s legacy is just one more battleground.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/052e3953-5b11-538a-8102-33879aa87903",
+      "web_url": "https://www.nytimes.com/2019/01/12/world/europe/poland-pope-john-paul-ii-wadowice.html",
+      "word_count": 1244
+    },
+    {
+      "abstract": "The sheikh, a cousin of the king of Bahrain, had been accused of breaking a contract to pay $1.5 million for each of 26 meetings with movie stars.",
+      "byline": {
+        "original": "By Ceylan Yeginsu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "$40 Million Claim Against Bollywood-Loving Sheikh Dismissed by British Court",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0d4e962c-3469-5f1c-90f1-82941c0b6869",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Movies",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Khalifa, Hamad Isa Ali al-",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Bahrain",
+          "rank": 4
+        },
+        {
+          "name": "Keyword",
+          "value": "Bollywood",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Suits and Litigation (Civil)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2019-01-11T18:07:11Z",
+      "section_name": "World",
+      "snippet": "The sheikh, a cousin of the king of Bahrain, had been accused of breaking a contract to pay $1.5 million for each of 26 meetings with movie stars.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/0d4e962c-3469-5f1c-90f1-82941c0b6869",
+      "web_url": "https://www.nytimes.com/2019/01/11/world/europe/bollywood-sheikh-london-bahrain.html",
+      "word_count": 1249
+    },
+    {
+      "abstract": "The government accused the International Commission Against Impunity in Guatemala of interfering in its domestic affairs, and gave prosecutors 24 hours to leave.",
+      "byline": {
+        "original": "By Elisabeth Malkin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Guatemala Expels U.N.-Backed Anti-Corruption Panel, Claiming Overreach",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/29aa5cc3-3300-599d-8ebc-b628851e7c35",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Guatemala",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Guterres, Antonio",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Morales, Jimmy (1969- )",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Jovel, Sandra",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "President Jimmy Morales of Guatemala spoke at the National Palace in Guatemala City on Monday. The Guatemalan government said it would expel a United Nations-backed panel that investigates corruption.",
+        "credit": "Moises Castillo/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/01/08/world/08guatemala2/merlin_148882542_8682a198-d39a-43be-be5c-573a04da475f-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/01/08/world/08guatemala2/08guatemala2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2019-01-08T01:27:03Z",
+      "section_name": "World",
+      "snippet": "The government accused the International Commission Against Impunity in Guatemala of interfering in its affairs, and gave prosecutors 24 hours to leave.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/29aa5cc3-3300-599d-8ebc-b628851e7c35",
+      "web_url": "https://www.nytimes.com/2019/01/07/world/americas/guatemala-corruption-commission-united-nations.html",
+      "word_count": 751
+    },
+    {
+      "abstract": "President Ashraf Ghani contested President Trump’s claim that the Soviet Union invaded Afghanistan in 1979 to fight terrorists.",
+      "byline": {
+        "original": "By Alan Yuhas"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Afghan Leaders Dispute Trump’s Claim That Soviets Invaded to Fight Terrorists",
+        "kicker": "",
+        "print_headline": "Trump’s Claims on a Soviet Invasion Are Disputed"
+      },
+      "_id": "nyt://article/2a151a04-82c3-5da2-a45a-cefafe1b43e4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Ghani, Ashraf",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Rabbani, Salahuddin",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "USSR (Former Soviet Union)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Afghan rebels with a destroyed Soviet armored vehicle in February 1980.",
+        "credit": "Associated Press Photo",
+        "default": {
+          "url": "https://static01.nyt.com/images/2019/01/03/world/00AFGHANISTAN02/merlin_148721613_c811309c-e78a-43b0-a775-41a38c9f539e-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2019/01/03/world/00AFGHANISTAN02/00AFGHANISTAN02-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2019-01-04T00:01:05Z",
+      "section_name": "World",
+      "snippet": "President Ashraf Ghani contested President Trump’s claim that the Soviet Union invaded Afghanistan in 1979 to fight terrorists.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/2a151a04-82c3-5da2-a45a-cefafe1b43e4",
+      "web_url": "https://www.nytimes.com/2019/01/03/world/middleeast/trump-soviet-union-afghanistan.html",
+      "word_count": 440
+    }
+  ]
+}

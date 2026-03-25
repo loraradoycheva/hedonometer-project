@@ -1,0 +1,1184 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20220101",
+    "end_date": "20221231",
+    "fq": "(headline.default:(\"discuss\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 23,
+  "docs": [
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Constant Méheut"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "France’s defense minister visits Kyiv to discuss further military support.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/44562a1f-c5b1-5d61-b467-0811aba6d089",
+      "keywords": [],
+      "multimedia": {
+        "caption": "France’s defense minister, Sébastien Lecornu, second from right, visited a memorial to Ukrainian soldiers in Kyiv on Wednesday.",
+        "credit": "Sergei Supinsky/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/12/28/multimedia/28ukraine-briefing-france-ukraine-lecornu-1-c477/28ukraine-briefing-france-ukraine-lecornu-1-c477-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/12/28/multimedia/28ukraine-briefing-france-ukraine-lecornu-1-c477/28ukraine-briefing-france-ukraine-lecornu-1-c477-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-12-28T14:37:39Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/44562a1f-c5b1-5d61-b467-0811aba6d089",
+      "web_url": "https://www.nytimes.com/live/2022/12/28/world/russia-ukraine-news/frances-defense-minister-visits-kyiv-to-discuss-further-military-support",
+      "word_count": 366
+    },
+    {
+      "abstract": "The blast occurred a few miles from Poland’s border with Ukraine, on the same day that Russia launched a widespread missile attack on Ukraine.",
+      "byline": {
+        "original": "By Monika Pronczuk, Matina Stevis-Gridneff and Jim Tankersley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "G7 leaders held an emergency meeting to discuss the deadly blast in Poland.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4483c507-c3d9-535e-a9fc-649485f7d561",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Poland’s defense minister, Mariusz Błaszczak, arriving at a security meeting in Warsaw on Tuesday.",
+        "credit": "Radek Pietruszka/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/15/multimedia/15ukraine-briefing-poland-explosions-01-1-43d5/15ukraine-briefing-poland-explosions-01-1-43d5-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/15/multimedia/15ukraine-briefing-poland-explosions-01-1-43d5/15ukraine-briefing-poland-explosions-01-1-43d5-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-11-15T19:18:37Z",
+      "section_name": "World",
+      "snippet": "The blast occurred a few miles from Poland’s border with Ukraine, on the same day that Russia launched a widespread missile attack on Ukraine.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/4483c507-c3d9-535e-a9fc-649485f7d561",
+      "web_url": "https://www.nytimes.com/live/2022/11/14/world/russia-ukraine-war-news-g20/poland-explosion-ukraine-missile-strike",
+      "word_count": 738
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China says that Xi and Biden discussed Taiwan and cooperation.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fc793c1f-4cd7-5b3b-bcc2-aa1a1fe76ba1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Biden with Xi Jinping in Bali on Monday.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/14/world/14biden-xi-blog-china-readout/merlin_216619155_bbdb8587-4a37-4289-af6f-f13a1e3d89a6-articleLarge.jpg",
+          "height": 409,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/14/world/14biden-xi-blog-china-readout/14biden-xi-blog-china-readout-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-11-14T14:31:00Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/fc793c1f-4cd7-5b3b-bcc2-aa1a1fe76ba1",
+      "web_url": "https://www.nytimes.com/live/2022/11/14/world/biden-xi-meeting/china-says-that-xi-and-biden-discussed-taiwan-and-cooperation",
+      "word_count": 252
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Helene Cooper"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In a call, U.S. and Russian officials discuss Russia’s escalating threats against Ukraine.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/178e40e5-0961-533a-bd1f-d3b2311aa2e4",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Defense Secretary Lloyd Austin, in Washington, and Defense Minister Sergei Shoigu in Moscow.",
+        "credit": "Alexei Druzhinin and Rod Lamkey/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/10/23/world/23ukraine-briefing-austin/merlin_215233149_b3f24ffc-4f58-499e-aa2e-e02d6fb6060c-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/10/23/world/23ukraine-briefing-austin/23ukraine-briefing-austin-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-23T20:04:04Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/178e40e5-0961-533a-bd1f-d3b2311aa2e4",
+      "web_url": "https://www.nytimes.com/live/2022/10/24/world/-russia-ukraine-war-news/in-a-call-us-and-russian-officials-discuss-russias-escalating-threats-against-ukraine",
+      "word_count": 484
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Carly Olson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The head of the U.N.’s nuclear agency is visiting Kyiv to discuss security at the Zaporizhzhia nuclear plant.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/466b6fec-c561-5280-bcd8-a4ecfaf0d062",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Rafael Mariano Grossi, the director general of the International Atomic Energy Agency, said that establishing a nuclear safety zone at the Zaporizhzhia nuclear power plant was “more urgent than ever.”",
+        "credit": "Jim Huylebroek for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/05/world/05ukraine-briefing-zaporizhzhia01/merlin_212263167_e4460405-84a6-4a68-b665-bef92f5793a5-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/05/world/05ukraine-briefing-zaporizhzhia01/05ukraine-briefing-zaporizhzhia01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-06T05:01:32Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/466b6fec-c561-5280-bcd8-a4ecfaf0d062",
+      "web_url": "https://www.nytimes.com/2022/10/06/world/europe/head-of-uns-nuclear-agency-to-visit-kyiv-to-discuss-zaporizhzhia-nuclear-plant.html",
+      "word_count": 495
+    },
+    {
+      "abstract": "Russian commentators have been calling on President Vladimir V. Putin to bolster the army with recruits and to target Ukrainian infrastructure.",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A new draft in Russia ‘is not being discussed,’ the Kremlin says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/44b48de2-9a6e-57bb-8707-64c6660f69fd",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "A Ukrainian military vehicle on Monday in the Kharkiv region, where rapid Ukrainian gains have caused a stir in Russia.",
+        "credit": "Kostiantyn Liberov/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/13/multimedia/13ukraine-blog-russia-mobilization/13ukraine-blog-russia-mobilization-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/13/multimedia/13ukraine-blog-russia-mobilization/13ukraine-blog-russia-mobilization-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-09-13T15:28:17Z",
+      "section_name": "World",
+      "snippet": "Russian commentators have been calling on President Vladimir V. Putin to bolster the army with recruits and to target Ukrainian infrastructure.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/44b48de2-9a6e-57bb-8707-64c6660f69fd",
+      "web_url": "https://www.nytimes.com/2022/09/13/world/europe/russia-ukraine-war-draft-putin.html",
+      "word_count": 320
+    },
+    {
+      "abstract": "The threat of a meltdown looms large after several days of shelling in the area.",
+      "byline": {
+        "original": "By Carly Olson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.N. chief discusses nuclear safety concerns at Zaporizhzhia with Russia’s defense minister.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b6915592-9959-5d62-a6b7-d5440ed4b08e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Guterres, Antonio",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "International Atomic Energy Agency",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Zaporizhzhia (Ukraine)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Zaporizhzhia Power Plant (Ukraine)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The Zaporizhzhia nuclear complex, across the Dnipro River from Nikopol, Ukraine.",
+        "credit": "David Guttenfelder for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/15/world/15ukraine-briefing-un-nuclear-inspection02/merlin_210799506_9a7e8ebb-5a72-4e9e-8560-6c3716a6add5-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/15/world/15ukraine-briefing-un-nuclear-inspection02/15ukraine-briefing-un-nuclear-inspection02-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Live",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-08-15T23:20:11Z",
+      "section_name": "World",
+      "snippet": "The threat of a meltdown looms large after several days of shelling in the area.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b6915592-9959-5d62-a6b7-d5440ed4b08e",
+      "web_url": "https://www.nytimes.com/2022/08/16/world/europe/nuclear-power-plant-un-russia.html",
+      "word_count": 568
+    },
+    {
+      "abstract": "Ukraine said it was ready for Black Sea grain shipments to resume, while the top Russian and American diplomats talked about a prisoner swap involving the basketball star Brittney Griner.",
+      "byline": {
+        "original": "By Michael Schwirtz, Michael Crowley and Richard Pérez-Peña"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Blinken and Lavrov Discuss Griner in Their First Call of the War",
+        "kicker": "",
+        "print_headline": "Top U.S. and Russian Envoys Speak for First Time Since Invasion"
+      },
+      "_id": "nyt://article/428cd266-062b-523f-8e70-9cc4ca6263d9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Prisons and Prisoners",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Prisoners of War",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Lavrov, Sergey V",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Blinken, Antony J",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Griner, Brittney",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Bout, Viktor",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Whelan, Paul N",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Odessa (Ukraine)",
+          "rank": 14
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 15
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 16
+        }
+      ],
+      "multimedia": {
+        "caption": "A photograph released by the Russian government showing Foreign Minister Sergey V. Lavrov during a news conference on Friday in Tashkent, Uzbekistan.",
+        "credit": "Russian Foreign Ministry, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/07/29/world/29ukraine-ledeall-1/merlin_210755784_0b4511ef-85f6-473b-bbdd-1e8337b1eae2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/07/29/world/29ukraine-ledeall-1/29ukraine-ledeall-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2022-07-29T23:02:04Z",
+      "section_name": "World",
+      "snippet": "Ukraine said it was ready for Black Sea grain shipments to resume, while the top Russian and American diplomats talked about a prisoner swap involving the basketball star Brittney Griner.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/428cd266-062b-523f-8e70-9cc4ca6263d9",
+      "web_url": "https://www.nytimes.com/2022/07/29/world/europe/ukraine-russia-griner-blinken.html",
+      "word_count": 1291
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Daily podcast discusses the heat wave and climate change.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/11c54eec-a9b4-5627-96b6-05ea2101466a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-07-19T11:37:02Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/11c54eec-a9b4-5627-96b6-05ea2101466a",
+      "web_url": "https://www.nytimes.com/live/2022/07/19/us/weather-forecast-news-summer/the-daily-podcast-discusses-the-heat-wave-and-climate-change",
+      "word_count": 55
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As the war grinds on, world leaders discuss the cost of rebuilding Ukraine.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0217b17c-f1c7-5a08-ad5c-1adfcbfe5b73",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Prime Minister Denys Shmyhal of Ukraine, President Ignazio Cassis of Switzerland and Ursula von der Leyen, the president of the European Commission, in Lugano, Switzerland, on Monday.",
+        "credit": "Michael Buholzer/Agence France-Presse, via Pool/Afp Via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/07/04/us/04ukraine-briefing-recovery-conference/merlin_209531544_cfb3b8fa-a61e-4a90-9cd2-5a9fd8386355-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/07/04/us/04ukraine-briefing-recovery-conference/04ukraine-briefing-recovery-conference-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-07-04T12:02:25Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/0217b17c-f1c7-5a08-ad5c-1adfcbfe5b73",
+      "web_url": "https://www.nytimes.com/live/2022/07/04/world/russia-ukraine-war-news/as-the-war-grinds-on-world-leaders-discuss-the-cost-of-rebuilding-ukraine",
+      "word_count": 398
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Erika Solomon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Here is what foreign-policy experts are discussing ahead of the G7 meeting.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/314a54bf-936b-5ac6-9f07-13bf84cc08de",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Emmanuel Macron of France, second from left; Chancellor Olaf Scholz of Germany, center; and Prime Minister Mario Draghi of Italy, right, in Kyiv on June 16.",
+        "credit": "Viacheslav Ratynskyi/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/06/26/world/26ukraine-briefing-key-questions-01/merlin_208631643_61e7b38a-776f-438f-8817-991fb1bd4794-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/06/26/world/26ukraine-briefing-key-questions-01/26ukraine-briefing-key-questions-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-06-26T05:12:02Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/314a54bf-936b-5ac6-9f07-13bf84cc08de",
+      "web_url": "https://www.nytimes.com/2022/06/26/world/europe/the-g7-summit-will-be-all-about-ukraine-here-is-what-foreign-policy-experts-are-asking.html",
+      "word_count": 652
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Monika Pronczuk, Eduardo Medina, Safak Timur, Christina Anderson, Johanna Lemola and Dan Bilefsky"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Representatives from Finland and Sweden meet with Turkish officials to discuss NATO membership.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4627f98d-175d-5a42-aff3-cd663da46aae",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Turkish President Recep Tayyip Erdogan at an official welcome ceremony, in Ankara, Turkey, earlier this month.",
+        "credit": "Burhan Ozbilici/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/06/19/multimedia/19ukraine-briefing-finland-nato/19ukraine-briefing-finland-nato-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/06/19/multimedia/19ukraine-briefing-finland-nato/19ukraine-briefing-finland-nato-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-06-20T04:02:01Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/4627f98d-175d-5a42-aff3-cd663da46aae",
+      "web_url": "https://www.nytimes.com/live/2022/06/20/world/russia-ukraine-war-news/the-leaders-of-finland-and-sweden-will-meet-with-turkish-officials-to-discuss-nato-membership",
+      "word_count": 454
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Safak Timur"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia’s foreign minister will visit Turkey to discuss letting grain leave Ukraine by sea.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a59e9923-0fef-58e5-bb0a-2ed1517a82fc",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Grain bins in Boryspil, Ukraine.",
+        "credit": "Nicole Tung for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/31/world/31ukraine-blog-russia-turkey-grain/31ukraine-blog-russia-turkey-grain-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/31/world/31ukraine-blog-russia-turkey-grain/31ukraine-blog-russia-turkey-grain-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-31T10:30:19Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/a59e9923-0fef-58e5-bb0a-2ed1517a82fc",
+      "web_url": "https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war-news/russias-foreign-minister-will-visit-turkey-to-discuss-letting-grain-leave-ukraine-by-sea",
+      "word_count": 306
+    },
+    {
+      "abstract": "The reporter Astead Herndon hosted a discussion of our reporting in a live audio conversation on Twitter.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "What’s next for Haiti? An activist and a scholar discuss the future.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/50312e01-e2da-5e95-99cf-b501701ee960",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-27T20:37:03Z",
+      "section_name": "World",
+      "snippet": "The reporter Astead Herndon hosted a discussion of our reporting in a live audio conversation on Twitter.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/50312e01-e2da-5e95-99cf-b501701ee960",
+      "web_url": "https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom/whats-next-for-haiti-an-activist-and-a-scholar-discuss-the-future",
+      "word_count": 203
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Farnaz Fassihi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Security Council meeting discusses efforts to examine possible war crimes by Russia.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c5cf2aea-c4b5-58c5-82b5-5cc4ad4b6aa5",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "Volodymyr Petrov/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/27/world/-27vid-icc-russia-war-crimes-cover/merlin_205452015_d58efe71-aeaf-49bd-a99a-4251cdb0725c-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/27/world/-27vid-icc-russia-war-crimes-cover/-27vid-icc-russia-war-crimes-cover-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-28T03:14:57Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/c5cf2aea-c4b5-58c5-82b5-5cc4ad4b6aa5",
+      "web_url": "https://www.nytimes.com/live/2022/04/28/world/ukraine-russia-war-news/un-security-council-meeting-aims-to-examine-possible-war-crimes-by-russia",
+      "word_count": 584
+    },
+    {
+      "abstract": "The report adds to evidence of indiscriminate killings by Russian forces. It could not be confirmed whether the radio transmissions collected by German intelligence were from Bucha or another place near the capital, an official said.",
+      "byline": {
+        "original": "By Shashank Bengali and Katrin Bennhold"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russians discussed killings of civilians in radio traffic intercepted by Germany, officials say.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e6037e34-20fa-5ae9-97b4-40a68a5009d9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Members of Ukraine’s Territorial Defense Force searched Bucha, a suburb of Kyiv, the capital, for mines and bodies on Wednesday.",
+        "credit": "Ivor Prickett for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/07/world/07ukraine-blog-germany-intelligence/merlin_205087812_3a8f1b8c-0351-48b0-a175-4286af91f9b1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/07/world/07ukraine-blog-germany-intelligence/07ukraine-blog-germany-intelligence-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-07T17:09:58Z",
+      "section_name": "World",
+      "snippet": "The report adds to evidence of indiscriminate killings by Russian forces. It could not be confirmed whether the radio transmissions collected by German intelligence were from Bucha or another place near the capital, an official said.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/e6037e34-20fa-5ae9-97b4-40a68a5009d9",
+      "web_url": "https://www.nytimes.com/2022/04/07/world/europe/bucha-killings-russian-communications-intercepted.html",
+      "word_count": 297
+    },
+    {
+      "abstract": "Russia’s invasion of Ukraine “creates a new security reality” in Europe, the NATO secretary general said.",
+      "byline": {
+        "original": "By Victoria Kim"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "NATO defense ministers will discuss sending ‘substantially more forces’ to its eastern borders.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/73a0415f-3119-5fa6-a547-e5bce28b4c6e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The International Peacekeeping and Security Center in western Ukraine early Sunday after an attack near the Polish border.",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/15/world/15ukraine-blog-nato-posture1/merlin_203829927_c51ee62c-c42f-40a5-bf0f-f2b0386cfe33-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/15/world/15ukraine-blog-nato-posture1/15ukraine-blog-nato-posture1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-16T04:00:33Z",
+      "section_name": "World",
+      "snippet": "Russia’s invasion of Ukraine “creates a new security reality” in Europe, the NATO secretary general said.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/73a0415f-3119-5fa6-a547-e5bce28b4c6e",
+      "web_url": "https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war/nato-defense-russia",
+      "word_count": 322
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anton Troianovski"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Moscow now says it’s willing to talk after Ukraine’s leader cites an openness to discussing ‘neutral status.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fa11d3ed-9c28-5290-9499-9ff3d51f28c8",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Vladimir V. Putin at the Kremlin on Thursday.",
+        "credit": "Pool photo by Alexey Nikolsky",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/25/world/25ukraine-briefing-talks-update/25ukraine-briefing-talks-update-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/25/world/25ukraine-briefing-talks-update/25ukraine-briefing-talks-update-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-25T13:51:57Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/fa11d3ed-9c28-5290-9499-9ff3d51f28c8",
+      "web_url": "https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war/moscow-now-says-its-willing-to-talk-after-ukraines-leader-cites-an-openness-to-discussing-neutral-status",
+      "word_count": 342
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael D. Shear and Constant Méheut"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "President Biden agrees ‘in principle’ to meet with Putin to discuss Ukraine crisis.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f8940d39-ad8a-5be8-b06e-97a5f400ed07",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Biden arriving to deliver remarks on Ukraine on Friday. On Sunday, the White House signaled that a meeting with the Russian president may be on the table.",
+        "credit": "Sarahbeth Maney/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/20/multimedia/20ukraine-briefing-biden-putin-macron-01/20ukraine-briefing-biden-putin-macron-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/20/multimedia/20ukraine-briefing-biden-putin-macron-01/20ukraine-briefing-biden-putin-macron-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-21T14:55:27Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/f8940d39-ad8a-5be8-b06e-97a5f400ed07",
+      "web_url": "https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-putin-biden/president-biden-agrees-in-principle-to-meet-with-putin-to-discuss-ukraine-crisis",
+      "word_count": 638
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Listen to ‘The Daily’: Dr. Fauci discusses what the next stage of the pandemic might look like.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/10390ae0-9cbd-567d-83d4-ae81d9c6f0ea",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Podcasts",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-01T10:29:17Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/10390ae0-9cbd-567d-83d4-ae81d9c6f0ea",
+      "web_url": "https://www.nytimes.com/live/2022/02/01/world/covid-19-cases-vaccine/the-daily-dr-fauci-discusses-what-the-next-stage-of-the-pandemic-might-look-like",
+      "word_count": 125
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Top diplomats from Russia and the U.S. discuss the Ukraine crisis, but no breakthrough is reported.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/55ab4d4d-87fd-53c0-9d54-c547782c4355",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Russia and the United States clashed at a U.N. Security Council meeting on Monday over a massive Russian military buildup on the Ukrainian border. ",
+        "credit": "Andrew Kelly/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/31/world/31ukraine-briefing-lede-new-1/merlin_201131916_a826af32-d74f-400a-9a1a-085d05d1a1c2-articleLarge.jpg",
+          "height": 394,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/31/world/31ukraine-briefing-lede-new-1/31ukraine-briefing-video-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-01T09:00:15Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/55ab4d4d-87fd-53c0-9d54-c547782c4355",
+      "web_url": "https://www.nytimes.com/live/2022/02/01/world/russia-ukraine-news/top-diplomats-from-russia-and-the-us-will-discuss-the-ukraine-crisis-today",
+      "word_count": 490
+    },
+    {
+      "abstract": "Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time.",
+      "byline": {
+        "original": "By Patrick Kingsley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Netanyahu’s Lawyers Discuss a Plea Bargain to End His Graft Trial",
+        "kicker": "",
+        "print_headline": "Lawyers Talk Of Plea Deal For Netanyahu To Avoid Jail"
+      },
+      "_id": "nyt://article/97224353-d8b9-5e8e-88ad-522d860c4934",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Likud Party (Israel)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Plea Bargaining",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Benjamin Netanyahu at a hearing in Jerusalem in November. The talks are the latest twist in a legal process that began in 2016 after claims that Mr. Netanyahu had accepted gifts in exchange for political favors.",
+        "credit": "Pool photo by Maya Alleruzzo",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/16/world/16isarel/merlin_198239553_9e73e11c-b721-4e29-a4f7-e5d6852349f2-articleLarge.jpg",
+          "height": 398,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/16/world/16isarel/16isarel-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2022-01-16T15:14:08Z",
+      "section_name": "World",
+      "snippet": "Benjamin Netanyahu, Israel’s former prime minister, has pleaded not guilty in a corruption case. But his lawyers are negotiating a deal in which he might accept some charges to avoid jail time.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/97224353-d8b9-5e8e-88ad-522d860c4934",
+      "web_url": "https://www.nytimes.com/2022/01/16/world/middleeast/israel-netanyahu.html",
+      "word_count": 932
+    },
+    {
+      "abstract": "The coming talks in Geneva are bilateral, reviving old fears that the two Cold War powers will forge a deal on their own.",
+      "byline": {
+        "original": "By Steven Erlanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. and Russia Will Discuss European Security, but Without Europeans",
+        "kicker": "",
+        "print_headline": "As U.S. Barters With Russia, Europe Is Sidelined"
+      },
+      "_id": "nyt://article/40186510-835d-54a2-a6b1-85357f774096",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "North Atlantic Treaty Organization",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Borrell Fontelles, Josep",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Brussels (Belgium)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Ukrainian reservists taking part in a military exercise last month near Kyiv, Ukraine.",
+        "credit": "Sergei Supinsky/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/09/world/09ukraine-europe1/09ukraine-europe1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/09/world/09ukraine-europe1/09ukraine-europe1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2022-01-10T08:51:08Z",
+      "section_name": "World",
+      "snippet": "The coming talks in Geneva are bilateral, reviving old fears that the two Cold War powers will forge a deal on their own.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/40186510-835d-54a2-a6b1-85357f774096",
+      "web_url": "https://www.nytimes.com/2022/01/10/world/europe/us-russia-europe-ukraine-nato.html",
+      "word_count": 1197
+    }
+  ]
+}

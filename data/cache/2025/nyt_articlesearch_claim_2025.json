@@ -1,0 +1,4033 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20250101",
+    "end_date": "20251231",
+    "fq": "(headline.default:(\"claim\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 47,
+  "docs": [
+    {
+      "abstract": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing.",
+      "byline": {
+        "original": "By Ruth Maclean, Saikou Jammeh, Ismail Auwal and Eric Schmitt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/12e56ed3-8764-5535-a763-27e2845440c9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "US Strikes on ISIS in Nigeria (2025- )",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Nigeria",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Africa",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Christians and Christianity",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Tinubu, Bola Ahmed",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump at Mar-a-Lago in Palm Beach, Fla., on Monday. He said that the targets of Thursday’s strike on Sokoto State in Nigeria were members of the Islamic State.",
+        "credit": "Eric Lee for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/12/26/multimedia/26int-nigeria-assess-qcph/26int-nigeria-assess-qcph-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/12/26/multimedia/26int-nigeria-assess-qcph/26int-nigeria-assess-qcph-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-12-26T16:08:54Z",
+      "section_name": "World",
+      "snippet": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/12e56ed3-8764-5535-a763-27e2845440c9",
+      "web_url": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
+      "word_count": 1176
+    },
+    {
+      "abstract": "After officials called the presidential race for Nasry Asfura, his rival, Salvador Nasralla, disputed the result and expressed ire over the U.S. role.",
+      "byline": {
+        "original": "By Jack Nicas, Emiliano Rodríguez Mega and Jeff Ernst"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Honduran Candidate Claims Fraud After Trump-Backed Opponent Is Declared Victor",
+        "kicker": "",
+        "print_headline": "In Honduras, Election of Trump Ally Is in Dispute"
+      },
+      "_id": "nyt://article/2f77ecdd-eed8-5f7c-b546-a1fa926e4bb3",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Honduras",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Asfura, Nasry",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Nasralla, Salvador",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Organization of American States",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Rubio, Marco",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Nasry Asfura in Tegucigalpa, Honduras, last month.",
+        "credit": "Orlando Sierra/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/12/25/multimedia/25int-honduras-election-cqmk/25int-honduras-election-cqmk-articleLarge.jpg",
+          "height": 403,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/12/25/multimedia/25int-honduras-election-cqmk/25int-honduras-election-cqmk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2025-12-25T17:40:20Z",
+      "section_name": "World",
+      "snippet": "After officials called the presidential race for Nasry Asfura, his rival, Salvador Nasralla, disputed the result and expressed ire over the U.S. role.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/2f77ecdd-eed8-5f7c-b546-a1fa926e4bb3",
+      "web_url": "https://www.nytimes.com/2025/12/25/world/americas/honduras-election-dispute.html",
+      "word_count": 840
+    },
+    {
+      "abstract": "President Trump said the United States wanted to reclaim expropriated oil assets, setting off a nationalist reaction in a country where the resource holds a mythical status.",
+      "byline": {
+        "original": "By Simon Romero"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump’s Claim That Venezuela ‘Stole’ U.S. Oil Fields Touches Nationalist Nerve",
+        "kicker": "news analysis",
+        "print_headline": "Claim of Stolen Oil Hits Nerve in Venezuela"
+      },
+      "_id": "nyt://article/578bdf31-c73b-5371-bdb8-21177a03c47d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Nationalization of Industry",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Chevron Corporation",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Exxon Mobil Corp",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "ConocoPhillips",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Petroleos de Venezuela SA",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Organization of the Petroleum Exporting Countries",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Derricks in the Maracaibo oil fields of Venezuela in the early 20th century. American oil companies invested millions of dollars in the region, generating profits that flowed to the United States, rather than Venezuela. ",
+        "credit": "Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/12/17/multimedia/17int-venezuela-oil-history-vhbg/17int-venezuela-oil-history-vhbg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/12/17/multimedia/17int-venezuela-oil-history-vhbg/17int-venezuela-oil-history-vhbg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2025-12-17T23:25:29Z",
+      "section_name": "World",
+      "snippet": "President Trump said the United States wanted to reclaim expropriated oil assets, setting off a nationalist reaction in a country where the resource holds a mythical status.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/578bdf31-c73b-5371-bdb8-21177a03c47d",
+      "web_url": "https://www.nytimes.com/2025/12/17/world/americas/trump-venezuela-oil-fields-stolen-claims.html",
+      "word_count": 878
+    },
+    {
+      "abstract": "The conflict appeared to have continued unabated on Saturday morning, a day after President Trump said a cease-fire was supposed to have resumed.",
+      "byline": {
+        "original": "By Sui-Lee Wee and Sun Narin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Thailand Rejects Trump’s Claim That It Reached a Cease-Fire With Cambodia",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/79ba3ebb-34b3-5dd1-8caf-d1950c4e988d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Thailand",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Cambodia",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Anutin Charnvirakul (1966- )",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Hun Manet (1977- )",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Ibrahim, Anwar",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "A damaged bridge in Cambodia’s Pursat Province on Saturday.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/12/13/multimedia/13int-thailand-cambodia-pwqf/13int-thailand-cambodia-pwqf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/12/13/multimedia/13int-thailand-cambodia-pwqf/13int-thailand-cambodia-pwqf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-12-13T07:20:45Z",
+      "section_name": "World",
+      "snippet": "The conflict appeared to have continued unabated on Saturday morning, a day after President Trump said a cease-fire was supposed to have resumed.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/79ba3ebb-34b3-5dd1-8caf-d1950c4e988d",
+      "web_url": "https://www.nytimes.com/2025/12/13/world/asia/thailand-cambodia-trump-ceasefire.html",
+      "word_count": 813
+    },
+    {
+      "abstract": "Looking to shake off Moscow’s cultural influences, Kyiv has been seeking to highlight the Ukrainian roots of Kazimir Malevich, a renowned avant-garde painter.",
+      "byline": {
+        "original": "By Constant Méheut"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Another Front in the War in Ukraine: Who Gets to Claim a Famed Artist?",
+        "kicker": "",
+        "print_headline": "Ukraine Mobilizes to Reclaim the Legacy of a Pioneering Artist"
+      },
+      "_id": "nyt://article/de5c424a-ba2a-518d-b92c-ee9064665355",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Destruction of Cultural Antiquities and Heritage",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Culture (Arts)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Art",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Museums",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Malevich, Kasimir",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A train car dedicated to Kazimir Malevich in Kyiv, Ukraine, in October.",
+        "credit": "Oksana Parafeniuk for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/00int-ukraine-malevich-01-vpgc/00int-ukraine-malevich-01-vpgc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/00int-ukraine-malevich-01-vpgc/00int-ukraine-malevich-01-vpgc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2025-12-09T10:24:52Z",
+      "section_name": "World",
+      "snippet": "Looking to shake off Moscow’s cultural influences, Kyiv has been seeking to highlight the Ukrainian roots of Kazimir Malevich, a renowned avant-garde painter.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/de5c424a-ba2a-518d-b92c-ee9064665355",
+      "web_url": "https://www.nytimes.com/2025/12/09/world/europe/ukraine-malevich-artist.html",
+      "word_count": 1339
+    },
+    {
+      "abstract": "The opposition has accused the president of putting a general in charge of the government so that he could stay in power and lead by proxy.",
+      "byline": {
+        "original": "By Saikou Jammeh and Ruth Maclean"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Guinea-Bissau Installs Military Ruler After Claims of a ‘Fabricated’ Coup",
+        "kicker": "",
+        "print_headline": "Military Leader Installed After Guinea-Bissau Coup"
+      },
+      "_id": "nyt://article/239ed6b9-e8cf-5d6e-a5e5-8f84b08032f3",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coups D'Etat and Attempted Coups D'Etat",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Guinea-Bissau",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Embalo, Umaro Sissoco",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Dias, Fernando (1978- )",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Inta-a, Horta",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "General Horta Inta-a during his swearing-in ceremony as the transitional leader of Guinea-Bissau.",
+        "credit": "Patrick Meinhardt/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/11/27/multimedia/27int-guinea-bissau-coup-wfvh/27int-guinea-bissau-coup-wfvh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/11/27/multimedia/27int-guinea-bissau-coup-wfvh/27int-guinea-bissau-coup-wfvh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2025-11-27T17:35:17Z",
+      "section_name": "World",
+      "snippet": "The opposition has accused the president of putting a general in charge of the government so that he could stay in power and lead by proxy.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/239ed6b9-e8cf-5d6e-a5e5-8f84b08032f3",
+      "web_url": "https://www.nytimes.com/2025/11/27/world/africa/guinea-bissau-coup.html",
+      "word_count": 702
+    },
+    {
+      "abstract": "Opposition leader Maria Corina Machado faces criticism that she is exaggerating threats posed by Venezuela’s leader to justify U.S. force to overthrow him.",
+      "byline": {
+        "original": "By Simon Romero"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Venezuela’s Nobel Winner Pushes False Claims About Maduro, Critics Say",
+        "kicker": "",
+        "print_headline": "Questions Are Raised as Maduro’s Foes Contend He Runs Drug Cartels"
+      },
+      "_id": "nyt://article/25070db0-eb56-57fd-8339-62acb4b6a459",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Smuggling",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Cartels",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Rumors and Misinformation",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Cartel de Los Soles",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Tren de Aragua (Gang)",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Capriles Radonski, Henrique",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Machado, Maria Corina",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Maduro, Nicolas",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "Maria Corina Machado has argued that Nicolás Maduro simultaneously heads two different drug trafficking organizations that threaten U.S. national security. ",
+        "credit": "Adriana Loureiro Fernandez for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/11/20/multimedia/00int-venezuela-opposition-ftzc/00int-venezuela-opposition-ftzc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/11/20/multimedia/00int-venezuela-opposition-ftzc/00int-venezuela-opposition-ftzc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-11-26T10:02:01Z",
+      "section_name": "World",
+      "snippet": "Opposition leader Maria Corina Machado faces criticism that she is exaggerating threats posed by Venezuela’s leader to justify U.S. force to overthrow him.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/25070db0-eb56-57fd-8339-62acb4b6a459",
+      "web_url": "https://www.nytimes.com/2025/11/26/world/americas/maria-machado-maduro-venezuela.html",
+      "word_count": 1476
+    },
+    {
+      "abstract": "Officials have accused the United States of foreign interference and called on Washington to support the country’s democracy instead of fomenting division.",
+      "byline": {
+        "original": "By Ruth Maclean, Saikou Jammeh and Ismail Auwal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Nigeria, in Trump’s Cross Hairs, Rejects Christian Genocide Claims",
+        "kicker": "",
+        "print_headline": "Nigeria, Battered by Insurgents, Rejects Christian Massacre Claims"
+      },
+      "_id": "nyt://article/fcd6d314-d9c1-547c-b638-9f642fe621ef",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Africa",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Nigeria",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Christians and Christianity",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Religion and Belief",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "Honoring late Pope Francis at the Holy Cross Cathedral Church in Lagos Nigeria, in April.",
+        "credit": "Sunday Alamba/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/11/04/multimedia/04int-nigeria-trump-christianity-1-bvmg/04int-nigeria-trump-christianity-1-bvmg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/11/04/multimedia/04int-nigeria-trump-christianity-1-bvmg/04int-nigeria-trump-christianity-1-bvmg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2025-11-04T19:36:44Z",
+      "section_name": "World",
+      "snippet": "Officials have accused the United States of foreign interference and called on Washington to support the country’s democracy instead of fomenting division.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/fcd6d314-d9c1-547c-b638-9f642fe621ef",
+      "web_url": "https://www.nytimes.com/2025/11/04/world/africa/nigeria-rejects-trump-christian-killings.html",
+      "word_count": 1418
+    },
+    {
+      "abstract": "The U.N.’s human rights chief condemned deadly military attacks on vessels near South and Central America and called for an independent investigation.",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Says Strikes on Boats Trump Claims Are Smuggling Drugs Are Illegal",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c7c63488-08a9-5ec4-a355-8ada94eac5db",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Turk, Volker",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Defense Department",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Presidential Power (US)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Smuggling",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Cartels",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Targeted Killings",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "The U.N.’s human right chief, Volker Türk, said the attacks were “unacceptable” and must stop.",
+        "credit": "Fabrice Coffrini/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/10/31/world/31un-trump-caribbean-strikes-001/31un-trump-caribbean-strikes-001-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/10/31/world/31un-trump-caribbean-strikes-001/31un-trump-caribbean-strikes-001-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-10-31T14:11:01Z",
+      "section_name": "World",
+      "snippet": "The U.N.’s human rights chief condemned deadly military attacks on vessels near South and Central America and called for an independent investigation.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/c7c63488-08a9-5ec4-a355-8ada94eac5db",
+      "web_url": "https://www.nytimes.com/2025/10/31/world/americas/un-us-military-boat-strikes.html",
+      "word_count": 353
+    },
+    {
+      "abstract": "By withholding soybean purchases and rare-earth exports, China extracted relief from U.S. tariffs and delayed export controls, without conceding much in return.",
+      "byline": {
+        "original": "By Lily Kuo and David Pierson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Art of Letting Trump Claim a Win, While Walking Away Stronger",
+        "kicker": "News Analysis",
+        "print_headline": "China’s Win:  Allowing U.S.  To Claim One"
+      },
+      "_id": "nyt://article/610ceac2-0a0d-553f-a207-c766b6337b13",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Customs (Tariff)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Ministry of Commerce (China)",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Rare Earths",
+          "rank": 13
+        },
+        {
+          "name": "Subject",
+          "value": "Soybeans",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump and China’s leader, Xi Jinping, after talks on Thursday ended. Mr. Xi said to Mr. Trump that both sides should avoid falling into a “vicious cycle of mutual retaliation.”",
+        "credit": "Haiyun Jiang/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/10/30/multimedia/30int-xi-trump-analysis-bfvw/30int-xi-trump-analysis-bfvw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/10/30/multimedia/30int-xi-trump-analysis-bfvw/30int-xi-trump-analysis-bfvw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2025-10-30T10:00:06Z",
+      "section_name": "World",
+      "snippet": "By withholding soybean purchases and rare-earth exports, China extracted relief from U.S. tariffs and delayed export controls, without conceding much in return.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/610ceac2-0a0d-553f-a207-c766b6337b13",
+      "web_url": "https://www.nytimes.com/2025/10/30/world/asia/china-trump-xi-trade.html",
+      "word_count": 1236
+    },
+    {
+      "abstract": "The Rapid Support Forces said it had seized the army headquarters in El Fasher, its last major obstacle to controlling the sprawling western region of Sudan.",
+      "byline": {
+        "original": "By Declan Walsh"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Sudanese Paramilitaries Claim Control of Key Army Garrison in Darfur",
+        "kicker": "",
+        "print_headline": "In Sudan, R.S.F. Casts Military Out Of Key Post"
+      },
+      "_id": "nyt://article/601658fc-1016-57fb-8578-a21431ed034c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Famine",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Rapid Support Forces (Sudan)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "El Fasher (Sudan)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Sudan",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Sudanese residents gathered in August to receive food in El Fasher, a city in Darfur that has been under a siege by the paramilitary Rapid Support Forces.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/10/26/world/26int-sudan-apol/26int-sudan-apol-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/10/26/world/26int-sudan-apol/26int-sudan-apol-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2025-10-26T11:22:23Z",
+      "section_name": "World",
+      "snippet": "The Rapid Support Forces said it had seized the army headquarters in El Fasher, its last major obstacle to controlling the sprawling western region of Sudan.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/601658fc-1016-57fb-8578-a21431ed034c",
+      "web_url": "https://www.nytimes.com/2025/10/26/world/africa/sudan-army-base.html",
+      "word_count": 749
+    },
+    {
+      "abstract": "Andrew Tate, an online influencer, and his brother Tristan, have been in a legal battle with a woman who accused them of harassing her after she gave testimony in Romania.",
+      "byline": {
+        "original": "By Isabella Kwai and Adeel Hassan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Judge Dismisses Most Claims Against Tate Brothers in Florida Lawsuit",
+        "kicker": "",
+        "print_headline": "Judge Tosses Most Claims In Lawsuit Against Tates"
+      },
+      "_id": "nyt://article/3dbfcd69-0c4b-50ea-870a-63a059d521af",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Human Trafficking",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Tate, Andrew (1986- )",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Tate, Tristan",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Romania",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Suits and Litigation (Civil)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Decisions and Verdicts",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Libel and Slander",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Tristan Tate, left, and his brother Andrew Tate in Bucharest, Romania, this year. ",
+        "credit": "Andrei Pungovschi/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/10/25/arts/25xp-tate/25xp-tate-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/10/25/arts/25xp-tate/25xp-tate-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "16",
+      "print_section": "A",
+      "pub_date": "2025-10-25T18:22:32Z",
+      "section_name": "World",
+      "snippet": "Andrew Tate, an online influencer, and his brother Tristan, have been in a legal battle with a woman who accused them of harassing her after she gave testimony in Romania.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3dbfcd69-0c4b-50ea-870a-63a059d521af",
+      "web_url": "https://www.nytimes.com/2025/10/25/world/europe/andrew-tate-florida-charges.html",
+      "word_count": 691
+    },
+    {
+      "abstract": "The government subtly rebuffed the president’s comments that it would stop buying Russian oil, as it tries to avoid a public fight and end a trade dispute with Washington.",
+      "byline": {
+        "original": "By Mujib Mashal and Pragati K.B."
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "India Tiptoes Around Trump’s Latest Claims on Russian Oil Purchases",
+        "kicker": "",
+        "print_headline": "India Subtly Rebuffs Claims on Russian Oil Purchases"
+      },
+      "_id": "nyt://article/c52536a4-a256-59ef-a48f-1b230e863cd4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Customs (Tariff)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump and Prime Minister Narendra Modi of India at a joint news conference at the White House in February.",
+        "credit": "Eric Lee/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/10/16/multimedia/16INT-INDIA-TRUMP-OIL-01-qpbh/16INT-INDIA-TRUMP-OIL-01-qpbh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/10/16/multimedia/16INT-INDIA-TRUMP-OIL-01-qpbh/16INT-INDIA-TRUMP-OIL-01-qpbh-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2025-10-16T12:00:18Z",
+      "section_name": "World",
+      "snippet": "The government subtly rebuffed the president’s comments that it would stop buying Russian oil, as it tries to avoid a public fight and end a trade dispute with Washington.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/c52536a4-a256-59ef-a48f-1b230e863cd4",
+      "web_url": "https://www.nytimes.com/2025/10/16/world/asia/india-trump-russia-oil.html",
+      "word_count": 829
+    },
+    {
+      "abstract": "Official results have not  been released, but Issa Tchiroma Bakary called on President Paul Biya, 92 years old, to concede.",
+      "byline": {
+        "original": "By Saikou Jammeh and Ruth Maclean"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Cameroon’s Opposition Candidate Claims Victory Over World’s Oldest President",
+        "kicker": "",
+        "print_headline": "World’s Oldest President Tries to Extend His 42-Year Rule in Cameroon Election"
+      },
+      "_id": "nyt://article/a15afe81-8e45-5239-9092-665539aa1a06",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Biya, Paul",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Cameroon",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Presidents and Presidency (US)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Voter Fraud (Election Fraud)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Generation Z",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "President Paul Biya of Cameroon at the only rally of his re-election campaign, on Oct. 7 in Maroua. He promised that if re-elected, he would reduce unemployment and poverty.",
+        "credit": "Robert Fimbaye/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/10/11/multimedia/11int-cameroon-elections-wtk-1-fbwp/11int-cameroon-elections-wtk-1-fbwp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/10/11/multimedia/11int-cameroon-elections-wtk-1-fbwp/11int-cameroon-elections-wtk-1-fbwp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2025-10-12T04:01:06Z",
+      "section_name": "World",
+      "snippet": "Official results have not  been released, but Issa Tchiroma Bakary called on President Paul Biya, 92 years old, to concede.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/a15afe81-8e45-5239-9092-665539aa1a06",
+      "web_url": "https://www.nytimes.com/2025/10/12/world/africa/cameroon-election-biya-president.html",
+      "word_count": 822
+    },
+    {
+      "abstract": "Regulators removed more sunscreens from shelves after they found multiple brands using a base formulation that failed to meet testing requirements.",
+      "byline": {
+        "original": "By John Yoon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Australia Expands Sunscreen Recalls Over False SPF Claims",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1ffb221a-0d32-5260-8923-ac62e74afc01",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sunscreen",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Skin Cancer",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Consumer Protection",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Recalls and Bans of Products",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Applying sunscreen on the beach at Manly in Sydney, in 2023.",
+        "credit": "Alexi Rosenfeld/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/10/02/multimedia/02xp-sunscreen/02xp-sunscreen-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/10/02/multimedia/02xp-sunscreen/02xp-sunscreen-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-10-02T11:28:13Z",
+      "section_name": "World",
+      "snippet": "Regulators removed more sunscreens from shelves after they found multiple brands using a base formulation that failed to meet testing requirements.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/1ffb221a-0d32-5260-8923-ac62e74afc01",
+      "web_url": "https://www.nytimes.com/2025/10/02/world/australia/australia-sunscreen-recall.html",
+      "word_count": 795
+    },
+    {
+      "abstract": "During his speech, the president also disparaged the work of the United Nations, which, he said, “did not even try to help” in any of the conflicts.",
+      "byline": {
+        "original": "By Pranav Baskar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Claims Again That He Has Ended Seven Wars. Here’s a Closer Look.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e3d4274a-43cc-5bc9-a56e-2584d67a4a6b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Peace Process",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "General Assembly (UN)",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "North Atlantic Treaty Organization",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Armenia",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Azerbaijan",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Cambodia",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Thailand",
+          "rank": 14
+        },
+        {
+          "name": "Location",
+          "value": "Congo, Democratic Republic of (Congo-Kinshasa)",
+          "rank": 15
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 16
+        },
+        {
+          "name": "Location",
+          "value": "Ethiopia",
+          "rank": 17
+        },
+        {
+          "name": "Location",
+          "value": "Sudan",
+          "rank": 18
+        },
+        {
+          "name": "Location",
+          "value": "Kosovo",
+          "rank": 19
+        },
+        {
+          "name": "Location",
+          "value": "Serbia",
+          "rank": 20
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 21
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump used a U.N. address to repeat his claim that he has ended seven wars around the world. ",
+        "credit": "Dave Sanders for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/23/multimedia/23unga-blog-trump-wars-topart-fclp/23unga-blog-trump-wars-topart-fclp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/23/multimedia/23unga-blog-trump-wars-topart-fclp/23unga-blog-trump-wars-topart-fclp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-09-23T16:00:21Z",
+      "section_name": "World",
+      "snippet": "During his speech, the president also disparaged the work of the United Nations, which, he said, “did not even try to help” in any of the conflicts.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/e3d4274a-43cc-5bc9-a56e-2584d67a4a6b",
+      "web_url": "https://www.nytimes.com/2025/09/23/world/trump-un-seven-wars.html",
+      "word_count": 894
+    },
+    {
+      "abstract": "After decades of claiming persecution, once marginalized parties latch on to the American activist’s assassination as proof of their victimization.",
+      "byline": {
+        "original": "By Jason Horowitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As Trump Arrives, Europe’s Right Claims Charlie Kirk as One of Their Own",
+        "kicker": "news analysis",
+        "print_headline": "As Trump Arrives, Europe’s Right Claims Kirk as One of Their Own"
+      },
+      "_id": "nyt://article/9a2f317d-6f40-550b-b29b-af972da489b2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Right-Wing Extremism and Alt-Right",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Chega (Portuguese Political Party)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Abascal, Santiago",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Madrid (Spain)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Conservatism (US Politics)",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Kirk, Charlie (1993- )",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Mourning Charlie Kirk outside the U.S. Embassy in Madrid last week.",
+        "credit": "Susana Vera/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/17/multimedia/17int-europe-right-1-jpzb/17int-europeright-1-jpzb-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/17/multimedia/17int-europe-right-1-jpzb/17int-europe-right-1-jpzb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2025-09-17T09:03:59Z",
+      "section_name": "World",
+      "snippet": "After decades of claiming persecution, once marginalized parties latch on to the American activist’s assassination as proof of their victimization.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/9a2f317d-6f40-550b-b29b-af972da489b2",
+      "web_url": "https://www.nytimes.com/2025/09/17/world/europe/europe-charlie-kirk-trump-far-right.html",
+      "word_count": 1249
+    },
+    {
+      "abstract": "Israeli officials said the attack at the crowded bus stop on Monday spurred, in part, the decision to launch Tuesday’s targeted strikes against Hamas leaders in Qatar.",
+      "byline": {
+        "original": "By Lara Jakes"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hamas Fighters Claim Responsibility for Bus Stop Shooting in Jerusalem",
+        "kicker": "",
+        "print_headline": "Hamas Fighters Claim Responsibility for Jerusalem Bus Stop Attack"
+      },
+      "_id": "nyt://article/3d4380a5-5602-5043-98f5-83aa3fd6cf44",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Jerusalem (Israel)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Members of an Israeli emergency team work at the scene of a shooting at a bus stop in Jerusalem on Monday.",
+        "credit": "Menahem Kahana/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/09/multimedia/09int-jerusalem-shooting-1-cpqj/09int-jerusalem-shooting-1-cpqj-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/09/multimedia/09int-jerusalem-shooting-1-cpqj/09int-jerusalem-shooting-1-cpqj-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2025-09-09T18:16:46Z",
+      "section_name": "World",
+      "snippet": "Israeli officials said the attack at the crowded bus stop on Monday spurred, in part, the decision to launch Tuesday’s targeted strikes against Hamas leaders in Qatar.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/3d4380a5-5602-5043-98f5-83aa3fd6cf44",
+      "web_url": "https://www.nytimes.com/2025/09/09/world/middleeast/hamas-responsibility-jerusalem-bus-shooting.html",
+      "word_count": 548
+    },
+    {
+      "abstract": "The British government condemned the remarks, made without evidence by the cardiologist, Dr. Aseem Malhotra, at an event for the anti-immigration party led by Nigel Farage.",
+      "byline": {
+        "original": "By Stephen Castle"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Cardiologist Draws Outcry With Claim Tying Vaccines to Royals’ Cancer",
+        "kicker": "",
+        "print_headline": "Doctor Berated for Claim Tying Vaccines to Cancer"
+      },
+      "_id": "nyt://article/9fdfb759-ac57-5c88-aac8-011a3d54c565",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Vaccination and Immunization",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Royal Families",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Cancer",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Buckingham Palace",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Reform UK (British Political Party)",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Farage, Nigel (1964- )",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Kennedy, Robert F Jr",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Dr. Aseem Malhotra at the Reform U.K. party conference at the NEC Birmingham, England, on Saturday.",
+        "credit": "Oli Scarff/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-vaccine-twvh/06int-uk-vaccine-twvh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-vaccine-twvh/06int-uk-vaccine-twvh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2025-09-06T22:49:21Z",
+      "section_name": "World",
+      "snippet": "The British government condemned the remarks, made without evidence by the cardiologist, Dr. Aseem Malhotra, at an event for the anti-immigration party led by Nigel Farage.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/9fdfb759-ac57-5c88-aac8-011a3d54c565",
+      "web_url": "https://www.nytimes.com/2025/09/06/world/europe/britain-vaccines-royal-family.html",
+      "word_count": 755
+    },
+    {
+      "abstract": "Five journalists, along with medical workers, were among the dead at Nasser Hospital. Prime Minister Benjamin Netanyahu said the military would investigate.",
+      "byline": {
+        "original": "By Isabel Kershner, Aaron Boxerman and Ameera Harouda"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "20 Killed in Gaza Hospital Strikes. Netanyahu Claims ‘Tragic Mishap.’",
+        "kicker": "",
+        "print_headline": "Israel Strikes Hospital Twice, Killing 5 Journalists"
+      },
+      "_id": "nyt://article/a675d2fb-022a-5b04-aef8-3a249245ae2f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Hospitals",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Al Jazeera",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Associated Press",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Committee to Protect Journalists",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Nasser Hospital (Gaza Strip)",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Thomson Reuters Corporation",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Khan Younis (Gaza Strip)",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "Palestinian medics helping an injured man at Nasser Hospital in Khan Younis, Gaza, on Monday.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/08/25/multimedia/25int-gaza-strike-01-mwbh/25int-gaza-strike-01-mwbh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/08/25/multimedia/25int-gaza-strike-01-mwbh/25int-gaza-strike-01-mwbh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2025-08-25T11:35:34Z",
+      "section_name": "World",
+      "snippet": "Five journalists, along with medical workers, were among the dead at Nasser Hospital. Prime Minister Benjamin Netanyahu said the military would investigate.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a675d2fb-022a-5b04-aef8-3a249245ae2f",
+      "web_url": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
+      "word_count": 1343
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "With Putin by his side, Trump repeats his claims of a ‘Russia Hoax.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1e3ecde4-55b6-5f24-a308-b124e7a63ef4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Mueller, Robert S III",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Alaska",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump and President Vladimir V. Putin of Russia at their news conference in Alaska on Friday.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/08/16/multimedia/16putin-trump-hoax-topart-ghqm/16putin-trump-hoax-topart-ghqm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/08/16/multimedia/16putin-trump-hoax-topart-ghqm/16putin-trump-hoax-topart-ghqm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Politics",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-08-16T16:48:58Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/1e3ecde4-55b6-5f24-a308-b124e7a63ef4",
+      "web_url": "https://www.nytimes.com/live/2025/08/16/world/trump-putin-meeting-alaska/with-putin-by-his-side-trump-repeats-his-claims-of-a-russia-hoax",
+      "word_count": 292
+    },
+    {
+      "abstract": "President Trump compared crime in Washington to violence in Latin American capitals. Mexico City’s mayor said “many parts of the world would like to have” her city’s safety.",
+      "byline": {
+        "original": "By Emiliano Rodríguez Mega and Ana Ionova"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mexico and Brazil Rebut Trump’s Claims About Violence in Their Cities",
+        "kicker": "",
+        "print_headline": "Latin American Leaders  Rebut Trump on Crime"
+      },
+      "_id": "nyt://article/4e041645-71db-56c4-b56f-11490ea71cd6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Crime and Criminals",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "National Guard",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Bolsonaro, Jair (1955- )",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Da Silva, Luiz Inacio Lula",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Sheinbaum, Claudia",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Washington (DC)",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Brasilia (Brazil)",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Mexico City (Mexico)",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "Mayor Clara Brugada of Mexico City, center, with President Claudia Sheinbaum of Mexico, right, during an event in January in Mexico City focused on a gun-buyback program.",
+        "credit": "Luis Antonio Rojas for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/08/12/multimedia/12int-latam-reax-bvpm/12int-latam-reax-bvpm-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/08/12/multimedia/12int-latam-reax-bvpm/12int-latam-reax-bvpm-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2025-08-12T17:45:03Z",
+      "section_name": "World",
+      "snippet": "President Trump compared crime in Washington to violence in Latin American capitals. Mexico City’s mayor said “many parts of the world would like to have” her city’s safety.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/4e041645-71db-56c4-b56f-11490ea71cd6",
+      "web_url": "https://www.nytimes.com/2025/08/12/world/americas/trump-crime-mexico-brazil.html",
+      "word_count": 815
+    },
+    {
+      "abstract": "Opposition figures were held briefly at a New Delhi demonstration after accusing Narendra Modi’s ruling party of manipulating elections.",
+      "byline": {
+        "original": "By Mujib Mashal and Hari Kumar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hundreds of Indian Lawmakers Detained at a Protest Claiming Vote Rigging",
+        "kicker": "",
+        "print_headline": " Opposition Figures Detained As They Say Vote Was Rigged"
+      },
+      "_id": "nyt://article/9e171042-3228-591e-bf23-1069b8e1f1c4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Voter Fraud (Election Fraud)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Voting Rights, Registration and Requirements",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Delhi (India)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Bihar (India)",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Gandhi, Rahul",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Election Commission of India",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "Indian National Congress",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "Akhilesh Yadav, the president of the Samajwadi party, clambers over a barricade during a march led by India’s opposition parties in New Delhi on Monday.",
+        "credit": "Money Sharma/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/08/11/multimedia/11INT-INDIA-VOTE-hclt/11INT-INDIA-VOTE-hclt-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/08/11/multimedia/11INT-INDIA-VOTE-hclt/11INT-INDIA-VOTE-hclt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-08-11T13:02:13Z",
+      "section_name": "World",
+      "snippet": "Opposition figures were held briefly at a New Delhi demonstration after accusing Narendra Modi’s ruling party of manipulating elections.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9e171042-3228-591e-bf23-1069b8e1f1c4",
+      "web_url": "https://www.nytimes.com/2025/08/11/world/asia/india-election-arrests-modi.html",
+      "word_count": 849
+    },
+    {
+      "abstract": "The hack may have been part of a campaign to disrupt the sense of normalcy Russians have mostly enjoyed since the start of the war.",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pro-Ukrainian Hackers Claim Cyberattack as Aeroflot Grounds Flights",
+        "kicker": "",
+        "print_headline": "As Aeroflot Grounds Flights, Pro-Ukraine Hackers Claim Cyberattack"
+      },
+      "_id": "nyt://article/68f9090b-ae54-5290-b228-8d759e63dcb3",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Aeroflot Russian Airlines",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Cyberattacks and Hackers",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Delays (Transportation)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "People waiting for flights at the Sheremetyevo International Airport near Moscow on Monday.",
+        "credit": "Tatyana Makeyeva/Agence France-Press — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/07/28/multimedia/28int-russia-aeroflot-jwzb/28int-russia-aeroflot-jwzb-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/07/28/multimedia/28int-russia-aeroflot-jwzb/28int-russia-aeroflot-jwzb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2025-07-28T18:56:10Z",
+      "section_name": "World",
+      "snippet": "The hack may have been part of a campaign to disrupt the sense of normalcy Russians have mostly enjoyed since the start of the war.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/68f9090b-ae54-5290-b228-8d759e63dcb3",
+      "web_url": "https://www.nytimes.com/2025/07/28/world/europe/aeroflot-hackers-ukraine.html",
+      "word_count": 543
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Tyler Pager"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump reiterates claims about Iran’s nuclear program that contradict early intelligence findings.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0c74595a-b11b-5bfa-b1b0-f460dad87ae6",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Donald Trump in The Hague on Tuesday.",
+        "credit": "Haiyun Jiang/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/06/25/multimedia/25israel-iran-trump-commen-01-hzfm-gd/25israel-iran-trump-commen-01-hzfm-gd-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/06/25/multimedia/25israel-iran-trump-commen-01-hzfm-gd/25israel-iran-trump-commen-01-hzfm-gd-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-06-25T10:42:05Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/0c74595a-b11b-5bfa-b1b0-f460dad87ae6",
+      "web_url": "https://www.nytimes.com/live/2025/06/25/world/iran-israel-ceasefire-trump/trump-reiterates-claims-about-irans-nuclear-program-that-contradict-early-intelligence-findings",
+      "word_count": 505
+    },
+    {
+      "abstract": "Iran’s response to the attacks on its nuclear facilities killed no Americans and each nation has a victory narrative. But an hours-old cease-fire appeared fragile and President Trump lashed out at Israel and Iran over the state of the truce.",
+      "byline": {
+        "original": "By Farnaz Fassihi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Can Iran, Israel and the U.S. Now All Claim to Have Won?",
+        "kicker": "News Analysis",
+        "print_headline": "The Victor of Them All? Three Nations Say ‘Me.’"
+      },
+      "_id": "nyt://article/9b976134-6a43-5fa6-b194-96a784c40b28",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Iran-Israel War (2025- )",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Khamenei, Ali",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic Revolutionary Guards Corps",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Supreme National Security Council (Iran)",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Celebrating the attack on a U.S. base in Qatar, in Tehran on Monday. No Americans were killed in the attack, but it was trumpeted by Iranian media. ",
+        "credit": "Arash Khamooshi for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/07/23/multimedia/23int-iran-assess-qchw/23int-iran-assess-qchw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/07/23/multimedia/23int-iran-assess-qchw/23int-iran-assess-qchw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2025-06-24T01:47:53Z",
+      "section_name": "World",
+      "snippet": "Iran’s response to the attacks on its nuclear facilities killed no Americans and each nation has a victory narrative. But an hours-old cease-fire appeared fragile and President Trump lashed out at Israel and Iran over the state of the truce.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News Analysis",
+      "uri": "nyt://article/9b976134-6a43-5fa6-b194-96a784c40b28",
+      "web_url": "https://www.nytimes.com/2025/06/23/world/middleeast/iran-response-ceasefire-chance.html",
+      "word_count": 1071
+    },
+    {
+      "abstract": "A review by the bloc found Israel’s actions in Gaza may have breached obligations under a treaty that governs their relations. Israel called the report “a complete moral and methodological failure.”",
+      "byline": {
+        "original": "By Jeanna Smialek and Aaron Boxerman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "E.U.-Israeli Ties Are Further Strained by Claims of Potential Rights Violations",
+        "kicker": "",
+        "print_headline": "Gaza Report Adds Strain To E.U.’s Ties With Israel"
+      },
+      "_id": "nyt://article/20e7a862-b0bc-5240-ad66-ac88fb31e178",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Kallas, Kaja (1977- )",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Preparing bread in Gaza in April. Many bakeries were forced to close and flour supplies ran low after Israel imposed a blockade on food and fuel supplies that ended last month.",
+        "credit": "Saher Alghorra for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/06/23/multimedia/23int-israel-eu-01-tgwv/23int-israel-eu-01-tgwv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/06/23/multimedia/23int-israel-eu-01-tgwv/23int-israel-eu-01-tgwv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2025-06-23T12:16:48Z",
+      "section_name": "World",
+      "snippet": "A review by the bloc found Israel’s actions in Gaza may have breached obligations under a treaty that governs their relations. Israel called the report “a complete moral and methodological failure.”",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/20e7a862-b0bc-5240-ad66-ac88fb31e178",
+      "web_url": "https://www.nytimes.com/2025/06/23/world/europe/eu-israel-human-rights-gaza.html",
+      "word_count": 795
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Steven Erlanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Does Iran have another secret enrichment site, as it claims?",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ceadfd0f-ac50-57d0-b5d5-38d7e3ec8037",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The head of Iran’s Atomic Energy Organization, Mohammad Eslami, at a news conference in November in Tehran.",
+        "credit": "Abedin Taherkenareh/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/07/21/multimedia/21israel-iran-third-site01-zlmk/21israel-iran-third-site01-zlmk-articleLarge.jpg",
+          "height": 404,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/07/21/multimedia/21israel-iran-third-site01-zlmk/21israel-iran-third-site01-zlmk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-06-22T10:50:59Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/ceadfd0f-ac50-57d0-b5d5-38d7e3ec8037",
+      "web_url": "https://www.nytimes.com/live/2025/06/22/world/israel-iran-us-trump/does-iran-have-another-secret-enrichment-site-as-it-claims",
+      "word_count": 368
+    },
+    {
+      "abstract": "Iran’s state television urged people to delete WhatsApp, saying without evidence that the app was sending user information to Israel.",
+      "byline": {
+        "original": "By Jenny Gross and Leily Nikounazar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "WhatsApp Denies Iran’s Claim That It Is Spying for Israel",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/72b30527-1fc9-50ff-a818-faf6acf3bb06",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Instant Messaging",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Television",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Mobile Applications",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Instagram Inc",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "WhatsApp Inc",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A woman looking at news on a smartphone in Tehran on Saturday. Iran’s state broadcaster has urged people to remove WhatsApp from their phones.",
+        "credit": "Sasan/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/06/18/multimedia/18israel-iran-whatsapp-lmch/18israel-iran-whatsapp-lmch-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/06/18/multimedia/18israel-iran-whatsapp-lmch/18israel-iran-whatsapp-lmch-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-06-18T11:26:58Z",
+      "section_name": "World",
+      "snippet": "Iran’s state television urged people to delete WhatsApp, saying without evidence that the app was sending user information to Israel.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/72b30527-1fc9-50ff-a818-faf6acf3bb06",
+      "web_url": "https://www.nytimes.com/2025/06/18/world/middleeast/iran-whatsapp-delete.html",
+      "word_count": 255
+    },
+    {
+      "abstract": "Israeli c",
+      "byline": {
+        "original": "By Amelia Nierenberg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel claims it killed Iran’s top military commander, again.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/aae42b88-e727-52b7-a4cd-8b526b2db525",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Iran-Israel Proxy Conflict",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Rashid, Gholamali",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Khamenei, Ali",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Ali Shadmani",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A handout photo made available by the office of Iran’s Supreme Leader, showing Maj. Gen. Ali Shadmani.",
+        "credit": "Khamenei.Ir, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/06/17/multimedia/17israel-iran-Shadmani-mljc/17israel-iran-Shadmani-mljc-articleLarge.jpg",
+          "height": 377,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/06/17/multimedia/17israel-iran-Shadmani-mljc/17israel-iran-Shadmani-mljc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-06-17T11:51:53Z",
+      "section_name": "World",
+      "snippet": "Israeli c",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/aae42b88-e727-52b7-a4cd-8b526b2db525",
+      "web_url": "https://www.nytimes.com/live/2025/06/17/world/israel-iran-trump/iran-who-ali-shadmani-killed",
+      "word_count": 326
+    },
+    {
+      "abstract": "A vote seen as a test of the power of populist nationalism in Europe was too close to call, with exit polls putting the two contenders neck and neck.",
+      "byline": {
+        "original": "By Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Rival Victory Claims as Poland’s Presidential Election Goes Down to Wire",
+        "kicker": "",
+        "print_headline": "Rival Victory Claims as Poland’s Presidential Election Goes Down to Wire"
+      },
+      "_id": "nyt://article/89691b4b-d512-576a-b756-6c6a5fe67d92",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Poland",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trzaskowski, Rafal",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Civic Platform (Poland)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Law and Justice (Poland)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Nawrocki, Karol",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Right-Wing Extremism and Alt-Right",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Nationalism (Theory and Philosophy)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "A voter casting a ballot during Poland’s presidential runoff election on Sunday in Warsaw.",
+        "credit": "Omar Marques/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/06/01/multimedia/01int-poland-election-tie-01-qclw/01int-poland-election-tie-01-qclw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/06/01/multimedia/01int-poland-election-tie-01-qclw/01int-poland-election-tie-01-qclw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-06-01T19:31:49Z",
+      "section_name": "World",
+      "snippet": "A vote seen as a test of the power of populist nationalism in Europe was too close to call, with exit polls putting the two contenders neck and neck.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/89691b4b-d512-576a-b756-6c6a5fe67d92",
+      "web_url": "https://www.nytimes.com/2025/06/01/world/europe/poland-election-president.html",
+      "word_count": 923
+    },
+    {
+      "abstract": "Polling places in Caracas, the capital, and other cities were sparsely populated but officials claimed turnout was higher than 40 percent.",
+      "byline": {
+        "original": "By Julie Turkewitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Venezuela’s Government Claims Victory in Polls Boycotted by Opposition Leader",
+        "kicker": "",
+        "print_headline": "Venezuela’s Government Claims Win in Vote Boycotted by Opposition Leader"
+      },
+      "_id": "nyt://article/9b2b6861-8ce4-5a1d-877c-a4f521f27d9e",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Maduro, Nicolas",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Machado, Maria Corina",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Gonzalez, Edmundo (1949- )",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Carter Center",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A polling station in Caracas, Venezuela, on Sunday.",
+        "credit": "Gaby Oraa/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/06/25/multimedia/25int-venezuela-election-results-khvt/25int-venezuela-election-results-khvt-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/06/25/multimedia/25int-venezuela-election-results-khvt/25int-venezuela-election-results-khvt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2025-05-26T05:03:30Z",
+      "section_name": "World",
+      "snippet": "Polling places in Caracas, the capital, and other cities were sparsely populated but officials claimed turnout was higher than 40 percent.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/9b2b6861-8ce4-5a1d-877c-a4f521f27d9e",
+      "web_url": "https://www.nytimes.com/2025/05/26/world/americas/venezuela-maduro-regional-election.html",
+      "word_count": 1162
+    },
+    {
+      "abstract": "In a bruising Oval Office meeting, the visitors’ plan to keep President Trump from focusing on false accusations of white genocide backfired spectacularly.",
+      "byline": {
+        "original": "By John Eligon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "South Africa Collides Head-On With Trump’s Claims of White Victimhood",
+        "kicker": "News Analysis",
+        "print_headline": "False Claims Sideswiped South Africa’s Intentions To Discuss a Trade Deal"
+      },
+      "_id": "nyt://article/43784250-1585-579b-91e9-3d3bd6d4a4dd",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Ramaphosa, Cyril",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Apartheid (Policy)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Race and Ethnicity",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Whites",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Black People",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Rumors and Misinformation",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Customs (Tariff)",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "Mr. Ramaphosa and Mr. Trump during their meeting on Wednesday.",
+        "credit": "Eric Lee/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22safrica-2-bwjh/22safrica-2-bwjh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22safrica-2-bwjh/22safrica-2-bwjh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-05-22T09:03:35Z",
+      "section_name": "World",
+      "snippet": "In a bruising Oval Office meeting, the visitors’ plan to keep President Trump from focusing on false accusations of white genocide backfired spectacularly.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/43784250-1585-579b-91e9-3d3bd6d4a4dd",
+      "web_url": "https://www.nytimes.com/2025/05/22/world/africa/south-africa-trump-oval-office-genocide.html",
+      "word_count": 915
+    },
+    {
+      "abstract": "President Cyril Ramaphosa pushed back on Mr. Trump’s allegations.",
+      "byline": {
+        "original": "By John Eligon, Zolan Kanno-Youngs and Erica L. Green"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Ambushes South African President With Video of False Claims: What to Know",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e13a718f-aa41-58bd-b849-2a57d2244a67",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Executive Orders and Memorandums",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Discrimination",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Whites",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Race and Ethnicity",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Apartheid (Policy)",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "President Cyril Ramaphosa of South Africa and President Trump at the White House on Wednesday.",
+        "credit": "Eric Lee/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/00afrikaner-explainer-update-1-cfbl/00afrikaner-explainer-update-1-cfbl-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/00afrikaner-explainer-update-1-cfbl/00afrikaner-explainer-update-1-cfbl-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-05-13T14:25:24Z",
+      "section_name": "World",
+      "snippet": "President Cyril Ramaphosa pushed back on Mr. Trump’s allegations.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/e13a718f-aa41-58bd-b849-2a57d2244a67",
+      "web_url": "https://www.nytimes.com/article/afrikaner-refugees-trump-south-africa.html",
+      "word_count": 1234
+    },
+    {
+      "abstract": "The Trump administration’s public descriptions of its role in the mediation seemed to touch some sensitive spots politically in India.",
+      "byline": {
+        "original": "By Anupreeta Das, Salman Masood and Hari Kumar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As Truce Seems to Hold, India and Pakistan Both Claim Victory",
+        "kicker": "",
+        "print_headline": "With a Fragile Truce, Neighboring Countries Both Claim Victory"
+      },
+      "_id": "nyt://article/2b870763-bb80-5967-bf68-bf8aa032e5d0",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Drones (Pilotless Planes)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Kashmir",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Kashmir and Jammu (India)",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Police personnel in the city of Jammu, in Indian-controlled Kashmir, on Sunday.",
+        "credit": "Atul Loke for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-india-pakistan-wzfh/11int-india-pakistan-wzfh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-india-pakistan-wzfh/11int-india-pakistan-wzfh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2025-05-11T16:10:16Z",
+      "section_name": "World",
+      "snippet": "The Trump administration’s public descriptions of its role in the mediation seemed to touch some sensitive spots politically in India.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/2b870763-bb80-5967-bf68-bf8aa032e5d0",
+      "web_url": "https://www.nytimes.com/2025/05/11/world/asia/india-pakistan-kashmir-ceasefire.html",
+      "word_count": 841
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Genevieve Glatsky"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Peru rejoices over the new pope and claims him as their own.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c481b7a5-70ba-528f-8bac-7a784aa91d28",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Francis",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Peru",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Lima (Peru)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Leo XIV",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The Vatican’s flag fluttering at the Metropolitan Cathedral in Lima, Peru, after Cardinal Robert Francis Prevost was elected pontiff on the second day of the conclave on Thursday.",
+        "credit": "Juan Carlos Mandujano/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-peru-reax1-kgbp/08pope-conclave-peru-reax1-kgbp-articleLarge.jpg",
+          "height": 600,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-peru-reax1-kgbp/08pope-conclave-peru-reax1-kgbp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-05-09T00:51:40Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/c481b7a5-70ba-528f-8bac-7a784aa91d28",
+      "web_url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/pope-leo-xiv-peru",
+      "word_count": 566
+    },
+    {
+      "abstract": "Ukraine denied that it had been pushed out of the region and said that its military operations inside Russia were continuing.",
+      "byline": {
+        "original": "By Ivan Nechepurenko, Paul Sonne and Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia Claims to Have Retaken Final Village in Its Kursk Region",
+        "kicker": "",
+        "print_headline": "Russia Claims to Have Retaken Final Village From Ukraine in Kursk Region"
+      },
+      "_id": "nyt://article/c06e718c-f3e3-5478-86ea-10b3ff2e7d4a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Kursk (Russia)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Peace Process",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "A Russian soldier in a trench at an artillery position in the Kursk region of Russia in December.",
+        "credit": "Nanna Heitmann for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-russia-kursk-01-gjwt/26int-russia-kursk-01-gjwt-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-russia-kursk-01-gjwt/26int-russia-kursk-01-gjwt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2025-04-26T14:34:22Z",
+      "section_name": "World",
+      "snippet": "Ukraine denied that it had been pushed out of the region and said that its military operations inside Russia were continuing.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c06e718c-f3e3-5478-86ea-10b3ff2e7d4a",
+      "web_url": "https://www.nytimes.com/2025/04/26/world/europe/russia-kursk-ukraine.html",
+      "word_count": 841
+    },
+    {
+      "abstract": "A Times investigation shows Therme, a European firm, exaggerated its track record in securing a deal with Ontario, and government auditors found that the process had been unfair and opaque.",
+      "byline": {
+        "original": "By Matina Stevis-Gridneff and Rebecca R. Ruiz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Wellness Company With False Claims, Global Aims and a Toronto Island",
+        "kicker": "",
+        "print_headline": "Spa Company’s Deal in Toronto Emerged From Steam"
+      },
+      "_id": "nyt://article/f41e3fd7-3f33-5e9d-9802-d70d39ec2906",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Toronto Islands (Toronto, Ontario)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Spas",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Government Contracts and Procurement",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Real Estate (Commercial)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Therme Group RHTG AG",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Ford, Doug Jr (1964- )",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Bucharest (Romania)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Toronto (Ontario)",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Ontario (Canada)",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Area Planning and Renewal",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "Frauds and Swindling",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "The West Island of Ontario Place in Toronto.",
+        "credit": "Ian Willms for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00canada-spa-hp-promo-hqmf/00canada-spa-hp-promo-hqmf-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00canada-spa-hp-promo-hqmf/00canada-spa-hp-promo-hqmf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2025-04-16T09:02:14Z",
+      "section_name": "World",
+      "snippet": "A Times investigation shows Therme, a European firm, exaggerated its track record in securing a deal with Ontario, and government auditors found that the process had been unfair and opaque.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/f41e3fd7-3f33-5e9d-9802-d70d39ec2906",
+      "web_url": "https://www.nytimes.com/2025/04/16/world/canada/therme-spa-ontario-canada.html",
+      "word_count": 1899
+    },
+    {
+      "abstract": "Ukrainian President Volodymyr Zelensky said more than 150 Chinese men were fighting for Russia in Ukraine, hours after China dismissed claims that many of its citizens were involved in the war.",
+      "byline": {
+        "original": "By Berry Wang, Cassandra Vinograd and Constant Méheut"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Zelensky Doubles Down on Claim That Many Chinese Are Fighting for Russia",
+        "kicker": "",
+        "print_headline": "Zelensky Says Russia Recruited 150 Chinese; Beijing Denies Large Numbers"
+      },
+      "_id": "nyt://article/4a353edc-07ce-51b0-ba78-fe6b02f7e9f9",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Mercenaries and Private Military Contractors",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Lin Jian, a spokesman for China’s foreign ministry, disputed a Ukrainian claim that many Chinese volunteers were fighting for Russia in Ukraine, on Wednesday in Beijing.",
+        "credit": "Jessica Lee/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-articleLarge.jpg",
+          "height": 402,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2025-04-09T10:22:12Z",
+      "section_name": "World",
+      "snippet": "Ukrainian President Volodymyr Zelensky said more than 150 Chinese men were fighting for Russia in Ukraine, hours after China dismissed claims that many of its citizens were involved in the war.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/4a353edc-07ce-51b0-ba78-fe6b02f7e9f9",
+      "web_url": "https://www.nytimes.com/2025/04/09/world/asia/china-ukraine-russia.html",
+      "word_count": 652
+    },
+    {
+      "abstract": "The Ukrainian president did not suggest that they had been sent by Beijing’s military, but he pointed to their presence as further evidence that Moscow was not truly interested in peace.",
+      "byline": {
+        "original": "By Maria Varenikova and David Pierson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Zelensky Claims Capture of 2 Chinese Citizens Fighting for Russia",
+        "kicker": "",
+        "print_headline": "2 From China Now P.O.W.s, Ukraine Says"
+      },
+      "_id": "nyt://article/0cc8c03b-ba96-5dd9-8ca9-a888fa475fde",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Prisoners of War",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Volodymyr Zelensky of Ukraine addressing a news conference in Kyiv on Tuesday.",
+        "credit": "Genya Savilov/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ukraine-belgorod-hjwg/08int-ukraine-belgorod-hjwg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ukraine-belgorod-hjwg/08int-ukraine-belgorod-hjwg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2025-04-08T14:48:32Z",
+      "section_name": "World",
+      "snippet": "The Ukrainian president did not suggest that they had been sent by Beijing’s military, but he pointed to their presence as further evidence that Moscow was not truly interested in peace.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/0cc8c03b-ba96-5dd9-8ca9-a888fa475fde",
+      "web_url": "https://www.nytimes.com/2025/04/08/world/europe/zelensky-russia-chinese-belgorod.html",
+      "word_count": 577
+    },
+    {
+      "abstract": "Five friends defied the junta to care for people injured in the military coup. One returned from the battlefield to find his four friends among the dead in the March 28 earthquake.",
+      "byline": {
+        "original": "By Hannah Beech"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "They Fought to Save Lives in Myanmar. The Earthquake Claimed Theirs.",
+        "kicker": "",
+        "print_headline": "In Myanmar, Young Doctor Struggles as Junta Makes War Even on Healers"
+      },
+      "_id": "nyt://article/50f4e401-62ef-5712-a405-fb94e47ed9f7",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Myanmar Earthquake (March 28, 2025)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Health Care Workers",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mandalay (Myanmar)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Coups D'Etat and Attempted Coups D'Etat",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Earthquakes",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "A patient at Mandalay General Hospital, three days after the deadly Myanmar earthquake.",
+        "credit": "Sai Aung Main/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-myanmar-doctor-hcqw/04int-myanmar-doctor-hcqw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-myanmar-doctor-hcqw/04int-myanmar-doctor-hcqw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-04-04T04:01:13Z",
+      "section_name": "World",
+      "snippet": "Five friends defied the junta to care for people injured in the military coup. One returned from the battlefield to find his four friends among the dead in the March 28 earthquake.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/50f4e401-62ef-5712-a405-fb94e47ed9f7",
+      "web_url": "https://www.nytimes.com/2025/04/04/world/asia/myanmar-earthquake-doctors.html",
+      "word_count": 800
+    },
+    {
+      "abstract": "In a lawsuit filed in California, the plaintiffs said that Bumble Bee Foods was aware of and benefited from abuse by suppliers. The company declined to comment.",
+      "byline": {
+        "original": "By Sui-Lee Wee and Muktita Suhartono"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Indonesian Fishermen Sue U.S. Canned Tuna Giant Over Claims of Forced Labor",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8a239ab1-f49c-597f-b718-caf38b93e12f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Suits and Litigation (Civil)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Forced Labor",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Seafood",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Workplace Hazards and Violations",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Bumble Bee Foods",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Indonesia",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The Bumble Bee tuna processing plant in Santa Fe Springs, Calif., in 2012.",
+        "credit": "Nick Ut/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/03/12/multimedia/00indonesia-lawsuit-01-mhlv/00indonesia-lawsuit-01-mhlv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/03/12/multimedia/00indonesia-lawsuit-01-mhlv/00indonesia-lawsuit-01-mhlv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-03-13T14:54:01Z",
+      "section_name": "World",
+      "snippet": "In a lawsuit filed in California, the plaintiffs said that Bumble Bee Foods was aware of and benefited from abuse by suppliers. The company declined to comment.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/8a239ab1-f49c-597f-b718-caf38b93e12f",
+      "web_url": "https://www.nytimes.com/2025/03/13/world/asia/bumble-bee-tuna-forced-labor.html",
+      "word_count": 833
+    },
+    {
+      "abstract": "Ukrainian officials have not confirmed a retreat from the town in Russia’s Kursk region, parts of which were captured by Kyiv’s forces last summer.",
+      "byline": {
+        "original": "By Maria Varenikova"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia Claims to Have Regained Control of Key Kursk Town",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ce5e1752-f941-5eaf-8898-600e3e9512ad",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Kursk (Russia)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A Ukrainian military vehicle at the Sudzha border crossing last year. ",
+        "credit": "David Guttenfelder for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/03/13/multimedia/13russia-ukraine-Sudzha-pzlc/13russia-ukraine-Sudzha-pzlc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/03/13/multimedia/13russia-ukraine-Sudzha-pzlc/13russia-ukraine-Sudzha-pzlc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-03-13T14:11:27Z",
+      "section_name": "World",
+      "snippet": "Ukrainian officials have not confirmed a retreat from the town in Russia’s Kursk region, parts of which were captured by Kyiv’s forces last summer.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/ce5e1752-f941-5eaf-8898-600e3e9512ad",
+      "web_url": "https://www.nytimes.com/2025/03/13/world/europe/russia-sudzha-recapture-kursk-ukraine.html",
+      "word_count": 559
+    },
+    {
+      "abstract": "An executive order from President Trump on Friday put the weight of U.S. influence behind a hotly disputed claim in South Africa that Afrikaners were the “victims of unjust racial discrimination.”",
+      "byline": {
+        "original": "By John Eligon and Lynsey Chutel"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Some Afrikaners Cheer as Trump Amplifies Claims of Persecution",
+        "kicker": "",
+        "print_headline": "Afrikaners Cheer Trump For Backing Their Cause"
+      },
+      "_id": "nyt://article/6af972e7-4b8e-57be-8fdd-74a1db00b440",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Race and Ethnicity",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Aid",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Apartheid (Policy)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Discrimination",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Executive Orders and Memorandums",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Ramaphosa, Cyril",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Musk, Elon",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Irrigation equipment on a farm near Krugersdorp in Gauteng Province, South Africa, on Saturday. On Friday, President Trump ordered all aid to South Africa to be halted.",
+        "credit": "Joao Silva/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/02/08/multimedia/08safrica-trump-01-vwkz/08safrica-trump-01-vwkz-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/02/08/multimedia/08safrica-trump-01-vwkz/08safrica-trump-01-vwkz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-02-09T04:09:42Z",
+      "section_name": "World",
+      "snippet": "An executive order from President Trump on Friday put the weight of U.S. influence behind a hotly disputed claim in South Africa that Afrikaners were the “victims of unjust racial discrimination.”",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/6af972e7-4b8e-57be-8fdd-74a1db00b440",
+      "web_url": "https://www.nytimes.com/2025/02/08/world/africa/afrikaners-trump-south-africa.html",
+      "word_count": 1345
+    },
+    {
+      "abstract": "The attacker who killed 14 pedestrians on Bourbon Street was “influenced by the discourse and messaging of the Islamic State,” the terrorist group said in a bulletin dated Thursday.",
+      "byline": {
+        "original": "By Eve Sampson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Says It Inspired New Orleans Attack, but Doesn’t Claim Responsibility",
+        "kicker": "",
+        "print_headline": "In New Orleans Attack, ISIS Cites Its Propaganda"
+      },
+      "_id": "nyt://article/01d6025a-b1e0-57a5-9da7-bc4c7d1bd4e1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "New Orleans, La, New Year's Day Attack (2025)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Jabbar, Shamsud-Din Bahar (1982-2025)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Vehicle-Ramming Attacks",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Propaganda",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Federal Bureau of Investigation",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Mourners in New Orleans attend a vigil on Saturday remembering the 14 people killed in the terrorist attack on Bourbon Street early on New Year’s Day.",
+        "credit": "Edmund D. Fountain for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/01/10/multimedia/10isis-nola-1-gkwf/10isis-nola-1-gkwf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/01/10/multimedia/10isis-nola-1-gkwf/10isis-nola-1-gkwf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2025-01-10T21:40:39Z",
+      "section_name": "World",
+      "snippet": "The attacker who killed 14 pedestrians on Bourbon Street was “influenced by the discourse and messaging of the Islamic State,” the terrorist group said in a bulletin dated Thursday.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/01d6025a-b1e0-57a5-9da7-bc4c7d1bd4e1",
+      "web_url": "https://www.nytimes.com/2025/01/10/world/middleeast/isis-influence-new-orleans-attack.html",
+      "word_count": 380
+    },
+    {
+      "abstract": "Ukraine has largely been driven out of Kurakhove, a battered but strategic town in the Donbas, Russia said. Kyiv’s forces were pressing a renewed offensive in southern Russia.",
+      "byline": {
+        "original": "By Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia Claims Control of Key Town as Ukraine Renews Push in Kursk",
+        "kicker": "",
+        "print_headline": "As Ukraine Pushes Into Kursk, It May Have Lost Crucial Town"
+      },
+      "_id": "nyt://article/03b48f9e-c791-5dd3-bb6d-7bdc9cc18565",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Pokrovsk (Ukraine)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Donbas (Ukraine)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A Ukrainian armored vehicle driving in Kurakhove, in the east of the country, in September.",
+        "credit": "Nicole Tung for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/01/01/multimedia/00ukraine-kurakhove-1-zqlt/00ukraine-kurakhove-1-zqlt-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/01/01/multimedia/00ukraine-kurakhove-1-zqlt/00ukraine-kurakhove-1-zqlt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2025-01-06T14:18:59Z",
+      "section_name": "World",
+      "snippet": "Ukraine has largely been driven out of Kurakhove, a battered but strategic town in the Donbas, Russia said. Kyiv’s forces were pressing a renewed offensive in southern Russia.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/03b48f9e-c791-5dd3-bb6d-7bdc9cc18565",
+      "web_url": "https://www.nytimes.com/2025/01/06/world/europe/kurakhove-russia-ukraine-war.html",
+      "word_count": 1246
+    },
+    {
+      "abstract": "Gabriel Boric’s trip to the pole, which his office called the first by a Latin American president, comes amid rising competition for influence in Antarctica.",
+      "byline": {
+        "original": "By Eve Sampson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Frigid First: Chile’s President Visits South Pole to Bolster Antarctic Claims",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4bfecea0-f385-5ad3-87f3-5170cb7e5b48",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Antarctic Regions",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Chile",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Boric, Gabriel",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Conservation of Resources",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A photograph released by the Chilean Presidential Palace shows President Gabriel Boric at the Ceremonial South Pole during his visit on Friday.",
+        "credit": "via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/01/04/multimedia/04chile-antarctica-zjct/04chile-antarctica-zjct-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/01/04/multimedia/04chile-antarctica-zjct/04chile-antarctica-zjct-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-01-05T00:51:02Z",
+      "section_name": "World",
+      "snippet": "Gabriel Boric’s trip to the pole, which his office called the first by a Latin American president, comes amid rising competition for influence in Antarctica.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/4bfecea0-f385-5ad3-87f3-5170cb7e5b48",
+      "web_url": "https://www.nytimes.com/2025/01/04/world/americas/chile-antarctica-boric-competition.html",
+      "word_count": 538
+    }
+  ]
+}

@@ -1,0 +1,1457 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20150101",
+    "end_date": "20151231",
+    "fq": "(headline.default:(\"discuss\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 19,
+  "docs": [
+    {
+      "abstract": "The president spoke to reporters before leaving for Hawaii at the end of a week in which he has sought to demonstrate his commitment to fighting terrorism.",
+      "byline": {
+        "original": "By Michael D. Shear and Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Obama Discusses Difficulty of Detecting Terrorism at Year-End Conference",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2b22878a-837d-53df-a65d-101ccdd256d0",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Obama, Barack",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Economy",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United Nations Framework Convention on Climate Change",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Obama during a press conference in the briefing room at the White House on Friday.",
+        "credit": "Stephen Crowley/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/12/21/us/19PREXY-web02/19PREXY-we02-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/12/21/us/19PREXY-web02/19PREXY-we02-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-12-18T17:30:03Z",
+      "section_name": "World",
+      "snippet": "The president spoke to reporters before leaving for Hawaii at the end of a week in which he has sought to demonstrate his commitment to fighting terrorism.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/2b22878a-837d-53df-a65d-101ccdd256d0",
+      "web_url": "https://www.nytimes.com/2015/12/19/world/obama-white-house-press-conference.html",
+      "word_count": 1242
+    },
+    {
+      "abstract": "Negotiators will discuss decades-old property claims from thousands of American citizens and companies whose assets were confiscated after Cuba’s revolution.",
+      "byline": {
+        "original": "By Frances Robles"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Cuba and U.S. to Discuss Settling Claims on Property",
+        "kicker": "",
+        "print_headline": "Cuba and U.S. Set to Discuss Settling Claims on Property"
+      },
+      "_id": "nyt://article/c0cbf11f-768c-5ebf-abbd-429d271fb404",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Cuba",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Robles, Frances",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Foreign Claims Settlement Commission",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Castro, Fidel",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2015-12-05T01:42:34Z",
+      "section_name": "World",
+      "snippet": "Negotiators will discuss decades-old property claims from thousands of American citizens and companies whose assets were confiscated after Cuba’s revolution.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/c0cbf11f-768c-5ebf-abbd-429d271fb404",
+      "web_url": "https://www.nytimes.com/2015/12/05/world/americas/cuba-and-us-to-discuss-settling-claims-on-property.html",
+      "word_count": 727
+    },
+    {
+      "abstract": "The two men, in Turkey for the Group of 20 summit meeting, talked for 35 minutes, though a Russian official said they disagreed on how to deal with with the Islamic State.",
+      "byline": {
+        "original": "By Michael D. Shear"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Obama and Putin Discuss ISIS and Syria in Informal Conversation",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b11224df-9aae-573c-8baf-0e9f1f8de808",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Obama, Barack",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Group of Twenty",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-11-15T20:58:15Z",
+      "section_name": "World",
+      "snippet": "The two men, in Turkey for the Group of 20 summit meeting, talked for 35 minutes, though a Russian official said they disagreed on how to deal with with the Islamic State.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b11224df-9aae-573c-8baf-0e9f1f8de808",
+      "web_url": "https://www.nytimes.com/2015/11/16/world/europe/russia-united-states-syria-g-20.html",
+      "word_count": 390
+    },
+    {
+      "abstract": "The leaders talked about their joint military campaign and a future political transition in Syria, a Kremlin spokesman said.",
+      "byline": {
+        "original": "By Neil MacFarquhar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Assad Makes Unannounced Trip to Moscow to Discuss Syria With Putin",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a04fcfd5-b5eb-5623-b674-2eacb95be6fa",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Moscow (Russia)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Alexey Druzhinin/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/10/21/multimedia/putin-assad-meeting/putin-assad-meeting-articleLarge.jpg",
+          "height": 413,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/10/21/multimedia/putin-assad-meeting/putin-assad-meeting-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-10-21T07:16:02Z",
+      "section_name": "World",
+      "snippet": "The leaders talked about their joint military campaign and a future political transition in Syria, a Kremlin spokesman said.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a04fcfd5-b5eb-5623-b674-2eacb95be6fa",
+      "web_url": "https://www.nytimes.com/2015/10/22/world/middleeast/assad-putin-syria-russia.html",
+      "word_count": 1269
+    },
+    {
+      "abstract": "From the International Herald Tribune archives: Pope Paul and Lyndon B. Johnson spoke discussed the world’s problems in 1965.",
+      "byline": {
+        "original": "By International Herald Tribune"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "1965: Pope and Lyndon Johnson Discuss Threats to Peace",
+        "kicker": "IHT Retrospective",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/be0479e5-ade6-5ae5-937d-05c8c8a13859",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Popes",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Johnson, Lyndon Baines",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-10-04T16:29:34Z",
+      "section_name": "World",
+      "snippet": "From the International Herald Tribune archives: Pope Paul and Lyndon B. Johnson spoke discussed the world’s problems in 1965.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/be0479e5-ade6-5ae5-937d-05c8c8a13859",
+      "web_url": "https://iht-retrospective.blogs.nytimes.com/2015/10/04/1965-pope-and-lyndon-johnson-discuss-threats-to-peace/",
+      "word_count": 171
+    },
+    {
+      "abstract": "A top State Department official said Thursday that human rights would feature prominently in talks next month between President Xi Jinping of China and President Obama.",
+      "byline": {
+        "original": "By Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Obama Is Set to Discuss Rights Issues With China",
+        "kicker": "",
+        "print_headline": "Obama Is Set to Discuss Rights Issues With China"
+      },
+      "_id": "nyt://article/1d0f5e3f-2276-5bad-90ad-e87ce437e14d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Harris, Gardiner (Per)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Censorship",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Obama, Barack",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Malinowski, Tom",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2015-08-14T03:01:35Z",
+      "section_name": "World",
+      "snippet": "A top State Department official said Thursday that human rights would feature prominently in talks next month between President Xi Jinping of China and President Obama.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/1d0f5e3f-2276-5bad-90ad-e87ce437e14d",
+      "web_url": "https://www.nytimes.com/2015/08/14/world/asia/obama-is-set-to-discuss-rights-issues-with-china.html",
+      "word_count": 711
+    },
+    {
+      "abstract": "It was the first time that Finance Minister Wolfgang Schäuble had mentioned resignation in the debate over Greece’s debt. He has taken a harder line toward Greece than Chancellor Angela Merkel.",
+      "byline": {
+        "original": "By Alison Smale"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Minister in Germany Discusses Greece Role",
+        "kicker": "",
+        "print_headline": "Minister in Germany Discusses Greece Role"
+      },
+      "_id": "nyt://article/7a350300-d4c4-5527-9acd-033d70a69be4",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Smale, Alison",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Greece",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Schauble, Wolfgang",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "European Sovereign Debt Crisis (2010- )",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Eurozone",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2015-07-18T18:16:04Z",
+      "section_name": "World",
+      "snippet": "It was the first time that Finance Minister Wolfgang Schäuble had mentioned resignation in the debate over Greece’s debt. He has taken a harder line toward Greece than Chancellor Angela Merkel.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/7a350300-d4c4-5527-9acd-033d70a69be4",
+      "web_url": "https://www.nytimes.com/2015/07/19/world/europe/minister-in-germany-discusses-greece-role.html",
+      "word_count": 500
+    },
+    {
+      "abstract": "The Tunisian government hosted a meeting to discuss what more can be done to secure the country after two attacks in recent months killed dozens of foreigners.",
+      "byline": {
+        "original": "By Carlotta Gall"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Tunisia Hosts Security Meeting With Group of 7 to Discuss Terrorism Threat",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4dc24ba4-99f2-57b8-8bfa-6438b450440f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Tunisia",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Group of Seven",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "National Bardo Museum (Tunis, Tunisia)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Ben Ali, Zine El-Abidine",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Essebsi, Beji Caid",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Tunis (Tunisia)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Sousse (Tunisia)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-07-16T02:09:31Z",
+      "section_name": "World",
+      "snippet": "The Tunisian government hosted a meeting to discuss what more can be done to secure the country after two attacks in recent months killed dozens of foreigners.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/4dc24ba4-99f2-57b8-8bfa-6438b450440f",
+      "web_url": "https://www.nytimes.com/2015/07/16/world/africa/tunisia-hosts-security-meeting-with-group-of-7-to-discuss-terrorism-threat.html",
+      "word_count": 448
+    },
+    {
+      "abstract": "Amid a steady stream of official visitors to his home, Hamid Karzai said in a rare, wide-ranging interview, “I have done my time.”",
+      "byline": {
+        "original": "By Rod Nordland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Karzai, Vowing That He’s Done, Discusses His Afghanistan Legacy",
+        "kicker": "",
+        "print_headline": "Karzai, Vowing He&#8217;s Done, Discusses His Afghan Legacy "
+      },
+      "_id": "nyt://article/f86214bd-d489-554d-8f21-d4dc7db1744f",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Nordland, Rod",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Karzai, Hamid",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Ghani, Ashraf",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Rosenberg, Matthew (1974- )",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001-14)",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "New York Times",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Former President Hamid Karzai of Afghanistan, above at a conference last month in Beijing, agreed to a rare interview on Sunday.",
+        "credit": "Ng Han Guan/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/06/16/world/16KARZAI/16KARZAI-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/06/16/world/16KARZAI/16KARZAI-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2015-06-15T22:37:43Z",
+      "section_name": "World",
+      "snippet": "Amid a steady stream of official visitors to his home, Hamid Karzai said in a rare, wide-ranging interview, “I have done my time.”",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/f86214bd-d489-554d-8f21-d4dc7db1744f",
+      "web_url": "https://www.nytimes.com/2015/06/16/world/asia/ex-president-karzai-vows-he-is-out-of-afghanistans-politics.html",
+      "word_count": 1396
+    },
+    {
+      "abstract": "The president will meet with Haider al-Abadi to discuss the military campaign against the Islamic State. It will be their first meeting since Ramadi fell to the militants.",
+      "byline": {
+        "original": "By Julie Hirschfeld Davis"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Obama to Meet With Iraqi Prime Minister to Discuss ISIS’ Advance",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cf5faa1f-d3c4-50cf-be34-f80b1cb816c1",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Obama, Barack",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Abadi, Haider al-",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Group of Seven",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Obama met with Prime Minister Haider al-Abadi of Iraq in April at the White House.",
+        "credit": "Zach Gibson/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/06/05/us/05abadi-web/05abadi-web-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/06/05/us/05abadi-web/05abadi-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "National",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-06-04T18:29:09Z",
+      "section_name": "World",
+      "snippet": "The president will meet with Haider al-Abadi to discuss the military campaign against the Islamic State. It will be their first meeting since Ramadi fell to the militants.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/cf5faa1f-d3c4-50cf-be34-f80b1cb816c1",
+      "web_url": "https://www.nytimes.com/2015/06/05/world/middleeast/obama-iraq-prime-minister-haider-abadi-to-discuss-isis-threat.html",
+      "word_count": 283
+    },
+    {
+      "abstract": "Officials are discussing a joint effort to clear Islamic State fighters away from Turkey’s southern border.",
+      "byline": {
+        "original": "By Michael R. Gordon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Americans and Turks Discuss ISIS Threat ",
+        "kicker": "",
+        "print_headline": "Americans and Turks Discuss ISIS Threat "
+      },
+      "_id": "nyt://article/d21e7d08-46a7-5791-9f6d-2e0d5fcf3ad4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Gordon, Michael R",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Ramadi (Iraq)",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Obama, Barack",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Abadi, Haider al-",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Shiite militiamen clashed with members of the Islamic State in Fallujah, Iraq. Turkey wants to clear ISIS from its southern border.",
+        "credit": "Hadi Mizban/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/06/02/world/02MILITARY/02MILITARY-articleLarge.jpg",
+          "height": 420,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/06/02/world/02MILITARY/02MILITARY-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2015-06-02T01:02:12Z",
+      "section_name": "World",
+      "snippet": "Officials are discussing a joint effort to clear Islamic State fighters away from Turkey’s southern border.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/d21e7d08-46a7-5791-9f6d-2e0d5fcf3ad4",
+      "web_url": "https://www.nytimes.com/2015/06/02/world/europe/americans-and-turks-discuss-isis-threat.html",
+      "word_count": 790
+    },
+    {
+      "abstract": "The two met in Beijing, and the visit by the Taiwanese party leader, Eric Chu, was the first official trip by a head of the party to the mainland since 2009.",
+      "byline": {
+        "original": "By Austin Ramzy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese Leader and Head of Taiwan’s Kuomintang Discuss Economy and Disaster Response",
+        "kicker": "Sinosphere",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8375ef07-6723-59f2-987f-8b2a31e784fd",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Chu, Eric (1961- )",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Ma Ying-jeou",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Mao Zedong",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Asian Infrastructure Investment Bank",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Chinese Nationalist Party (Taiwan)",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Democratic Progressive Party (Taiwan)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Beijing (China)",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Taiwan",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Eric Chu, left, chairman of the Kuomintang, met with President Xi Jinping of China in Beijing on Monday.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/05/05/sports/04sino-taiwan01/04sino-taiwan01-articleLarge.jpg",
+          "height": 402,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/05/05/sports/04sino-taiwan01/04sino-taiwan01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-05-04T10:02:56Z",
+      "section_name": "World",
+      "snippet": "The two met in Beijing, and the visit by the Taiwanese party leader, Eric Chu, was the first official trip by a head of the party to the mainland since 2009.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/8375ef07-6723-59f2-987f-8b2a31e784fd",
+      "web_url": "https://sinosphere.blogs.nytimes.com/2015/05/04/eric-chu-xi-jinping-kuomintang-china-taiwan/",
+      "word_count": 696
+    },
+    {
+      "abstract": "Secretary General Ban Ki-moon of the United Nations said he was counting on the pope’s “moral leadership” to help limit human contributions to global warming.",
+      "byline": {
+        "original": "By Elisabetta Povoledo"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Scientists and Religious Leaders Discuss Climate Change at Vatican",
+        "kicker": "",
+        "print_headline": "Voices on Climate Change Gather at Vatican"
+      },
+      "_id": "nyt://article/9612d9e0-2143-50fb-bc59-447166e497fa",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Povoledo, Elisabetta",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Global Warming",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Francis",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Ban Ki-moon",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Encyclicals",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary General Ban Ki-moon of the United Nations during his visit to the Vatican on Tuesday.",
+        "credit": "Tony Gentile/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/04/29/world/29VATICAN/29VATICAN-articleLarge.jpg",
+          "height": 377,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/04/29/world/29VATICAN/29VATICAN-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2015-04-28T18:48:40Z",
+      "section_name": "World",
+      "snippet": "Secretary General Ban Ki-moon of the United Nations said he was counting on the pope’s “moral leadership” to help limit human contributions to global warming.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/9612d9e0-2143-50fb-bc59-447166e497fa",
+      "web_url": "https://www.nytimes.com/2015/04/29/world/europe/scientists-and-religious-leaders-discuss-climate-change-at-vatican.html",
+      "word_count": 540
+    },
+    {
+      "abstract": "The father of Austin Tice, who disappeared in Syria in 2012, and a State Department official said the governments of the two countries had been in direct contact.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. and Syria Discuss Missing Journalist ",
+        "kicker": "",
+        "print_headline": "U.S. and Syria Discuss Missing Journalist"
+      },
+      "_id": "nyt://article/9258b46c-b8c8-5ea5-b0d6-c8f851400a59",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Gladstone, Rick",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Tice, Austin",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Missing Persons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2015-03-27T03:36:53Z",
+      "section_name": "World",
+      "snippet": "The father of Austin Tice, who disappeared in Syria in 2012, and a State Department official said the governments of the two countries had been in direct contact.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/9258b46c-b8c8-5ea5-b0d6-c8f851400a59",
+      "web_url": "https://www.nytimes.com/2015/03/27/world/middleeast/us-and-syria-discuss-missing-journalist.html",
+      "word_count": 393
+    },
+    {
+      "abstract": "The foreign ministers of South Korea, China and Japan will meet in Seoul, the South Korean capital, for the first time in three years this weekend.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "South Korea: Nations to Discuss Disputes",
+        "kicker": "World Briefing",
+        "print_headline": "Asia; South Korea: Nations to Discuss Disputes"
+      },
+      "_id": "nyt://article/f8faae96-5102-5790-8602-669fe95870b5",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2015-03-21T00:40:25Z",
+      "section_name": "World",
+      "snippet": "The foreign ministers of South Korea, China and Japan will meet in Seoul, the South Korean capital, for the first time in three years this weekend.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Brief",
+      "uri": "nyt://article/f8faae96-5102-5790-8602-669fe95870b5",
+      "web_url": "https://www.nytimes.com/2015/03/21/world/asia/south-korea-nations-to-discuss-disputes.html",
+      "word_count": 118
+    },
+    {
+      "abstract": "Mr. Kerry plans to meet with King Salman and to consult with foreign ministers from Bahrain, Kuwait, Oman, Qatar and the United Arab Emirates.",
+      "byline": {
+        "original": "By Michael R. Gordon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kerry Flies to Saudi Arabia to Discuss Iran Nuclear Talks",
+        "kicker": "",
+        "print_headline": "John Kerry Flies to Saudi Arabia to Discuss Iran Nuclear Talks"
+      },
+      "_id": "nyt://article/ce15f720-e873-503b-ab24-8c9040fab223",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kerry, John",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Salman, King of Saudi Arabia",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Moniz, Ernest J",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Salehi, Ali Akbar",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State John Kerry during a break in the negotiations over Iran's nuclear program in Switzerland on Wednesday. ",
+        "credit": "Jean-Christophe Bott/Keystone, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/03/05/world/05DIPLO/05DIPLO-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/03/05/world/05DIPLO/05DIPLO-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2015-03-04T14:27:48Z",
+      "section_name": "World",
+      "snippet": "Mr. Kerry plans to meet with King Salman and to consult with foreign ministers from Bahrain, Kuwait, Oman, Qatar and the United Arab Emirates.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/ce15f720-e873-503b-ab24-8c9040fab223",
+      "web_url": "https://www.nytimes.com/2015/03/05/world/middleeast/john-kerry-meeting-in-saudi-arabia-for-iran-nuclear-talks.html",
+      "word_count": 748
+    },
+    {
+      "abstract": "The sides met for several hours, mostly to iron out technical issues in converting their diplomatic outposts into full-fledged embassies.",
+      "byline": {
+        "original": "By Randal C. Archibold"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Conflict, and Smiles, as U.S. and Cuba Discuss Ties ",
+        "kicker": "",
+        "print_headline": "Conflict, and Smiles, as U.S. and Cuba Discuss Ties"
+      },
+      "_id": "nyt://article/b808b30f-1d96-55eb-8d2f-bc35ced78016",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Cuba",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Archibold, Randal C",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Jacobson, Roberta S",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Castro, Raul",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2015-01-23T01:25:54Z",
+      "section_name": "World",
+      "snippet": "The sides met for several hours, mostly to iron out technical issues in converting their diplomatic outposts into full-fledged embassies.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/b808b30f-1d96-55eb-8d2f-bc35ced78016",
+      "web_url": "https://www.nytimes.com/2015/01/23/world/conflict-and-smiles-as-us-and-cuba-discuss-ties.html",
+      "word_count": 708
+    },
+    {
+      "abstract": "The nations on Wednesday discussed migration, and a meeting on Thursday will cover matters like reopening embassies.",
+      "byline": {
+        "original": "By Randal C. Archibold"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. and Cuba Set to Discuss Diplomatic Ties",
+        "kicker": "",
+        "print_headline": "U.S. and Cuba Set to Discuss Diplomatic Ties"
+      },
+      "_id": "nyt://article/c9d1e73c-d6a0-5c15-9373-0022186439fd",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Cuba",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Archibold, Randal C",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Vidal, Josefina",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Jacobson, Roberta S",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2015-01-22T02:25:47Z",
+      "section_name": "World",
+      "snippet": "The nations on Wednesday discussed migration, and a meeting on Thursday will cover matters like reopening embassies.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/c9d1e73c-d6a0-5c15-9373-0022186439fd",
+      "web_url": "https://www.nytimes.com/2015/01/22/world/us-and-cuba-set-to-discuss-diplomatic-ties.html",
+      "word_count": 605
+    },
+    {
+      "abstract": "An expected session with President Raúl Castro did not materialize after the delegation met with several Cuba dissidents.",
+      "byline": {
+        "original": "By Randal C. Archibold"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Members of Congress, in Cuba, Discuss Trade but Don’t Meet With Castro ",
+        "kicker": "",
+        "print_headline": "Members of Congress, in Cuba, Discuss Trade but Don’t Meet With Castro"
+      },
+      "_id": "nyt://article/86f928ab-3d2c-5542-a2d8-84bdee3037a4",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Archibold, Randal C",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Cuba",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Castro, Raul",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Leahy, Patrick J",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Stabenow, Debbie",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Durbin, Richard J",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2015-01-20T02:23:31Z",
+      "section_name": "World",
+      "snippet": "An expected session with President Raúl Castro did not materialize after the delegation met with several Cuba dissidents.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/86f928ab-3d2c-5542-a2d8-84bdee3037a4",
+      "web_url": "https://www.nytimes.com/2015/01/20/world/americas/members-of-congress-in-cuba-discuss-trade-but-dont-meet-with-castro.html",
+      "word_count": 574
+    }
+  ]
+}

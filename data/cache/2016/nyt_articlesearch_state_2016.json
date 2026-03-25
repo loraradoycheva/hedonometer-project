@@ -1,0 +1,4380 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "2MJ6e77HBhgWrT0a1jsbMdAUzEslgDnYA7pUMZKLmn9jRrNb",
+    "begin_date": "20160101",
+    "end_date": "20161231",
+    "fq": "(headline.default:\"state\") AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 58,
+  "docs": [
+    {
+      "abstract": "Some of the major developments in Syria surrounding a cease-fire agreement reached Thursday.",
+      "byline": {
+        "original": "By SARAH ALMUKHTAR and DEREK WATKINS"
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "The State of the War in Syria",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/30e95c7f-87f8-553d-9715-251fd6f79563",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/29/world/middleeast/state-of-war-in-syria-1483051586913/state-of-war-in-syria-1483051586913-articleLarge.png",
+          "height": 483,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/29/world/middleeast/state-of-war-in-syria-1483051586913/state-of-war-in-syria-1483051586913-thumbStandard.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-12-30T03:30:56Z",
+      "section_name": "World",
+      "snippet": "Some of the major developments in Syria surrounding a cease-fire agreement reached Thursday.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/30e95c7f-87f8-553d-9715-251fd6f79563",
+      "web_url": "https://www.nytimes.com/interactive/2016/12/29/world/middleeast/state-of-war-in-syria.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "The two-state solution has for decades been the primary focus of efforts to achieve peace in the Israeli-Palestinian conflict. Here’s a basic guide.",
+      "byline": {
+        "original": "By Max Fisher"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Two-State Solution: What It Is and Why It Hasn’t Happened",
+        "kicker": "The Interpreter",
+        "print_headline": "The Two-State Solution: What It Is and Why It Still Hasn’t Happened"
+      },
+      "_id": "nyt://article/376079eb-9f7e-5bb7-b97a-5fa7ec2bc71d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Fisher, Max",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Palestinian Authority",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A construction site in the Israeli settlement of Efrat in the West Bank.",
+        "credit": "Baz Ratner/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/30/world/30int-ISRAEL/30int-ISRAEL-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/30/world/30int-ISRAEL/30int-ISRAEL-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2016-12-29T18:44:19Z",
+      "section_name": "World",
+      "snippet": "The two-state solution has for decades been the primary focus of efforts to achieve peace in the Israeli-Palestinian conflict. Here’s a basic guide.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/376079eb-9f7e-5bb7-b97a-5fa7ec2bc71d",
+      "web_url": "https://www.nytimes.com/2016/12/29/world/middleeast/israel-palestinians-two-state-solution.html",
+      "word_count": 1261
+    },
+    {
+      "abstract": "The Security Council vote condemning Israeli settlements, which the United States did not block, could force Israel’s prime minister to make a choice.",
+      "byline": {
+        "original": "By Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel Wonders How Long Netanyahu Can Back Settlements and Two-State Solution",
+        "kicker": "",
+        "print_headline": "Israel Wonders if Netanyahu Will Have to Play His Hand"
+      },
+      "_id": "nyt://article/27ff2318-af46-5ca2-be82-989cb8d33a53",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kershner, Isabel",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Obama, Barack",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Kerry, John",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Security Council (UN)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Bennett, Naftali",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Israeli Prime Minister Benjamin Netanyahu attending the weekly cabinet meeting at his Jerusalem office on Sunday.",
+        "credit": "Pool photo by Dan Balilty",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/26/world/26israel/26israel-articleLarge.jpg",
+          "height": 402,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/26/world/26israel/26israel-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-12-25T16:19:40Z",
+      "section_name": "World",
+      "snippet": "The Security Council vote condemning Israeli settlements, which the United States did not block, could force Israel’s prime minister to make a choice.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/27ff2318-af46-5ca2-be82-989cb8d33a53",
+      "web_url": "https://www.nytimes.com/2016/12/25/world/middleeast/netanyahu-accuses-obama-of-orchestrating-un-resolution.html",
+      "word_count": 1131
+    },
+    {
+      "abstract": "Mr. Friedman, a bankruptcy lawyer, supports expanded settlements in the West Bank and has accused the Obama administration of anti-Semitism.",
+      "byline": {
+        "original": "By Isabel Kershner and Sheryl Gay Stolberg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "David Friedman, Choice for Envoy to Israel, Is Hostile to Two-State Efforts",
+        "kicker": "",
+        "print_headline": "Trump’s Pick as Envoy to Israel Is Hostile to Two-State Efforts"
+      },
+      "_id": "nyt://article/666d56be-b36e-5a19-b417-b7ee5d0ed822",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Stolberg, Sheryl Gay",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Friedman, David M",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kershner, Isabel",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "David M. Friedman",
+        "credit": "Kasowitz, Benson, Torres &amp; Friedman L.L.P., via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/17/world/17Friedman/17Friedman-articleLarge.jpg",
+          "height": 900,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/17/world/17Friedman/17Friedman-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "National",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2016-12-16T15:44:19Z",
+      "section_name": "World",
+      "snippet": "David M. Friedman, a bankruptcy lawyer, supports expanded settlements in the West Bank and has accused the Obama administration of anti-Semitism.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/666d56be-b36e-5a19-b417-b7ee5d0ed822",
+      "web_url": "https://www.nytimes.com/2016/12/16/world/middleeast/david-friedman-us-ambassador-israel.html",
+      "word_count": 1525
+    },
+    {
+      "abstract": "A stream of articles in Communist Party publications has argued that the election of Donald J. Trump has showed the United States to be dysfunctional and dissolute.",
+      "byline": {
+        "original": "By Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "For China’s State Media, Trump Victory Can’t Cure ‘American Disease’",
+        "kicker": "Sinosphere",
+        "print_headline": "Chinese Media Says Trump Can’t Cure ‘American Disease’"
+      },
+      "_id": "nyt://article/361d57da-4f97-5b4e-816b-04d31f24aede",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Buckley, Chris",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "President-elect Donald J. Trump in Wisconsin on Tuesday. Chinese state news outlets have argued that the United States election demonstrated why one-party rule is right for China.",
+        "credit": "Todd Heisler/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/15/world/15CHINAELECTION-1/15CHINAELECTION-1-articleLarge.jpg",
+          "height": 387,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/15/world/15CHINAELECTION-1/15CHINAELECTION-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "National",
+      "print_page": "16",
+      "print_section": "A",
+      "pub_date": "2016-12-14T11:18:49Z",
+      "section_name": "World",
+      "snippet": "A stream of articles in Communist Party publications has argued that the election of Donald J. Trump has showed the United States to be dysfunctional and dissolute.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/361d57da-4f97-5b4e-816b-04d31f24aede",
+      "web_url": "https://www.nytimes.com/2016/12/14/world/asia/china-media-america-trump-election.html",
+      "word_count": 966
+    },
+    {
+      "abstract": "A fight over a hydroelectric project in British Columbia is pitting the government against a public demanding greater rights and political transparency.",
+      "byline": {
+        "original": "By Dan Levin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Canada’s $7 Billion Dam Tests the Limits of State Power",
+        "kicker": "",
+        "print_headline": "A $7 Billion Dam Project Tests the Limits of State Power in Canada"
+      },
+      "_id": "nyt://article/f623354e-79f9-57b5-8f3c-6cfe46bb4a3c",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Levin, Dan",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Levees and Dams",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Hydroelectric Power",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Infrastructure (Public Works)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "British Columbia Hydro and Power Authority",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Opponents of the Peace River dam in British Columbia gathered near the project, known as Site C. They criticized the dam as a huge boondoggle that would cost Canadian taxpayers for years to come.",
+        "credit": "Andrew Testa for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/11/world/CANADAHYDRO1/CANADAHYDRO1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/11/world/CANADAHYDRO1/CANADAHYDRO1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-12-10T20:09:33Z",
+      "section_name": "World",
+      "snippet": "A fight over a hydroelectric project in British Columbia is pitting the government against a public demanding greater rights and political transparency.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/f623354e-79f9-57b5-8f3c-6cfe46bb4a3c",
+      "web_url": "https://www.nytimes.com/2016/12/10/world/canada/canadas-7-billion-dam-tests-the-limits-of-state-power.html",
+      "word_count": 1468
+    },
+    {
+      "abstract": "The three men vanished within days of one another in different provinces, rights groups said, and only one has been charged by the police.",
+      "byline": {
+        "original": "By Michael Forsythe"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "3 Chinese Rights Activists Vanish, Apparently in State Crackdown",
+        "kicker": "",
+        "print_headline": "3 Chinese Rights Activists Vanish Over Several Days"
+      },
+      "_id": "nyt://article/24d2486b-294d-5b1a-a008-1e8e063a8096",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Forsythe, Michael",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Zhou Shifeng (1964- )",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Jiang Tianyong (1971- )",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Huang Qi",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Liu Feiyue",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Jiang Tianyong in 2012.",
+        "credit": "Ng Han Guan/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/01/world/01China1/01China1-articleLarge.jpg",
+          "height": 863,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/01/world/01China1/01China1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "14",
+      "print_section": "A",
+      "pub_date": "2016-11-30T13:21:12Z",
+      "section_name": "World",
+      "snippet": "The three men vanished within days of one another in different provinces, rights groups said, and only one has been charged by the police.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/24d2486b-294d-5b1a-a008-1e8e063a8096",
+      "web_url": "https://www.nytimes.com/2016/11/30/world/asia/china-human-rights-activists-arrested.html",
+      "word_count": 842
+    },
+    {
+      "abstract": "A suicide bombing in Kabul targeted worshipers who were honoring the Islamic ceremony of Arbaeen, and came after another recent assault on a Shiite shrine.",
+      "byline": {
+        "original": "By Mujib Mashal and Fahim Abed"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Again Strikes at Afghan Shiites, Killing at Least 30 in Kabul",
+        "kicker": "",
+        "print_headline": "ISIS Again Strikes at Afghan Shiites"
+      },
+      "_id": "nyt://article/61ba4c56-a75f-5426-8e6d-837d0903bb04",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Mashal, Mujib",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 3
+        },
+        {
+          "name": "",
+          "value": "",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "An injured man at a hospital after a suicide attack at a mosque in Kabul, Afghanistan, on Monday.",
+        "credit": "Mohammad Ismail/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/11/22/world/22Afghan3/22Afghan3-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/11/22/world/22Afghan3/22Afghan3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2016-11-21T10:30:22Z",
+      "section_name": "World",
+      "snippet": "A suicide bombing in Kabul targeted worshipers who were honoring the Islamic ceremony of Arbaeen, and came after another recent assault on a Shiite shrine.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/61ba4c56-a75f-5426-8e6d-837d0903bb04",
+      "web_url": "https://www.nytimes.com/2016/11/22/world/asia/afghanistan-kabul-blast-mosque.html",
+      "word_count": 767
+    },
+    {
+      "abstract": "The expert also said the government should investigate allegations of military reprisals against Rohingya Muslims instead of brushing them aside.",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Myanmar Urged by U.N. Expert to Let Aid Flow to Rakhine State",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9ce62f9f-7460-5dc9-b163-f128add91d3d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Rohingya (Ethnic Group)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Security Council (UN)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Aung San Suu Kyi",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Power, Samantha",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Myanmar",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Rakhine State (Myanmar)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Ethnic Rakhine men attended a police training course this week in the north of Rakhine State in Myanmar.",
+        "credit": "Soe Zeya Tun/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/11/19/world/19myanmar/19myanmar-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/11/19/world/19myanmar/19myanmar-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-11-18T21:57:34Z",
+      "section_name": "World",
+      "snippet": "The expert also said the government should investigate allegations of military reprisals against Rohingya Muslims instead of brushing them aside.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9ce62f9f-7460-5dc9-b163-f128add91d3d",
+      "web_url": "https://www.nytimes.com/2016/11/19/world/asia/myanmar-rakhine-rohingya-muslim.html",
+      "word_count": 539
+    },
+    {
+      "abstract": "Rightist politicians see Mr. Trump’s victory as a chance to reverse course on contentious policies like building new settlements and accords with the Palestinians.",
+      "byline": {
+        "original": "By Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel’s Right, Cheering Donald Trump’s Win, Renews Calls to Abandon 2-State Solution",
+        "kicker": "",
+        "print_headline": "Rightists See a Chance  to Shift Israel’s Course"
+      },
+      "_id": "nyt://article/ea1659ee-0b90-5611-a72f-690d54ea9886",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kershner, Isabel",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Presidential Election of 2016",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Likud Party (Israel)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "A Tel Aviv cafe on Wednesday. “The era of a Palestinian state is over,” one cabinet minister said after the United States election.",
+        "credit": "Baz Ratner/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/11/15/world/15ISRAEL/15ISRAEL-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/11/15/world/15ISRAEL/15ISRAEL-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2016-11-15T01:15:19Z",
+      "section_name": "World",
+      "snippet": "Rightist politicians see Mr. Trump’s victory as a chance to reverse course on contentious policies like building new settlements and accords with the Palestinians.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/ea1659ee-0b90-5611-a72f-690d54ea9886",
+      "web_url": "https://www.nytimes.com/2016/11/15/world/middleeast/israel-netanyahu-trump-palestinian-settlements.html",
+      "word_count": 1102
+    },
+    {
+      "abstract": "Unconfirmed accounts say Gulmurod Khalimov has been promoted to military commander of the group, and the State Department reward for his capture appears to confirm his high status.",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Tajik Police Commander, Trained in U.S., Appears to Rise in Islamic State Ranks",
+        "kicker": "",
+        "print_headline": "Tajik Officer, Trained in U.S., Appears to Rise in Islamic State Ranks"
+      },
+      "_id": "nyt://article/7c12ca7b-a237-5af7-a1a6-0ee083f27b46",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Kramer, Andrew E",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Khalimov, Gulmurod (1975- )",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Tajikistan",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-11-11T01:14:53Z",
+      "section_name": "World",
+      "snippet": "Unconfirmed accounts say Gulmurod Khalimov has been promoted to military commander of the group, and the State Department reward for his capture appears to confirm his high status.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/7c12ca7b-a237-5af7-a1a6-0ee083f27b46",
+      "web_url": "https://www.nytimes.com/2016/11/11/world/asia/tajikistan-islamic-state-isis.html",
+      "word_count": 1100
+    },
+    {
+      "abstract": "A summit meeting in Germany was a test of whether President Vladimir V. Putin of Russia will cut a deal to end the conflict while he also faces pressure over Syria.",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As New Ukraine Talks Begin, What Is the State of Europe’s Only Active War?",
+        "kicker": "",
+        "print_headline": "As New Talks Begin, an Update on the War in Ukraine"
+      },
+      "_id": "nyt://article/0bfbb28e-0de7-57fc-bc51-24961770c5af",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kramer, Andrew E",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Poroshenko, Petro Olekseyevich",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Hollande, Francois",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Soldiers in Avdiivka, Ukraine, in July. The town was one of the most active areas of fighting along the line of control between the Ukrainian Army and Russian-backed rebels.",
+        "credit": "Brendan Hoffman for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/10/20/world/20Ukraine-web5/20Ukraine-web5-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/10/20/world/20Ukraine-web5/20Ukraine-web5-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-10-19T14:01:13Z",
+      "section_name": "World",
+      "snippet": "A summit meeting in Germany was a test of whether President Vladimir V. Putin of Russia will cut a deal to end the conflict while he also faces pressure over Syria.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/0bfbb28e-0de7-57fc-bc51-24961770c5af",
+      "web_url": "https://www.nytimes.com/2016/10/20/world/europe/ukraine-russia-germany-talks.html",
+      "word_count": 1292
+    },
+    {
+      "abstract": "In an unusual meeting, the Chinese president said the Communist Party must take a greater role in the boardroom — despite earlier pledges toward reform.",
+      "byline": {
+        "original": "By Emily Feng"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Xi Jinping Reminds China’s State Companies of Who’s the Boss",
+        "kicker": "Sinosphere",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bcb223b6-0a6e-5af8-976c-cbf8641f3d61",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Executives and Management (Theory)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "President Xi Jinping of China in Beijing. This week he indicated that he was unwilling to relinquish too much control over China’s state enterprises.",
+        "credit": "Andy Wong/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/10/14/world/14CHINASOE-web1/14CHINASEO-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/10/14/world/14CHINASOE-web1/14CHINASOE-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-10-13T11:09:26Z",
+      "section_name": "World",
+      "snippet": "In an unusual meeting, the Chinese president said the Communist Party must take a greater role in the boardroom — despite earlier pledges toward reform.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/bcb223b6-0a6e-5af8-976c-cbf8641f3d61",
+      "web_url": "https://www.nytimes.com/2016/10/14/world/asia/china-soe-state-owned-enterprises.html",
+      "word_count": 728
+    },
+    {
+      "abstract": "A rights group reported the extrajudicial killings of Muslims in Rakhine by the army, days after nine police officers in the border area were killed.",
+      "byline": {
+        "original": "By Mike Ives"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Violence Mounts in Restive Myanmar State, Leaving a Dozen Dead",
+        "kicker": "",
+        "print_headline": "Ethnic Strife In Myanmar Is Seen Rising After Killings"
+      },
+      "_id": "nyt://article/de70a1c4-2115-57c5-872a-0cb8628a0ad7",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Rakhine State (Myanmar)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Aung San Suu Kyi",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A soldier patrolling at the entrance of Maungdaw Township, in Rakhine State, on Monday. Reports indicated a significant escalation of tension in the state, which has long been a site of sectarian conflict.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/10/13/world/13MYANMAR-web1/13MYANMAR-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/10/13/world/13MYANMAR-web1/13MYANMAR-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2016-10-12T15:53:39Z",
+      "section_name": "World",
+      "snippet": "A rights group reported the extrajudicial killings of Muslims in Rakhine by the army, days after nine police officers in the border area were killed.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/de70a1c4-2115-57c5-872a-0cb8628a0ad7",
+      "web_url": "https://www.nytimes.com/2016/10/13/world/asia/sectarian-violence-myanmar-rakhine.html",
+      "word_count": 687
+    },
+    {
+      "abstract": "In the last year, hundreds of people have been killed in antigovernment demonstrations over human rights abuses and the government’s authoritarianism.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ethiopia Declares State of Emergency After Violent Protests",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a25f874e-d4a1-59ea-96dd-9e488222de43",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Ethiopia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Oromia (Ethiopia)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Desalegn, Hailemariam",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Mourners gathered for a time of prayer on Sunday in Addis Ababa, Ethiopia, and to remember those who were killed in a stampede last week when police broke up an antigovernment protest.",
+        "credit": "Tiksa Negeri/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/10/10/world/ETHIOPIA-FLOATER/ETHIOPIA-FLOATER-articleLarge.jpg",
+          "height": 405,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/10/10/world/ETHIOPIA-FLOATER/ETHIOPIA-FLOATER-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-10-09T23:00:53Z",
+      "section_name": "World",
+      "snippet": "In the last year, hundreds of people have been killed in antigovernment demonstrations over human rights abuses and the government’s authoritarianism.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/a25f874e-d4a1-59ea-96dd-9e488222de43",
+      "web_url": "https://www.nytimes.com/2016/10/10/world/africa/ethiopia-state-of-emergency.html",
+      "word_count": 385
+    },
+    {
+      "abstract": "Liberal democracy and religious sentiment have always had an uneasy coexistence, and they probably always will.",
+      "byline": {
+        "original": "By Steven Erlanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Reconciling the Conflicting Aims of Church and State",
+        "kicker": "Special Report: Democracy 2016",
+        "print_headline": "Reconciling the Conflicting Aims of Church and State"
+      },
+      "_id": "nyt://article/0373520f-69ab-519b-ae99-ae73f8424cae",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Religion and Belief",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of Religion",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Queen Elizabeth II meeting the former archbishop of Canterbury, the Most Rev. Rowan Williams, left, and other religious leaders during the queen’s Diamond Jubilee in 2012. She is the head of state of a secular nation, but also the head of the state religion, the Church of England.",
+        "credit": "Matt Dunham/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/09/14/world/14iht-demo-religion14/14iht-demo-religion14-articleLarge.jpg",
+          "height": 407,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/09/14/world/14iht-demo-religion14/14iht-demo-religion14-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-09-14T09:14:03Z",
+      "section_name": "World",
+      "snippet": "Liberal democracy and religious sentiment have always had an uneasy coexistence, and they probably always will.",
+      "source": "International New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Special Report",
+      "uri": "nyt://article/0373520f-69ab-519b-ae99-ae73f8424cae",
+      "web_url": "https://www.nytimes.com/2016/09/14/world/europe/reconciling-the-conflicting-aims-of-church-and-state.html",
+      "word_count": 1364
+    },
+    {
+      "abstract": "The police said a 22-year-old man with “strong, extremist beliefs inspired by ISIS” had attacked another man at a park outside Sydney.",
+      "byline": {
+        "original": "By Michelle Innis"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Stabbing Attack in Australia Is Linked to the Islamic State",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/214e9690-2374-58fb-a84c-9204bf33380c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Sydney (Australia)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-09-11T02:18:28Z",
+      "section_name": "World",
+      "snippet": "The police said a 22-year-old man with “strong, extremist beliefs inspired by ISIS” had attacked another man at a park outside Sydney.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/214e9690-2374-58fb-a84c-9204bf33380c",
+      "web_url": "https://www.nytimes.com/2016/09/11/world/australia/australia-isis-stabbing-sydney-minto.html",
+      "word_count": 288
+    },
+    {
+      "abstract": "It is the first time in an election in modern Germany that a far-right party has overtaken Ms. Merkel’s bloc of Christian Democrats and the Christian Social Union.",
+      "byline": {
+        "original": "By Alison Smale"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Far-Right Overtakes Angela Merkel’s Bloc in Her Home State",
+        "kicker": "",
+        "print_headline": "German Far-Right Party Overtakes Merkel’s Bloc in Elections in Her Home State"
+      },
+      "_id": "nyt://article/1c0d0865-56f7-5b96-a7f0-b960dcabe13f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Christian Democratic Union (Germany)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Alternative for Germany",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Social Democratic Party (Austria)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Middle East and Africa Migrant Crisis",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Mecklenburg-West Pomerania (Germany)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Chancellor Angela Merkel of Germany campaigned Saturday in Bad Doberan, a town in her home political state, Mecklenburg-Vorpommern.",
+        "credit": "Bernd Wuestneck/DPA, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/09/05/world/05GERMANY/05GERMANY-articleLarge.jpg",
+          "height": 398,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/09/05/world/05GERMANY/05GERMANY-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "A",
+      "pub_date": "2016-09-03T23:43:35Z",
+      "section_name": "World",
+      "snippet": "It is the first time in an election in modern Germany that a far-right party has overtaken Ms. Merkel’s bloc of Christian Democrats and the Christian Social Union.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1c0d0865-56f7-5b96-a7f0-b960dcabe13f",
+      "web_url": "https://www.nytimes.com/2016/09/05/world/europe/angela-merkel-germany-mecklenburg-vorpommern-elections-refugees.html",
+      "word_count": 849
+    },
+    {
+      "abstract": "Though a lethal drone strike demonstrates progress against the militant group, ISIS has proved to be remarkably resilient and well prepared for the succession of key figures.",
+      "byline": {
+        "original": "By Eric Schmitt, Rukmini Callimachi and Anne Barnard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Spokesman’s Death Will Have Islamic State Turning to Its ‘Deep Bench’",
+        "kicker": "",
+        "print_headline": "Drone Strike Has ISIS Turning to ‘Deep Bench’"
+      },
+      "_id": "nyt://article/f39cc49d-bb74-5242-9fc9-172d5d62df1d",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Barnard, Anne",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Callimachi, Rukmini Maria (1973- )",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Adnani, Abu Mohammed al-",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Schmitt, Eric",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Targeted Killings",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Drones (Pilotless Planes)",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Defense Department",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Baghdadi, Abu Bakr al-",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 14
+        },
+        {
+          "name": "Person",
+          "value": "Binali, Turki al-",
+          "rank": 15
+        },
+        {
+          "name": "Person",
+          "value": "Luqman, Abu",
+          "rank": 16
+        }
+      ],
+      "multimedia": {
+        "caption": "Abu Muhammad al-Adnani, the Islamic State militant group’s spokesman, was reported killed in northern Syria by the group’s media.",
+        "credit": "SITE Intel Group, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/09/01/world/01isis/01isis-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/09/01/world/01isis/01isis-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-09-01T00:57:02Z",
+      "section_name": "World",
+      "snippet": "Though a lethal drone strike demonstrates progress against the militant group, ISIS has proved to be remarkably resilient and well prepared for the succession of key figures.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/f39cc49d-bb74-5242-9fc9-172d5d62df1d",
+      "web_url": "https://www.nytimes.com/2016/09/01/world/middleeast/syria-isis-adnani.html",
+      "word_count": 1222
+    },
+    {
+      "abstract": "A two-part study of Saudi textbooks commissioned by the State Department and conducted by the International Center for Religion and Diplomacy, a Washington research group, was finished in 2013 but was never released for fear of angering Saudi officials. The New York Times obtained a copy under the Freedom of Information Act.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "State Dept. Study on Saudi Textbooks",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/7c1aca78-485a-5216-9381-156fd51d1706",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/17/international-home/saudi-doc-promo/saudi-doc-promo-articleLarge.png",
+          "height": 761,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/17/international-home/saudi-doc-promo/saudi-doc-promo-thumbStandard.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-08-25T08:58:37Z",
+      "section_name": "World",
+      "snippet": "A two-part study of Saudi textbooks commissioned by the State Department and conducted by the International Center for Religion and Diplomacy, a Washington research group, was finished in 2013 but was never released for fear of angering Saudi officials. The New York Times obtained a copy under the Freedom of Information Act.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/7c1aca78-485a-5216-9381-156fd51d1706",
+      "web_url": "https://www.nytimes.com/interactive/2016/08/17/international-home/document-state-dept-study-on-saudi-textbooks.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "Physical clashes involving young refugees have become a focal point in state elections, and a test of the chancellor’s push for integration.",
+      "byline": {
+        "original": "By Alison Smale"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Far-Right Party Trades on Merkel’s Refugee Policies in Her Home State",
+        "kicker": "",
+        "print_headline": "Far Right Trading on Merkel’s Refugee Policies in Her Home State"
+      },
+      "_id": "nyt://article/5070f26c-028b-5b22-945d-d0dc609030cc",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Smale, Alison",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Middle East and Africa Migrant Crisis",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Alternative for Germany",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Rostock (Germany)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Gross Klein (Germany)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A pedestrian bridge that connects Gross Klein, a suburb of Rostock, Germany, that has become a focal point in state elections after clashes between local youths and refugees from Afghanistan, Somalia and Syria.",
+        "credit": "Gordon Welters for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/18/world/xxrostock3/xxrostock3-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/18/world/xxrostock3/xxrostock3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-08-18T22:55:10Z",
+      "section_name": "World",
+      "snippet": "Physical clashes involving young refugees have become a focal point in state elections, and a test of the chancellor’s push for integration.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/5070f26c-028b-5b22-945d-d0dc609030cc",
+      "web_url": "https://www.nytimes.com/2016/08/19/world/europe/far-right-merkel-refugee-policies-germany-home-state.html",
+      "word_count": 1134
+    },
+    {
+      "abstract": "The move comes days after the prime minister denounced vigilante types of such groups, which have targeted Muslims and others suspected of killing cows, considered sacred in Hinduism.",
+      "byline": {
+        "original": "By Suhasini Raj"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Indian State to License Cow Protection Groups to Aid Police",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c9727686-5c4c-5083-8c5d-ba136da68548",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Cattle",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Caste Systems",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Vigilantes",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Save the Cow",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Haryana (India)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Hinduism",
+          "rank": 7
+        },
+        {
+          "name": "Keyword",
+          "value": "Dalit",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "A Hindu woman outside a temple in Allahabad, India, on Sunday. Hindus venerate cows, and cow protection groups are suspected of attacking people of religious minorities.",
+        "credit": "Rajesh Kumar Singh/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/12/world/12India-web/12India-web-articleLarge.jpg",
+          "height": 385,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/12/world/12India-web/12India-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-08-11T17:31:45Z",
+      "section_name": "World",
+      "snippet": "The move comes days after the prime minister denounced vigilante types of such groups, which have targeted Muslims and others suspected of killing cows, considered sacred in Hinduism.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/c9727686-5c4c-5083-8c5d-ba136da68548",
+      "web_url": "https://www.nytimes.com/2016/08/12/world/asia/indian-state-to-license-cow-protection-groups-to-aid-police.html",
+      "word_count": 598
+    },
+    {
+      "abstract": "Carlos Slim built a business empire that has made him one of the world’s richest men. But Mexico’s leaders have been chipping away at his domain with regulations.",
+      "byline": {
+        "original": "By Azam Ahmed, Randal C. Archibold and Elisabeth Malkin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mexico’s Richest Man Confronts a New Foe: The State That Helped Make Him Rich",
+        "kicker": "",
+        "print_headline": "Mexican Billionaire Confronts  a Onetime Friend: The State"
+      },
+      "_id": "nyt://article/a139e1f5-2229-5a47-bf6d-8a87dd6500c9",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Slim Helu, Carlos",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Malkin, Elisabeth",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Archibold, Randal C",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Telephones and Telecommunications",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Ahmed, Azam",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Cellular Telephones",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Antitrust Laws and Competition Issues",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Carlos Slim, center, arriving for a meeting in Nicaragua last year. More than half of his cellphone company’s sales now come from outside Mexico.",
+        "credit": "Inti Ocon/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/30/world/slim-web1/slim-web1-articleLarge.jpg",
+          "height": 420,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/30/world/slim-web1/slim-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2016-08-09T09:00:47Z",
+      "section_name": "World",
+      "snippet": "Carlos Slim built a business empire that has made him one of the world’s richest men. But Mexico’s leaders have been chipping away at his domain with regulations.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/a139e1f5-2229-5a47-bf6d-8a87dd6500c9",
+      "web_url": "https://www.nytimes.com/2016/08/10/world/americas/mexicos-carlos-slim-helu.html",
+      "word_count": 2840
+    },
+    {
+      "abstract": "The group issued a statement saying the attacker, who wounded two police officers before being fatally shot, was its “soldier.”",
+      "byline": {
+        "original": "By Aurelien Breeden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Claims Responsibility for Belgium Machete Attack",
+        "kicker": "",
+        "print_headline": "ISIS Claims It Was Behind Machete Attack in Belgium"
+      },
+      "_id": "nyt://article/77801e53-feb2-5d45-84b0-fe1a42c85228",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Breeden, Aurelien",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Amaq News Agency",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Charleroi (Belgium)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Belgium",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Attacks on Police",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-08-07T15:52:21Z",
+      "section_name": "World",
+      "snippet": "The group issued a statement saying the attacker, who wounded two police officers before being fatally shot, was its “soldier.”",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/77801e53-feb2-5d45-84b0-fe1a42c85228",
+      "web_url": "https://www.nytimes.com/2016/08/08/world/europe/islamic-state-claims-responsibility-for-belgium-machete-attack.html",
+      "word_count": 365
+    },
+    {
+      "abstract": "A recent spate of attacks by armed groups in Mali has killed dozens and destabilized the vast desert country.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mali Extends State of Emergency After 17 Soldiers Are Killed",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f39790e9-d2c0-5cf1-b2b7-1b6a29873cb0",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Mali",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations Department of Peacekeeping Operations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-07-21T01:41:04Z",
+      "section_name": "World",
+      "snippet": "A recent spate of attacks by armed groups in Mali has killed dozens and destabilized the vast desert country.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/f39790e9-d2c0-5cf1-b2b7-1b6a29873cb0",
+      "web_url": "https://www.nytimes.com/2016/07/21/world/africa/mali-islamic-extremists.html",
+      "word_count": 189
+    },
+    {
+      "abstract": "President Recep Tayyip Erdogan said that he suspected foreign countries were involved in an attempt to topple his government.",
+      "byline": {
+        "original": "By Ben Hubbard and Ceylan Yeginsu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Turkey Declares 3-Month State of Emergency",
+        "kicker": "",
+        "print_headline": "Turkish Leader Declares a State of Emergency"
+      },
+      "_id": "nyt://article/56faf1e5-2957-5fb3-81f0-bf962677021b",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Yeginsu, Ceylan",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Coups D'Etat and Attempted Coups D'Etat",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Hubbard, Ben",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Gulen, Fethullah",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Recep Tayyip Erdogan of Turkey held an emergency meeting with his national security team in Ankara on Wednesday.",
+        "credit": "Pool photo by Kayhan Ozer",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/21/world/21turkey-web/21turkey-web-articleLarge.jpg",
+          "height": 429,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/21/world/21turkey-web/21turkey-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-07-20T16:53:30Z",
+      "section_name": "World",
+      "snippet": "President Recep Tayyip Erdogan said that he suspected foreign countries were involved in an attempt to topple his government.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/56faf1e5-2957-5fb3-81f0-bf962677021b",
+      "web_url": "https://www.nytimes.com/2016/07/21/world/europe/turkey-erdogan-gulen.html",
+      "word_count": 818
+    },
+    {
+      "abstract": "The plot’s chief architect in the thwarted Belgian plot was also the on-the-ground coordinator in the Paris attacks in November.",
+      "byline": {
+        "original": "By Alissa J. Rubin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Belgian Court Jails Islamic State Cell Leaders for Foiled Plot",
+        "kicker": "",
+        "print_headline": "Belgian Court Sentences 15 in Foiled Plot Linked to ISIS"
+      },
+      "_id": "nyt://article/e90a00e5-22a7-584d-8d14-7a87223c232d",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Rubin, Alissa Johannsen",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Brussels (Belgium)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Belgium",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Belgian judge Pierre Hendrickx, center, presides over the trial of suspects in the foiled terrorist plot in the town of Verviers last year, at the Brussels Palace of Justice in Belgium on Tuesday.",
+        "credit": "Francois Lenoir/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/06/world/06Belgium-web1/06Belgium-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/06/world/06Belgium-web1/06Belgium-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2016-07-05T23:55:09Z",
+      "section_name": "World",
+      "snippet": "The plot’s chief architect in the thwarted Belgian plot was also the on-the-ground coordinator in the Paris attacks in November.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/e90a00e5-22a7-584d-8d14-7a87223c232d",
+      "web_url": "https://www.nytimes.com/2016/07/06/world/europe/belgian-court-jails-isis-cell-leaders.html",
+      "word_count": 714
+    },
+    {
+      "abstract": "The episode, which wounded eight people in Puchong, was thought to have been the first assault in Malaysia tied to the militant group.",
+      "byline": {
+        "original": "By Richard C. Paddock"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Malaysia Links Nightclub Attack to Islamic State",
+        "kicker": "",
+        "print_headline": "Malaysia Links Attack on Nightclub to ISIS"
+      },
+      "_id": "nyt://article/61ca4628-198b-56f5-972b-a857ae8444e8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Paddock, Richard C",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Puchong (Malaysia)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Bars and Nightclubs",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Malaysia",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Forensic specialists investigating the explosion at a nightclub in Puchong, Malaysia, late last month that the authorities now believe was the work of Islamic State.",
+        "credit": "Ahmad Yusni/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/05/world/05Malaysia-web1/05Malaysia-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/05/world/05Malaysia-web1/05Malaysia-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-07-04T13:40:04Z",
+      "section_name": "World",
+      "snippet": "The episode, which wounded eight people in Puchong, was thought to have been the first assault in Malaysia tied to the militant group.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/61ca4628-198b-56f5-972b-a857ae8444e8",
+      "web_url": "https://www.nytimes.com/2016/07/05/world/asia/malaysia-isis-grenade-attack.html",
+      "word_count": 471
+    },
+    {
+      "abstract": "The right-wing Law and Justice Party’s effort to impose its nationalist message on the state broadcaster has prompted wide concern about press freedom.",
+      "byline": {
+        "original": "By Alison Smale and Joanna Berendt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Poland’s Conservative Government Puts Curbs on State TV News",
+        "kicker": "",
+        "print_headline": "‘Pacification’ of Polish Broadcasters Causes Exodus of Staff, and Viewers"
+      },
+      "_id": "nyt://article/23cf731a-20e1-5f2e-8049-021b79e4a9b1",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Poland",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Berendt, Joanna",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Smale, Alison",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of Speech and Expression",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Kaczynski, Jaroslaw",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Law and Justice (Poland)",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Maslak, Piotr",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Jaroslaw Kaczynski, the leader of the governing Law and Justice party, in June. Polish television networks have become an arena in recent battles between Polish authorities and European institutions.",
+        "credit": "Kacper Pempel/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/30/world/30polandmedia-web2/30polandmedia-web2-articleLarge.jpg",
+          "height": 406,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/30/world/30polandmedia-web2/30polandmedia-web2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2016-07-03T22:41:52Z",
+      "section_name": "World",
+      "snippet": "The right-wing Law and Justice Party’s effort to impose its nationalist message on the state broadcaster has prompted wide concern about press freedom.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/23cf731a-20e1-5f2e-8049-021b79e4a9b1",
+      "web_url": "https://www.nytimes.com/2016/07/04/world/europe/polands-conservative-government-puts-curbs-on-state-tv-news.html",
+      "word_count": 1230
+    },
+    {
+      "abstract": "Maharashtra, which is home to an estimated 3,000 of India’s 4,500 Jews, approved the application for official recognition.",
+      "byline": {
+        "original": "By Ayesha Venkataraman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Maharashtra State in India Grants Jews Minority Status",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/79620637-f1ed-520a-9459-1efb5a9f50e7",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Maharashtra (India)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Minorities",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Samuel, Judah",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Sopher, Solomon F",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-06-22T20:32:34Z",
+      "section_name": "World",
+      "snippet": "Maharashtra, which is home to an estimated 3,000 of India’s 4,500 Jews, approved the application for official recognition.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/79620637-f1ed-520a-9459-1efb5a9f50e7",
+      "web_url": "https://www.nytimes.com/2016/06/23/world/asia/jews-maharashtra-state-india.html",
+      "word_count": 419
+    },
+    {
+      "abstract": "A memo issued last week that criticizes the Obama administration’s Syria policy is written in language that can be difficult to parse. Here’s what it means.",
+      "byline": {
+        "original": "By Max Fisher"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department’s Dissent Memo on Syria: An Explanation",
+        "kicker": "The Interpreter",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0e26146c-4727-597f-a0e7-4ab9f0c22202",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Obama, Barack",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "No-Fly Zones",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Obama at a White House briefing on Aug. 20, 2012. It was during this briefing that Mr. Obama warned of consequences if President Bashar al-Assad of Syria crossed a “red line.”",
+        "credit": "Luke Sharrett for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/22/world/22ANNOTATION-web1/22ANNOTATION-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/22/world/22ANNOTATION-web1/22ANNOTATION-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-06-22T15:25:27Z",
+      "section_name": "World",
+      "snippet": "A memo issued last week that criticizes the Obama administration’s Syria policy is written in language that can be difficult to parse. Here’s what it means.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/0e26146c-4727-597f-a0e7-4ab9f0c22202",
+      "web_url": "https://www.nytimes.com/2016/06/23/world/middleeast/syria-assad-obama-diplomats-memo.html",
+      "word_count": 2607
+    },
+    {
+      "abstract": "In a draft version of a dissent memo filed with the State Department's senior leadership, dozens of diplomats and other mid-level officials called for military strikes against President Bashar al-Assad of Syria.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "State Department Draft Dissent Memo on Syria",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/aaa89754-0219-5459-9d62-78adc55a426b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/17/world/middleeast/image-state-dept-syria/image-state-dept-syria-articleLarge.gif",
+          "height": 464,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/17/world/middleeast/image-state-dept-syria/image-state-dept-syria-thumbStandard.gif",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-06-18T00:07:11Z",
+      "section_name": "World",
+      "snippet": "In a draft version of a dissent memo filed with the State Department's senior leadership, dozens of diplomats and other mid-level officials called for military strikes against President Bashar al-Assad of Syria.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/aaa89754-0219-5459-9d62-78adc55a426b",
+      "web_url": "https://www.nytimes.com/interactive/2016/06/17/world/middleeast/document-state-dept-syria.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "Hundreds have been sickened by tainted fish up and down the coast from a new steel plant, and escalating protests have grown into a test of government accountability.",
+      "byline": {
+        "original": "By Richard C. Paddock"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Toxic Fish in Vietnam Idle a Local Industry and Challenge the State",
+        "kicker": "",
+        "print_headline": "Sickness and Unrest Rise From Tainted Fish in Vietnam"
+      },
+      "_id": "nyt://article/b3a6d233-5773-59e5-adab-9e43915c6feb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Water Pollution",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Paddock, Richard C",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Chemicals",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Hazardous and Toxic Substances",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Fish and Other Marine Life",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Fishing, Commercial",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Vietnam",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Formosa Ha Tinh Steel Corp",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Nhan Trach (Vietnam)",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Steel and Iron",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Environment",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Taiwan",
+          "rank": 13
+        },
+        {
+          "name": "Subject",
+          "value": "Factories and Manufacturing",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "Dead fish on a beach in the central province of Quang Binh, Vietnam. Pollution from a nearby steel plant is suspected in the die-off, and protests across the country are testing the government.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/31/world/06VIETNAM-web1/06VIETNAM-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/31/world/06VIETNAM-web1/06VIETNAM-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-06-08T12:14:46Z",
+      "section_name": "World",
+      "snippet": "Hundreds have been sickened by tainted fish up and down the coast from a new steel plant, and escalating protests have grown into a test of government accountability.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/b3a6d233-5773-59e5-adab-9e43915c6feb",
+      "web_url": "https://www.nytimes.com/2016/06/09/world/asia/vietnam-fish-kill.html",
+      "word_count": 1399
+    },
+    {
+      "abstract": "The Islamic State is increasing taxes and punishments to make up for revenue losses.",
+      "byline": {
+        "original": "By SARAH ALMUKHTAR"
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "Life Under the Islamic State: Fines, Taxes and Punishments",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/4b84cd6c-b82c-5189-93d8-67d365aa09c6",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Fines (Penalties)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/26/world/middleeast/isis-taxes-fines-revenue-1464271449369/isis-taxes-fines-revenue-1464271449369-articleLarge-v5.png",
+          "height": 300,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/26/world/middleeast/isis-taxes-fines-revenue-1464271449369/isis-taxes-fines-revenue-1464271449369-thumbStandard-v4.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-05-26T14:29:34Z",
+      "section_name": "World",
+      "snippet": "The Islamic State is increasing taxes and punishments to make up for revenue losses.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/4b84cd6c-b82c-5189-93d8-67d365aa09c6",
+      "web_url": "https://www.nytimes.com/interactive/2016/05/26/world/middleeast/isis-taxes-fines-revenue.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "The party, led by Prime Minister Narendra Modi, made inroads in the country’s northeast after disappointing results in previous elections.",
+      "byline": {
+        "original": "By Nida Najar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Bharatiya Janata Party Rebounds in Indian State Elections",
+        "kicker": "",
+        "print_headline": "Party Led by India’s Prime Minister Rebounds in State Elections"
+      },
+      "_id": "nyt://article/cd11ac45-5802-5606-bf2f-e612103dda8e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Indian National Congress",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Assam State (India)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Sarbananda Sonwal, front, the Bharatiya Janata Party’s candidate to lead Assam state, after his party’s victory on Thursday.",
+        "credit": "Biju Boro/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/20India-web/20India-web-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/20India-web/20India-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-05-19T17:37:58Z",
+      "section_name": "World",
+      "snippet": "The party, led by Prime Minister Narendra Modi, made inroads in the country’s northeast after disappointing results in previous elections.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/cd11ac45-5802-5606-bf2f-e612103dda8e",
+      "web_url": "https://www.nytimes.com/2016/05/20/world/asia/modi-india-assembly-elections.html",
+      "word_count": 432
+    },
+    {
+      "abstract": "The extension, the third since the attacks in and around Paris on Nov. 13, will cover two major sporting events this summer, including the Euro 2016 soccer tournament.",
+      "byline": {
+        "original": "By Aurelien Breeden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "French Parliament Votes to Extend State of Emergency",
+        "kicker": "",
+        "print_headline": "France Again Extends Its State of Emergency"
+      },
+      "_id": "nyt://article/4497ec96-9805-5dc1-a9d4-440bb2fc1fe4",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Breeden, Aurelien",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "UEFA European Football Championship",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Tour de France (Bicycle Race)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Paris Attacks (November 2015)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Soccer",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Bicycles and Bicycling",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "President François Hollande declared a state of emergency in France on Nov. 14, 2015.",
+        "credit": "Gonzalo Fuentes/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/FRANCE/FRANCE-articleLarge.jpg",
+          "height": 841,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/FRANCE/FRANCE-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2016-05-19T15:56:56Z",
+      "section_name": "World",
+      "snippet": "The extension, the third since the attacks in and around Paris on Nov. 13, will cover two major sporting events this summer, including the Euro 2016 soccer tournament.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/4497ec96-9805-5dc1-a9d4-440bb2fc1fe4",
+      "web_url": "https://www.nytimes.com/2016/05/20/world/europe/french-parliament-votes-to-extend-state-of-emergency.html",
+      "word_count": 538
+    },
+    {
+      "abstract": "As the Islamic State loses territory, it is shifting to insurgent tactics in Baghdad.",
+      "byline": {
+        "original": "By SARAH ALMUKHTAR and DEREK WATKINS"
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "Major Islamic State Attacks in Baghdad",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/8085bd7b-f390-5d87-98e3-427e6e13d622",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Baghdad (Iraq)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/18/world/middleeast/baghdad-attacks-isis-map-1463613210721/baghdad-attacks-isis-map-1463613210721-articleLarge-v2.png",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/18/world/middleeast/baghdad-attacks-isis-map-1463613210721/baghdad-attacks-isis-map-1463613210721-thumbStandard-v4.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-05-18T23:27:32Z",
+      "section_name": "World",
+      "snippet": "As the Islamic State loses territory, it is shifting to insurgent tactics in Baghdad.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/8085bd7b-f390-5d87-98e3-427e6e13d622",
+      "web_url": "https://www.nytimes.com/interactive/2016/05/18/world/middleeast/baghdad-attacks-isis-map.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "A video of a garden party, which has been posted online, included an exchange in which the queen had sharp words for the officials’ behavior last year.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Queen Elizabeth II Says Chinese Officials Were ‘Very Rude’ on State Visit",
+        "kicker": "Sinosphere",
+        "print_headline": "Queen Says Chinese Were ‘Very Rude’ on State Visit"
+      },
+      "_id": "nyt://article/7ea1b36d-104d-53d4-9c2c-6b9868dac063",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Elizabeth II, Queen of Great Britain",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Customs, Etiquette and Manners",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "D'Orsi, Lucy (1969- )",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "John Stillwell/WPA, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/11/multimedia/12chinaengland-queen/12chinaengland-queen-articleLarge.jpg",
+          "height": 1043,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/11/multimedia/12chinaengland-queen/12chinaengland-queen-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-05-11T07:23:27Z",
+      "section_name": "World",
+      "snippet": "A video of a garden party, which has been posted online, included an exchange in which the queen had sharp words for the officials’ behavior last year.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/7ea1b36d-104d-53d4-9c2c-6b9868dac063",
+      "web_url": "https://www.nytimes.com/2016/05/12/world/asia/china-britain-queen-xi-jinping.html",
+      "word_count": 664
+    },
+    {
+      "abstract": "Immigration officials in Sarawak, on the island of Borneo, refused to let Ms. Nurul Izzah, an opposition member of Parliament, enter.",
+      "byline": {
+        "original": "By Richard C. Paddock"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Malaysian State Bars Lawmaker Nurul Izzah Anwar From Campaigning",
+        "kicker": "",
+        "print_headline": "Malaysian State Bars Opposition Candidate From Campaigning"
+      },
+      "_id": "nyt://article/6a7b0029-7c40-5f88-b301-5db849d274bb",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Paddock, Richard C",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Nural Izzah Anwar",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Nurul Izzah Anwar",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Najib Razak",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Adenan Satem",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Adenan Satem (1944- )",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Malaysia",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Sarawak (Malaysia)",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Deportation",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Nurul Izzah Anwar at a rally in Kuala Lumpur last year. For Malaysian opposition leaders, restrictions on campaigning before Saturday’s state election are part of the frustration of going up against Prime Minister Najib Razak.",
+        "credit": "Fazry Ismail/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/04/world/04malaysia/04malaysia-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/04/world/04malaysia/04malaysia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2016-05-03T13:36:05Z",
+      "section_name": "World",
+      "snippet": "Immigration officials in Sarawak, on the island of Borneo, refused to let Ms. Nurul Izzah, an opposition member of Parliament, enter.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/6a7b0029-7c40-5f88-b301-5db849d274bb",
+      "web_url": "https://www.nytimes.com/2016/05/04/world/asia/malaysia-sarawak-election.html",
+      "word_count": 658
+    },
+    {
+      "abstract": "The suspects, accused of cheating mainland Chinese by telephone from a base in Kenya, were deported to China this month, stirring concern in Taiwan.",
+      "byline": {
+        "original": "By Austin Ramzy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fraud Suspects From Taiwan Have Confessed, Chinese State Media Reports",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/aafed1cd-66f3-515d-9626-119d4be6a3ab",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Frauds and Swindling",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Deportation",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Taiwan",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Kenya",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Telephones and Telecommunications",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "People accused of telephone fraud arriving in Beijing after being deported from Kenya.",
+        "credit": "Yin Gang/Xinhua, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/04/23/world/23TAIWAN-web1/23TAIWAN-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/04/23/world/23TAIWAN-web1/23TAIWAN-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-04-22T09:43:00Z",
+      "section_name": "World",
+      "snippet": "The suspects, accused of cheating mainland Chinese by telephone from a base in Kenya, were deported to China this month, stirring concern in Taiwan.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/aafed1cd-66f3-515d-9626-119d4be6a3ab",
+      "web_url": "https://www.nytimes.com/2016/04/23/world/asia/taiwan-wire-fraud-suspects-china.html",
+      "word_count": 377
+    },
+    {
+      "abstract": "Syrian government recaptured Qaryatain from retreating Islamic State militants who had abducted and terrorized dozens of Christian residents there.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Syria: Town Retaken From Islamic State",
+        "kicker": "World Briefing",
+        "print_headline": "Middle East; Syria: Town Retaken From Islamic State"
+      },
+      "_id": "nyt://article/2270ce07-9bb3-5e63-bd7d-f8b4b72396f6",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Qaryatain (Syria)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-04-05T00:14:30Z",
+      "section_name": "World",
+      "snippet": "Syrian government recaptured Qaryatain from retreating Islamic State militants who had abducted and terrorized dozens of Christian residents there.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Brief",
+      "uri": "nyt://article/2270ce07-9bb3-5e63-bd7d-f8b4b72396f6",
+      "web_url": "https://www.nytimes.com/2016/04/05/world/middleeast/syria-town-retaken-from-islamic-state.html",
+      "word_count": 119
+    },
+    {
+      "abstract": "Myanmar’s departing government has lifted a nearly four-year curfew in Rakhine, where clashes between Rohingya Muslims and Buddhists left more than 200 people dead.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Myanmar: State Curfew Is Lifted",
+        "kicker": "World Briefing",
+        "print_headline": "Asia; Myanmar: State Curfew Is Lifted"
+      },
+      "_id": "nyt://article/95fd236a-9f12-5c76-b83b-624a7eeb3ab6",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Myanmar",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Curfews",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Rohingya (Ethnic Group)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Thein Sein",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-03-30T00:40:14Z",
+      "section_name": "World",
+      "snippet": "Myanmar’s departing government has lifted a nearly four-year curfew in Rakhine, where clashes between Rohingya Muslims and Buddhists left more than 200 people dead.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Brief",
+      "uri": "nyt://article/95fd236a-9f12-5c76-b83b-624a7eeb3ab6",
+      "web_url": "https://www.nytimes.com/2016/03/30/world/asia/myanmar-state-curfew-is-lifted.html",
+      "word_count": 78
+    },
+    {
+      "abstract": "Amid rising concerns about extremism, a 28-year-old petition supporting secularism has been revived, and the country’s Supreme Court is to hear the challenge on Sunday.",
+      "byline": {
+        "original": "By Maher Sattar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Revived Challenge to Islam as Bangladesh’s State Religion Goes to Court",
+        "kicker": "",
+        "print_headline": "A Revived Challenge to Islam as Bangladesh&#8217;s State Religion Goes to Court "
+      },
+      "_id": "nyt://article/199dac89-eb71-5f09-b6d0-3f31c5b697b0",
+      "keywords": [
+        {
+          "name": "",
+          "value": "",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Bangladesh",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Constitutions",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Religion-State Relations",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Bangladesh Awami League",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Thousands of Muslim devotees rallied in Dhaka, the capital of Bangladesh, on Friday to denounce a court petition seeking to remove Islam as the country’s state religion.",
+        "credit": "A.M. Ahad/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/03/26/world/26dhaka/26dhaka-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/03/26/world/26dhaka/26dhaka-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2016-03-26T00:07:22Z",
+      "section_name": "World",
+      "snippet": "Amid rising concerns about extremism, a 28-year-old petition supporting secularism has been revived, and the country’s Supreme Court is to hear the challenge on Sunday.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/199dac89-eb71-5f09-b6d0-3f31c5b697b0",
+      "web_url": "https://www.nytimes.com/2016/03/26/world/asia/a-revived-challenge-to-islam-as-bangladeshs-state-religion-goes-to-court.html",
+      "word_count": 695
+    },
+    {
+      "abstract": "The test of the design, a solid-fuel rocket engine, would decrease the time needed to prepare the launch of a missile, defense officials said.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea Tests New Rocket Engine, State Media Says",
+        "kicker": "",
+        "print_headline": "World Briefing | Asia; North Korea: New Rocket Engine Tested"
+      },
+      "_id": "nyt://article/350d5340-ca9c-510f-9731-332d26c7d9d5",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Sang-hun, Choe",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Missiles and Missile Defense Systems",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Park Geun-hye",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Travelers at a train station in Seoul, South Korea, watching a broadcast of the North Korean leader, Kim Jong-un, observing what the North called a test of new solid-fuel rocket engine.",
+        "credit": "Ahn Young-Joon/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/03/25/world/25KOREA-web1/25KOREA-web1-articleLarge.jpg",
+          "height": 388,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/03/25/world/25KOREA-web1/25KOREA-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-03-24T08:35:48Z",
+      "section_name": "World",
+      "snippet": "The test of the design, a solid-fuel rocket engine, would decrease the time needed to prepare the launch of a missile, defense officials said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/350d5340-ca9c-510f-9731-332d26c7d9d5",
+      "web_url": "https://www.nytimes.com/2016/03/25/world/asia/north-korea-solid-fuel-rocket-engine.html",
+      "word_count": 547
+    },
+    {
+      "abstract": "In a report to Congress seen, the department said it was “gravely concerned” about abuses against the Rohingya, but it did not constitute genocide.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Myanmar: State Dept. Says Persecution of Muslims Does Not Rise to Genocide",
+        "kicker": "World Briefing",
+        "print_headline": "Asia; Myanmar: State Dept. Says Persecution of Muslims Does Not Rise to Genocide"
+      },
+      "_id": "nyt://article/905b393b-fc59-59c6-b370-0b329fd676d0",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Myanmar",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Rohingya (Ethnic Group)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-03-22T01:05:45Z",
+      "section_name": "World",
+      "snippet": "In a report to Congress seen, the department said it was “gravely concerned” about abuses against the Rohingya, but it did not constitute genocide.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Brief",
+      "uri": "nyt://article/905b393b-fc59-59c6-b370-0b329fd676d0",
+      "web_url": "https://www.nytimes.com/2016/03/22/world/asia/myanmar-state-dept-says-persecution-of-muslims-does-not-rise-to-genocide.html",
+      "word_count": 92
+    },
+    {
+      "abstract": "The assault on a coalition base in the north resulted in the second combat death for the United States since it first struck ISIS in 2014.",
+      "byline": {
+        "original": "By Emmarie Huetteman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Marine Killed by Islamic State Rocket Attack in Iraq",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e386db26-bd50-5de5-b9b2-b187879bf518",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Defense Department",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "United States Marine Corps",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-03-19T22:28:33Z",
+      "section_name": "World",
+      "snippet": "The assault on a coalition base in the north resulted in the second combat death for the United States since it first struck ISIS in 2014.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/e386db26-bd50-5de5-b9b2-b187879bf518",
+      "web_url": "https://www.nytimes.com/2016/03/20/world/middleeast/us-marine-killed-by-islamic-state-rocket-attack-in-iraq.html",
+      "word_count": 267
+    },
+    {
+      "abstract": "In giving a far-right party up to a quarter of the vote, Germans let their chancellor know they are not happy with how the refugee crisis is being handled.",
+      "byline": {
+        "original": "By Alison Smale"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "German State Elections Point to Vulnerability for Angela Merkel",
+        "kicker": "News Analysis",
+        "print_headline": "German State Elections Point to Growing Vulnerabilities for Merkel"
+      },
+      "_id": "nyt://article/28ff2e0d-b0f6-564f-9d70-13d69eb7d47f",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Smale, Alison",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Middle East and Africa Migrant Crisis",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Alternative for Germany",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Carsten Koall/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/03/15/world/15Germany-video/15Germany-video-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/03/15/world/15Germany-video/15Germany-video-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-03-14T21:42:08Z",
+      "section_name": "World",
+      "snippet": "In giving a far-right party up to a quarter of the vote, Germans let their chancellor know they are not happy with how the refugee crisis is being handled.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News Analysis",
+      "uri": "nyt://article/28ff2e0d-b0f6-564f-9d70-13d69eb7d47f",
+      "web_url": "https://www.nytimes.com/2016/03/15/world/europe/german-state-elections-point-to-vulnerability-for-angela-merkel.html",
+      "word_count": 1048
+    },
+    {
+      "abstract": "The state government promised to introduce a bill to grant coveted “backward” status to the Jats, whose protests had choked New Delhi’s water supply.",
+      "byline": {
+        "original": "By Geeta Anand and Nida Najar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Haryana State in India Proposes New Caste Status in Bid to Quell Protests",
+        "kicker": "",
+        "print_headline": " Indian State Moves to Placate Group Demanding &#8216;Backward&#8217; Status "
+      },
+      "_id": "nyt://article/7b01a458-aa7a-56fd-ad67-b17ac4307c5d",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Najar, Nida",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Anand, Geeta",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Caste Systems",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Affirmative Action",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Delhi (India)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Haryana (India)",
+          "rank": 8
+        },
+        {
+          "name": "Keyword",
+          "value": "Jat",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Crowding around a municipal tanker to draw water in New Delhi on Monday. Protests damaged a canal that supplies much of the city’s water.",
+        "credit": "Anindito Mukherjee/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/23/world/23india-web1/23india-web1-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/23/world/23india-web1/23india-web1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-02-22T12:09:43Z",
+      "section_name": "World",
+      "snippet": "The state government promised to introduce a bill to grant coveted “backward” status to the Jats, whose protests had choked New Delhi’s water supply.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/7b01a458-aa7a-56fd-ad67-b17ac4307c5d",
+      "web_url": "https://www.nytimes.com/2016/02/23/world/asia/new-delhi-jat-water-protest.html",
+      "word_count": 895
+    },
+    {
+      "abstract": "The storm, which had gusts up to 202 miles per hour, killed five people and left villages destroyed.",
+      "byline": {
+        "original": "By Michelle Innis"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fiji Declares a State of Natural Disaster After Fierce Cyclone",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e6b0c7a4-0733-50e8-b460-b51ec7407c46",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Cyclones",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Fiji",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Bainimarama, Frank",
+          "rank": 3
+        },
+        {
+          "name": "Keyword",
+          "value": "Cyclone Winston",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Villages such as Ba were hit hard as Cyclone Winston swept through Fiji.",
+        "credit": "Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/21/world/21FIJI/21FIJI-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/21/world/21FIJI/21FIJI-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-02-21T01:08:52Z",
+      "section_name": "World",
+      "snippet": "The storm, which had gusts up to 202 miles per hour, killed five people and left villages destroyed.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e6b0c7a4-0733-50e8-b460-b51ec7407c46",
+      "web_url": "https://www.nytimes.com/2016/02/21/world/asia/fiji-declares-a-state-of-natural-disaster-in-the-wake-of-a-fierce-cyclone.html",
+      "word_count": 347
+    },
+    {
+      "abstract": "The court found four of the men guilty of violating Indonesia’s antiterrorism law. This is the first time Indonesia has sent anyone to prison for links to the group.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Indonesia: 7 Men Are Convicted of Ties to Islamic State",
+        "kicker": "World Briefing",
+        "print_headline": "Asia; Indonesia: 7 Men Are Convicted of Ties to Islamic State"
+      },
+      "_id": "nyt://article/5287d4f6-ed69-5815-8da8-48341011b940",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Indonesia",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2016-02-10T01:23:00Z",
+      "section_name": "World",
+      "snippet": "The court found four of the men guilty of violating Indonesia’s antiterrorism law. This is the first time Indonesia has sent anyone to prison for links to the group.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Brief",
+      "uri": "nyt://article/5287d4f6-ed69-5815-8da8-48341011b940",
+      "web_url": "https://www.nytimes.com/2016/02/10/world/asia/indonesia-7-men-are-convicted-of-ties-to-islamic-state.html",
+      "word_count": 82
+    },
+    {
+      "abstract": "While major conglomerates profit, little or nothing is trickling down to the lower levels of Iran’s beleaguered but still enormous private sector.",
+      "byline": {
+        "original": "By Thomas Erdbrink"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Iran, State-Backed Companies Win From Lifted Sanctions",
+        "kicker": "",
+        "print_headline": "Sanctions&#8217; End Benefits State-Backed Iran Companies "
+      },
+      "_id": "nyt://article/780f91e1-70c4-5c78-8d81-97a3c5ed6061",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Erdbrink, Thomas",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Investments",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Iranian Rial (Currency)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic Revolutionary Guards Corps",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Hassan Rouhani of Iran, center, at the Élysée Palace in Paris with President François Hollande, right, last month.",
+        "credit": "Stephane De Sakutin/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/06/world/06iran-web1/06iran-web1-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/06/world/06iran-web1/06iran-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-02-05T12:20:32Z",
+      "section_name": "World",
+      "snippet": "While major conglomerates profit, little or nothing is trickling down to the lower levels of Iran’s beleaguered but still enormous private sector.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/780f91e1-70c4-5c78-8d81-97a3c5ed6061",
+      "web_url": "https://www.nytimes.com/2016/02/06/world/middleeast/in-iran-state-backed-companies-win-from-lifted-sanctions.html",
+      "word_count": 1056
+    },
+    {
+      "abstract": "Phillip Yin, a candidate for lieutenant governor of Washington State, was a news anchor for CCTV America, an affiliate of the Chinese state broadcaster.",
+      "byline": {
+        "original": "By Javier C. Hernández"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ties to Chinese State Media Raise Questions in U.S. Election Campaign",
+        "kicker": "Sinosphere",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d3635cbb-a21c-5bdc-afd8-c38434031247",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Yin, Phillip T (1974- )",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "China Central Television",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Washington (State)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Elections, Governors",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Phillip Yin, former anchor at CCTV America, announced in January that he was running for lieutenant governor of Washington State.",
+        "credit": "Benjamin Pu",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/06/world/asia/06chinyin01/06chinyin01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/06/world/asia/06chinyin01/06chinyin01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-02-05T11:50:21Z",
+      "section_name": "World",
+      "snippet": "Phillip Yin, a candidate for lieutenant governor of Washington State, was a news anchor for CCTV America, an affiliate of the Chinese state broadcaster.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/d3635cbb-a21c-5bdc-afd8-c38434031247",
+      "web_url": "https://www.nytimes.com/2016/02/06/world/asia/phillip-yin-lieutenant-governor-washington-state.html",
+      "word_count": 466
+    },
+    {
+      "abstract": "The French government confirmed Wednesday that it would seek a second three-month extension of the state of emergency declared after the Paris attacks in November.",
+      "byline": {
+        "original": "By Aurelien Breeden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "France Seeks to Extend State of Emergency Despite Protests",
+        "kicker": "",
+        "print_headline": "France Seeks to Extend Emergency Despite Protests"
+      },
+      "_id": "nyt://article/ada864cc-5743-556d-845e-983abb6ee6bf",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Breeden, Aurelien",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Paris Attacks (November 2015)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Hollande, Francois",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Search and Seizure",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Citizenship and Naturalization",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Soldiers patrolled by the Cathedral of Notre-Dame in Paris last month. Critics say the state of emergency has lasted too long and provided few results.",
+        "credit": "Dmitry Kostyukov for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/04/world/04FRANCE-web1/04FRANCE-web1-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/04/world/04FRANCE-web1/04FRANCE-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-02-03T19:34:38Z",
+      "section_name": "World",
+      "snippet": "The French government confirmed Wednesday that it would seek a second three-month extension of the state of emergency declared after the Paris attacks in November.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/ada864cc-5743-556d-845e-983abb6ee6bf",
+      "web_url": "https://www.nytimes.com/2016/02/04/world/europe/france-state-of-emergency-paris-attacks.html",
+      "word_count": 784
+    },
+    {
+      "abstract": "Modern China is breeding fewer donkeys, threatening the supply of a traditional medicine made from their hides and inviting a flood of fakes into the market.",
+      "byline": {
+        "original": "By Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Sellers of Donkey Gelatin, a Chinese Cure in Crisis, Seek a State Remedy",
+        "kicker": "Sinosphere",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c9cb05dd-7aa9-5af5-be0c-ade283044282",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Donkeys",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Gelatin",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Alternative and Complementary Medicine",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Counterfeit Merchandise",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Agriculture and Farming",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Xinhua",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The farmer collecting firewood in Dashimen village, about 50 miles northeast of Beijing. With the increasing mechanization of agriculture, far fewer farmers are raising donkeys, depressing the supply of hides.",
+        "credit": "David Gray/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/01/29/world/29CHINADONKEY/29CHINADONKEY-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/01/29/world/29CHINADONKEY/29CHINADONKEY-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-01-28T12:16:01Z",
+      "section_name": "World",
+      "snippet": "Modern China is breeding fewer donkeys, threatening the supply of a traditional medicine made from their hides and inviting a flood of fakes into the market.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/c9cb05dd-7aa9-5af5-be0c-ade283044282",
+      "web_url": "https://www.nytimes.com/2016/01/29/world/asia/china-tcm-donkey-skin-gelatin.html",
+      "word_count": 518
+    },
+    {
+      "abstract": "Prime Minister Ahmet Davutoglu said a major ground offensive against targets in Iraq and Syria had killed nearly 200 militants over the last 48 hours.",
+      "byline": {
+        "original": "By Ceylan Yeginsu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Turkey Strikes Islamic State Targets in Retaliation for Istanbul Bombing",
+        "kicker": "",
+        "print_headline": "World Briefing | Europe; Turkey: Army Strikes ISIS Targets"
+      },
+      "_id": "nyt://article/9f3c3ab0-9950-5dce-85f2-aac8a9bbd47d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Yeginsu, Ceylan",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Davutoglu, Ahmet",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Istanbul (Turkey)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Kurds",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Kurdistan Workers' Party",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Travel and Vacations",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/01/14/multimedia/turkey-bomb/turkey-bomb-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/01/14/multimedia/turkey-bomb/turkey-bomb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-01-14T19:24:06Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Ahmet Davutoglu said a major ground offensive against targets in Iraq and Syria had killed nearly 200 militants over the last 48 hours.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/9f3c3ab0-9950-5dce-85f2-aac8a9bbd47d",
+      "web_url": "https://www.nytimes.com/2016/01/15/world/middleeast/turkey-islamic-state-istanbul.html",
+      "word_count": 496
+    },
+    {
+      "abstract": "To many residents in Sinaloa, where Joaquín Guzmán Loera was captured, he was and remains El Señor (the Lord), a mythical figure who inspires as much respect as fear.",
+      "byline": {
+        "original": "By Paulina Villegas and Alberto Arce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "An Uncertain New Chapter in Sinaloa, Home State of ‘El Chapo’",
+        "kicker": "",
+        "print_headline": "Uncertain Time for Residents of El Chapo&#8217;s Home State "
+      },
+      "_id": "nyt://article/fd0b634b-2728-5e10-8a32-a7404abe6321",
+      "keywords": [
+        {
+          "name": "",
+          "value": "",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Guzman Loera, Joaquin",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Villegas, Paulina",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Sinaloa (Mexico)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Sinaloa Cartel",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Officers kept watch outside the house where the Mexican drug lord Joaquín Guzmán Loera, known as El Chapo, was captured in Los Mochis, Mexico on Friday.",
+        "credit": "Edgard Garrido/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/01/11/world/11SINALOA1/11SINALOA1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/01/11/world/11SINALOA1/11SINALOA1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2016-01-10T19:11:16Z",
+      "section_name": "World",
+      "snippet": "To many residents in Sinaloa, where Joaquín Guzmán Loera was captured, he was and remains El Señor (the Lord), a mythical figure who inspires as much respect as fear.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/fd0b634b-2728-5e10-8a32-a7404abe6321",
+      "web_url": "https://www.nytimes.com/2016/01/11/world/americas/an-uncertain-new-chapter-in-sinaloa-el-chapos-home-state.html",
+      "word_count": 918
+    },
+    {
+      "abstract": "The legislation will allow Poland’s new conservative government to appoint and dismiss the executives in charge of public television and radio broadcasters.",
+      "byline": {
+        "original": "By Joanna Berendt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Poland’s President Approves Controls on State Media, Alarming E.U. Leaders",
+        "kicker": "",
+        "print_headline": "World Briefing | Europe; Poland: Media Law Stirs Concerns"
+      },
+      "_id": "nyt://article/7b82763c-cdb4-543d-9a45-29eb94b3b2a0",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Berendt, Joanna",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Poland",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Duda, Andrzej (1972- )",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-01-07T17:14:55Z",
+      "section_name": "World",
+      "snippet": "The legislation will allow Poland’s new conservative government to appoint and dismiss the executives in charge of public television and radio broadcasters.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/7b82763c-cdb4-543d-9a45-29eb94b3b2a0",
+      "web_url": "https://www.nytimes.com/2016/01/08/world/europe/poland-andrzej-duda-press-freedom.html",
+      "word_count": 275
+    },
+    {
+      "abstract": "Islamic State militants attempted to capture an oil port along Libya’s coast, in fighting that left at least seven people dead and set fire to a storage tank of crude oil.",
+      "byline": {
+        "original": "By Suliman Ali Zway"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Libya: Islamic State Attacks Oil Port",
+        "kicker": "World Briefing",
+        "print_headline": "Africa; Libya: Islamic State Attacks Oil Port"
+      },
+      "_id": "nyt://article/4a9c9b04-b425-5442-8667-89a66b1dbc42",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Zway, Suliman Ali",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Libya",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2016-01-05T00:50:09Z",
+      "section_name": "World",
+      "snippet": "Islamic State militants attempted to capture an oil port along Libya’s coast, in fighting that left at least seven people dead and set fire to a storage tank of crude oil.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "Brief",
+      "uri": "nyt://article/4a9c9b04-b425-5442-8667-89a66b1dbc42",
+      "web_url": "https://www.nytimes.com/2016/01/05/world/africa/libya-islamic-state-attacks-oil-port.html",
+      "word_count": 140
+    }
+  ]
+}

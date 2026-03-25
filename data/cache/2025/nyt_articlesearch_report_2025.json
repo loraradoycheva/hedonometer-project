@@ -1,0 +1,3886 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20250101",
+    "end_date": "20251231",
+    "fq": "(headline.default:(\"report\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 45,
+  "docs": [
+    {
+      "abstract": "Proposals that emerged in recent negotiations with the United States were “rather unconstructive,” a Kremlin official said on Sunday.",
+      "byline": {
+        "original": "By Anushka Patil"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia Dismisses Reports of Progress in Ukraine Peace Talks",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/be486df3-cb88-535f-8149-871118952df8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Peace Process",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Dmitriev, Kirill A (1975- )",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Witkoff, Steven",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Steve Witkoff, President Trump’s special envoy, met with a representative of Russia’s president, Vladimir V. Putin, in Miami this weekend.",
+        "credit": "Pool photo by Markus Schreiber",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/12/21/multimedia/21trump-news-russia-ukraine-bkjv/21trump-news-russia-ukraine-bkjv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/12/21/multimedia/21trump-news-russia-ukraine-bkjv/21trump-news-russia-ukraine-bkjv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Live",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-12-22T00:47:51Z",
+      "section_name": "World",
+      "snippet": "Proposals that emerged in recent negotiations with the United States were “rather unconstructive,” a Kremlin official said on Sunday.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/be486df3-cb88-535f-8149-871118952df8",
+      "web_url": "https://www.nytimes.com/2025/12/21/world/europe/ukraine-peace-talks.html",
+      "word_count": 390
+    },
+    {
+      "abstract": "Global competition in the Arctic is raising hopes of a revival in the town of Churchill. We went to meet the people, and the bears, there.",
+      "byline": {
+        "original": "By Norimitsu Onishi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Reporting on Arctic Sovereignty in the Polar Bear Capital of the World",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2840317b-14cb-5096-a7b0-fd209c893d89",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Churchill (Manitoba)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Manitoba (Canada)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Arctic Regions",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Infrastructure (Public Works)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Polar Bears",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Global Warming",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Indigenous People",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Inuit Indians",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Known in recent years mostly for its polar bears, there are now efforts to revive infrastructure in Churchill, Manitoba. ",
+        "credit": "Renaud Philippe for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/12/13/multimedia/13canadaletter-bear-zljv/13canadaletter-bear-zljv-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/12/13/multimedia/13canadaletter-bear-zljv/13canadaletter-bear-zljv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-12-13T11:00:06Z",
+      "section_name": "World",
+      "snippet": "Global competition in the Arctic is raising hopes of a revival in the town of Churchill. We went to meet the people, and the bears, there.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/2840317b-14cb-5096-a7b0-fd209c893d89",
+      "web_url": "https://www.nytimes.com/2025/12/13/world/canada/canada-arctic-sovereignty-polar-bear.html",
+      "word_count": 976
+    },
+    {
+      "abstract": "A new document cites Washington’s shifting strategic priorities and growing pressure on allies under President Trump as sources of uncertainty for Denmark.",
+      "byline": {
+        "original": "By Maya Tekeli and Jeffrey Gettleman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Danish Intelligence Report Raises Concerns About U.S.",
+        "kicker": "",
+        "print_headline": "Danish Intelligence Report Says America-First Policy  Puts Europe in ‘Dilemma’"
+      },
+      "_id": "nyt://article/e8ba2c30-7ebd-57aa-aa81-d2ca73497e87",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "National Intelligence Estimates",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Arctic Regions",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Denmark",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Greenland",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Customs (Tariff)",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "A Cold War-era American satellite station on a hill above the settlement of Kangerlussuaq, in southwestern Greenland, in June.",
+        "credit": "Ivor Prickett for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/12/10/multimedia/10int-denmark-us-khtz/10int-denmark-us-khtz-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/12/10/multimedia/10int-denmark-us-khtz/10int-denmark-us-khtz-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2025-12-10T17:00:00Z",
+      "section_name": "World",
+      "snippet": "A new document cites Washington’s shifting strategic priorities and growing pressure on allies under President Trump as sources of uncertainty for Denmark.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/e8ba2c30-7ebd-57aa-aa81-d2ca73497e87",
+      "web_url": "https://www.nytimes.com/2025/12/10/world/europe/danish-intelligence-concerns-about-us.html",
+      "word_count": 539
+    },
+    {
+      "abstract": "Canada has made its border with the United States tougher to cross. Here’s what we learned through monthlong reporting on a single case.",
+      "byline": {
+        "original": "By Matina Stevis-Gridneff"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fresh Reporting on Asylum Seekers at the U.S.-Canadian Border",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c9d9b987-2fdf-5141-a452-a0dcf55f27a2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Asylum, Right of",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Deportation",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration Detention",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Canada Border Services Agency",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Immigration and Customs Enforcement (US)",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Rubio, Marco",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Ford, Doug Jr (1964- )",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Heti, Sheila",
+          "rank": 13
+        },
+        {
+          "name": "Person",
+          "value": "Oleksiak, Penny (2000- )",
+          "rank": 14
+        },
+        {
+          "name": "Person",
+          "value": "Atwood, Margaret",
+          "rank": 15
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 16
+        },
+        {
+          "name": "Location",
+          "value": "Eritrea",
+          "rank": 17
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 18
+        },
+        {
+          "name": "Title",
+          "value": "Book of Lives: A Memoir of Sorts (Book)",
+          "rank": 19
+        }
+      ],
+      "multimedia": {
+        "caption": "Rahel Negassi at her new home in Kitchener, Ontario. She has applied for her Ontario nurse permit, and she hopes to be able to work soon.",
+        "credit": "Ian Willms for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/11/29/multimedia/29canadaletter-Negassi1-wlbv/29canadaletter-Negassi1-wlbv-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/11/29/multimedia/29canadaletter-Negassi1-wlbv/29canadaletter-Negassi1-wlbv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-11-29T11:00:06Z",
+      "section_name": "World",
+      "snippet": "Canada has made its border with the United States tougher to cross. Here’s what we learned through monthlong reporting on a single case.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/c9d9b987-2fdf-5141-a452-a0dcf55f27a2",
+      "web_url": "https://www.nytimes.com/2025/11/29/world/canada/asylum-seekers-us-canada-border.html",
+      "word_count": 1195
+    },
+    {
+      "abstract": "Africa’s most populous nation was already facing one of the world’s biggest hunger crises. It’s getting much worse.",
+      "byline": {
+        "original": "By Saikou Jammeh, Ruth Maclean and Ismail Auwal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Violence Is Driving Catastrophic Hunger in Nigeria, U.N. Report Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4f63ad83-89a8-54fe-8ec2-0247a2e8fe8b",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Nigeria",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Aid",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Food Insecurity",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Agriculture and Farming",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Food Aid",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Kidnapping and Hostages",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Malnutrition",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Boko Haram",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "World Food Program",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "Amnesty International",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Africa",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Kebbi (Nigeria)",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "The dormitory where gunmen kidnapped schoolgirls in Kebbi, Nigeria, this month.",
+        "credit": "Deeni Jibo/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/11/25/multimedia/25int-nigeria-food-kpfq/25int-nigeria-food-kpfq-articleLarge.jpg",
+          "height": 480,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/11/25/multimedia/25int-nigeria-food-kpfq/25int-nigeria-food-kpfq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-11-25T23:42:42Z",
+      "section_name": "World",
+      "snippet": "Africa’s most populous nation was already facing one of the world’s biggest hunger crises. It’s getting much worse.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/4f63ad83-89a8-54fe-8ec2-0247a2e8fe8b",
+      "web_url": "https://www.nytimes.com/2025/11/25/world/africa/nigeria-food-violence-usaid.html",
+      "word_count": 747
+    },
+    {
+      "abstract": "The Belgian government is in talks with the Trump administration to save birth control stranded in a warehouse, but another shipment has been incorrectly stored.",
+      "byline": {
+        "original": "By Jeanna Smialek"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As Belgium Races to Save U.S.A.I.D. Contraception, Some Supplies Are Reported Ruined",
+        "kicker": "",
+        "print_headline": "As Belgium Tries to Save Supply of Contraceptives, It Finds Some Are Ruined"
+      },
+      "_id": "nyt://article/0f7d6e80-0883-50b7-8746-2ac3664711ca",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Belgium",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "United States Agency for International Development",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Birth Control and Family Planning",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Aid",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Flanders (Belgium)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Geel (Belgium)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Kallo (Belgium)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "The warehouse in Geel, Belgium, where millions of contraceptives bought by U.S.A.I.D. were being stored in July.",
+        "credit": "Hilary Swift for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/11/12/multimedia/12belgium-usaid-tvjk/12belgium-usaid-tvjk-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/11/12/multimedia/12belgium-usaid-tvjk/12belgium-usaid-tvjk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2025-11-12T19:56:30Z",
+      "section_name": "World",
+      "snippet": "The Belgian government is in talks with the Trump administration to save birth control stranded in a warehouse, but another shipment has been incorrectly stored.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/0f7d6e80-0883-50b7-8746-2ac3664711ca",
+      "web_url": "https://www.nytimes.com/2025/11/12/world/europe/belgium-usaid-contraception.html",
+      "word_count": 753
+    },
+    {
+      "abstract": "The German carmaker held its outlook steady and said it would buy back more than $2 billion in shares, as sales of its high-end models improved.",
+      "byline": {
+        "original": "By Melissa Eddy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mercedes Reports a Drop in Profit but Maintains Its Forecast",
+        "kicker": "",
+        "print_headline": "Mercedes Reports Slump But Maintains Its Forecast"
+      },
+      "_id": "nyt://article/0eb7b363-6116-5ad8-9150-5b4c81f6b55b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Automobiles",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Company Reports",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Mercedes-Benz",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Kallenius, Ola",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Ola Källenius, center, the chief executive of Mercedes-Benz, unveiled a new electric vehicle at an auto show in Munich in September.",
+        "credit": "Felix Schmitt for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/10/29/multimedia/29biz-mercedes1-kwzt/29biz-mercedes1-kwzt-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/10/29/multimedia/29biz-mercedes1-kwzt/29biz-mercedes1-kwzt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Business",
+      "print_page": "6",
+      "print_section": "B",
+      "pub_date": "2025-10-29T11:05:42Z",
+      "section_name": "World",
+      "snippet": "The German carmaker held its outlook steady and said it would buy back more than $2 billion in shares, as sales of its high-end models improved.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/0eb7b363-6116-5ad8-9150-5b4c81f6b55b",
+      "web_url": "https://www.nytimes.com/2025/10/29/world/europe/mercedes-profit-tariffs.html",
+      "word_count": 464
+    },
+    {
+      "abstract": "New York Times reporters compiled a wide array of clues to uncover what happened to Bashar al-Assad’s key enforcers after the fall of the regime.",
+      "byline": {
+        "original": "By Haley Willis, Christiaan Triebert, Neil Collier, Devon Lum and Erika Solomon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Abandoned Mansions and Facebook Photos: Reporting on the Top Officials Who Fled Syria",
+        "kicker": "VISUAL investigations",
+        "print_headline": "The Search: Photos, Calls, Mansions"
+      },
+      "_id": "nyt://article/0e2a65df-fbaf-50f1-a5d0-d84024a41e69",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Syrian Army",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Biological and Chemical Warfare",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "vis-video",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "your-feed-visual-investigations",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "The deserted villa of a former Syrian regime official.",
+        "credit": "Christiaan Triebert/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/10/16/video/vi-assads-enforcers-mansion-top-art/vi-assads-enforcers-mansion-top-art-articleLarge.jpg",
+          "height": 897,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/10/16/video/vi-assads-enforcers-mansion-top-art/vi-assads-enforcers-mansion-top-art-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Video",
+      "print_page": "17",
+      "print_section": "A",
+      "pub_date": "2025-10-16T09:00:38Z",
+      "section_name": "World",
+      "snippet": "New York Times reporters compiled a wide array of clues to uncover what happened to Bashar al-Assad’s key enforcers after the fall of the regime.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/0e2a65df-fbaf-50f1-a5d0-d84024a41e69",
+      "web_url": "https://www.nytimes.com/2025/10/16/world/middleeast/assad-regime-officials-reporting.html",
+      "word_count": 1268
+    },
+    {
+      "abstract": "Kido International, which runs nursery schools, reported the incident to the authorities after hackers posted sensitive data on the dark web and demanded a ransom.",
+      "byline": {
+        "original": "By Michael D. Shear"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Children’s Data and Photos Reported Stolen From U.K. Preschool Chain by Hackers",
+        "kicker": "",
+        "print_headline": "Hackers Stole Data on U.K. Preschool Chain’s Pupils"
+      },
+      "_id": "nyt://article/d3da2073-57b8-5207-8dc1-7e4667d260ce",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Cyberattacks and Hackers",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Robberies and Thefts",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Cyberharassment",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Extortion and Blackmail",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Scotland Yard (Metropolitan Police Service)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "London (England)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Children and Childhood",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A Kido International nursery in London. The Metropolitan Police are investigating the reported hacking of the organization’s internal records.",
+        "credit": "Google Maps",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/27/world/27int-uk-nursery-hack/27int-uk-nursery-hack-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/27/world/27int-uk-nursery-hack/27int-uk-nursery-hack-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-09-26T16:12:20Z",
+      "section_name": "World",
+      "snippet": "Kido International, which runs nursery schools, reported the incident to the authorities after hackers posted sensitive data on the dark web and demanded a ransom.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/d3da2073-57b8-5207-8dc1-7e4667d260ce",
+      "web_url": "https://www.nytimes.com/2025/09/26/world/europe/uk-nursery-school-hack.html",
+      "word_count": 498
+    },
+    {
+      "abstract": "The Israeli attack in Gaza City killed nearly two dozen Palestinians, the reports said. The Israeli military said it had hit two “Hamas terrorists.”",
+      "byline": {
+        "original": "By Liam Stack"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israeli Strike Kills Gazans Sheltering in Warehouse, Local Reports Say",
+        "kicker": "",
+        "print_headline": "Israeli Strike Kills Gazans Sheltering in a Warehouse, Local Reports Say"
+      },
+      "_id": "nyt://article/67be6491-d598-54e5-b420-9cc462b2fc4c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Gaza City (Gaza Strip)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Mourners at Ahli Arab Hospital in Gaza City on Wednesday carrying the bodies of people who medics said were killed in an overnight Israeli strike.",
+        "credit": "Ebrahim Hajjaj/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/24/multimedia/24int-Gaza-Strike-01-mhcb/24int-Gaza-Strike-01-mhcb-articleLarge.jpg",
+          "height": 418,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/24/multimedia/24int-Gaza-Strike-01-mhcb/24int-Gaza-Strike-01-mhcb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-09-24T12:59:08Z",
+      "section_name": "World",
+      "snippet": "The Israeli attack in Gaza City killed nearly two dozen Palestinians, the reports said. The Israeli military said it had hit two “Hamas terrorists.”",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/67be6491-d598-54e5-b420-9cc462b2fc4c",
+      "web_url": "https://www.nytimes.com/2025/09/24/world/middleeast/israel-strike-gaza-city-civilians.html",
+      "word_count": 841
+    },
+    {
+      "abstract": "A disruption to check-in and boarding systems had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
+      "byline": {
+        "original": "By John Yoon and Ashley Ahn"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Major Airports in Europe Report Check-In Delays After Cyberattack",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b851f15a-7ee6-5f22-9e2a-fc0574a259fb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Airports",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Cyberattacks and Hackers",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Delays (Transportation)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Berlin-Brandenburg International Airport",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Brussels Airport (Belgium)",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Heathrow Airport (London, England)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Collins Aerospace",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Airlines and Airplanes",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Berlin (Germany)",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Dublin (Ireland)",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Cork (Ireland)",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "London (England)",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "Passengers crowded near a departures board after a cyberattack caused delays at Brussels International Airport in Zaventem, Belgium, on Saturday.",
+        "credit": "Harry Nakos/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/20/multimedia/20xp-airports-update-226pm-wqjl/20xp-airports-update-226pm-wqjl-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/20/multimedia/20xp-airports-update-226pm-wqjl/20xp-airports-update-226pm-wqjl-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-09-20T10:45:09Z",
+      "section_name": "World",
+      "snippet": "A disruption to check-in and boarding systems had snarled departures through Saturday at airports in Berlin, Brussels, Dublin and London.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b851f15a-7ee6-5f22-9e2a-fc0574a259fb",
+      "web_url": "https://www.nytimes.com/2025/09/20/world/europe/europe-airports-delays-brussels-london-berlin.html",
+      "word_count": 745
+    },
+    {
+      "abstract": "The British government banned Palestine Action under an antiterrorism law, but an intelligence document said most of its activity “would not be classified as terrorism.”",
+      "byline": {
+        "original": "By Jane Bradley, Adam Goldman and Lizzie Dearden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Secret Report Undercuts U.K. Condemnations of Pro-Palestinian Group",
+        "kicker": "",
+        "print_headline": "Secret Report Undercuts U.K. Condemnations of Pro-Palestinian Group"
+      },
+      "_id": "nyt://article/e2a448a8-1d96-52bb-a71c-4a3e91b79165",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Palestine Action",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Classified Information and State Secrets",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of Speech and Expression",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Elbit Systems Ltd",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "A rally last month in Parliament Square in London called for lifting a British government ban on the group Palestine Action.",
+        "credit": "Henry Nicholls/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/13/multimedia/13int-uk-palestine-action-001-phvm/13int-uk-palestine-action-001-phvm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/13/multimedia/13int-uk-palestine-action-001-phvm/13int-uk-palestine-action-001-phvm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2025-09-12T12:12:29Z",
+      "section_name": "World",
+      "snippet": "The British government banned Palestine Action under an antiterrorism law, but an intelligence document said most of its activity “would not be classified as terrorism.”",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/e2a448a8-1d96-52bb-a71c-4a3e91b79165",
+      "web_url": "https://www.nytimes.com/2025/09/12/world/europe/palestine-action-uk-government-assessment.html",
+      "word_count": 1351
+    },
+    {
+      "abstract": "This intelligence assessment helped shape the British government’s decision to ban Palestine Action.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "Read the U.K. Report on Palestine Action",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/accbb8de-1ca6-5437-afc7-1664a58973b7",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Classified Information and State Secrets",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Trade",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Surveillance of Citizens by Government",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Elbit Systems Ltd",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Palestine Action",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/12/doc-jtacreportforpublication--promo/doc-jtacreportforpublication--promo-articleLarge.png",
+          "height": 849,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/12/doc-jtacreportforpublication--promo/doc-jtacreportforpublication--promo-thumbStandard.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-09-12T12:07:02Z",
+      "section_name": "World",
+      "snippet": "This intelligence assessment helped shape the British government’s decision to ban Palestine Action.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/accbb8de-1ca6-5437-afc7-1664a58973b7",
+      "web_url": "https://www.nytimes.com/interactive/2025/09/12/world/europe/uk-intelligence-report-palestine-action.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "Danish doctors inserted intrauterine devices into thousands of women and girls in Greenland, often without their consent or knowledge, a scandal that has reinforced a legacy of colonial abuses.",
+      "byline": {
+        "original": "By Maya Tekeli and Jeffrey Gettleman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Denmark Forced Contraception on Greenlandic Girls, a Scathing Report Confirms",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a1c6d9ff-4816-529a-862d-3f8ea5675015",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Greenland",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Denmark",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Birth Control and Family Planning",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Indigenous People",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Frederiksen, Mette",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Jens-Frederik Nielsen, the prime minister of Greenland, and Mette Frederiksen, the prime minister of Denmark, at a news conference in April.",
+        "credit": "Mads Claus Rasmussen/Ritzau Scanpix, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/09/multimedia/09int-greenland-1-phjq/09int-greenland-1-phjq-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/09/multimedia/09int-greenland-1-phjq/09int-greenland-1-phjq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-09-09T20:34:51Z",
+      "section_name": "World",
+      "snippet": "Danish doctors inserted intrauterine devices into thousands of women and girls in Greenland, often without their consent or knowledge, a scandal that has reinforced a legacy of colonial abuses.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/a1c6d9ff-4816-529a-862d-3f8ea5675015",
+      "web_url": "https://www.nytimes.com/2025/09/09/world/europe/greenland-denmark-forced-contraception.html",
+      "word_count": 769
+    },
+    {
+      "abstract": "Portuguese authorities released a highly anticipated preliminary report into the disaster, which killed 16 people this week.",
+      "byline": {
+        "original": "By Amelia Nierenberg, Tiago Carrasco and Pranav Baskar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Authorities Point to Cable Disconnecting in First Report on Lisbon Funicular Crash",
+        "kicker": "",
+        "print_headline": "Investigation Of Crash Cites Disconnection Of Car’s Cable"
+      },
+      "_id": "nyt://article/c52c740e-b7f3-5f8a-bc11-3e6040e1d105",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Workplace Hazards and Violations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Cable Cars and Trams",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Railroad Accidents and Safety",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "College of Charleston",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Lisbon (Portugal)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Portugal",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Tributes to victims of the funicular accident in Lisbon, on Friday.",
+        "credit": "Patricia De Melo Moreira/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-portugal-victims-01-mflc/06int-portugal-victims-01-mflc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-portugal-victims-01-mflc/06int-portugal-victims-01-mflc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2025-09-06T20:53:34Z",
+      "section_name": "World",
+      "snippet": "Portuguese authorities released a highly anticipated preliminary report into the disaster, which killed 16 people this week.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c52c740e-b7f3-5f8a-bc11-3e6040e1d105",
+      "web_url": "https://www.nytimes.com/2025/09/06/world/europe/portugal-funicular-crash-preliminary-report-cable.html",
+      "word_count": 826
+    },
+    {
+      "abstract": "It was the latest twist in a simmering diplomatic conflict over Greenland. President Trump wants the island to be a U.S. territory, but Denmark refuses to give it up.",
+      "byline": {
+        "original": "By Jeffrey Gettleman and Maya Tekeli"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Denmark Summons U.S. Envoy Over a Reported ‘Influence Operation’ in Greenland",
+        "kicker": "",
+        "print_headline": "Allegations Spur Denmark To Summon a U.S. Envoy"
+      },
+      "_id": "nyt://article/fdb4aa81-f349-5b09-bfc8-08e2ec49f0ec",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Greenland",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Denmark",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "In a statement on Wednesday, Lars Lokke Rasmussen, Denmark’s foreign minister, said, “We are aware that foreign actors continue to show an interest in Greenland.”",
+        "credit": "Henning Bagger/Ritzau Scanpix, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/08/27/multimedia/27int-greenland-us-fwtg/27int-greenland-us-fwtg-articleLarge.jpg",
+          "height": 416,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/08/27/multimedia/27int-greenland-us-fwtg/27int-greenland-us-fwtg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-08-27T10:19:46Z",
+      "section_name": "World",
+      "snippet": "It was the latest twist in a simmering diplomatic conflict over Greenland. President Trump wants the island to be a U.S. territory, but Denmark refuses to give it up.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fdb4aa81-f349-5b09-bfc8-08e2ec49f0ec",
+      "web_url": "https://www.nytimes.com/2025/08/27/world/europe/trump-denmark-greenland-us-embassy.html",
+      "word_count": 876
+    },
+    {
+      "abstract": "Journalists endure the same harrowing reality as other Gazans: hunger and the constant threat of death. Those challenges risk further stifling what the world hears about the war.",
+      "byline": {
+        "original": "By Aaron Boxerman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Deadly Risks of Reporting in Gaza",
+        "kicker": "",
+        "print_headline": "Mortal Threat to Bearing Witness to War in Gaza "
+      },
+      "_id": "nyt://article/25402a86-0f02-5ce2-9414-fe63b7b2366c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Committee to Protect Journalists",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "al-Sharif, Anas (1996-2025)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Mourners with the bodies of Palestinian journalists killed during an Israeli strike on a hospital in southern Gaza on Monday. At least 20 people were killed during the attack.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/08/26/multimedia/26gaza-journalists-01-cvzq/26gaza-journalists-01-cvzq-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/08/26/multimedia/26gaza-journalists-01-cvzq/26gaza-journalists-01-cvzq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2025-08-26T16:51:45Z",
+      "section_name": "World",
+      "snippet": "Journalists endure the same harrowing reality as other Gazans: hunger and the constant threat of death. Those challenges risk further stifling what the world hears about the war.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/25402a86-0f02-5ce2-9414-fe63b7b2366c",
+      "web_url": "https://www.nytimes.com/2025/08/26/world/middleeast/palestinian-journalists-risk-reporting.html",
+      "word_count": 1222
+    },
+    {
+      "abstract": "The White House has not commented on a report finding famine in Gaza. Analysts say that absent U.S. pressure, Israel is unlikely to change course.",
+      "byline": {
+        "original": "By Aaron Boxerman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "After Gaza Famine Report, U.S. Is Mostly Silent and Israel Is Defiant",
+        "kicker": "",
+        "print_headline": "After Gaza Famine Report, Israel Is Defiant While U.S. Is Mostly Silent"
+      },
+      "_id": "nyt://article/fc211f34-4b59-5c01-b1a4-0a7f2631f2cc",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Famine",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Food Aid",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Integrated Food Security Phase Classification",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 13
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "A charity kitchen distributing food in Gaza City on Friday. A new U.N.-backed report found that the city and surrounding areas were experiencing famine.",
+        "credit": "Saher Alghorra for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/08/23/multimedia/23int-gaza-famine-fpmb/23int-gaza-famine-fpmb-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/08/23/multimedia/23int-gaza-famine-fpmb/23int-gaza-famine-fpmb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2025-08-23T09:48:10Z",
+      "section_name": "World",
+      "snippet": "The White House has not commented on a report finding famine in Gaza. Analysts say that absent U.S. pressure, Israel is unlikely to change course.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/fc211f34-4b59-5c01-b1a4-0a7f2631f2cc",
+      "web_url": "https://www.nytimes.com/2025/08/23/world/middleeast/gaza-famine-report-us-reaction.html",
+      "word_count": 1016
+    },
+    {
+      "abstract": "Companies, fearing penalties that could put them out of business, race to make sure their drivers have enough English to communicate with U.S. officials.",
+      "byline": {
+        "original": "By James Wagner and Meridith Kohut"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Faced With Trump’s English Mandate, Mexico’s Truckers Report to Class",
+        "kicker": "",
+        "print_headline": "Mexican Truckers Learning English to Avoid U.S. Penalty"
+      },
+      "_id": "nyt://article/53514a39-8ec6-537a-9492-77322bee05cc",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Trucks and Trucking",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Workers",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "English Language",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Freight (Cargo)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Traffic Accidents and Safety",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Transportation Department (US)",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Rubio, Marco",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Nuevo Laredo (Mexico)",
+          "rank": 13
+        },
+        {
+          "name": "Subject",
+          "value": "Regulation and Deregulation of Industry",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "Mexican truck drivers who work transporting cargo to the United States attending a six-week crash course in English this month in Nuevo Laredo, Mexico.",
+        "credit": "Meridith Kohut for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/08/23/world/23int-mexico-trucking-promo/23int-mexico-trucking-04-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/08/23/world/23int-mexico-trucking-promo/23int-mexico-trucking-04-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2025-08-23T09:02:04Z",
+      "section_name": "World",
+      "snippet": "Companies, fearing penalties that could put them out of business, race to make sure their drivers have enough English to communicate with U.S. officials.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/53514a39-8ec6-537a-9492-77322bee05cc",
+      "web_url": "https://www.nytimes.com/2025/08/23/world/americas/mexico-english-truckers-trump.html",
+      "word_count": 1201
+    },
+    {
+      "abstract": "After British authorities accidentally exposed information about 19,000 Afghans, the government sought a legal order preventing disclosure of the breach.",
+      "byline": {
+        "original": "By Lizzie Dearden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.K. Secretly Spent $3.2 Million to Stop Journalists From Reporting on Data Breach",
+        "kicker": "",
+        "print_headline": "Britain Spent $3.2 Million to Deter Reporting on Data Breach"
+      },
+      "_id": "nyt://article/23882ddf-303a-5e48-953c-3f97b13a7d2e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of Speech and Expression",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Decisions and Verdicts",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "London (England)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "British and Canadian soldiers guarding the Kabul airport after the Taliban’s takeover of Afghanistan in 2021 as Afghans hoping to flee the country stood by.",
+        "credit": "Wakil Kohsar/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/09/12/multimedia/13int-uk-afghanistan-coverup-1-gcjp/13int-uk-afghanistan-coverup-1-gcjp-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/09/12/multimedia/13int-uk-afghanistan-coverup-1-gcjp/13int-uk-afghanistan-coverup-1-gcjp-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-08-13T17:50:29Z",
+      "section_name": "World",
+      "snippet": "After British authorities accidentally exposed information about 19,000 Afghans, the government sought a legal order preventing disclosure of the breach.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/23882ddf-303a-5e48-953c-3f97b13a7d2e",
+      "web_url": "https://www.nytimes.com/2025/08/13/world/europe/uk-data-breach-afghan.html",
+      "word_count": 850
+    },
+    {
+      "abstract": "Showing an uncanny ability to adapt to circumstances, Sergei V. Kiriyenko has turned himself into a key engineer of President Vladimir V. Putin’s autocratic machine.",
+      "byline": {
+        "original": "By Anton Troianovski"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Key Takeaways From The Times’s Reporting on Putin’s Powerful Aide",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d5d07848-5e7e-52d7-8d95-bba4ba26c865",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kiriyenko, Sergei V",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Sergei V. Kiriyenko, in glasses, at President Vladimir V. Putin’s annual state of the nation address in Moscow in 2024, in a photograph distributed by Russian state media.",
+        "credit": "Alexander Kazakov/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/08/05/multimedia/00int-russia-kiriyenko-takeaways-01-clvp/00int-russia-kiriyenko-takeaways-01-clvp-articleLarge.jpg",
+          "height": 364,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/08/05/multimedia/00int-russia-kiriyenko-takeaways-01-clvp/00int-russia-kiriyenko-takeaways-01-clvp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-08-10T09:01:27Z",
+      "section_name": "World",
+      "snippet": "Showing an uncanny ability to adapt to circumstances, Sergei V. Kiriyenko has turned himself into a key engineer of President Vladimir V. Putin’s autocratic machine.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/d5d07848-5e7e-52d7-8d95-bba4ba26c865",
+      "web_url": "https://www.nytimes.com/2025/08/10/world/europe/russia-putin-kiriyenko-takeaways.html",
+      "word_count": 728
+    },
+    {
+      "abstract": "After the fall of Bashar al-Assad, parts of the country that had been closed to outside journalists for a decade suddenly opened up.",
+      "byline": {
+        "original": "By Ben Hubbard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Long, Overdue Reporting Trip Through Syria",
+        "kicker": "Times Insider",
+        "print_headline": "A Trip Through an Open, Unstable Syria"
+      },
+      "_id": "nyt://article/b0161628-6999-5a1f-91e9-6e0ddf9fe351",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "A Syrian girl sells snacks in her destroyed neighborhood near the Alawite community Zahra neighborhood in Homs, Syria",
+        "credit": "David Guttenfelder/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/07/23/multimedia/23a2_insider-syria-jhvp/23a2_insider-syria-jhvp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/07/23/multimedia/23a2_insider-syria-jhvp/23a2_insider-syria-jhvp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Insider",
+      "print_page": "2",
+      "print_section": "A",
+      "pub_date": "2025-07-23T07:00:18Z",
+      "section_name": "World",
+      "snippet": "After the fall of Bashar al-Assad, parts of the country that had been closed to outside journalists for a decade suddenly opened up.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/b0161628-6999-5a1f-91e9-6e0ddf9fe351",
+      "web_url": "https://www.nytimes.com/2025/07/23/world/middleeast/a-long-overdue-reporting-trip-through-syria.html",
+      "word_count": 874
+    },
+    {
+      "abstract": "Health officials tampered with blood tests of some of the more than 200 children who were sickened by food tainted with lead, an investigation found.",
+      "byline": {
+        "original": "By Vivian Wang"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese Officials Helped Cover Up Lead Poisoning of Children, Report Says",
+        "kicker": "",
+        "print_headline": "In Rare Report, China Lists Officials Who Covered Up Lead Poisoning of Children"
+      },
+      "_id": "nyt://article/48f48846-1fd8-50ce-89bb-de532a4c292f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Tests (Medical)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Children and Childhood",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Poisoning and Poisons",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Lead",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Hazardous and Toxic Substances",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Gansu Province (China)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A family outside a pediatric hospital in Beijing, China, in July.",
+        "credit": "Mahesh Kumar A./Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/07/21/multimedia/21int-china-lead-01-jpqh/21int-china-lead-01-jpqh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/07/21/multimedia/21int-china-lead-01-jpqh/21int-china-lead-01-jpqh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2025-07-21T09:58:26Z",
+      "section_name": "World",
+      "snippet": "Health officials tampered with blood tests of some of the more than 200 children who were sickened by food tainted with lead, an investigation found.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/48f48846-1fd8-50ce-89bb-de532a4c292f",
+      "web_url": "https://www.nytimes.com/2025/07/21/world/asia/china-lead-poisoning-scandal.html",
+      "word_count": 845
+    },
+    {
+      "abstract": "Relatives of the Jeju Air disaster victims objected to the report in a stormy scene at a news conference, complaining that it blamed the pilots prematurely.",
+      "byline": {
+        "original": "By John Yoon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "South Korea Pulls Plane Crash Report After Victims’ Families Protest",
+        "kicker": "",
+        "print_headline": "Report on Korean Crash Sets Off Furor"
+      },
+      "_id": "nyt://article/bfa4d890-2d4b-5b0a-b53f-1c3d0a2c0e08",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Jeju Air Flight 2216",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Aviation Accidents, Safety and Disasters",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Engines",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Jeju Air Co Ltd",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Muan International Airport",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Safran SA",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Firefighters and investigators at the scene of the deadly Jeju Air crash in Muan, South Korea, in December.",
+        "credit": "Chang W. Lee/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/07/19/multimedia/19xp-jejuair-clwv/19xp-jejuair-clwv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/07/19/multimedia/19xp-jejuair-clwv/19xp-jejuair-clwv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2025-07-19T12:53:43Z",
+      "section_name": "World",
+      "snippet": "Relatives of the Jeju Air disaster victims objected to the report in a stormy scene at a news conference, complaining that it blamed the pilots prematurely.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/bfa4d890-2d4b-5b0a-b53f-1c3d0a2c0e08",
+      "web_url": "https://www.nytimes.com/2025/07/19/world/asia/jeju-air-crash-report-canceled.html",
+      "word_count": 832
+    },
+    {
+      "abstract": "A preliminary assessment in last month’s disaster focusing on fuel being cut to both engines only deepened the mystery for people grieving loved ones.",
+      "byline": {
+        "original": "By Mujib Mashal and Suhasini Raj"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "For Families of Air India Crash Victims, Report Brings No Closure",
+        "kicker": "",
+        "print_headline": "Families Find Scant Closure In Report On Disaster"
+      },
+      "_id": "nyt://article/9092585a-d5d6-57b9-b6e3-27214274259d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Air India Flight 171",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "DNA (Deoxyribonucleic Acid)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Air India",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Ahmedabad (India)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Aviation Accidents, Safety and Disasters",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Relatives of one of the victims of the Air India plane crash awaiting his body at home in Ahmedabad last month.",
+        "credit": "Atul Loke for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/07/13/multimedia/13INT-India-Crash-victims-top-fmtv/13INT-India-Crash-victims-top-fmtv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/07/13/multimedia/13INT-India-Crash-victims-top-fmtv/13INT-India-Crash-victims-top-fmtv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2025-07-13T07:05:34Z",
+      "section_name": "World",
+      "snippet": "A preliminary assessment in last month’s disaster focusing on fuel being cut to both engines only deepened the mystery for people grieving loved ones.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9092585a-d5d6-57b9-b6e3-27214274259d",
+      "web_url": "https://www.nytimes.com/2025/07/13/world/asia/air-india-crash-report-victim-families.html",
+      "word_count": 831
+    },
+    {
+      "abstract": "A focus on the Boeing 787’s fuel switches in a preliminary assessment raised questions about the pilots’ actions, but much is still unknown about Flight 171.",
+      "byline": {
+        "original": "By Mujib Mashal, Suhasini Raj and Niraj Chokshi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fuel to Air India Plane Was Cut Off Before Deadly Crash, Report Says",
+        "kicker": "",
+        "print_headline": "Fuel to Doomed Air India Plane Was Switched Off, Report Says"
+      },
+      "_id": "nyt://article/b007b4d7-2d64-5c11-922a-641b2696d0fa",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Air India Flight 171",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Pilots",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Aviation Accidents, Safety and Disasters",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Airlines and Airplanes",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Air India",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Boeing Company",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "International Civil Aviation Organization",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Ahmedabad (India)",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Workers removing the airplane’s tail from the wreckage of the Air India crash last month.",
+        "credit": "Atul Loke for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/07/11/multimedia/11int-india-crash-report-mztp/11int-india-crash-report-mztp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/07/11/multimedia/11int-india-crash-report-mztp/11int-india-crash-report-mztp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2025-07-11T21:18:27Z",
+      "section_name": "World",
+      "snippet": "A focus on the Boeing 787’s fuel switches in a preliminary assessment raised questions about the pilots’ actions, but much is still unknown about Flight 171.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/b007b4d7-2d64-5c11-922a-641b2696d0fa",
+      "web_url": "https://www.nytimes.com/2025/07/11/world/asia/air-india-crash-report.html",
+      "word_count": 1112
+    },
+    {
+      "abstract": "A public inquiry into the wrongful prosecutions of about 1,000 postal workers has uncovered more victims than previously known, according to a report.",
+      "byline": {
+        "original": "By Aishvarya Kavi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/237a3f06-e62c-5f98-a732-634d5d2fb7e0",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Postal Service and Post Offices",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Accounting and Accountants",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Software",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Robberies and Thefts",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "False Arrests, Convictions and Imprisonments",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Suicides and Suicide Attempts",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Fujitsu Limited",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Thousands of postal workers were wrongfully accused of crimes over more than a decade in the British post office scandal, according to a report.",
+        "credit": "Andy Rain/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/07/10/multimedia/10xp-uk-postoffice-tvqz/10xp-uk-postoffice-tvqz-articleLarge.jpg",
+          "height": 389,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/07/10/multimedia/10xp-uk-postoffice-tvqz/10xp-uk-postoffice-tvqz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-07-10T23:33:41Z",
+      "section_name": "World",
+      "snippet": "A public inquiry into the wrongful prosecutions of about 1,000 postal workers has uncovered more victims than previously known, according to a report.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/237a3f06-e62c-5f98-a732-634d5d2fb7e0",
+      "web_url": "https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html",
+      "word_count": 887
+    },
+    {
+      "abstract": "The notorious detention facility in Tehran, where dissidents and political prisoners are held, came under attack on June 23.",
+      "byline": {
+        "original": "By Vivian Yee and Sanam Mahoozi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel’s Attack on Evin Prison Killed 71, Iranian State Media Report",
+        "kicker": "",
+        "print_headline": "Israeli Strike On Evin Jail Left 71 Dead, Iran Reports"
+      },
+      "_id": "nyt://article/0db8ec49-46c3-5416-9a0d-b039e8860a66",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Tehran (Iran)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Evin Prison",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The ruins of an office building at Evin Prison in Tehran on Sunday, several days after it was hit by an Israeli strike. ",
+        "credit": "Arash Khamooshi for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/07/29/multimedia/29int-iran-evin-gcmw/29int-iran-evin-gcmw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/07/29/multimedia/29int-iran-evin-gcmw/29int-iran-evin-gcmw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2025-06-29T16:31:24Z",
+      "section_name": "World",
+      "snippet": "The notorious detention facility in Tehran, where dissidents and political prisoners are held, came under attack on June 23.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/0db8ec49-46c3-5416-9a0d-b039e8860a66",
+      "web_url": "https://www.nytimes.com/2025/06/29/world/middleeast/evin-prison-iran.html",
+      "word_count": 591
+    },
+    {
+      "abstract": "France’s Interior Ministry reported that 145 people said they had been stabbed with needles at festival events across the country.",
+      "byline": {
+        "original": "By Jenny Gross"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Nearly 150 Report Being Jabbed With Needles at French Music Festival",
+        "kicker": "",
+        "print_headline": "145 Needle Jabbings Mar Music Festival in France"
+      },
+      "_id": "nyt://article/9e891629-3096-5088-8868-1d7534acfee1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Assaults",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Hypodermic Needles and Syringes",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Festivals",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Bars and Nightclubs",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "An outdoor performance on the banks of the Seine river in Paris on Saturday was part of the annual Fête de la Musique celebration.",
+        "credit": "Romain Perrocheau/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/06/23/multimedia/23xp-francesyringe1-pqvh/23xp-francesyringe1-pqvh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/06/23/multimedia/23xp-francesyringe1-pqvh/23xp-francesyringe1-pqvh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2025-06-23T16:05:35Z",
+      "section_name": "World",
+      "snippet": "France’s Interior Ministry reported that 145 people said they had been stabbed with needles at festival events across the country.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/9e891629-3096-5088-8868-1d7534acfee1",
+      "web_url": "https://www.nytimes.com/2025/06/23/world/europe/france-syringe-attacks-music-festival.html",
+      "word_count": 573
+    },
+    {
+      "abstract": "Officials drastically understated outbreaks and deaths, depriving citizens of help, two U.S. research groups report, citing interviews with people inside North Korea.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea’s Pandemic ‘Miracle’ Was a Deadly Lie, Report Says",
+        "kicker": "",
+        "print_headline": "Report Says North Korea Lied About Covid’s Toll"
+      },
+      "_id": "nyt://article/6f532866-7543-5f31-a0c0-154a9389fd2e",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Shortages",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Center for Strategic and International Studies",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A photograph released by North Korean state media showed a worker disinfecting a vehicle while a civilian had his temperature checked as a precaution against the coronavirus in Pyongyang, North Korea, in 2020.",
+        "credit": "Korean Central News Agency, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/06/17/multimedia/17int-nkorea-pandemicHFO-01-hpzf/17int-nkorea-pandemicHFO-01-hpzf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/06/17/multimedia/17int-nkorea-pandemicHFO-01-hpzf/17int-nkorea-pandemicHFO-01-hpzf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2025-06-17T11:10:39Z",
+      "section_name": "World",
+      "snippet": "Officials drastically understated outbreaks and deaths, depriving citizens of help, two U.S. research groups report, citing interviews with people inside North Korea.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/6f532866-7543-5f31-a0c0-154a9389fd2e",
+      "web_url": "https://www.nytimes.com/2025/06/17/world/asia/hfo-north-korea-pandemic-lie.html",
+      "word_count": 798
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Niraj Chokshi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A whistle-blower’s lawyers call on the F.A.A. to release a report on the 787 Dreamliner.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1ef06bc5-4756-50f6-b1bc-1f698dd8650f",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The departures terminal used by Air India at Gatwick Airport near London on Thursday.",
+        "credit": "Kin Cheung/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/06/12/multimedia/12india-crash-dreamliner-whistleblower-fklm/12india-crash-dreamliner-whistleblower-fklm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/06/12/multimedia/12india-crash-dreamliner-whistleblower-fklm/12india-crash-dreamliner-whistleblower-fklm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Business",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-06-12T20:21:05Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/1ef06bc5-4756-50f6-b1bc-1f698dd8650f",
+      "web_url": "https://www.nytimes.com/live/2025/06/12/world/india-plane-crash-ahmedabad/whistle-blowers-lawyer-calls-on-faa-to-release-report-on-787-dreamliner",
+      "word_count": 506
+    },
+    {
+      "abstract": "Policymakers in many countries assume that birthrates have fallen because people want fewer children, but a global study says financial insecurity is driving those decisions.",
+      "byline": {
+        "original": "By Ephrat Livni"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Real Fertility Crisis? Financial Security, a U.N. Report Says.",
+        "kicker": "",
+        "print_headline": "U.N. Report  Ponders Why  Birthrates  Have Fallen  "
+      },
+      "_id": "nyt://article/e71309e2-3792-5386-90db-d952de27ec79",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Birth Rates",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Babies and Infants",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations Population Fund",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Children and Childhood",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Parenting",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Population",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Polls and Public Opinion",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Bonuses",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Brazil",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Hungary",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 14
+        },
+        {
+          "name": "Location",
+          "value": "Indonesia",
+          "rank": 15
+        },
+        {
+          "name": "Location",
+          "value": "Italy",
+          "rank": 16
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 17
+        },
+        {
+          "name": "Location",
+          "value": "Morocco",
+          "rank": 18
+        },
+        {
+          "name": "Location",
+          "value": "Nigeria",
+          "rank": 19
+        },
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 20
+        },
+        {
+          "name": "Location",
+          "value": "Sweden",
+          "rank": 21
+        },
+        {
+          "name": "Location",
+          "value": "Thailand",
+          "rank": 22
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 23
+        },
+        {
+          "name": "Location",
+          "value": "Vietnam",
+          "rank": 24
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 25
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 26
+        }
+      ],
+      "multimedia": {
+        "caption": "Students at a school in Abuja, Nigeria. A U.N. survey found that many people end up having fewer children than they wanted.",
+        "credit": "Taiwo Aina for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/06/11/multimedia/11int-un-families-ktqv/11int-un-families-ktqv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/06/11/multimedia/11int-un-families-ktqv/11int-un-families-ktqv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2025-06-11T20:54:54Z",
+      "section_name": "World",
+      "snippet": "Policymakers in many countries assume that birthrates have fallen because people want fewer children, but a global study says financial insecurity is driving those decisions.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/e71309e2-3792-5386-90db-d952de27ec79",
+      "web_url": "https://www.nytimes.com/2025/06/11/world/fertility-crisis-un-report.html",
+      "word_count": 847
+    },
+    {
+      "abstract": "An official report into last year’s yacht tragedy, which killed seven, found that the boat could easily capsize in high winds. Its towering mast made it more vulnerable.",
+      "byline": {
+        "original": "By Jeffrey Gettleman and James Glanz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Bayesian Superyacht Sank After ‘Extreme’ Wind Gust, Report Says",
+        "kicker": "",
+        "print_headline": "Superyacht’s Oversize Mast  Made It Vulnerable, Report Says"
+      },
+      "_id": "nyt://article/22ccbeee-13a8-52ee-a4bc-77749039112c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sailboats and Sailing",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Drownings",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Maritime Accidents and Safety",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Ships and Shipping",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Rescues",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Wind",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Hewlett-Packard Company",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Italian Sea Group SpA",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Cutfield, James",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Sicily (Italy)",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Italy",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "The Bayesian sailing off Palermo, Sicily, in an undated photograph released by the yacht’s maker, Perini Navi. ",
+        "credit": "Perini Navi Press Office/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14Bayesian-report-1-wvlt/14Bayesian-report-1-wvlt-articleLarge.jpg",
+          "height": 600,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14Bayesian-report-1-wvlt/14Bayesian-report-1-wvlt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2025-05-14T23:00:07Z",
+      "section_name": "World",
+      "snippet": "An official report into last year’s yacht tragedy, which killed seven, found that the boat could easily capsize in high winds. Its towering mast made it more vulnerable.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/22ccbeee-13a8-52ee-a4bc-77749039112c",
+      "web_url": "https://www.nytimes.com/2025/05/14/world/europe/bayesian-superyacht-sinking-report.html",
+      "word_count": 1479
+    },
+    {
+      "abstract": "A mother’s call for justice has challenged a culture of shame and inspired a nationwide movement to tackle the crisis of sexual violence.",
+      "byline": {
+        "original": "By Zimasa Matiwane and John Eligon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘Enough Is Enough’: Report of a Child’s Rape Enrages South Africans",
+        "kicker": "",
+        "print_headline": "Report of a Child’s Rape Sets Off Outrage in One South African Town"
+      },
+      "_id": "nyt://article/cecd127c-cf7b-5851-8183-5c0a7dde6a91",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Ramaphosa, Cyril",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Domestic Violence",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Police",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Gender",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Women's Rights",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Protesters in Matatiele, South Africa, calling for justice for a 7-year-old girl known as Cwecwe who said she was raped.",
+        "credit": "Joao Silva/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-safrica-rape01-photo-bkmg/00int-safrica-rape01-photo-bkmg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-safrica-rape01-photo-bkmg/00int-safrica-rape01-photo-bkmg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2025-05-09T04:01:09Z",
+      "section_name": "World",
+      "snippet": "A mother’s call for justice has challenged a culture of shame and inspired a nationwide movement to tackle the crisis of sexual violence.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/cecd127c-cf7b-5851-8183-5c0a7dde6a91",
+      "web_url": "https://www.nytimes.com/2025/05/09/world/africa/south-africa-rape-sexual-violence-cwecwe.html",
+      "word_count": 837
+    },
+    {
+      "abstract": "Officials summoned the American ambassador to express its displeasure after the Trump Administration was said be ratcheting up surveillance.",
+      "byline": {
+        "original": "By Jeffrey Gettleman and Maya Tekeli"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Denmark Outraged by Report of Increased Spying in Greenland",
+        "kicker": "",
+        "print_headline": "Denmark Outraged by Report That the U.S. Was Stepping Up Spying on Greenland"
+      },
+      "_id": "nyt://article/c193b1d3-ba0b-5739-be73-0304bc0de45d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Greenland",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Denmark",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Nuuk (Greenland)",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Rasmussen, Lars Lokke",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Lars Lokke Rasmussen, Denmark’s foreign minister, who summoned the U.S. ambassador to express his anger over reports of spying. ",
+        "credit": "EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-denmark-greenland-us-ctvm/08int-denmark-greenland-us-ctvm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-denmark-greenland-us-ctvm/08int-denmark-greenland-us-ctvm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2025-05-08T14:17:13Z",
+      "section_name": "World",
+      "snippet": "Officials summoned the American ambassador to express its displeasure after the Trump Administration was said be ratcheting up surveillance.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/c193b1d3-ba0b-5739-be73-0304bc0de45d",
+      "web_url": "https://www.nytimes.com/2025/05/08/world/asia/denmark-greenland-us-consulate-spying.html",
+      "word_count": 633
+    },
+    {
+      "abstract": "Prime Minister Narendra Modi of India called the shooting, the worst against civilians in the region for years, a “terror attack” and vowed to bring the perpetrators to justice.",
+      "byline": {
+        "original": "By Anupreeta Das, Suhasini Raj and Showkat Nanda"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "At Least 24 Tourists Gunned Down by Militants in Kashmir",
+        "kicker": "",
+        "print_headline": "2 Dozen Tourists Are Killed in an Attack by Militants in Kashmir"
+      },
+      "_id": "nyt://article/c2467719-5ecf-5cfc-8864-b13115cb38c6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Kashmir and Jammu (India)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Kashmir",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Indian security officers patrolling near Pahalgam in south Kashmir after militants opened fire on tourists on Tuesday.",
+        "credit": "Dar Yasin/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-india-kashmir-cklv/22int-india-kashmir-cklv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-india-kashmir-cklv/22int-india-kashmir-cklv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2025-04-22T15:27:49Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Narendra Modi of India called the shooting, the worst against civilians in the region for years, a “terror attack” and vowed to bring the perpetrators to justice.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/c2467719-5ecf-5cfc-8864-b13115cb38c6",
+      "web_url": "https://www.nytimes.com/2025/04/22/world/asia/kashmir-terrorist-attack.html",
+      "word_count": 674
+    },
+    {
+      "abstract": "Outdated legislation prevented the police from rapidly correcting misinformation after a stabbing attack on a Taylor Swift-themed dance class last summer, lawmakers said.",
+      "byline": {
+        "original": "By Lizzie Dearden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "British Laws Are Not Fit for Social Media Age, Says Report on U.K. Riots",
+        "kicker": "",
+        "print_headline": "U.K. Laws Unfit for Social Media Age, Report Says"
+      },
+      "_id": "nyt://article/cb899911-a438-5781-aa6b-e280ff4c8726",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Social Media",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Rumors and Misinformation",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Criminal Justice",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Crown Prosecution Service",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "X (Formerly Twitter)",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Rudakubana, Axel",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "England",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Southport (England)",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Riot police holding back protesters after disorder broke out last July in Southport, England. Violent disorder, fueled by the far right, affected several towns and cities for days after a teenager stabbed multiple children at a dance class.",
+        "credit": "Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-uk-riots-02-fjcv/13int-uk-riots-02-fjcv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-uk-riots-02-fjcv/13int-uk-riots-02-fjcv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-04-13T23:01:06Z",
+      "section_name": "World",
+      "snippet": "Outdated legislation prevented the police from rapidly correcting misinformation after a stabbing attack on a Taylor Swift-themed dance class last summer, lawmakers said.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/cb899911-a438-5781-aa6b-e280ff4c8726",
+      "web_url": "https://www.nytimes.com/2025/04/13/world/europe/uk-riots-social-media-contempt.html",
+      "word_count": 849
+    },
+    {
+      "abstract": "A preliminary report by Canadian authorities revealed new details about the final seconds before a Delta plane carrying 80 people crashed last month in Toronto.",
+      "byline": {
+        "original": "By Niraj Chokshi and Vjosa Isai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Airliner Was Descending Fast Before It Flipped on Landing, Report Finds",
+        "kicker": "",
+        "print_headline": "Plane Was Descending Fast Before It Flipped on Landing, Report Finds"
+      },
+      "_id": "nyt://article/4142adf2-ea1c-5d1e-9693-d76309c6dde6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Airlines and Airplanes",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Aviation Accidents, Safety and Disasters",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Transportation Safety Board of Canada",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Delta Air Lines Inc",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Toronto Pearson International Airport",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Toronto (Ontario)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The wreckage of a Delta Air Lines-operated aircraft being hoisted onto a truck after it crashed on landing last month in Toronto.",
+        "credit": "Cole Burston/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/03/20/multimedia/20int-canada-plane-crash-vgkp/20int-canada-plane-crash-vgkp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/03/20/multimedia/20int-canada-plane-crash-vgkp/20int-canada-plane-crash-vgkp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2025-03-20T20:15:15Z",
+      "section_name": "World",
+      "snippet": "A preliminary report by Canadian authorities revealed new details about the final seconds before a Delta plane carrying 80 people crashed last month in Toronto.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/4142adf2-ea1c-5d1e-9693-d76309c6dde6",
+      "web_url": "https://www.nytimes.com/2025/03/20/world/canada/delta-plane-crash-toronto-report.html",
+      "word_count": 618
+    },
+    {
+      "abstract": "A researcher at a South African base in Antarctica has been accused of physical assault and sexual harassment. South Africa said it had no immediate plans to remove the accused or any colleagues.",
+      "byline": {
+        "original": "By Zimasa Matiwane and Amelia Nierenberg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "South Africa Will Not Remove Antarctic Team After a Reported Assault",
+        "kicker": "",
+        "print_headline": "South Africa to Keep Team in Antarctica"
+      },
+      "_id": "nyt://article/5df8e004-4345-5122-ae90-b9e94c86e9fe",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Antarctic Regions",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Research",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Antarctica’s harsh conditions have routinely made it difficult for countries to scrutinize researchers’ behavior there.",
+        "credit": "Pool photo by Mark Ralston",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/03/18/multimedia/18int-antarctic-ftqm/18int-antarctic-ftqm-articleLarge.jpg",
+          "height": 438,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/03/18/multimedia/18int-antarctic-ftqm/18int-antarctic-ftqm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2025-03-18T20:00:14Z",
+      "section_name": "World",
+      "snippet": "A researcher at a South African base in Antarctica has been accused of physical assault and sexual harassment. South Africa said it had no immediate plans to remove the accused or any colleagues.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/5df8e004-4345-5122-ae90-b9e94c86e9fe",
+      "web_url": "https://www.nytimes.com/2025/03/18/world/africa/south-africa-antarctica-assault-harassment.html",
+      "word_count": 759
+    },
+    {
+      "abstract": "More than 1,000 people have been killed in fighting between forces of the new government and remnants of the ousted regime, according to a war monitor, which said about 700 were civilians.",
+      "byline": {
+        "original": "By Raja Abdulrahim"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hundreds of Civilians Killed by Government Forces in Syria, War Monitors Say",
+        "kicker": "",
+        "print_headline": " Monitors Say Syria Fighters Killed Scores Of Civilians  "
+      },
+      "_id": "nyt://article/e93ffaf1-4b3b-52b8-bc57-e02ff1dbee1f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Syrian Observatory for Human Rights",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Latakia (Syria)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Tartus (Syria)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A funeral was held near Idlib, Syria, on Saturday for four members of the Syrian security forces who were killed in clashes with fighters loyal to the ousted Assad dictatorship.",
+        "credit": "Omar Albam/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/03/08/multimedia/08syria-clashes-pbzj/08syria-clashes-pbzj-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/03/08/multimedia/08syria-clashes-pbzj/08syria-clashes-pbzj-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2025-03-08T11:03:40Z",
+      "section_name": "World",
+      "snippet": "More than 1,000 people have been killed in fighting between forces of the new government and remnants of the ousted regime, according to a war monitor, which said about 700 were civilians.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/e93ffaf1-4b3b-52b8-bc57-e02ff1dbee1f",
+      "web_url": "https://www.nytimes.com/2025/03/08/world/middleeast/syria-clashes-assad.html",
+      "word_count": 847
+    },
+    {
+      "abstract": "The Shin Bet said that it had disregarded intelligence from Gaza about a planned Hamas raid, but also that government policies may have emboldened the militants to attack.",
+      "byline": {
+        "original": "By Ephrat Livni"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Oct. 7 Report, Israeli Security Agency Puts Some Blame on Netanyahu Government",
+        "kicker": "",
+        "print_headline": "Government Faulted in Oct. 7 Israeli Report"
+      },
+      "_id": "nyt://article/c2ef0e4b-b2f9-5c65-931a-27bfdb9d1469",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Shin Bet",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Classified Information and State Secrets",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Ashkelon, Israel, moments after a rocket siren was sounded on Oct. 7, 2023.",
+        "credit": "Tamir Kalifa for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04israel-report-htkw/04israel-report-htkw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/03/04/multimedia/04israel-report-htkw/04israel-report-htkw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2025-03-04T23:39:46Z",
+      "section_name": "World",
+      "snippet": "The Shin Bet said that it had disregarded intelligence from Gaza about a planned Hamas raid, but also that government policies may have emboldened the militants to attack.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/c2ef0e4b-b2f9-5c65-931a-27bfdb9d1469",
+      "web_url": "https://www.nytimes.com/2025/03/04/world/middleeast/israel-oct-7-attack-shin-bet.html",
+      "word_count": 811
+    },
+    {
+      "abstract": "Crowds had swelled because trains carrying Hindu pilgrims to the Kumbh Mela, the world’s largest religious festival, had been delayed, according to local media.",
+      "byline": {
+        "original": "By Eve Sampson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "15 Reported Dead in Stampede at New Delhi Rail Station",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/6b8ddd91-00b9-52bf-b200-ab1b608e2aea",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Pilgrimages",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Stampedes",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Festivals",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Hinduism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Railroads",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Stations and Terminals (Passenger)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "New Delhi (India)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Passengers jostling one another to board a train in New Delhi on Saturday.",
+        "credit": "Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/02/15/multimedia/15india-stampede-01-jpmq/15india-stampede-01-jpmq-articleLarge.jpg",
+          "height": 377,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/02/15/multimedia/15india-stampede-01-jpmq/15india-stampede-01-jpmq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-02-15T22:49:50Z",
+      "section_name": "World",
+      "snippet": "Crowds had swelled because trains carrying Hindu pilgrims to the Kumbh Mela, the world’s largest religious festival, had been delayed, according to local media.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/6b8ddd91-00b9-52bf-b200-ab1b608e2aea",
+      "web_url": "https://www.nytimes.com/2025/02/15/world/asia/kumbh-mela-stampede-delhi-station.html",
+      "word_count": 430
+    },
+    {
+      "abstract": "Axel Rudakubana, who murdered three girls in a stabbing spree last year, had been referred to Britain’s counterterror program, Prevent, three times before his attack last July.",
+      "byline": {
+        "original": "By Megan Specia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.K. Counterterror Program Prematurely Closed Case on Teen Killer, Report Says",
+        "kicker": "",
+        "print_headline": "Scrutiny of British Teen  Was Ended Prematurely"
+      },
+      "_id": "nyt://article/7dee48bb-e3fd-5c99-8745-6e933f5a847b",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Rudakubana, Axel",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Starmer, Keir",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Southport (England)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Cooper, Yvette (1969- )",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A memorial set up in Southport, England, after three girls were killed in a stabbing spree last July. ",
+        "credit": "Andrew Testa for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/01/30/multimedia/XXuk-southport-review-cgtl/XXuk-southport-review-cgtl-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/01/30/multimedia/XXuk-southport-review-cgtl/XXuk-southport-review-cgtl-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2025-02-05T16:27:19Z",
+      "section_name": "World",
+      "snippet": "Axel Rudakubana, who murdered three girls in a stabbing spree last year, had been referred to Britain’s counterterror program, Prevent, three times before his attack last July.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/7dee48bb-e3fd-5c99-8745-6e933f5a847b",
+      "web_url": "https://www.nytimes.com/2025/02/05/world/europe/rudakubana-program-report.html",
+      "word_count": 823
+    },
+    {
+      "abstract": "Prime Minister Justin Trudeau should have acted quicker to protect Canadian elections from outside meddling, a government commission said, shaking trust in democratic institutions.",
+      "byline": {
+        "original": "By Norimitsu Onishi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trudeau Government Left Canada Vulnerable to Foreign Interference, Report Finds",
+        "kicker": "",
+        "print_headline": "Report Finds Trudeau’s Government Left Elections Vulnerable to Interference"
+      },
+      "_id": "nyt://article/682f16eb-d66d-5232-a79c-631ee22d3468",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Classified Information and State Secrets",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Conservative Party (Canada)",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Liberal Party (Canada)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Globe and Mail",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Huawei Technologies Co Ltd",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Dong, Han (1977- )",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Trudeau, Justin",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "Flags for Khalistan, a hoped-for Sikh homeland, outside the temple in Surrey, British Columbia, where Hardeep Singh Nijjar, a Canadian leader of the Sikh independence movement, was assassinated in 2023. Canada has accused the Indian government of orchestrating the killing. ",
+        "credit": "Jackie Dives for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/01/28/multimedia/28canada-foreign-interference-kpth/28canada-foreign-interference-kpth-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/01/28/multimedia/28canada-foreign-interference-kpth/28canada-foreign-interference-kpth-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2025-01-28T20:06:53Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Justin Trudeau should have acted quicker to protect Canadian elections from outside meddling, a government commission said, shaking trust in democratic institutions.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/682f16eb-d66d-5232-a79c-631ee22d3468",
+      "web_url": "https://www.nytimes.com/2025/01/28/world/canada/canada-elections-foreign-interference-inquiry.html",
+      "word_count": 1028
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ephrat Livni"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Reports of sporadic violence cast a shadow over the Gaza cease-fire.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/346d8730-1bc7-5e32-8cae-a660d4598038",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A destroyed neighborhood in the city of Rafah, in the southern Gaza Strip, on Monday.",
+        "credit": "Bashar Taleb/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2025/01/20/multimedia/20mideast-crisis-gaza-incidents-jbwk/20mideast-crisis-gaza-incidents-jbwk-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2025/01/20/multimedia/20mideast-crisis-gaza-incidents-jbwk/20mideast-crisis-gaza-incidents-jbwk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2025-01-20T21:20:19Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/346d8730-1bc7-5e32-8cae-a660d4598038",
+      "web_url": "https://www.nytimes.com/live/2025/01/20/world/israel-hamas-cease-fire/reports-of-sporadic-violence-cast-a-shadow-over-the-gaza-cease-fire",
+      "word_count": 782
+    }
+  ]
+}

@@ -1,0 +1,3084 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "2MJ6e77HBhgWrT0a1jsbMdAUzEslgDnYA7pUMZKLmn9jRrNb",
+    "begin_date": "20180101",
+    "end_date": "20181231",
+    "fq": "(headline.default:\"state\") AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 41,
+  "docs": [
+    {
+      "abstract": "Under Viktor Orban, Hungary has become a place of two parallel realities. But rarely have these two bubbles seemed so surreally far apart than during the past week of protests.",
+      "byline": {
+        "original": "By Patrick Kingsley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Outside Hungary’s State Television: A Protest. On Air: Pigeon Talk.",
+        "kicker": "Budapest Dispatch",
+        "print_headline": "In Hungary, Airing Clashing Versions of Reality"
+      },
+      "_id": "nyt://article/78e7944e-4ff5-57ec-84f6-5beba7aab7f6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Orban, Viktor",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Hungary",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Budapest (Hungary)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Pigeons",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Anti-government demonstrators marching in Budapest on Sunday.",
+        "credit": "Balazs Mohai/MTI, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/19/world/19hungary-protests-dispatch1/merlin_148216065_8ca3f666-fe5d-4a60-9777-6f6efc2e6370-articleLarge.jpg",
+          "height": 384,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/19/world/19hungary-protests-dispatch1/19hungary-protests-dispatch1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-12-18T21:56:28Z",
+      "section_name": "World",
+      "snippet": "Under Viktor Orban, there are two realities: one created by state media and the other by independent outlets trying to hold Mr. Orban to account.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/78e7944e-4ff5-57ec-84f6-5beba7aab7f6",
+      "web_url": "https://www.nytimes.com/2018/12/18/world/europe/hungary-protest-orban.html",
+      "word_count": 947
+    },
+    {
+      "abstract": "Experts accused Michel Sidibé, the agency’s chief, of having an autocratic style leading to “ethical blindness” on harassment and the abuse of power.",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. AIDS Agency Is in ‘State of Crisis’ and Needs New Leader, Report Says",
+        "kicker": "",
+        "print_headline": "U.N. AIDS Agency Is in ‘State of Crisis’ and Needs New Leader, Report Says"
+      },
+      "_id": "nyt://article/f2db522b-ce7f-5215-ab20-a6e7ccbb5690",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Acquired Immune Deficiency Syndrome",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "UNAIDS",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Sidibe, Michel",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "#MeToo Movement",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A report accused Michel Sidibé, the executive director of U.N.AIDS, of a management style that “enabled a culture of harassment, including sexual harassment, bullying and abuse of power.”",
+        "credit": "Thibault Camus/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/08/world/08nations/merlin_147849231_f2e9a078-859f-4b4d-95fc-b2ac767082bf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/08/world/08nations/08nations-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-12-07T21:18:52Z",
+      "section_name": "World",
+      "snippet": "Experts accused Michel Sidibé, the agency’s chief, of having an autocratic style leading to “ethical blindness” on harassment and the abuse of power.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/f2db522b-ce7f-5215-ab20-a6e7ccbb5690",
+      "web_url": "https://www.nytimes.com/2018/12/07/world/europe/unaids-abuse.html",
+      "word_count": 592
+    },
+    {
+      "abstract": "After a summit meeting in Argentina, President Emmanuel Macron surveyed the destruction left after the “Yellow Vest” protests.",
+      "byline": {
+        "original": "By Alissa J. Rubin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Macron Returns to Turmoil, as France Weighs State of Emergency",
+        "kicker": "",
+        "print_headline": "French Protesters Chide Macron: ‘We Cut Off Heads for Less Than This’"
+      },
+      "_id": "nyt://article/77f6b819-e4c8-525e-8402-d5b122184b88",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Yellow Vests Movement",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Macron, Emmanuel (1977- )",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Vandalism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Taxation",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Burned vehicles lay around the streets of Paris. At least one person died in the violent clashes on Saturday.",
+        "credit": "Etienne Laurent/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/03/world/03france-protests-promo/03france-protests-promo-articleLarge-v4.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/03/world/03france-protests-promo/03france-protests-promo-thumbStandard-v4.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-12-02T15:55:37Z",
+      "section_name": "World",
+      "snippet": "President Emmanuel Macron returned from a global meeting and surveyed the damage after another day of violent protests.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/77f6b819-e4c8-525e-8402-d5b122184b88",
+      "web_url": "https://www.nytimes.com/2018/12/02/world/europe/france-macron-yellow-vest-protests.html",
+      "word_count": 1032
+    },
+    {
+      "abstract": "A government spokesman said one option was imposing a state of emergency to prevent a recurrence of the worst civil unrest in more than a decade.",
+      "byline": {
+        "original": "By Alissa J. Rubin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Macron Inspects Damage After ‘Yellow Vest’ Protests as France Weighs State of Emergency",
+        "kicker": "",
+        "print_headline": "Protests in Paris Over ‘Two Frances’ Escalate in Violence"
+      },
+      "_id": "nyt://article/eccb09e4-ca01-5642-a4bc-7fa934e4e3fb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Yellow Vests Movement",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Macron, Emmanuel (1977- )",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Paris (France)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A car burning in Paris on Saturday during clashes near the Place de l’Etoile.",
+        "credit": "Stephane Mahe/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/04/world/02france/02france-protest-3-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/04/world/02france/02france-protest-3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-12-01T11:23:28Z",
+      "section_name": "World",
+      "snippet": "A government spokesman said one option was imposing a state of emergency to prevent a recurrence of the worst civil unrest in more than a decade.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/eccb09e4-ca01-5642-a4bc-7fa934e4e3fb",
+      "web_url": "https://www.nytimes.com/2018/12/01/world/europe/france-yellow-vests-protests-macron.html",
+      "word_count": 1715
+    },
+    {
+      "abstract": "Prime Minister Alexis Tsipras wants to remove clerics from Greece’s civil service, raising concerns about job security and even national identity.",
+      "byline": {
+        "original": "By Niki Kitsantonis"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Greek Leader’s Efforts to Loosen Church-State Ties Are Met With Skepticism",
+        "kicker": "",
+        "print_headline": "Greek Leader’s Push to Loosen Church-State Ties Is Met With Skepticism"
+      },
+      "_id": "nyt://article/26d56f3b-6fe8-5a27-bf77-c7916ac10d55",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Clergy",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Religion-State Relations",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Tsipras, Alexis",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Greece",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Alexis Tsipras of Greece, right, and the head of the Greek Orthodox Church, Archbishop Ieronymos, announcing a tentative deal this month to remove clerics from civil service payrolls and to resolve a longstanding dispute over church property.",
+        "credit": "Andrea Bonetti/Greek Prime Minister's Office, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/17/world/17Greece-print/merlin_146432250_f1a0090d-d639-4c11-8702-9b42057d2c81-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/17/world/17Greece-print/17Greece1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2018-11-16T16:30:28Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Alexis Tsipras wants to remove clerics from Greece’s civil service, raising concerns about job security and even national identity.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/26d56f3b-6fe8-5a27-bf77-c7916ac10d55",
+      "web_url": "https://www.nytimes.com/2018/11/16/world/europe/greece-tsipras-orthodox-church.html",
+      "word_count": 926
+    },
+    {
+      "abstract": "The state of Victoria signed on with China’s Belt and Road initiative at a time when intelligence officials are concerned about Beijing’s influence.",
+      "byline": {
+        "original": "By Jamie Tarabay and Vicky Xiuzhong Xu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Australia’s Prime Minister ‘Surprised’ by State’s Secret Deal With China ",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3904c1f4-5606-5775-a3c4-0bd35899a59d",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Morrison, Scott (1968- )",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Victoria (Australia)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Australia's prime minister, Scott Morrison, said it was not “cooperative or helpful” for the state of Victoria to sign an agreement with China without his government’s knowledge. ",
+        "credit": "Michael Chambers/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/14/world/14oz-china-2/merlin_146505234_79454f3f-8952-4cf0-a934-8286c94e5f26-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/14/world/14oz-china-2/14oz-china-2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-11-13T06:26:34Z",
+      "section_name": "World",
+      "snippet": "The state of Victoria signed on with China’s Belt and Road initiative at a time when intelligence officials are concerned about Beijing’s influence.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/3904c1f4-5606-5775-a3c4-0bd35899a59d",
+      "web_url": "https://www.nytimes.com/2018/11/13/world/australia/victoria-china-scott-morrison.html",
+      "word_count": 986
+    },
+    {
+      "abstract": "The passports, which consular officials said contained false or fraudulent names, were taken between December 2012 and June 2013, just as Yemen’s fragile political system began descending into chaos.",
+      "byline": {
+        "original": "By Gardiner Harris and Liz Robbins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Dept. Improperly Seized Passports of Americans in Yemen, Inquiry Finds",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e7fc773e-75e8-5e95-96da-211620ef0b99",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Passports",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Inspectors General",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Sana (Yemen)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The American Embassy in Sana, Yemen, which was closed in 2015 as Yemen’s civil war intensified.",
+        "credit": "Mohammed Huwais/AFP/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/03/us/03DC-DIPLO/merlin_146241894_04a5651d-a210-4078-8406-6cced7fbae7d-articleLarge.jpg",
+          "height": 419,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/03/us/03DC-DIPLO/merlin_146241894_04a5651d-a210-4078-8406-6cced7fbae7d-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-11-02T23:30:24Z",
+      "section_name": "World",
+      "snippet": "The passports, which consular officials said contained false or fraudulent names, were taken between December 2012 and June 2013, just as Yemen’s fragile political system began descending into chaos.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/e7fc773e-75e8-5e95-96da-211620ef0b99",
+      "web_url": "https://www.nytimes.com/2018/11/02/world/middleeast/state-department-passports-yemen-citizens-.html",
+      "word_count": 498
+    },
+    {
+      "abstract": "Islamic State militants killed at least 40 Syrian fighters supported by the United States, captured several alive and regained territory.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Dozens Dead in Eastern Syria After Clashes with Islamic State",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/587e2655-ea12-527c-80a2-cc1d2f22f6f9",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Syrian Democratic Forces",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Deir al-Zour (Syria)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "American-backed Syrian fighters last month in village of Sousa, which was recaptured by Islamic State militants on Saturday.",
+        "credit": "Delil Souleiman/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/28/world/28syria/merlin_143708145_a0b36957-35f4-4f97-9fa2-bae1de84ce2a-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/28/world/28syria/28syria-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-10-27T18:34:13Z",
+      "section_name": "World",
+      "snippet": "Islamic State militants killed at least 40 Syrian fighters supported by the United States, captured several alive and regained territory.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/587e2655-ea12-527c-80a2-cc1d2f22f6f9",
+      "web_url": "https://www.nytimes.com/2018/10/27/world/middleeast/syria-islamic-state.html",
+      "word_count": 709
+    },
+    {
+      "abstract": "Thousands gathered on Saturday morning to protest the state of the Italian capital, where garbage is piled high and where public buses catch on fire.",
+      "byline": {
+        "original": "By Emma Johanningsmeier"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Italians Protest in Rome About Dismal State of the City",
+        "kicker": "",
+        "print_headline": "Italians Protest in Rome  About Dismal State of City"
+      },
+      "_id": "nyt://article/2e352def-623d-52f8-a1f8-f821888cbba1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Rome (Italy)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Waste Materials and Disposal",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Raggi, Virginia (1978- )",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Protesters gathered outside the Italian capital&rsquo;s City Hall on Saturday. &ldquo;Rome says enough!&rdquo; they chanted.",
+        "credit": "Tony Gentile/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/28/world/28rome-rally/merlin_145915704_01ed0758-7a5b-4d4a-8356-2a4c8f485007-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/28/world/28rome-rally/28rome-rally-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-10-27T16:33:02Z",
+      "section_name": "World",
+      "snippet": "Thousands gathered on Saturday morning to protest the state of the Italian capital, where garbage is piled high and where public buses catch on fire.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/2e352def-623d-52f8-a1f8-f821888cbba1",
+      "web_url": "https://www.nytimes.com/2018/10/27/world/europe/virginia-raggi-rome-garbage-rally.html",
+      "word_count": 386
+    },
+    {
+      "abstract": "After days of emotional debate, lawmakers overturned an 1899 law that made abortion a criminal offense. “History has been made,” the premier said.",
+      "byline": {
+        "original": "By Rick Rojas"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Queensland Becomes Latest Australian State to Decriminalize Abortion",
+        "kicker": "",
+        "print_headline": "Queensland Votes to End A Law Against Abortion"
+      },
+      "_id": "nyt://article/9d7808d5-a195-5737-ae4f-7ef3cc0069e3",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Abortion",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Queensland (Australia)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A rally in support of proposed changes to Queensland’s abortion laws in Brisbane, Australia, on Sunday.",
+        "credit": "Glenn Hunt/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/18/world/18oz-queensland/merlin_145278195_342cee6b-301c-445f-a9f8-04c6fbc81c95-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/18/world/18oz-queensland/18oz-queensland-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-10-17T13:43:15Z",
+      "section_name": "World",
+      "snippet": "After days of emotional debate, lawmakers overturned an 1899 law that made abortion a criminal offense. “History has been made,” the premier said.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/9d7808d5-a195-5737-ae4f-7ef3cc0069e3",
+      "web_url": "https://www.nytimes.com/2018/10/17/world/australia/queensland-abortion-laws.html",
+      "word_count": 598
+    },
+    {
+      "abstract": "Mai Khoi’s unusual transformation from pop star to activist has drawn attention to escalating repression by the country’s ruling Communist Party.",
+      "byline": {
+        "original": "By Mike Ives"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Protest Singer Finds Her Voice in Vietnam’s Police State",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d5949549-7561-5561-952d-5df59921e27e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Music",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Mai Khoi",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Vietnam",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of Vietnam",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of Speech and Expression",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Mai Khoi performing at the Oslo Freedom Forum in Norway in May. Once a conventional pop star, she now challenges Vietnam’s one-party system.",
+        "credit": "Oslo Freedom Forum",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/25/world/00vietnam-singer-1/merlin_144290970_33b792b6-baac-4d2f-bdc2-f4ebdb829e88-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/25/world/00vietnam-singer-1/00vietnam-singer-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-10-01T07:53:30Z",
+      "section_name": "World",
+      "snippet": "Mai Khoi’s transformation from pop star to activist has drawn attention to escalating repression by the country’s ruling Communist Party.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/d5949549-7561-5561-952d-5df59921e27e",
+      "web_url": "https://www.nytimes.com/2018/10/01/world/asia/vietnam-protest-mai-khoi.html",
+      "word_count": 1191
+    },
+    {
+      "abstract": "The appointment of Marcello Foa has raised alarms and marks a victory of the populist parties over the establishment media that once discounted them.",
+      "byline": {
+        "original": "By Jason Horowitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Journalist Who Spread Conspiracy Theories Will Oversee Italy’s State TV",
+        "kicker": "",
+        "print_headline": "Conspiracist Takes Over Italy’s State TV"
+      },
+      "_id": "nyt://article/843508be-b385-5df6-a8fa-a9eea968a662",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Foa, Marcello",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Radiotelevisione Italiana SpA",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Rumors and Misinformation",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Television",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Five Star Movement (Italy)",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "League (Italian Political Party)",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Salvini, Matteo",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Italy",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Appointments and Executive Changes",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "The appointment of Marcello Foa as chairman of Italy’s state broadcaster RAI marks a victory of the populist parties over the establishment press that once discounted them.",
+        "credit": "Massimo Percossi/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/28/world/28italy-1-print/merlin_141940272_61c82a9d-e825-47fa-9575-afc729ae3cd7-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/28/world/28italy-1-print/28italy-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2018-09-28T07:00:07Z",
+      "section_name": "World",
+      "snippet": "The appointment of Marcello Foa has raised alarms and marks a victory of the populist parties over the establishment media that once discounted them.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/843508be-b385-5df6-a8fa-a9eea968a662",
+      "web_url": "https://www.nytimes.com/2018/09/28/world/europe/italy-journalist-rai.html",
+      "word_count": 1529
+    },
+    {
+      "abstract": "President Hassan Rouhani said that a Persian Gulf country allied with the United States was behind the strike against a military parade, that killed 25 people and wounded nearly 70 others.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran’s President Condemns Gulf State, and U.S., After Deadly Attack",
+        "kicker": "",
+        "print_headline": "Iran’s Leader Links U.S. To Deadly Parade Attack"
+      },
+      "_id": "nyt://article/bf2da227-df5f-5659-92b3-595763598fb8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Ahvaz (Iran)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Parades",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Rouhani, Hassan",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Bahrain",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "United Arab Emirates",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Denmark",
+          "rank": 14
+        },
+        {
+          "name": "Location",
+          "value": "Netherlands",
+          "rank": 15
+        }
+      ],
+      "multimedia": {
+        "caption": "The aftermath of the attack at a military parade in Ahvaz, Iran, on Saturday that left dozens dead.",
+        "credit": "Morteza Jaberian/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/24/world/24Iran1/merlin_144127245_efc7bfe7-f84d-4571-be23-975b12c23979-articleLarge.jpg",
+          "height": 365,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/24/world/24Iran1/24Iran1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-09-23T14:51:04Z",
+      "section_name": "World",
+      "snippet": "President Hassan Rouhani said that a Persian Gulf country allied with the United States was behind the strike against a military parade, that killed 25 people and wounded nearly 70 others.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/bf2da227-df5f-5659-92b3-595763598fb8",
+      "web_url": "https://www.nytimes.com/2018/09/23/world/middleeast/iran-attack-rouhani.html",
+      "word_count": 652
+    },
+    {
+      "abstract": "Global and local leaders gathered in his native Ghana for an elaborate celebration of Mr. Annan, the first black African to ever lead the United Nations.",
+      "byline": {
+        "original": "By Eugenia A. Tenkorang and Megan Specia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kofi Annan, Former U.N. Chief, Is Honored in State Funeral",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bfc08d4b-3e28-5267-bfbd-a121541cc215",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Funerals and Memorials",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Annan, Kofi",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Ghana",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Family members at the funeral services.",
+        "credit": "Ruth Mcdowall/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/14/world/14annan-9/merlin_143679831_e42cd403-b6bc-4c1c-a2fd-449bb19735ae-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/14/world/14annan-9/merlin_143679831_e42cd403-b6bc-4c1c-a2fd-449bb19735ae-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-09-13T18:51:02Z",
+      "section_name": "World",
+      "snippet": "Global and local leaders gathered in his native Ghana for an elaborate celebration of Mr. Annan, the first black African to ever lead the United Nations.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/bfc08d4b-3e28-5267-bfbd-a121541cc215",
+      "web_url": "https://www.nytimes.com/2018/09/13/world/africa/kofi-annan-funeral.html",
+      "word_count": 494
+    },
+    {
+      "abstract": "In recent days, China’s English-language state media outlets have grown more strident in their mockery of the president and his policies.",
+      "byline": {
+        "original": "By Austin Ramzy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China’s State Media: Trump Tweets Come From an ‘Alternative Universe’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fb343ba0-5844-5708-ac10-1ef0c1bb9af5",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "China Daily",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Clinton, Hillary Rodham",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Until recently, Chinese state media had been reticent about personally criticizing President Trump.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/01/world/01china-trump-1/merlin_143032221_d14e700b-9ef0-49cf-96e4-ccbe67fdfc9d-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/01/world/01china-trump-1/01china-trump-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-08-31T07:35:05Z",
+      "section_name": "World",
+      "snippet": "In recent days, China’s English-language state media outlets have grown more strident in their mockery of the president and his policies.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/fb343ba0-5844-5708-ac10-1ef0c1bb9af5",
+      "web_url": "https://www.nytimes.com/2018/08/31/world/asia/china-donald-trump-alternative-universe.html",
+      "word_count": 489
+    },
+    {
+      "abstract": "Belligerent articles alleged “extremely provocative and dangerous” American military moves after the United States canceled a trip by Secretary of State Mike Pompeo.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korean State Media Denounce U.S. as Diplomacy Stalls",
+        "kicker": "",
+        "print_headline": "Trump and Kim Clash, via Tweets and the State Media"
+      },
+      "_id": "nyt://article/4690e64d-90cb-5704-aebb-216e71a166b7",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Control and Limitation and Disarmament",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "North Korean soldiers in the Demilitarized Zone last week. Over the weekend, North Korean state media warned that the diplomacy forged between the North’s leader and President Trump was in jeopardy.",
+        "credit": "Carl Court/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/08/28/us/politics/28dc-diplo-print/merlin_142864080_a61c4122-b4bd-4701-9267-8d65510bfd73-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/08/28/us/politics/28dc-diplo-print/28dc-diplo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-08-27T20:45:06Z",
+      "section_name": "World",
+      "snippet": "Belligerent articles alleged “extremely provocative and dangerous” American military moves after the United States canceled a trip by Secretary of State Mike Pompeo.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/4690e64d-90cb-5704-aebb-216e71a166b7",
+      "web_url": "https://www.nytimes.com/2018/08/27/world/asia/north-korea-united-states-diplomacy-stalls-.html",
+      "word_count": 730
+    },
+    {
+      "abstract": "A video takes direct aim at President Trump, portraying him as a bumbling leader who is indirectly advancing China’s interests.",
+      "byline": {
+        "original": "By Javier C. Hernández"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese State TV Mocks Trump in Sarcastic Video",
+        "kicker": "",
+        "print_headline": "China Video Says Thanks  To Trump,  Sarcastically"
+      },
+      "_id": "nyt://article/e2b3aa9d-a0e1-5593-91da-295fac6359dd",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Customs (Tariff)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Video Recordings, Downloads and Streaming",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump has described tariffs as necessary to reduce the United States’ trade deficit with China. A video by an English-language affiliate of China’s state broadcaster, though, portrayed him as a bumbler indirectly advancing China’s interests.",
+        "credit": "Al Drago for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/08/23/world/23china-trump/merlin_142628970_188c676e-0434-4164-9516-b4fd63f51c63-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/08/23/world/23china-trump/23china-trump-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-08-22T12:36:18Z",
+      "section_name": "World",
+      "snippet": "A video takes direct aim at President Trump, portraying him as a bumbling leader who is indirectly advancing China’s interests.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e2b3aa9d-a0e1-5593-91da-295fac6359dd",
+      "web_url": "https://www.nytimes.com/2018/08/22/world/asia/china-trump-trade-satire.html",
+      "word_count": 492
+    },
+    {
+      "abstract": "The floods have left at least 324 people dead, and hundreds of thousands more have been made homeless.",
+      "byline": {
+        "original": "By Maria Abi-Habib"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kerala Flooding: Hundreds Killed in Indian State’s Worst Rains Since 1920s",
+        "kicker": "",
+        "print_headline": "Hundreds Die as Floods Slam Indian Tourist State"
+      },
+      "_id": "nyt://article/474cf985-a0f5-5356-9dca-26b9f2fb2150",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Floods",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Kerala (India)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Rain",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Landslides and Mudslides",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Rescues",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Flood waters inundated homes across Kerala in southern India.",
+        "credit": "Sivaram V/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/08/18/world/18india-floods-7/18india-floods-7-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/08/18/world/18india-floods-7/18india-floods-7-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-08-17T11:15:00Z",
+      "section_name": "World",
+      "snippet": "Torrential rains left at least 324 people dead, and hundreds of thousands more have been made homeless.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/474cf985-a0f5-5356-9dca-26b9f2fb2150",
+      "web_url": "https://www.nytimes.com/2018/08/17/world/asia/kerala-india-floods.html",
+      "word_count": 362
+    },
+    {
+      "abstract": "Critics say that by giving a special status to Jews — and downgrading the status of the Arabic language — the legislation diminishes non-Jewish citizens.",
+      "byline": {
+        "original": "By David M. Halbfinger and Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israeli Law Declares the Country the ‘Nation-State of the Jewish People’",
+        "kicker": "",
+        "print_headline": "Israel Enshrines Rights For Jews"
+      },
+      "_id": "nyt://article/cd535fc6-368d-59dd-b89e-eb0380a1b617",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Constitutions",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Democracy (Theory and Philosophy)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A protest in Tel Aviv this month against the new law, which has been advanced as flagship legislation of the most right-wing and religious governing coalition in Israel’s 70-year history.",
+        "credit": "Abir Sultan/European Pressphoto Agency, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/20/world/20Israel/merlin_141275346_23e3ff30-a4a0-4023-ac1d-1eae1a2dfe0e-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/20/world/20Israel/20Israel-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2018-07-19T08:36:08Z",
+      "section_name": "World",
+      "snippet": "Critics say that by giving a special status to Jews — and downgrading the status of the Arabic language — the legislation diminishes non-Jewish citizens.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/cd535fc6-368d-59dd-b89e-eb0380a1b617",
+      "web_url": "https://www.nytimes.com/2018/07/19/world/middleeast/israel-law-jews-arabic.html",
+      "word_count": 1616
+    },
+    {
+      "abstract": "Affirming a breakthrough peace deal, a plane flew from Ethiopia to Eritrea, carrying politicians, artists, journalists and potential investors.",
+      "byline": {
+        "original": "By Alan Cowell"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "After 20-Year ‘State of War,’ a Flight With Champagne and Roses",
+        "kicker": "",
+        "print_headline": "Flight Affirms Deal for Eritrea and Ethiopia"
+      },
+      "_id": "nyt://article/e75b3d4b-bc9a-5c0b-9d36-ba58c07bc8e6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Airlines and Airplanes",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Ethiopian Airlines",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Afwerki, Isaias",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Ahmed, Abiy",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Eritrea",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Ethiopia",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Horn of Africa",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Passengers pose on an Ethiopian Airlines flight from Addis Ababa, the Ethiopian capital, to Asmara, Eritrea’s capital, on Wednesday. The chief executive of the airline called the flight a “unique event.”",
+        "credit": "Maheder Haileselassie Tadese/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/19/world/19ethiopia/merlin_141431895_8be90ff0-fb9b-4c62-bfd6-27da1e93d039-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/19/world/19ethiopia/merlin_141431895_8be90ff0-fb9b-4c62-bfd6-27da1e93d039-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2018-07-18T13:46:34Z",
+      "section_name": "World",
+      "snippet": "Affirming a breakthrough peace deal, a plane flew between the two countries’ capitals, carrying politicians, artists, journalists and potential investors.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/e75b3d4b-bc9a-5c0b-9d36-ba58c07bc8e6",
+      "web_url": "https://www.nytimes.com/2018/07/18/world/africa/ethiopia-eritrea-flight.html",
+      "word_count": 666
+    },
+    {
+      "abstract": "Hudhayfah al-Badri, a son of Abu Bakr al-Baghdadi, was killed in the central Syrian province of Homs, the Islamic State’s news agency announced.",
+      "byline": {
+        "original": "By Agence France-Presse"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Says Its Leader’s Son Was Killed in Syria",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/323c3339-fcf0-5127-955b-cb53a5b6131b",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Baghdadi, Abu Bakr al-",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Homs (Syria)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The leader of the Islamic State, Abu Bakr al-Baghdadi. Hudhayfah al-Badri, Mr. Baghdadi’s son, was killed in Syria, the group said.",
+        "credit": "Militant video, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/04/world/04isis1/04isis1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/04/world/04isis1/04isis1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-07-04T00:25:12Z",
+      "section_name": "World",
+      "snippet": "Hudhayfah al-Badri, a son of Abu Bakr al-Baghdadi, was killed in the central Syrian province of Homs, the Islamic State’s news agency announced.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/323c3339-fcf0-5127-955b-cb53a5b6131b",
+      "web_url": "https://www.nytimes.com/2018/07/03/world/middleeast/syria-islamic-state-baghdadi-leader-son.html",
+      "word_count": 334
+    },
+    {
+      "abstract": "The military said fighter jets had destroyed three houses just across the border, killing high-profile targets such as the group’s so-called deputy war minister.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iraq Says It Bombed a Meeting of Islamic State Leaders in Syria",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/af02ba00-68ec-5482-9f52-dc1aea690bba",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Haider al-Abadi of Iraq declared victory over the Islamic State in December, but the militants still operate along the border with Syria and have continued to carry out ambushes, assassinations and bombings across Iraq.",
+        "credit": "Alaa Al-Marjani/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/06/24/world/24Iraq-syria/merlin_135788202_68ab5f35-4efb-44ab-abec-e67cef530709-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/24/world/24Iraq-syria/24Iraq-syria-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-06-23T14:43:46Z",
+      "section_name": "World",
+      "snippet": "The military said fighter jets had destroyed three houses just across the border, killing high-profile targets such as the group’s so-called deputy war minister.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/af02ba00-68ec-5482-9f52-dc1aea690bba",
+      "web_url": "https://www.nytimes.com/2018/06/23/world/middleeast/iraq-syria-isis.html",
+      "word_count": 312
+    },
+    {
+      "abstract": "It may not have been the most opportune time for the State Department to offer family travel tips. The responses spoke volumes.",
+      "byline": {
+        "original": "By Satoshi Sugiyama"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Amid Border Controversy, State Department Draws Fire for Facebook Travel Tips",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/48ba8773-dc66-5f77-8bb5-8ba72ad10c4a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Families and Family Life",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Children and Childhood",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Passports",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Travel and Vacations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Family Separation Policy (US Immigration)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "U.S. Border Patrol agents talking to a group of Central American asylum seekers before taking them into custody near McAllen, Texas, last week.",
+        "credit": "John Moore/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/06/20/world/20familytravel/merlin_139608006_2c56dfc1-f09e-419f-ac93-cc64fce9a32c-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/20/world/20familytravel/20familytravel-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-06-19T18:04:44Z",
+      "section_name": "World",
+      "snippet": "It may not have been the most opportune time for the State Department to offer family travel tips. The responses spoke volumes.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/48ba8773-dc66-5f77-8bb5-8ba72ad10c4a",
+      "web_url": "https://www.nytimes.com/2018/06/19/world/americas/us-traveling-children-border.html",
+      "word_count": 339
+    },
+    {
+      "abstract": "Will Nguyen of Houston was grabbed and beaten by the police this month at an anti-China protest in Ho Chi Minh City.",
+      "byline": {
+        "original": "By Richard C. Paddock"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Protester Held in Vietnam Confesses on State Television",
+        "kicker": "",
+        "print_headline": "American Held in Vietnam Apologizes"
+      },
+      "_id": "nyt://article/3a8a94af-92ed-52b3-99f9-4b2cf3d615c6",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Nguyen, William (1985- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Vietnam",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Ho Chi Minh City (Vietnam)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Apologies",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/06/20/world/asia/20vietnam-promo/20vietnam-promo-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/20/world/asia/20vietnam-promo/20vietnam-promo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2018-06-19T11:22:19Z",
+      "section_name": "World",
+      "snippet": "Will Nguyen of Houston was grabbed and beaten by the police this month at an anti-China protest in Ho Chi Minh City.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3a8a94af-92ed-52b3-99f9-4b2cf3d615c6",
+      "web_url": "https://www.nytimes.com/2018/06/19/world/asia/vietnam-will-nguyen-confession.html",
+      "word_count": 612
+    },
+    {
+      "abstract": "The governing party has worked for more than a year to reshape a judicial system that has aggressively indicted ministers, senators and others. It warns of a “deep state” that could target anyone.",
+      "byline": {
+        "original": "By Marc Santora and Kit Gillet"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Claiming ‘Parallel State’ Cabal, Romania’s Leaders Target Anti-Corruption Prosecutor",
+        "kicker": "",
+        "print_headline": "Romania’s Governing Party Moves to Unseat Anti-Corruption Prosecutor"
+      },
+      "_id": "nyt://article/06ae3c58-ee55-5caf-9706-7dac5d98cb85",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Romania",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "National Anticorruption Directorate (Romania)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Dragnea, Liviu",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Iohannis, Klaus W",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Kovesi, Laura Codruta",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Mueller, Robert S III",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Rumors and Misinformation",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Supporters of the ruling Social Democratic Party at a rally outside the government headquarters in Bucharest, Romania, on June 9, to protest abuses they blamed on anti-corruption prosecutors.",
+        "credit": "Vadim Ghirda/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/06/18/world/16romania1/merlin_139323447_a7d67365-414b-45f5-b108-08fb1832d84b-articleLarge.jpg",
+          "height": 420,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/18/world/16romania1/16romania1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-06-17T14:45:33Z",
+      "section_name": "World",
+      "snippet": "The governing party has worked for more than a year to reshape a judicial system that has aggressively indicted ministers, senators and others. It warns of a “deep state” that could target anyone.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/06ae3c58-ee55-5caf-9706-7dac5d98cb85",
+      "web_url": "https://www.nytimes.com/2018/06/17/world/europe/romania-corruption-prosecutors.html",
+      "word_count": 1450
+    },
+    {
+      "abstract": "After the government agreed to subsidize fuel costs to end a truckers’ strike, the head of Petrobras quit, signaling disagreement with the decision.",
+      "byline": {
+        "original": "By Ernesto Londoño and Manuela Andreoni"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Head of Brazil’s State Oil Company Resigns Amid Period of Unrest",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/08d1e288-5741-5f45-9b5f-8a76243c81cf",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Brazil",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Petroleo Brasileiro SA Petrobras",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Parente, Pedro",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Temer, Michel (1940- )",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Pedro Parente, the chief executive of Brazil’s state oil company, Petrobras, resigned on Friday.",
+        "credit": "Carl De Souza/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/06/02/business/02brazil1/merlin_138959877_6378655e-15d3-4a3d-8c73-d7ba1d019758-articleLarge.jpg",
+          "height": 388,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/02/business/02brazil1/02brazil1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-06-01T22:52:13Z",
+      "section_name": "World",
+      "snippet": "After the government agreed to subsidize fuel costs to end a truckers’ strike, the head of Petrobras quit, signaling disagreement with the decision.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/08d1e288-5741-5f45-9b5f-8a76243c81cf",
+      "web_url": "https://www.nytimes.com/2018/06/01/world/americas/brazil-petrobras-oil.html",
+      "word_count": 636
+    },
+    {
+      "abstract": "Secretary of State Mike Pompeo arrived at the department’s headquarters and promised a new horizon for a dispirited diplomatic corps.",
+      "byline": {
+        "original": "By Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pompeo Promises to Return ‘Swagger’ to the State Department",
+        "kicker": "",
+        "print_headline": "Demoralized Diplomats Told They’ll Regain ‘Swagger’"
+      },
+      "_id": "nyt://article/2781c5cd-5f99-5a87-86f6-ce2732d5f276",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Tillerson, Rex W",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Mike Pompeo, center, spoke Tuesday to American diplomats and staff at the State Department’s headquarters in Washington.",
+        "credit": "Tom Brenner/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/02/us/politics/02dc-pompeo/02dc-pompeo-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/02/us/politics/02dc-pompeo/02dc-pompeo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "14",
+      "print_section": "A",
+      "pub_date": "2018-05-02T00:01:02Z",
+      "section_name": "World",
+      "snippet": "Secretary of State Mike Pompeo arrived at the department’s headquarters and promised a new horizon for a dispirited diplomatic corps.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/2781c5cd-5f99-5a87-86f6-ce2732d5f276",
+      "web_url": "https://www.nytimes.com/2018/05/01/world/americas/pompeo-swagger-state-department.html",
+      "word_count": 702
+    },
+    {
+      "abstract": "El Shafee Elsheikh and Alexanda Kotey, who are being detained in Syria, denounced a reported decision by Britain to strip them of citizenship.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Britons Accused of Being Islamic State ‘Beatles’ Call Beheadings ‘Regrettable’",
+        "kicker": "",
+        "print_headline": "Britons Tied To ISIS Call Beheadings A ‘Mistake’"
+      },
+      "_id": "nyt://article/9b639171-0685-5860-9c6f-4eb882f3398d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kotey, Alexanda",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Elsheikh, El Shafee",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Kobani (Syria)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/02/10/world/middleeast/beatles-2/beatles-2-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/02/10/world/middleeast/beatles-2/beatles-2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-03-31T09:11:07Z",
+      "section_name": "World",
+      "snippet": "El Shafee Elsheikh and Alexanda Kotey, who are being detained in Syria, denounced a reported decision by Britain to strip them of citizenship.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/9b639171-0685-5860-9c6f-4eb882f3398d",
+      "web_url": "https://www.nytimes.com/2018/03/31/world/middleeast/britain-isis-beatles-syria.html",
+      "word_count": 1009
+    },
+    {
+      "abstract": "The move came as two members of the United States-led coalition fighting in Syria were killed and five others were wounded by a bomb in a late-night attack.",
+      "byline": {
+        "original": "By Eric Schmitt, Helene Cooper and Alissa J. Rubin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Orders State Dept. to Suspend Funds for Syria Recovery",
+        "kicker": "",
+        "print_headline": "Trump Orders Freeze on Syria Financing"
+      },
+      "_id": "nyt://article/09f268bb-806b-56f2-99c9-48faed338af0",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Aid",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Kurds",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "United States Central Command",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "American forces stationed at an outpost north of Manbij, Syria. Coalition forces have been deployed to Syria to fight, alongside their Kurdish militia allies, against the Islamic State.",
+        "credit": "Hussein Malla/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/03/31/world/middleeast/31syria/merlin_136181814_6afe6408-fffe-45ad-a486-cd4250b1f8fc-articleLarge.jpg",
+          "height": 398,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/03/31/world/middleeast/31syria/31syria-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2018-03-30T10:40:07Z",
+      "section_name": "World",
+      "snippet": "The move came as two members of the United States-led coalition fighting in Syria were killed and five others were wounded by a bomb in a late-night attack.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/09f268bb-806b-56f2-99c9-48faed338af0",
+      "web_url": "https://www.nytimes.com/2018/03/30/world/middleeast/syria-us-coalition-deaths.html",
+      "word_count": 967
+    },
+    {
+      "abstract": "Leobardo Vázquez, the third journalist to be killed in this year in Mexico, worked for a local website that covered crime and general news events.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Journalist Killed in Mexican State of Veracruz",
+        "kicker": "",
+        "print_headline": "Journalist Shot to Death In Mexico"
+      },
+      "_id": "nyt://article/bf6de54c-d01c-5a8b-81a9-031d28df09d8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-03-22T23:23:34Z",
+      "section_name": "World",
+      "snippet": "Leobardo Vázquez, the third journalist to be killed in this year in Mexico, worked for a local website that covered crime and general news events.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/bf6de54c-d01c-5a8b-81a9-031d28df09d8",
+      "web_url": "https://www.nytimes.com/2018/03/22/world/americas/mexico-journalist-killed.html",
+      "word_count": 317
+    },
+    {
+      "abstract": "Anti-Muslim violence has been rising in Sri Lanka in recent years as officials struggle to contain the nationalist fervor of the majority Sinhalese Buddhists.",
+      "byline": {
+        "original": "By Mujib Mashal and Dharisha Bastians"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Sri Lanka Declares State of Emergency After Mob Attacks on Muslims",
+        "kicker": "",
+        "print_headline": "Sri Lanka Enacts Order After Attacks on Muslims"
+      },
+      "_id": "nyt://article/7d76b493-0b16-5ec2-bcf7-85b605c0d448",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Sinhalese (Ethnic Group)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Buddhism",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Sirisena, Maithripala",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Sri Lanka",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Colombo Gazette",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/03/07/world/07srilanka/07srilanka-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/03/07/world/07srilanka/07srilanka-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2018-03-06T09:54:44Z",
+      "section_name": "World",
+      "snippet": "Anti-Muslim violence has been rising in Sri Lanka in recent years, as officials struggle to contain the nationalist fervor of the majority Sinhalese Buddhists.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/7d76b493-0b16-5ec2-bcf7-85b605c0d448",
+      "web_url": "https://www.nytimes.com/2018/03/06/world/asia/sri-lanka-anti-muslim-violence.html",
+      "word_count": 1066
+    },
+    {
+      "abstract": "The delay reflects President Trump’s largely passive response to the interference and doubts by Secretary of State Rex W. Tillerson in his department’s ability to spend its money wisely.",
+      "byline": {
+        "original": "By Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Dept. Was Granted $120 Million to Fight Russian Meddling. It Has Spent $0.",
+        "kicker": "",
+        "print_headline": "State Dept. Holds Funds Aimed to Fight Meddling"
+      },
+      "_id": "nyt://article/4a59c3cd-8044-5063-a17c-e1dc589fe04d",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Tillerson, Rex W",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Federal Budget (US)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Rex W. Tillerson, the secretary of state, has voiced skepticism that the United States is capable of doing anything to counter Russian meddling.",
+        "credit": "Pool photo by Lintao Zhang",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/03/04/us/04dc-diplo/02dc-assess-1506898827714-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/03/04/us/04dc-diplo/02dc-assess-web2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-03-04T21:51:58Z",
+      "section_name": "World",
+      "snippet": "The delay reflects President Trump’s largely passive response to the interference and doubts by Secretary of State Rex W. Tillerson in his department’s ability to spend its money wisely.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/4a59c3cd-8044-5063-a17c-e1dc589fe04d",
+      "web_url": "https://www.nytimes.com/2018/03/04/world/europe/state-department-russia-global-engagement-center.html",
+      "word_count": 1238
+    },
+    {
+      "abstract": "The government told state-run secondary schools, though not the many church-run schools, to offer alternative courses.",
+      "byline": {
+        "original": "By Richard Pérez-Peña"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ireland Tells State-Run Schools: Stop Steering Pupils to Religion Class",
+        "kicker": "",
+        "print_headline": "Ireland Bans Routine Enrollment in Religion Classes in State-Run Schools"
+      },
+      "_id": "nyt://article/520c89fa-3eac-5958-add8-89ee179f2cab",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Private and Sectarian Schools",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Education (Secondary)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Education (K-12)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Religion-State Relations",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Ireland",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Mercy Elementary School, a church-run school in Tuam, Ireland. The country is directing state-run secondary schools to offer alternatives for students who opt out of religion classes.",
+        "credit": "Paulo Nunes dos Santos for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/02/22/world/europe/22ireland/merlin_128347100_1f0529e1-b4c2-418d-bd31-82ad25dc777b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/02/22/world/europe/22ireland/22ireland-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-02-21T18:21:00Z",
+      "section_name": "World",
+      "snippet": "The government told state-run secondary schools, though not the many church-run schools, to offer alternative courses.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/520c89fa-3eac-5958-add8-89ee179f2cab",
+      "web_url": "https://www.nytimes.com/2018/02/21/world/europe/ireland-schools-religion.html",
+      "word_count": 814
+    },
+    {
+      "abstract": "The aide, Shlomo Filber, could support the most damning charge of favors to an Israeli communications giant in exchange for fawning news coverage.",
+      "byline": {
+        "original": "By Isabel Kershner and David M. Halbfinger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Top Aide to Netanyahu Turns State Witness as Graft Cases Multiply",
+        "kicker": "",
+        "print_headline": "Netanyahu Case Builds as a Top Aide Turns Witness"
+      },
+      "_id": "nyt://article/742247da-45e0-50fb-8ad1-c115fdaa9a58",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Filber, Shlomo",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Bribery and Kickbacks",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Likud Party (Israel)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Benjamin Netanyahu of Israel and his wife Sara in Ashkelon, Israel, on Tuesday.",
+        "credit": "Amir Cohen/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/02/22/world/22Netanyahu2/22Netanyahu2-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/02/22/world/22Netanyahu2/22Netanyahu2-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2018-02-21T16:50:38Z",
+      "section_name": "World",
+      "snippet": "The aide, Shlomo Filber, could support the most damning charge of favors to an Israeli communications giant in exchange for fawning news coverage.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/742247da-45e0-50fb-8ad1-c115fdaa9a58",
+      "web_url": "https://www.nytimes.com/2018/02/21/world/middleeast/netanyahu-filber-corruption-israel.html",
+      "word_count": 1337
+    },
+    {
+      "abstract": "No deaths were immediately reported from the 7.2-magnitude quake, but 13 people were killed when a helicopter bringing officials to a town near the epicenter crashed.",
+      "byline": {
+        "original": "By Elisabeth Malkin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Earthquake Strikes in Oaxaca State, Mexico, Stirring Fear",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e77b86b4-f097-5801-acda-60d9d6461d16",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Earthquakes",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Oaxaca (Mexico)",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "People embracing in Mexico City, where the effects of a powerful earthquake about 225 miles away were felt.",
+        "credit": "Yuri Cortez/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/02/17/world/17for-Earthquake-1/merlin_133999125_7765aeb5-0d2f-4fe1-ae4e-6b16b6d832d2-articleLarge.jpg",
+          "height": 412,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/02/17/world/17for-Earthquake-1/17for-Earthquake-1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-02-17T00:04:29Z",
+      "section_name": "World",
+      "snippet": "No deaths were immediately reported from the 7.2-magnitude quake, but 13 people were killed when a helicopter bringing officials to a town near the epicenter crashed.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/e77b86b4-f097-5801-acda-60d9d6461d16",
+      "web_url": "https://www.nytimes.com/2018/02/16/world/americas/earthquake-mexico.html",
+      "word_count": 748
+    },
+    {
+      "abstract": "Tancítaro, Mexico, fought off cartels and established self-rule. Is it utopia, or warlordism?",
+      "byline": {
+        "original": "By Max Fisher and Amanda Taub"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Building a Mini-State With Avocados and Guns",
+        "kicker": "The Interpreter",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/63dbda62-f377-520e-86bd-cba3810caca1",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Cartels",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Tancitaro (Mexico)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Avocados",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Guarding the avocado orchards outside Tancítaro, Mexico.",
+        "credit": "Brett Gundlock for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/07/world/sub-inthavens/sub-inthavens-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/07/world/sub-inthavens/sub-inthavens-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-01-18T20:55:30Z",
+      "section_name": "World",
+      "snippet": "Tancítaro, Mexico, fought off cartels and established self-rule. Is it utopia, or warlordism?",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/63dbda62-f377-520e-86bd-cba3810caca1",
+      "web_url": "https://www.nytimes.com/2018/01/18/world/americas/mexico-drug-war-tancitaro.html",
+      "word_count": 1406
+    },
+    {
+      "abstract": "The two journalists, who had been investigating the existence of a mass grave, could face up to 14 years in prison.",
+      "byline": {
+        "original": "By Hannah Beech and Saw Nang"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Reuters Reporters Are Charged in Myanmar With Obtaining State Secrets",
+        "kicker": "",
+        "print_headline": "Two Reporters For Reuters Face Charges  In Myanmar"
+      },
+      "_id": "nyt://article/2a907cc2-dc9d-5f7f-8626-91caed0a87f4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Myanmar",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kyaw Soe Oo",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Wa Lone",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "The Reuters journalists U Wa Lone, center front, and U Kyaw Soe Oo, center back, were escorted by the police in Yangon, Myanmar, on Wednesday, after being charged with obtaining state secrets.",
+        "credit": "Lynn Bo Bo/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/11/world/11myanmar-1/11myanmar-1-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/11/world/11myanmar-1/11myanmar-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2018-01-10T07:44:33Z",
+      "section_name": "World",
+      "snippet": "The two journalists, who had been investigating the existence of a mass grave, could face up to 14 years in prison.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/2a907cc2-dc9d-5f7f-8626-91caed0a87f4",
+      "web_url": "https://www.nytimes.com/2018/01/10/world/asia/myanmar-reuters-reporters.html",
+      "word_count": 844
+    },
+    {
+      "abstract": "The governor of Chihuahua said President Enrique Peña Nieto’s government was withholding funds for his state in a move to quash a corruption inquiry of the governing party.",
+      "byline": {
+        "original": "By Azam Ahmed and Paulina Villegas"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mexican Governor Says His State Is Being Punished for Corruption Inquiry",
+        "kicker": "",
+        "print_headline": "In Mexico, Inquiry Said To Be Killed By Leaders"
+      },
+      "_id": "nyt://article/cb513678-ee0a-5418-b37c-2c19c251399b",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Institutional Revolutionary Party (Mexico)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Pena Nieto, Enrique",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Gutierrez, Alejandro (1956- )",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Chihuahua (Mexico)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Corral, Javier",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Javier Corral, the governor of Chihuahua, at a news conference in Mexico City on Monday.",
+        "credit": "Daniel Becerril/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/09/world/09MEXICO/merlin_132034133_cdab87cf-5cda-4eac-ac92-bd5d0a862734-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/09/world/09MEXICO/09MEXICO-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-01-09T00:54:21Z",
+      "section_name": "World",
+      "snippet": "The governor of Chihuahua said President Enrique Peña Nieto’s government was withholding funds for his state in a move to quash a corruption inquiry of the governing party.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/cb513678-ee0a-5418-b37c-2c19c251399b",
+      "web_url": "https://www.nytimes.com/2018/01/08/world/americas/mexico-pena-nieto-corruption-chihuahua.html",
+      "word_count": 945
+    },
+    {
+      "abstract": "With government often more the problem than the solution, communities are taking matters into their own hands. But gains against crime can carry a cost.",
+      "byline": {
+        "original": "By Max Fisher, Amanda Taub and Dalia Martínez"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Losing Faith in the State, Some Mexican Towns Quietly Break Away",
+        "kicker": "The Interpreter",
+        "print_headline": "Seceding for Safety, in Pockets Across Mexico"
+      },
+      "_id": "nyt://article/0159ec50-ebcc-5113-982c-456aee73b479",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Cartels",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Tancitaro (Mexico)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Michoacan (Mexico)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Monterrey (Mexico)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Ciudad Nezahualcoyotl (Mexico)",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Secession and Independence Movements",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "<strong>BY THE GUN</strong> José Santos at a checkpoint near the entrance to Tancítaro. Fed up with both the cartels and the government, the people of Tancítaro pushed out both.",
+        "credit": "Brett Gundlock for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/12/27/world/27INT-MEXICOHAVENS-01/merlin_131641868_bc1ff56d-d4b2-42cc-9143-1038e27f3758-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/12/27/world/27INT-MEXICOHAVENS-01/27INT-MEXICOHAVENS-01-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2018-01-07T21:27:31Z",
+      "section_name": "World",
+      "snippet": "With government often more the problem than the solution, communities are taking matters into their own hands. But gains against crime can carry a cost.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/0159ec50-ebcc-5113-982c-456aee73b479",
+      "web_url": "https://www.nytimes.com/2018/01/07/world/americas/mexico-state-corruption.html",
+      "word_count": 2087
+    },
+    {
+      "abstract": "Some Israeli and Palestinian leaders are now pressing for a single state, but their views of what that state would look like are mutually exclusive.",
+      "byline": {
+        "original": "By David M. Halbfinger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As a 2-State Solution Loses Steam, a 1-State Plan Gains Traction",
+        "kicker": "",
+        "print_headline": "As a 2-State Solution Loses Steam, a 1-State Plan Gains Traction"
+      },
+      "_id": "nyt://article/431b773b-9ab4-518f-a369-328989c75114",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "The Israeli settlement of Ariel in the West Bank. Buoyed by President Trump&rsquo;s declaration on Jerusalem, the Israeli right wing is openly pursuing its goal of a single state from the Jordan River to the Mediterranean.",
+        "credit": "Dan Balilty for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/06/world/sub-onestate/sub-onestate-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/06/world/sub-onestate/sub-onestate-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2018-01-05T22:27:41Z",
+      "section_name": "World",
+      "snippet": "Some Israeli and Palestinian leaders are now pressing for a single state, but their views of what that state would look like are mutually exclusive.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/431b773b-9ab4-518f-a369-328989c75114",
+      "web_url": "https://www.nytimes.com/2018/01/05/world/middleeast/israel-palestinians-state.html",
+      "word_count": 1467
+    },
+    {
+      "abstract": "After President Trump’s recognition of Jerusalem as Israel’s capital, Prime Minister Benjamin Netanyahu’s party has seized momentum to strengthen Israel’s rule of the West Bank.",
+      "byline": {
+        "original": "By David M. Halbfinger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Emboldened Israeli Right Presses Moves to Doom 2-State Solution",
+        "kicker": "",
+        "print_headline": "Energized Foes Push to Cripple Two-State Goal"
+      },
+      "_id": "nyt://article/7284e1c6-de3e-5329-a8a8-41a9492bb98b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Likud Party (Israel)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Jerusalem (Israel)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "East Jerusalem",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Abbas, Mahmoud",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Mandelblit, Avichai",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "The party of the Israeli prime minister, Benjamin Netanyahu, on Sunday urged the annexation of Jewish settlements in the West Bank.",
+        "credit": "Pool photo by Gali Tibbon",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/02/world/02israel2/02israel2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/02/world/02israel2/02israel2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2018-01-01T23:21:16Z",
+      "section_name": "World",
+      "snippet": "After Trump’s recognition of Jerusalem as Israel’s capital, Prime Minister Benjamin Netanyahu’s party seizes momentum to strengthen Israel’s rule of the West Bank.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/7284e1c6-de3e-5329-a8a8-41a9492bb98b",
+      "web_url": "https://www.nytimes.com/2018/01/01/world/middleeast/israeli-jerusalem-west-bank.html",
+      "word_count": 1596
+    }
+  ]
+}

@@ -1,0 +1,4633 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "2MJ6e77HBhgWrT0a1jsbMdAUzEslgDnYA7pUMZKLmn9jRrNb",
+    "begin_date": "20200101",
+    "end_date": "20201231",
+    "fq": "(headline.default:\"state\") AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 76,
+  "docs": [
+    {
+      "abstract": "More than 700 madrasas in Assam will be shut by April, the state’s education minister said. Opposition politicians called the move an attack on Muslims.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Indian State Ruled by Modi’s Party Bans Islamic Schools",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/db2802e3-d6e5-519e-8c40-5d0d77f95af2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Assam State (India)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Guwahati (India)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Protesting India’s citizenship law in Assam state in February. The ban on Islamic schools comes nearly a year after the government implemented a ruling disproportionately affecting the Muslim minority.",
+        "credit": "Biju Boro/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/30/world/30india/merlin_168997881_4160864c-2cd5-4f26-94c7-0d2d1fd1d268-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/30/world/30india/merlin_168997881_4160864c-2cd5-4f26-94c7-0d2d1fd1d268-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-30T21:10:34Z",
+      "section_name": "World",
+      "snippet": "More than 700 madrasas in Assam will be shut by April, the state’s education minister said. Opposition politicians called the move an attack on Muslims.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/db2802e3-d6e5-519e-8c40-5d0d77f95af2",
+      "web_url": "https://www.nytimes.com/2020/12/30/world/asia/india-ban-islamic-schools.html",
+      "word_count": 193
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Rebecca Robbins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As the U.S. vaccine drive lags, a fast-moving coronavirus variant reaches a second state.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/99f06fba-64aa-5388-86e3-78fb15e1db83",
+      "keywords": [],
+      "multimedia": {
+        "caption": "People waiting in line to be vaccinated at a library in Bonita Springs, Fla., on Tuesday.",
+        "credit": "Octavio Jones for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/01/30/world/30virus-briefing-warpspeed-sub/merlin_181780716_c5c31ce9-6a60-4abf-a7fa-5599d0fe6f1f-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/01/30/world/30virus-briefing-warpspeed-sub/30virus-briefing-warpspeed-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-30T19:37:21Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/99f06fba-64aa-5388-86e3-78fb15e1db83",
+      "web_url": "https://www.nytimes.com/2020/12/30/world/as-the-us-vaccine-drive-lags-a-fast-moving-coronavirus-variant-reaches-a-second-state.html",
+      "word_count": 582
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Maura Turcotte"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Prisoners in Oregon can sue state officials in federal court over their handling of the pandemic.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/6de0dbd3-9647-596c-829a-acc3c52f6de9",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Prisoners affected by the coronavirus in facilities like the Eastern Oregon Correctional Institution in Pendleton have the right to sue Oregon state officials over their handling of the pandemic, a federal judge has ruled.",
+        "credit": "Ricardo Nagaoka for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/29/us/29virus-briefing-oregon/29virus-briefing-oregon-articleLarge.jpg",
+          "height": 415,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/29/us/29virus-briefing-oregon/29virus-briefing-oregon-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "National",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-30T10:08:16Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/6de0dbd3-9647-596c-829a-acc3c52f6de9",
+      "web_url": "https://www.nytimes.com/live/2020/12/29/world/covid-19-coronavirus-updates/prisoners-in-oregon-can-sue-state-officials-in-federal-court-over-their-handling-of-the-pandemic",
+      "word_count": 483
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Troy Closson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New York State’s positive test rate reaches its highest point since May: 8.3%.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/61253dc4-ab7c-56dd-8e14-0d05dbfd6f0e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "People waiting in line at a free Covid-19 testing site in the Bronx this month.",
+        "credit": "James Estrin/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/28/nyregion/28virus-briefing-NY-positivity1/28virus-briefing-NY-positivity1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/28/nyregion/28virus-briefing-NY-positivity1/28virus-briefing-NY-positivity1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-28T19:49:45Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/61253dc4-ab7c-56dd-8e14-0d05dbfd6f0e",
+      "web_url": "https://www.nytimes.com/live/2020/12/28/world/covid-19-coronavirus-updates/new-york-states-positive-test-rate-reaches-its-highest-point-since-may-8-3",
+      "word_count": 381
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Bryan Pietsch"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Central and Southern California have 0 percent I.C.U. capacity, in a state already low on hospital beds.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b8dbdb5f-24bf-5922-8add-f552adb1832d",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Gabriella Ortega, a respiratory therapist, speaks to a health care worker who is helping to treat a Covid-19 patient at Providence St. Mary Medical Center in Apple Valley, Calif., on Dec. 17.",
+        "credit": "Ariana Drehsler for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/26/world/26virus-briefing-california-beds/merlin_181391109_7e94d472-8867-43e9-ba44-2b6478bc465a-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/26/world/26virus-briefing-california-beds/26virus-briefing-california-beds-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-26T23:29:34Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/b8dbdb5f-24bf-5922-8add-f552adb1832d",
+      "web_url": "https://www.nytimes.com/2020/12/26/world/central-and-southern-california-icu-capacity.html",
+      "word_count": 302
+    },
+    {
+      "abstract": "Aleksei Navalny, the top critic of President Putin, has aired evidence that he was poisoned by his own government. Russians have responded with fear, disbelief and a lot of apathy.",
+      "byline": {
+        "original": "By Anton Troianovski"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As Evidence Mounts that Navalny Was Poisoned by State, Russians Just Sigh",
+        "kicker": "",
+        "print_headline": "Claim of Killer Underwear  Brings Protest in Moscow, But It Is Lightly Attended"
+      },
+      "_id": "nyt://article/23542e4d-5b52-566b-8b10-84c35e0637be",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Navalny, Aleksei A",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Poisoning and Poisons",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Mansky, Vitaly (1963- )",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Russia’s top opposition leader, Aleksei A. Navalny, during a video hearing in Brussels last month.",
+        "credit": "Olivier Hoslet/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/23/world/23russia-navalny1/merlin_180512475_6fe9bf47-0b69-4a28-817d-fe7d62458eb7-articleLarge.jpg",
+          "height": 429,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/23/world/23russia-navalny1/merlin_180512475_6fe9bf47-0b69-4a28-817d-fe7d62458eb7-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2020-12-23T23:18:26Z",
+      "section_name": "World",
+      "snippet": "Aleksei Navalny, the top critic of President Putin, has aired evidence that he was poisoned by his own government. Russians have responded with fear, disbelief and a lot of apathy.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/23542e4d-5b52-566b-8b10-84c35e0637be",
+      "web_url": "https://www.nytimes.com/2020/12/23/world/europe/russia-navalny-poisoning.html",
+      "word_count": 1103
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Frances Robles"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Florida scientist has sued state law enforcement in an ongoing battle over Covid-19 data.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e3dd3d43-0458-54ed-99c2-fad445290c69",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Rebekah Jones, a former health data analyst in Florida, considers the raid on her home and her arrest to have been politically motivated.",
+        "credit": "Aileen Perilla for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/21/multimedia/21virus-briefing-florida-scientist/merlin_181064337_cfe7c50f-0899-489a-b93d-eeb961bec3cd-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/21/multimedia/21virus-briefing-florida-scientist/merlin_181064337_cfe7c50f-0899-489a-b93d-eeb961bec3cd-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-21T23:49:50Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/e3dd3d43-0458-54ed-99c2-fad445290c69",
+      "web_url": "https://www.nytimes.com/live/2020/12/21/world/covid-19-coronavirus/a-florida-scientist-has-sued-state-law-enforcement-in-an-ongoing-battle-over-covid-19-data",
+      "word_count": 350
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Giulia McDonnell Nieto del Rio"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Minnesota state senator, one of several who contracted the coronavirus after local Republican meetings, has died.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b7fc09ad-b021-5eef-8c90-2bc104e7dec4",
+      "keywords": [],
+      "multimedia": {
+        "caption": "State Sen. Jerry Relph was the first Minnesota lawmaker to succumb to the virus.",
+        "credit": "Glen Stubbe/Star Tribune, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/19/nyregion/19VIRUS-BRIEFING-SENATOR/merlin_181463907_ab0a1cd0-0111-4035-9248-63913b16cba7-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/19/nyregion/19VIRUS-BRIEFING-SENATOR/19VIRUS-BRIEFING-SENATOR-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-20T00:26:35Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/b7fc09ad-b021-5eef-8c90-2bc104e7dec4",
+      "web_url": "https://www.nytimes.com/2020/12/19/world/a-minnesota-state-senator-one-of-several-who-contracted-the-coronavirus-after-local-republican-meetings-has-died.html",
+      "word_count": 406
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anemona Hartocollis"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Penn State will delay in-person spring classes after state officials urge keeping students away.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/076b1859-5447-5d07-9f3a-62829b242c59",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Penn State will start its spring semester classes online, delaying the return of students to campus amid rising coronavirus caseloads and hospitalizations in the state.",
+        "credit": "Jeff Swensen for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/18/us/18virus-briefing-penn-state/18virus-briefing-penn-state-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/18/us/18virus-briefing-penn-state/18virus-briefing-penn-state-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "National",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-18T19:27:52Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/076b1859-5447-5d07-9f3a-62829b242c59",
+      "web_url": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus/penn-state-will-delay-in-person-spring-classes-after-state-officials-urge-keeping-students-away",
+      "word_count": 349
+    },
+    {
+      "abstract": "An Israeli sociologist argues that Trump voters, like Netanyahu supporters in Israel, have legitimate reasons to find liberal values threatening.",
+      "byline": {
+        "original": "By David M. Halbfinger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "To Understand Red-State America, He Urges a Look at Red-State Israel",
+        "kicker": "Saturday Profile",
+        "print_headline": "Explaining Right-Wing Politics in America, via the Middle East"
+      },
+      "_id": "nyt://article/bdb36f05-5661-5e2c-91c4-0501d6964de2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Presidential Election of 2020",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Liberalism (US Politics)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Supporters of Prime Minister Benjamin Netanyahu of Israel at a rally in Beit She&rsquo;an, a town with a large Mizrahi population.",
+        "credit": "Dan Balilty for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/19/world/19israel-trump-professor-print2/merlin_169496235_6fe6a7ad-ca70-4b48-8e0f-4b1c85da4bb2-articleLarge.jpg",
+          "height": 394,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/19/world/19israel-trump-professor-print2/xxisrael-trump-professor1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "16",
+      "print_section": "A",
+      "pub_date": "2020-12-18T17:35:21Z",
+      "section_name": "World",
+      "snippet": "An Israeli sociologist argues that Trump voters, like Netanyahu supporters in Israel, have legitimate reasons to find liberal values threatening.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/bdb36f05-5661-5e2c-91c4-0501d6964de2",
+      "web_url": "https://www.nytimes.com/2020/12/18/world/middleeast/israel-mizrahim-netanyahu.html",
+      "word_count": 1234
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Luis Ferré-Sadurní and Michael Gold"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Cuomo warns New York State that ‘a shutdown is something to worry about.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7825dc68-d55e-5b16-81b2-cd83de213ac1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Gov. Andrew M. Cuomo of New York on Monday. A healthcare worker in Queens was vaccinated at Long Island Jewish Medical Center in Queens on Monday.",
+        "credit": "Pool photo by Mark Lennihan",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/14/nyregion/14virus-briefing-nyzones1/14virus-briefing-nyzones1-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/14/nyregion/14virus-briefing-nyzones1/14virus-briefing-nyzones1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-14T20:22:09Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7825dc68-d55e-5b16-81b2-cd83de213ac1",
+      "web_url": "https://www.nytimes.com/live/2020/12/14/world/covid-19-coronavirus/cuomo-warns-new-york-state-that-a-shutdown-is-something-to-worry-about",
+      "word_count": 431
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The first vaccine reached New York on Monday at a fraught moment in the state.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/677e65cc-04d8-540e-973b-2889ae3f6611",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A pharmacist labeling syringes last week in a clean room where coronavirus vaccines will be handled at Mount Sinai Queens hospital in New York.",
+        "credit": "Mark Lennihan/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/12/multimedia/14virus-briefing-vaccine-arrival-newyork1/14virus-briefing-vaccine-arrival-newyork1-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/12/multimedia/14virus-briefing-vaccine-arrival-newyork1/14virus-briefing-vaccine-arrival-newyork1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-14T13:54:28Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/677e65cc-04d8-540e-973b-2889ae3f6611",
+      "web_url": "https://www.nytimes.com/2020/12/14/world/the-first-vaccine-reached-new-york-on-monday-at-a-fraught-moment-in-the-state.html",
+      "word_count": 330
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Danielle Ivory, Mitch Smith, Jasmine C. Lee, Jordan Allen, Alex Lemonides, Barbara Harvey, Alex Leeds Matthews, Cierra S. Queen, Natasha Rodriguez and John Yoon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "How many vaccine doses will your state get?",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/30f15729-9034-53c1-9c40-ee0e492f2c61",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A Mount Sinai lab technician prepares to open a vaccine freezer earlier this week.",
+        "credit": "Andrew Lichtenstein/Mount Sinai Health System, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/12/science/12virus-brief-vaccines-states/merlin_181122816_ba87f749-5e06-4d64-a4d7-0b4049d413c6-articleLarge.jpg",
+          "height": 411,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/12/science/12virus-brief-vaccines-states/12virus-brief-vaccines-states-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-12T15:19:10Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/30f15729-9034-53c1-9c40-ee0e492f2c61",
+      "web_url": "https://www.nytimes.com/2020/12/12/world/how-many-vaccine-doses-will-your-state-get.html",
+      "word_count": 193
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Patricia Mazzei"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A state scientist questioned Florida’s virus data. Now her home’s been raided.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3831fdc4-e4cd-5f1e-99ce-e716eaccef87",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Body camera footage shows Rebekah Jones outside her home as Florida state agents execute a search warrant earlier this week.",
+        "credit": "Florida Department of Law Enforcement, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/11/world/11virus-briefing-datawoman/11virus-briefing-datawoman-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/11/world/11virus-briefing-datawoman/11virus-briefing-datawoman-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-11T14:29:01Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/3831fdc4-e4cd-5f1e-99ce-e716eaccef87",
+      "web_url": "https://www.nytimes.com/live/2020/12/11/world/covid-19-coronavirus/a-state-scientist-questioned-floridas-virus-data-now-her-homes-been-raided",
+      "word_count": 252
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Alan Blinder"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Michigan-Ohio State football game gets canceled after Michigan’s virus cases increase.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/029c3ea0-06de-5d47-a376-573446714a6e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Last year’s Ohio State-Michigan game in Ann Arbor, Mich.",
+        "credit": "Leon Halip/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/08/sports/08virus-briefing-football1/08virus-briefing-football1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/08/sports/08virus-briefing-football1/08virus-briefing-football1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-08T19:38:36Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/029c3ea0-06de-5d47-a376-573446714a6e",
+      "web_url": "https://www.nytimes.com/live/2020/12/08/world/covid-19-coronavirus/the-michigan-ohio-state-football-game-gets-canceled-after-michigans-virus-cases-increase",
+      "word_count": 204
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Will Wright"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Outbreaks at nursing homes appear to be linked to Washington State wedding. Seven have died.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c51c4e79-764c-5e9a-aafb-3f75685901e3",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-05T02:21:41Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/c51c4e79-764c-5e9a-aafb-3f75685901e3",
+      "web_url": "https://www.nytimes.com/live/2020/12/04/world/covid-19-coronavirus/outbreaks-at-nursing-homes-appear-to-be-linked-to-washington-state-wedding-seven-have-died",
+      "word_count": 327
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Kirk Johnson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Restaurants in Washington State defy governor and invite guests inside.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/826cca86-e418-5103-850f-42550c6e73b0",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A server at Señor Moose in Seattle assured a couple they could dine inside in mid-November, the day before Washington’s governor made indoor dining off-limits again, starting on Nov. 16.",
+        "credit": "Ken Lambert/The Seattle Times, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/04/fashion/weddings/04virus-brief-dining/merlin_180074853_4851168c-c622-4300-bacd-97c19cfc657c-articleLarge.jpg",
+          "height": 375,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/04/fashion/weddings/04virus-brief-dining/04virus-brief-dining-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-04T21:45:01Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/826cca86-e418-5103-850f-42550c6e73b0",
+      "web_url": "https://www.nytimes.com/live/2020/12/04/world/covid-19-coronavirus/restaurants-in-washington-state-defy-governor-and-invite-guests-inside",
+      "word_count": 427
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Patricia Cohen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Revenue losses in the pandemic are forcing state and local governments to slash their budgets.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5656167a-7034-589b-9de2-78a82f675484",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Republican-led states that largely depend on energy-related taxes, like Wyoming, have been walloped by the sharp decline in oil prices.",
+        "credit": "Stephen Speranza for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/04/world/04virus-briefing-BLUE-RED/04virus-briefing-BLUE-RED-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/04/world/04virus-briefing-BLUE-RED/04state-finances-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-04T16:38:43Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/5656167a-7034-589b-9de2-78a82f675484",
+      "web_url": "https://www.nytimes.com/live/2020/12/04/world/covid-19-coronavirus/revenue-losses-in-the-pandemic-are-forcing-state-and-local-governments-to-slash-their-budgets",
+      "word_count": 201
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Rothfeld and Lucy Tompkins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘In the fight of our lives’: New Jersey’s governor spotlights his state’s return to crisis.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/76e56a30-851d-5bc5-903e-45f94523c4d6",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A coronavirus testing center in Newark in late October.",
+        "credit": "Bryan Anselm for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/29/world/29virus-briefing-new-jersey01/merlin_179123022_1d86a2bc-5911-4a6f-bbfe-1484fa050a3a-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/29/world/29virus-briefing-new-jersey01/29virus-briefing-new-jersey01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-29T20:15:43Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/76e56a30-851d-5bc5-903e-45f94523c4d6",
+      "web_url": "https://www.nytimes.com/live/2020/11/29/world/covid-19-coronavirus/in-the-fight-of-our-lives-new-jerseys-governor-spotlights-his-states-return-to-crisis",
+      "word_count": 442
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By The New York Times and The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ohio State cancels a game after a coronavirus outbreak, potentially imperiling its Big Ten chances.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/766b3a5e-5aac-5cf8-bd04-85657606db42",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The Ohio State University canceled its football game against the University of Illinois on Saturday. ",
+        "credit": "Jamie Sabau/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/28/world/28VIRUS-BRIEFING-OSU1/merlin_180288369_63e6d483-ba09-4b08-a784-4d824223c362-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/28/world/28VIRUS-BRIEFING-OSU1/28VIRUS-BRIEFING-OSU1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-28T17:30:02Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/766b3a5e-5aac-5cf8-bd04-85657606db42",
+      "web_url": "https://www.nytimes.com/2020/11/28/world/ohio-state-cancels-a-game-after-a-coronavirus-outbreak-potentially-imperiling-its-big-ten-chances.html",
+      "word_count": 274
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Lauren Wolfe, Mitch Smith and Lisa Waananen Jones"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. coronavirus infections shoot past 13 million, even as the Thanksgiving holiday blurs state reporting.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/63da1781-d360-516d-a504-e0197db03263",
+      "keywords": [],
+      "multimedia": {
+        "caption": "An ambulance drives past the John Peter Smith Hospital in Fort Worth, Texas, on Friday. ",
+        "credit": "Desiree Rios for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/28/world/28VIRUS-BRIEFING-STATEOFVIRUS1/28VIRUS-BRIEFING-STATEOFVIRUS1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/28/world/28VIRUS-BRIEFING-STATEOFVIRUS1/28VIRUS-BRIEFING-STATEOFVIRUS1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-28T14:31:20Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/63da1781-d360-516d-a504-e0197db03263",
+      "web_url": "https://www.nytimes.com/live/2020/11/28/world/covid-19-coronavirus/us-coronavirus-infections-shoot-past-13-million-even-as-the-thanksgiving-holiday-blurs-state-reporting",
+      "word_count": 566
+    },
+    {
+      "abstract": "U.S. and Israeli intelligence described the scientist, Mohsen Fakhrizadeh, as the force behind what they call Iran’s covert push for nuclear weapons.",
+      "byline": {
+        "original": "By Farnaz Fassihi, David E. Sanger, Eric Schmitt and Ronen Bergman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran’s Top Nuclear Scientist Killed in Ambush, State Media Say",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/44390bb4-4dc7-5337-839b-aa02ac2247f8",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Fakhrizadeh, Mohsen",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Mossad",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "A photograph released by the semi-official Fars News Agency showing the scene where Mohsen Fakhrizadeh was killed in Absard, a small city just east of the capital, Tehran, Iran, on Friday.",
+        "credit": "Fars News Agency, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/27/world/27iran/merlin_180523644_9f1687ca-c21f-4d06-a700-34f93789b0a3-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/27/world/27iran/merlin_180523644_9f1687ca-c21f-4d06-a700-34f93789b0a3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-27T15:02:39Z",
+      "section_name": "World",
+      "snippet": "Mohsen Fakhrizadeh was seen as the force behind Iran’s nuclear weapons program. News reports in Iran say he died after being attacked in a vehicle.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/44390bb4-4dc7-5337-839b-aa02ac2247f8",
+      "web_url": "https://www.nytimes.com/2020/11/27/world/middleeast/iran-nuclear-scientist-assassinated-mohsen-fakhrizadeh.html",
+      "word_count": 2753
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Livia Albeck-Ripka"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "An Australian state declares victory after 28 days with no new cases.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/db1fbc2a-19bb-5585-a688-5af31bfd69f1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "In Melbourne, Australia, this week. The state of Victoria announced on Friday that it had eliminated the virus.",
+        "credit": "Daniel Pockett/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/27/world/27virus-briefing-australia/merlin_180343353_4aad2988-3f86-4acd-9ae3-f64684a91166-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/27/world/27virus-briefing-australia/27virus-briefing-australia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-27T11:43:04Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/db1fbc2a-19bb-5585-a688-5af31bfd69f1",
+      "web_url": "https://www.nytimes.com/live/2020/11/27/world/covid-19-coronavirus/an-australian-state-declares-victory-after-28-days-with-no-new-cases",
+      "word_count": 236
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Nelson D. Schwartz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "There were 743,000 new state claims for unemployment insurance filed in the U.S. last week.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3895034d-c0bf-55ac-a6c8-41bd77c9310e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A closed theater in Albuquerque, where a statewide stay-at-home order is in effect. Jobless claims have been drifting lower lately, despite new restrictions on business activity in some states.",
+        "credit": "Adria Malcolm for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/19/us/19economy-briefing-jobless/19economy-briefing-jobless-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/19/us/19economy-briefing-jobless/19economy-briefing-jobless-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-19T12:16:39Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/3895034d-c0bf-55ac-a6c8-41bd77c9310e",
+      "web_url": "https://www.nytimes.com/live/2020/11/19/world/covid-19-coronavirus/there-were-743000-new-state-claims-for-unemployment-insurance-filed-in-the-us-last-week",
+      "word_count": 291
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Gold"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Some New York officials won’t enforce the state’s 10-person gathering limit.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ddc611fc-6dd1-5e8c-a841-9266acbbe1f5",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Steve McLaughlin, a Republican who is the Rensselaer County executive and a frequent critic of the governor, called the rules unenforceable.",
+        "credit": "Hans Pennink/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/18/us/politics/18virus-brief-sheriffs/18virus-brief-sheriffs-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/18/us/politics/18virus-brief-sheriffs/18virus-brief-sheriffs-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-18T17:29:26Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/ddc611fc-6dd1-5e8c-a841-9266acbbe1f5",
+      "web_url": "https://www.nytimes.com/live/2020/11/18/world/covid-19-coronavirus/some-new-york-officials-wont-enforce-the-states-10-person-gathering-limit",
+      "word_count": 335
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Yan Zhuang"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A new outbreak in Australia prompts a six-day lockdown in one state.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fd068f80-ff74-5902-b1af-8c0685b31408",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Coronavirus testing in Adelaide, South Australia, on Tuesday.",
+        "credit": "Kelly Barnes/AAP Image, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/18/world/18virus-briefing-south-australia/merlin_180116685_2b6cf5bb-75da-4629-9075-3b62f3b4e600-articleLarge.jpg",
+          "height": 368,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/18/world/18virus-briefing-south-australia/18virus-briefing-south-australia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-18T09:58:29Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/fd068f80-ff74-5902-b1af-8c0685b31408",
+      "web_url": "https://www.nytimes.com/2020/11/18/world/a-new-outbreak-in-australia-prompts-a-six-day-lockdown-in-one-state.html",
+      "word_count": 196
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Abby Goodnough and Sheila Kaplan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Missing from state plans to distribute a coronavirus vaccine: the money to do it.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/55da0af9-6c98-5d01-b515-8217931119db",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The logistics of inoculating and tracking as many as 25 million people by year’s end largely falls to local governments who will struggle for funds and personnel to carry out the task.",
+        "credit": "Chandan Khanna/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/14/science/14virus-brief-vax-distribution2/merlin_176499714_5a4f326f-db1b-4ebc-8043-6e019bb63de5-articleLarge.jpg",
+          "height": 441,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/14/science/14virus-brief-vax-distribution2/14virus-brief-vax-distribution2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-14T14:26:17Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/55da0af9-6c98-5d01-b515-8217931119db",
+      "web_url": "https://www.nytimes.com/live/2020/11/14/world/covid19-coronavirus-updates/missing-from-state-plans-to-distribute-a-coronavirus-vaccine-the-money-to-do-it",
+      "word_count": 283
+    },
+    {
+      "abstract": "The United Nations called for an investigation into reports of many people beheaded in northern Mozambique, where Islamist insurgents have stepped up a brutal campaign.",
+      "byline": {
+        "original": "By Declan Walsh"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "With Village Beheadings, Islamic State Intensifies Attacks in Mozambique",
+        "kicker": "",
+        "print_headline": "ISIS, With Beheadings, Intensifies Attacks in Mozambique"
+      },
+      "_id": "nyt://article/4f4640aa-7cc8-530e-b9f9-e1ba40a16458",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Mozambique",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Wagner Group",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Guterres, Antonio",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The aftermath of an attack by Islamist rebels on the village of Aldeia da Paz last year outside Macomia, Mozambique.",
+        "credit": "Marco Longari/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/11/world/11mozambique/merlin_178128183_5af39dff-e941-4e5c-bff7-4b7dfc1a2926-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/11/world/11mozambique/merlin_178128183_5af39dff-e941-4e5c-bff7-4b7dfc1a2926-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2020-11-11T21:11:05Z",
+      "section_name": "World",
+      "snippet": "The United Nations called for an investigation into reports of many people beheaded in northern Mozambique, where Islamist insurgents have stepped up a brutal campaign.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/4f4640aa-7cc8-530e-b9f9-e1ba40a16458",
+      "web_url": "https://www.nytimes.com/2020/11/11/world/middleeast/Mozambique-ISIS-beheading.html",
+      "word_count": 1198
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Gillian R. Brassil"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Maryland football halts all activities and cancels game against Ohio State after players test positive.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/428e37eb-1d30-5b8b-86f5-16c5a8a207f1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Maryland quarterback Taulia Tagovailoa during a game against Minnesota on Oct. 30.",
+        "credit": "Julio Cortez/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/11/science/11virus-brief-maryland/merlin_179816910_81ec4c79-44db-45b8-be8f-e812febb7dbf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/11/science/11virus-brief-maryland/merlin_179816910_81ec4c79-44db-45b8-be8f-e812febb7dbf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-11T20:42:48Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/428e37eb-1d30-5b8b-86f5-16c5a8a207f1",
+      "web_url": "https://www.nytimes.com/live/2020/11/11/world/covid-19-coronavirus-live-updates/maryland-football-halts-all-activities-and-cancels-game-against-ohio-state-after-players-test-positive",
+      "word_count": 253
+    },
+    {
+      "abstract": "Mr. Modi declares victory for his coalition in Bihar State, stopping the B.J.P.’s recent slide with a vote seen as a referendum on the government’s Covid-19 response.",
+      "byline": {
+        "original": "By Emily Schmall and Hari Kumar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "India’s Modi Reverses His Fortunes in Crucial State",
+        "kicker": "",
+        "print_headline": "Modi Reverses His Fortunes in Crucial Indian State, Winning Election"
+      },
+      "_id": "nyt://article/eabfa0db-e4a5-559e-8804-dce02a776f48",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Bihar (India)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Kumar, Nitish",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Yadav, Tejashwi Prasad",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Economic Conditions and Trends",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Social distancing at a polling station during elections at Paliganj, in the Indian state of Bihar, last month.",
+        "credit": "Aftab Alam Siddiqui/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/10/world/10india-election-1/merlin_179184096_cfba97a0-aeea-49d2-a56e-c80ff5d52c64-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/10/world/10india-election-1/10india-election-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2020-11-10T04:39:45Z",
+      "section_name": "World",
+      "snippet": "Mr. Modi declares victory for his coalition in Bihar State, stopping the B.J.P.’s recent slide with a vote seen as a referendum on the government’s Covid-19 response.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/eabfa0db-e4a5-559e-8804-dce02a776f48",
+      "web_url": "https://www.nytimes.com/2020/11/09/world/asia/india-bihar-election.html",
+      "word_count": 913
+    },
+    {
+      "abstract": "Propaganda outlets said a Biden presidency would most likely restore stability to frayed U.S.-China relations, but warned that tensions would continue.",
+      "byline": {
+        "original": "By Vivian Wang"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese State Media Reacts to Biden Victory With Cautious Optimism",
+        "kicker": "",
+        "print_headline": "State Media Hope Biden  Can Help Heal Relations"
+      },
+      "_id": "nyt://article/e153438c-7102-5d87-8721-3edcc3ead1d4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Presidential Election of 2020",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "People's Daily",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Global Times",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "China Central Television",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Watching coverage of Joseph R. Biden Jr.’s victory speech at a Beijing barbershop on Sunday.",
+        "credit": "Tingshu Wang/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/09/world/09for-China-biden-media/merlin_179739798_1b5c0feb-1b40-4cca-b732-d1d8c3973e52-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/09/world/09for-China-biden-media/09for-China-biden-media-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "16",
+      "print_section": "P",
+      "pub_date": "2020-11-08T04:46:30Z",
+      "section_name": "World",
+      "snippet": "Propaganda outlets said a Biden presidency would most likely restore stability to frayed U.S.-China relations, but warned that tensions would continue.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e153438c-7102-5d87-8721-3edcc3ead1d4",
+      "web_url": "https://www.nytimes.com/2020/11/07/world/asia/china-biden-media-reaction.html",
+      "word_count": 823
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ed Shanahan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New Jersey’s governor warns of new restrictions for his state, where the virus is surging",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/80fae9ad-3d76-54ad-becc-393a6821cc0c",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A line to get tested for at an urgent care clinic in Newark. ",
+        "credit": "Seth Wenig/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/06/us/06virus-briefing-newjersey/merlin_179106033_466f14b4-8238-455a-abfd-dc34e9b6e646-articleLarge.jpg",
+          "height": 304,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/06/us/06virus-briefing-newjersey/06virus-briefing-newjersey-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-06T22:39:46Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/80fae9ad-3d76-54ad-becc-393a6821cc0c",
+      "web_url": "https://www.nytimes.com/live/2020/11/06/world/covid-19-coronavirus-updates/new-jerseys-governor-warns-of-new-restrictions-for-his-state-where-the-virus-is-surging",
+      "word_count": 228
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Julie Bosman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A top health official in Wisconsin quits as cases soar across the state.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1e95b606-92d2-5d4a-8d52-8af5defca7ef",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Cars lined up along Lake Michigan for a drive-thru Covid-19 testing site in Racine, Wis. on Thursday. The number of confirmed cases in the state is soaring. ",
+        "credit": "Taylor Glascock for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/06/us/06virus-briefing-wisconsin/merlin_179631477_60622f72-c284-4d5c-bd0d-d09dceafea6e-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/06/us/06virus-briefing-wisconsin/06virus-briefing-wisconsin-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-06T17:29:49Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/1e95b606-92d2-5d4a-8d52-8af5defca7ef",
+      "web_url": "https://www.nytimes.com/live/2020/11/06/world/covid-19-coronavirus-updates/a-top-health-official-in-wisconsin-quits-as-cases-soar-across-the-state",
+      "word_count": 148
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Lara Jakes"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "After coughing, a State Department official met with European diplomats. Then he tested positive.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e0883ba7-1675-527d-b508-b9cb691715bd",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A view of the Harry S. Truman Building, which houses the United States Department of State. Peter Berkowitz, the State Department’s director of policy planning, exhibited Covid-19 symptoms while on a diplomatic tour of Europe.",
+        "credit": "Christopher Lee for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/01/briefing/01virus-briefing-diplomat/01virus-briefing-diplomat-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/01/briefing/01virus-briefing-diplomat/01virus-briefing-diplomat-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-01T14:28:46Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/e0883ba7-1675-527d-b508-b9cb691715bd",
+      "web_url": "https://www.nytimes.com/2020/11/01/world/after-coughing-a-state-department-official-met-with-european-diplomats-then-he-tested-positive.html",
+      "word_count": 331
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Frances Robles"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A virus cluster erupts in the Arkansas Legislature and the state surgeon general’s family.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c664f10e-ea31-5588-89e6-5eaafcac84fa",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A sign outside the football stadium at the University of Arkansas in Fayetteville encouraged safety precautions. ",
+        "credit": "Brett Rojo/USA Today Sports, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/27/multimedia/27virus-briefing-arkansas/merlin_177737853_eb9361ff-5b0c-42fc-92a7-e9335567782b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/27/multimedia/27virus-briefing-arkansas/27virus-briefing-arkansas-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-27T17:29:47Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/c664f10e-ea31-5588-89e6-5eaafcac84fa",
+      "web_url": "https://www.nytimes.com/live/2020/10/27/world/covid-19-coronavirus-updates/a-virus-cluster-erupts-in-the-arkansas-legislature-and-the-state-surgeon-generals-family",
+      "word_count": 567
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Isabella Kwai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Spain’s second wave of infections prompts the return to a state of emergency.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7a74f7bd-f059-5936-8614-42d6ba738305",
+      "keywords": [],
+      "multimedia": {
+        "caption": "An empty square in Barcelona last week. Spain declared a state of emergency and ordered a nationwide curfew to begin on Sunday.",
+        "credit": "Samuel Aranda for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/25/business/25virus-briefing-spain/merlin_178715691_234569a9-1aea-42f2-8c8e-84903e0add6d-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/25/business/25virus-briefing-spain/25virus-briefing-spain-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-25T17:40:03Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7a74f7bd-f059-5936-8614-42d6ba738305",
+      "web_url": "https://www.nytimes.com/live/2020/10/25/world/covid-19-coronavirus-updates/spains-second-wave-of-infections-prompts-the-return-to-a-state-of-emergency",
+      "word_count": 219
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Patricia Cohen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New state unemployment claims in the U.S. fell below 800,000 last week.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b044da3f-1e92-5c80-a8ab-aca0fe7f18d6",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Families at a food bank in Vallejo, Calif., on Wednesday. Every week, more Americans join the ranks of the long-term unemployed — those out of work for more than 27 weeks.",
+        "credit": "Sarahbeth Maney for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/22/us/22markets-briefing-jobless-main/22markets-briefing-jobless-main-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/22/us/22markets-briefing-jobless-main/22markets-briefing-jobless-main-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-22T12:47:43Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/b044da3f-1e92-5c80-a8ab-aca0fe7f18d6",
+      "web_url": "https://www.nytimes.com/2020/10/22/world/new-state-unemployment-claims-in-the-us-fell-below-800000-last-week.html",
+      "word_count": 249
+    },
+    {
+      "abstract": "The move clears the way for the African nation to seek international assistance and potentially to normalize relations with Israel, which officials said could happen in days.",
+      "byline": {
+        "original": "By Lara Jakes, Declan Walsh and Eric Schmitt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Dept. to Remove Sudan From List of Terrorist States",
+        "kicker": "",
+        "print_headline": "U.S. State Dept. to Drop Sudan From Terror List"
+      },
+      "_id": "nyt://article/439900f3-08be-5f4c-9968-cb95adcc1733",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Sudan",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Africa",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Al Qaeda",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Bashir, Omar Hassan Al-",
+          "rank": 13
+        },
+        {
+          "name": "Person",
+          "value": "Hamdok, Abdalla",
+          "rank": 14
+        },
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 15
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 16
+        },
+        {
+          "name": "Subject",
+          "value": "Cole (USS)",
+          "rank": 17
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 18
+        },
+        {
+          "name": "Location",
+          "value": "Kenya",
+          "rank": 19
+        },
+        {
+          "name": "Location",
+          "value": "Tanzania",
+          "rank": 20
+        },
+        {
+          "name": "Subject",
+          "value": "Presidential Election of 2020",
+          "rank": 21
+        },
+        {
+          "name": "Subject",
+          "value": "Reparations",
+          "rank": 22
+        }
+      ],
+      "multimedia": {
+        "caption": "Demonstrators in Khartoum, Sudan, in August pressing for quicker political change.",
+        "credit": "Mohamed Nureldin Abdallah/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/17/us/politics/00dc-diplo-sudan/merlin_175823703_8786bb7d-38c4-4ed0-89b8-15e170221e29-articleLarge.jpg",
+          "height": 384,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/17/us/politics/00dc-diplo-sudan/00dc-diplo-sudan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "14",
+      "print_section": "A",
+      "pub_date": "2020-10-19T18:08:24Z",
+      "section_name": "World",
+      "snippet": "The move clears the way for the African nation to seek international assistance and potentially to normalize relations with Israel, which officials said could happen within days.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/439900f3-08be-5f4c-9968-cb95adcc1733",
+      "web_url": "https://www.nytimes.com/2020/10/19/world/africa/sudan-trump-israel-terrorism.html",
+      "word_count": 1355
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Zach Montague"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump charges into Wisconsin to rally supporters amid the state’s worst outbreak to date.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/faf60927-1b95-5afc-ab04-8d6e314b3d72",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Donald Trump acknowledging supporters at a campaign rally Friday in Macon, Ga.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/17/nyregion/17virus-briefing-trump-wisconsin/merlin_178636071_3188f181-7ad5-41ef-b125-b07e6b709915-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/17/nyregion/17virus-briefing-trump-wisconsin/17virus-briefing-trump-wisconsin-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-17T15:48:41Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/faf60927-1b95-5afc-ab04-8d6e314b3d72",
+      "web_url": "https://www.nytimes.com/live/2020/10/17/world/covid-coronavirus/trump-charges-into-wisconsin-to-rally-supporters-amid-the-states-worst-outbreak-to-date",
+      "word_count": 492
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Nelson D. Schwartz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Nearly 900,000 people in the U.S. filed new state unemployment claims last week.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/884a773d-5e5c-5c50-9242-1e4bbb461e86",
+      "keywords": [],
+      "multimedia": {
+        "caption": "People waiting to speak with representatives from the Oklahoma Employment Security Commission about unemployment claims.",
+        "credit": "Sue Ogrocki/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/15/multimedia/15virus-briefing-unemployment/merlin_175935678_5a7eedcc-a603-43a3-aaa9-55d99cbf6dfc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/15/multimedia/15virus-briefing-unemployment/15virus-briefing-unemployment-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-15T13:04:07Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/884a773d-5e5c-5c50-9242-1e4bbb461e86",
+      "web_url": "https://www.nytimes.com/2020/10/15/world/nearly-900000-people-in-the-us-filed-new-state-unemployment-claims-last-week.html",
+      "word_count": 277
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Gold, Daniel E. Slotnik and Jesse McKinley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Cuomo warns local governments he could withhold state funds over virus restriction enforcement: ‘Hopefully that will motivate them.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5c483934-d322-5406-9a59-71af10bf2238",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Protesters gathered last week in the Brooklyn neighborhood of Borough Park over new restrictions.",
+        "credit": "Spencer Platt/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/14/multimedia/14virus-briefing-nyc/merlin_178210635_bf639928-19cb-45bb-900b-9939d9942b04-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/14/multimedia/14virus-briefing-nyc/14virus-briefing-nyc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-14T16:39:36Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/5c483934-d322-5406-9a59-71af10bf2238",
+      "web_url": "https://www.nytimes.com/live/2020/10/14/world/covid-coronavirus/cuomo-warns-local-governments-he-could-withhold-state-funds-over-virus-restriction-enforcement-hopefully-that-will-motivate-them",
+      "word_count": 544
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Eileen Sullivan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Cases in Alaska hit a seven-day state record.",
+        "kicker": "KEY DATA OF THE DAY",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ba35a1fc-8561-54d2-b7a0-8dfb17830652",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Normally a bustling tourist town, the streets are quiet in Talkeetna, Alaska, as virus cases spread in the state.",
+        "credit": "Mark Thiessen/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/12/multimedia/12virus-briefing-alaska/merlin_173806950_52782ceb-5187-4fda-a06d-b05079c50419-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/12/multimedia/12virus-briefing-alaska/12virus-briefing-alaska-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-12T19:43:23Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/ba35a1fc-8561-54d2-b7a0-8dfb17830652",
+      "web_url": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid/cases-in-alaska-hit-a-seven-day-state-record",
+      "word_count": 304
+    },
+    {
+      "abstract": "Earlier on Friday, after protesters besieged government buildings, President Sooronbai Jeenbekov said he was willing to leave office. His new decree raised concerns about an orderly transfer of power.",
+      "byline": {
+        "original": "By Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "From Hiding, Kyrgyzstan’s Leader Declares State of Emergency",
+        "kicker": "",
+        "print_headline": "From Hiding, Kyrgyzstan’s Chief Fires Officials and Issues State of Emergency"
+      },
+      "_id": "nyt://article/5ce0e2a9-5ad4-57de-8a9e-e0ef940e8678",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Kyrgyzstan",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Jeenbekov, Sooronbay",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Atambayev, Almazbek",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Protesters from rival political groups rallied in Bishkek, Kyrgyzstan’s capital, on Friday.",
+        "credit": "Vladimir Pirogov/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/09/world/09-kyrgyz-turmoil-topsub/merlin_178271838_193c0115-13db-406d-8e57-592ff111f630-articleLarge.jpg",
+          "height": 380,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/09/world/09-kyrgyz-turmoil-topsub/09-kyrgyz-turmoil-topsub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2020-10-09T13:27:19Z",
+      "section_name": "World",
+      "snippet": "Earlier on Friday, after protesters besieged government buildings, President Sooronbai Jeenbekov said he was willing to leave office. His new decree raised concerns about an orderly transfer of power.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/5ce0e2a9-5ad4-57de-8a9e-e0ef940e8678",
+      "web_url": "https://www.nytimes.com/2020/10/09/world/europe/kyrgyzstan-state-of-emergency.html",
+      "word_count": 870
+    },
+    {
+      "abstract": "As a political scientist, columnist and ‘the last Zionist,’ he argued against a separate Palestinian state, saying the growth of West Bank settlements had precluded it.",
+      "byline": {
+        "original": "By Sam Roberts"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Meron Benvenisti Dies at 86; Urged One State for Jews and Palestinians",
+        "kicker": "",
+        "print_headline": "Meron Benvenisti, 86, ‘Last Zionist’ Who Urged One State"
+      },
+      "_id": "nyt://article/aa781810-12eb-5841-b7cc-fead53e411dd",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Obituaries)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Zionism",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Hebrew University",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Benvenisti, Meron",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Meron Benvenisti in Jerusalem in 1995. A political scientist, he tracked the growth of Israeli settlements in the West Bank and came to believe that a two-state solution was impossible.",
+        "credit": "Esaias Baitel/Gamma-Rapho, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/29Benvenisti1/29Bemvenisti1-articleLarge.jpg",
+          "height": 402,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/29Benvenisti1/29Bemvenisti1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Obits",
+      "print_page": "25",
+      "print_section": "A",
+      "pub_date": "2020-09-29T23:40:55Z",
+      "section_name": "World",
+      "snippet": "As a political scientist, columnist and ‘the last Zionist,’ he argued against a separate Palestinian state, saying the growth of West Bank settlements had precluded it.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Obituary (Obit)",
+      "uri": "nyt://article/aa781810-12eb-5841-b7cc-fead53e411dd",
+      "web_url": "https://www.nytimes.com/2020/09/29/world/meron-benvenisti-dead.html",
+      "word_count": 1101
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By William J. Broad, Eileen Sullivan and Patricia Mazzei"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fauci calls Florida’s move to lift state restrictions on restaurants and bars ‘very concerning.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ebc2c195-bcf5-5bde-beb3-ba1d2cefbbc0",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Dining at Irish 31 in Tampa on the first day of full capacity seating last week. Governor Ron DeSantis lifted the state’s restrictions allowing bars and restaurants to enter Phase 3.",
+        "credit": "Octavio Jones/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29virus-briefings-florida/merlin_177602277_6b771579-8b9f-45a9-83a7-792e0cab0fb4-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/29virus-briefings-florida/29virus-briefings-florida-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-09-29T21:10:54Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/ebc2c195-bcf5-5bde-beb3-ba1d2cefbbc0",
+      "web_url": "https://www.nytimes.com/live/2020/09/29/world/covid-19-coronavirus/fauci-calls-floridas-move-to-lift-state-restrictions-on-restaurants-and-bars-very-concerning",
+      "word_count": 624
+    },
+    {
+      "abstract": "Mr. Cuomo, a third-term Democrat, said the increase was primarily because of clusters in Brooklyn, as well as in Rockland and Orange Counties, in the Hudson Valley, saying there was “significant action” in those areas.",
+      "byline": {
+        "original": "By Jesse McKinley, Luis Ferré-Sadurní and Eliza Shapiro"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New York State’s positivity rate rises as officials warn of clusters.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/835b1c47-3478-556e-a27b-c04c9f62dcdf",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "New York State",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "New York City",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Cuomo, Andrew M",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "de Blasio, Bill",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Disease Rates",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Officials are particularly concerned about eight neighborhoods in Brooklyn and Queens.",
+        "credit": "Mark Abramson for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28virus-briefing-nyc-sub/merlin_177594024_75de18f4-ff47-4cc3-8cec-497813e3c26a-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28virus-briefing-nyc-sub/28virus-briefing-nyc-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-09-29T09:13:31Z",
+      "section_name": "World",
+      "snippet": "Mr. Cuomo, a third-term Democrat, said the increase was primarily because of clusters in Brooklyn, as well as in Rockland and Orange Counties, in the Hudson Valley, saying there was “significant action” in those areas.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/835b1c47-3478-556e-a27b-c04c9f62dcdf",
+      "web_url": "https://www.nytimes.com/2020/09/29/world/new-york-states-positivity-rate-rises-as-officials-warn-of-clusters.html",
+      "word_count": 287
+    },
+    {
+      "abstract": "Mr. Cuomo, a third-term Democrat, said the increase was primarily because of clusters in Brooklyn, as well as in Rockland and Orange Counties, in the Hudson Valley, saying there was “significant action” in those areas.",
+      "byline": {
+        "original": "By Jesse McKinley, Luis Ferré-Sadurní and Eliza Shapiro"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New York State’s positivity rate rises as officials warn of clusters.",
+        "kicker": "",
+        "print_headline": "Warnings Issued as Clusters Emerge in City and Suburbs"
+      },
+      "_id": "nyt://article/8c5ea5a9-fec7-5f4f-805c-9a94f7d67732",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Officials are particularly concerned about eight neighborhoods in Brooklyn and Queens.",
+        "credit": "Mark Abramson for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28virus-briefing-nyc-sub/merlin_177594024_75de18f4-ff47-4cc3-8cec-497813e3c26a-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28virus-briefing-nyc-sub/28virus-briefing-nyc-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2020-09-28T09:11:42Z",
+      "section_name": "World",
+      "snippet": "Mr. Cuomo, a third-term Democrat, said the increase was primarily because of clusters in Brooklyn, as well as in Rockland and Orange Counties, in the Hudson Valley, saying there was “significant action” in those areas.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/8c5ea5a9-fec7-5f4f-805c-9a94f7d67732",
+      "web_url": "https://www.nytimes.com/live/2020/09/28/world/covid-19-coronavirus/new-york-states-positivity-rate-rises-as-officials-warn-of-clusters",
+      "word_count": 581
+    },
+    {
+      "abstract": "The Black Lives Matter movement has revived a simmering debate about the legacy of colonialism, potentially inspiring change in other Caribbean countries.",
+      "byline": {
+        "original": "By Mark Landler and Azam Ahmed"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘The Time Has Come’: Barbados Casts Off the Queen as Head of State, and Others May Follow",
+        "kicker": "",
+        "print_headline": "Barbados to Shake Off Queen Elizabeth As Head of State and Become a Republic"
+      },
+      "_id": "nyt://article/dec44456-1ef5-5f30-8bf4-3c0741cafa27",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Black People",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Reparations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Royal Families",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Slavery (Historical)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Black Lives Matter Movement",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Great Britain Withdrawal from EU (Brexit)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Elizabeth II, Queen of Great Britain",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Barbados",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Caribbean Area",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Jamaica (West Indies)",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "London (England)",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Mia Mottley of Barbados, center, with Prince Charles in March of last year when he visited the country.",
+        "credit": "Pool photo by Jane Barlow",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/18/world/18barbados-1/18barbados-1-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/18/world/18barbados-1/18barbados-1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2020-09-18T20:01:30Z",
+      "section_name": "World",
+      "snippet": "The Black Lives Matter movement has revived a simmering debate about the legacy of colonialism, potentially inspiring change in other Caribbean countries.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/dec44456-1ef5-5f30-8bf4-3c0741cafa27",
+      "web_url": "https://www.nytimes.com/2020/09/18/world/europe/britain-barbados-queen-elizabeth-commonwealth.html",
+      "word_count": 1266
+    },
+    {
+      "abstract": "A harsh new law to punish those who rape children in the state of Kaduna has drawn praise from some, and accusations of “legislative sadism” from others.",
+      "byline": {
+        "original": "By Ruth Maclean"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Nigerian State Plans to Castrate Convicted Child Rapists",
+        "kicker": "",
+        "print_headline": "Nigerian State Enacts a Law  To Castrate Children’s Rapists"
+      },
+      "_id": "nyt://article/2a66ede6-f135-544f-8b09-f69f7781ff3e",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Nigeria",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Castration",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Domestic Violence",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Kaduna (Nigeria)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "The governor of Kaduna, Nasir el-Rufai.",
+        "credit": "Kola Sulaimon/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/17/world/17nigeria-sub/17nigeria-sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/17/world/17nigeria-sub/17nigeria-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2020-09-17T22:06:46Z",
+      "section_name": "World",
+      "snippet": "A harsh new law to punish those who rape children in the state of Kaduna has drawn praise from some, and accusations of “legislative sadism” from others.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/2a66ede6-f135-544f-8b09-f69f7781ff3e",
+      "web_url": "https://www.nytimes.com/2020/09/17/world/africa/nigeria-rape-castration.html",
+      "word_count": 589
+    },
+    {
+      "abstract": "The announcement that Bahrain would establish full diplomatic relations with Israel leaves open the possibility that more Arab states will follow.",
+      "byline": {
+        "original": "By Mark Landler"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Another Gulf State Recognizes Israel. Here’s Why It Matters.",
+        "kicker": "",
+        "print_headline": "Bahrain’s Recognition of Israel ‘Is Much More Strategic Than Peace-Related’"
+      },
+      "_id": "nyt://article/dbacbd8f-b8de-5d79-9c55-e20c52f85246",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Presidential Election of 2020",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Palestine Liberation Organization",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Mohammed bin Salman (1985- )",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Khalifa, Hamad Bin Isa al-",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Abu Dhabi (United Arab Emirates)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Bahrain",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "The Bahraini capital, Manama. The Trump administration announced Friday that the Persian Gulf kingdom would establish full diplomatic relations with Israel.",
+        "credit": "Mohammed al-Shaikh, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/12/world/12gulf-explainer01sub/12gulf-explainer01sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/12/world/12gulf-explainer01sub/12gulf-explainer01sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2020-09-12T16:01:11Z",
+      "section_name": "World",
+      "snippet": "The announcement that Bahrain would establish full diplomatic relations with Israel leaves open the possibility that more Arab states will follow.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/dbacbd8f-b8de-5d79-9c55-e20c52f85246",
+      "web_url": "https://www.nytimes.com/2020/09/12/world/middleeast/bahrain-israel.html",
+      "word_count": 1081
+    },
+    {
+      "abstract": "The country’s interior minister said Mahmut Ozden, described as a top Islamic State figure in Turkey, had been planning attacks and kidnappings.",
+      "byline": {
+        "original": "By Megan Specia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Turkey Announces Arrest of a Major Islamic State Militant",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2edb357a-f151-5785-8f83-e4e00da5b991",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Istanbul (Turkey)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Mahmut Ozden was arrested in Adana, a city in southern Turkey.",
+        "credit": "Istanbul Police Department",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/01/world/01turkey-isis-sub/01turkey-isis-sub-articleLarge.jpg",
+          "height": 778,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/01/world/01turkey-isis-sub/01turkey-isis-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-09-01T17:40:56Z",
+      "section_name": "World",
+      "snippet": "The country’s interior minister said Mahmut Ozden, described as a top Islamic State figure in Turkey, had been planning attacks and kidnappings.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/2edb357a-f151-5785-8f83-e4e00da5b991",
+      "web_url": "https://www.nytimes.com/2020/09/01/world/middleeast/turkey-islamic-state-arrest.html",
+      "word_count": 620
+    },
+    {
+      "abstract": "The detention of Cheng Lei, who has long appeared on business programs for China’s international broadcaster, could add to tensions between Australia and China.",
+      "byline": {
+        "original": "By Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China Detains Australian Host for Chinese State TV",
+        "kicker": "",
+        "print_headline": "China Detains Journalist, Straining Australian Ties"
+      },
+      "_id": "nyt://article/b2be64ed-c236-53cb-9637-bf22fd592043",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "China Central Television",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Cheng Lei",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "China Global Television Network (CGTN)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "The Australian journalist Cheng Lei, right, has worked for the Chinese broadcaster CGTN for about eight years.",
+        "credit": "David Fitzgerald/Sportsfile for Web Summit, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/08/31/world/31china-australia/31china-australia-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/08/31/world/31china-australia/31china-australia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2020-08-31T15:50:55Z",
+      "section_name": "World",
+      "snippet": "The detention of Cheng Lei, who has long appeared on business programs for China’s international broadcaster, could add to tensions between Australia and China.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/b2be64ed-c236-53cb-9637-bf22fd592043",
+      "web_url": "https://www.nytimes.com/2020/08/31/world/asia/china-australia-journalist.html",
+      "word_count": 648
+    },
+    {
+      "abstract": "Parliamentary approval of the measures for Beirut, which last until Aug. 21 but can be renewed, has raised concerns about civil liberties.",
+      "byline": {
+        "original": "By Kareem Chehayeb and Megan Specia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Lebanon’s Parliament Confirms State of Emergency, Extending Army Power",
+        "kicker": "",
+        "print_headline": "Parliament In Lebanon Gives Army Extra Power"
+      },
+      "_id": "nyt://article/ad95653c-cefb-5bc9-b995-c5cc73cdc219",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Beirut, Lebanon, Explosions (2020)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Beirut (Lebanon)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Hariri, Saad",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Riot police officers, supported by Lebanon’s military, confronted protesters shortly before Prime Minister Hassan Diab’s resignation on Monday.",
+        "credit": "Diego Ibarra Sanchez for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/08/13/world/13lebanon/13lebanon-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/08/13/world/13lebanon/13lebanon-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2020-08-13T15:54:21Z",
+      "section_name": "World",
+      "snippet": "Parliamentary approval of the measures for Beirut, which last until Aug. 21 but can be renewed, has raised concerns about civil liberties.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/ad95653c-cefb-5bc9-b995-c5cc73cdc219",
+      "web_url": "https://www.nytimes.com/2020/08/13/world/middleeast/lebanon-parliament-emergency.html",
+      "word_count": 625
+    },
+    {
+      "abstract": "North Korea lifted a lockdown as New Zealand extended one. Britain will require some travelers to self-isolate. France declared Paris a high-risk region for the virus.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "California Becomes First State to Report 600,000 Coronavirus Cases",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d3eeb339-8bb5-5115-a64f-69d0530065c6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28a2_rail/us-briefing-promo-image-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28a2_rail/us-briefing-promo-image-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-08-13T09:27:45Z",
+      "section_name": "World",
+      "snippet": "President Trump’s demands for reopening classrooms helped convince many teachers that it would be unsafe. Here’s the latest.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/d3eeb339-8bb5-5115-a64f-69d0530065c6",
+      "web_url": "https://www.nytimes.com/2020/08/13/world/coronavirus-covid.html",
+      "word_count": 5673
+    },
+    {
+      "abstract": "Secretary of State Mike Pompeo said international access to Tibet was a matter of regional and environmental security. He did not say how many Chinese officials were being blocked from the U.S.",
+      "byline": {
+        "original": "By Lara Jakes"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Department Bars Chinese Officials Who Restrict Access to Tibet",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0e8c0f09-b651-5f7d-975e-fade83a39354",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Tibet",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Free Tibet",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "The United States remained “committed to supporting meaningful autonomy for Tibetans,” Secretary of State Mike Pompeo said.",
+        "credit": "Pool photo by Mandel Ngan",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/07/07/us/politics/07dc-diplo/07dc-diplo-articleLarge.jpg",
+          "height": 384,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/07/07/us/politics/07dc-diplo/07dc-diplo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-07-07T22:40:43Z",
+      "section_name": "World",
+      "snippet": "Secretary of State Mike Pompeo said international access to Tibet was a matter of regional and environmental security. He did not say how many Chinese officials were being blocked from the U.S.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/0e8c0f09-b651-5f7d-975e-fade83a39354",
+      "web_url": "https://www.nytimes.com/2020/07/07/world/asia/china-tibet-pompeo.html",
+      "word_count": 631
+    },
+    {
+      "abstract": "Violence in many countries has waned during the coronavirus pandemic, but not in Mexico, and warfare between rival criminal gangs has devastated the state of Guanajuato.",
+      "byline": {
+        "original": "By Natalie Kitroeff and Paulina Villegas"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "26 Killed at Drug Rehab Center in Mexico’s Most Violent State",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/58a269aa-7479-5752-a144-71c22cef8818",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Drug Cartels",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Mass Shootings",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Jalisco New Generation Cartel",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Lopez Obrador, Andres Manuel",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Guanajuato (Mexico)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Latin America",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Santa Rosa de Lima (Mexico)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Forensic technicians outside of a drug rehabilitation facility in Irapuato, Mexico, where assailants killed 26 people on Wednesday.",
+        "credit": "Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/07/02/world/02mexico/merlin_174136794_981e40c4-ef9f-4e6d-a522-61a1f8959623-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/07/02/world/02mexico/02mexico-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-07-02T21:35:09Z",
+      "section_name": "World",
+      "snippet": "Violence in many countries has waned during the pandemic, but not in Mexico, and warfare between rival gangs has devastated the state of Guanajuato.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/58a269aa-7479-5752-a144-71c22cef8818",
+      "web_url": "https://www.nytimes.com/2020/07/02/world/americas/mexico-shooting-drug-rehab.html",
+      "word_count": 691
+    },
+    {
+      "abstract": "A new national security law will allow Beijing’s sprawling and secretive security system to establish a visible foothold in the territory.",
+      "byline": {
+        "original": "By Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hong Kong Opens Door to China’s Hulking Security State",
+        "kicker": "",
+        "print_headline": "New Law Lets China’s Security Agents Operate Openly in Hong Kong"
+      },
+      "_id": "nyt://article/5dce2416-351b-5336-9c80-41a5027d3420",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Hong Kong Protests (2019)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Ministry of State Security of the People's Republic of China",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "National Security Commission (China)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Hong Kong",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The Chinese and Hong Kong flags were flown over Hong Kong on Wednesday for the 23rd anniversary of Hong Kong return to Chinese control.",
+        "credit": "Anthony Wallace/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/07/02/world/02china-politics-01/merlin_174096729_0c6ffa72-83c4-4fc5-a7df-e1fe770453e7-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/07/02/world/02china-politics-01/02china-politics-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2020-07-02T13:04:05Z",
+      "section_name": "World",
+      "snippet": "A new national security law will allow Beijing’s sprawling and secretive security system to establish a visible foothold in the territory.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/5dce2416-351b-5336-9c80-41a5027d3420",
+      "web_url": "https://www.nytimes.com/2020/07/02/world/asia/hong-kong-security-china.html",
+      "word_count": 1376
+    },
+    {
+      "abstract": "A gas leak in a medical clinic in northern Tehran caused the blast, news reports said.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Explosion in Iran Kills 19, State TV Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a26672cc-572d-52ed-8ae1-566efedcd959",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Explosions (Accidental)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Tehran (Iran)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "A photograph provided by the Iranian Students’ News Agency showed the scene of the explosion.",
+        "credit": "Amir Kholousi/ISNA, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/06/30/world/30iran-explosion/merlin_174086643_1c76da76-0da3-4314-9d0c-dd32b41091a7-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/06/30/world/30iran-explosion/30iran-explosion-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-06-30T21:21:26Z",
+      "section_name": "World",
+      "snippet": "A gas leak in a medical clinic in northern Tehran caused the blast, news reports said.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a26672cc-572d-52ed-8ae1-566efedcd959",
+      "web_url": "https://www.nytimes.com/2020/06/30/world/middleeast/explosion-iran.html",
+      "word_count": 147
+    },
+    {
+      "abstract": "Fearing the country’s lax approach to combating the coronavirus, Sweden’s Scandinavian neighbors have all closed their borders to Swedes.",
+      "byline": {
+        "original": "By Thomas Erdbrink"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Sweden Tries Out a New Status: Pariah State",
+        "kicker": "",
+        "print_headline": "Nordic Neighbors Avoid Sweden Like the Plague"
+      },
+      "_id": "nyt://article/fda58789-77c5-55d6-8f54-4ae24d21a7ac",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Sweden",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Disease Rates",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Travel Warnings",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus Reopenings",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Scandinavia",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Denmark",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Norway",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Swedes dining al fresco late last month. Sweden, now alienated by its Nordic neighbors, did not place many restrictions on its residents in response to coronavirus.",
+        "credit": "Jonathan Nackstrand/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/06/22/world/22sweden/merlin_172961643_07530fb0-92b1-4f0b-be9d-e6f1dca081bb-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/06/22/world/22sweden/merlin_172961643_07530fb0-92b1-4f0b-be9d-e6f1dca081bb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2020-06-22T19:53:13Z",
+      "section_name": "World",
+      "snippet": "Fearing its lax approach to combating the coronavirus, the country’s Scandinavian neighbors have all closed their borders to Swedes.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fda58789-77c5-55d6-8f54-4ae24d21a7ac",
+      "web_url": "https://www.nytimes.com/2020/06/22/world/europe/sweden-coronavirus-pariah-scandinavia.html",
+      "word_count": 1134
+    },
+    {
+      "abstract": "The court’s decision came after President Nayib Bukele’s administration was criticized for an overly stringent quarantine and for showing authoritarian tendencies.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "El Salvador Supreme Court Orders State of Emergency Suspended",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e2e4953a-8f0c-550f-a1ed-797acc529366",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "El Salvador",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Bukele, Nayib",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "El Salvador put in place an extremely stringent quarantine. Only supermarkets and pharmacies were left open in San Salvador, where these health workers took a break last month.",
+        "credit": "Yuri Cortez/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/05/04/world/05elsalvador4/merlin_172041867_17fff2ba-2204-485b-bd9d-da907a7d3c1b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/05/04/world/05elsalvador4/04elsalvador4-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-05-19T00:27:36Z",
+      "section_name": "World",
+      "snippet": "The court’s decision came after President Nayib Bukele’s administration was criticized for an overly stringent quarantine and for showing authoritarian tendencies.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/e2e4953a-8f0c-550f-a1ed-797acc529366",
+      "web_url": "https://www.nytimes.com/2020/05/18/world/americas/el-salvador-supreme-court-nayib-bukele.html",
+      "word_count": 210
+    },
+    {
+      "abstract": "Even as the monasteries of the Orthodox Church are besieged by the coronavirus, apocalyptic-minded priests balk at state restrictions on public worship.",
+      "byline": {
+        "original": "By Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A ‘Breakdown of Trust’: Pandemic Corrodes Church-State Ties in Russia",
+        "kicker": "",
+        "print_headline": "In Russia, Restrictions Corrode Church-State Ties"
+      },
+      "_id": "nyt://article/5d97b3e7-d834-5172-9ef6-3fd6b9675211",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Orthodox Church",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Monasteries and Monks",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kirill I",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Kyiv (Ukraine)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Religion-State Relations",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Patriarch Kirill, in the white headdress, leader of the Russian Orthodox Church, at a procession in Moscow last month. Experts say his reluctance to enforce orders against church gatherings has led to an explosion of coronavirus cases in monasteries and convents.",
+        "credit": "Patriarchal Press Service, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/05/04/sports/04virus-russianchurch-2/merlin_171273255_adb66db6-116a-4755-8b2e-88cc442d66f5-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/05/04/sports/04virus-russianchurch-2/merlin_171273255_adb66db6-116a-4755-8b2e-88cc442d66f5-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2020-05-05T17:41:55Z",
+      "section_name": "World",
+      "snippet": "Even as the monasteries of the Orthodox Church are besieged by the coronavirus, apocalyptic-minded priests balk at state restrictions on public worship.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/5d97b3e7-d834-5172-9ef6-3fd6b9675211",
+      "web_url": "https://www.nytimes.com/2020/05/05/world/europe/russia-orthodox-church-coronavirus.html",
+      "word_count": 1482
+    },
+    {
+      "abstract": "The North Korean leader was said to have visited a factory on Friday, after a series of unsubstantiated news reports suggested that he was gravely ill.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kim Jong-un Resurfaces, State Media Says, After Weeks of Health Rumors",
+        "kicker": "",
+        "print_headline": "North Korea’s Chief Is Seen in Public, State Media Says"
+      },
+      "_id": "nyt://article/0b7803ec-6849-5cb3-88df-493958706b3a",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Rumors and Misinformation",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "North Korea’s state news agency on Saturday released this photo of Kim Jong-un, which it said was taken Friday at a fertilizer plant. His sister, Kim Yo-jong, is in the background.",
+        "credit": "KCNA, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/05/01/world/01kim-resurface/merlin_172118280_9e569abb-bb81-4672-b981-bf5815e94290-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/05/01/world/01kim-resurface/merlin_172118280_9e569abb-bb81-4672-b981-bf5815e94290-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "19",
+      "print_section": "A",
+      "pub_date": "2020-05-01T21:43:19Z",
+      "section_name": "World",
+      "snippet": "The North Korean leader’s appearance comes after weeks of unsubstantiated news reports suggesting that Mr. Kim was “brain-dead” or “in grave danger.”",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/0b7803ec-6849-5cb3-88df-493958706b3a",
+      "web_url": "https://www.nytimes.com/2020/05/01/world/asia/kim-jong-un-resurfaces.html",
+      "word_count": 861
+    },
+    {
+      "abstract": "Tokyo may have been lulled into complacency during the weeks when Japan contained the coronavirus while avoiding economically devastating lockdowns, our bureau chief writes.",
+      "byline": {
+        "original": "By Motoko Rich and Noriko Hayashi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Tokyo, in a State of Emergency, Yet Still Having Drinks at a Bar",
+        "kicker": "JAPAN dispatch",
+        "print_headline": "In a 2nd-Wave Lockdown, A Brimming Metropolis  Is (a Bit) Less Complacent"
+      },
+      "_id": "nyt://article/7d3ef99c-2fc7-5670-83e8-b8fc8ee6e1c2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Tokyo (Japan)",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "Dining near the Shinjuku station in Tokyo on Friday. The Tokyo governor has asked people to refrain from going out at night, but said restaurants and bars may stay open until 8 p.m.",
+        "credit": "Noriko Hayashi for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18virus-japan-dispatch-promo/18virus-japan-dispatch-promo-articleLarge-v3.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/04/18/world/18virus-japan-dispatch-promo/18virus-japan-dispatch-promo-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2020-04-19T17:03:38Z",
+      "section_name": "World",
+      "snippet": "Tokyo may have been lulled into complacency during the weeks when Japan contained the coronavirus while avoiding lockdowns, our bureau chief writes.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/7d3ef99c-2fc7-5670-83e8-b8fc8ee6e1c2",
+      "web_url": "https://www.nytimes.com/2020/04/19/world/asia/tokyo-japan-coronavirus.html",
+      "word_count": 854
+    },
+    {
+      "abstract": "We spent weeks following women inside the country’s health care system, which has been crippled by a broken economy overseen by an increasingly authoritarian government.",
+      "byline": {
+        "original": "By Julie Turkewitz, Isayen Herrera and Meridith Kohut"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Childbirth in Venezuela, Where Women’s Deaths Are a State Secret",
+        "kicker": "",
+        "print_headline": "‘Please Don’t Let Me Die’: The Perils of Giving Birth in Venezuela  "
+      },
+      "_id": "nyt://article/60c05245-5a99-589b-9b60-997e78ba4e2c",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Infant Mortality",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Maternal Mortality",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Hospitals",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Pregnancy and Childbirth",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Medicine and Health",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Maduro, Nicolas",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Caracas (Venezuela)",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Poverty",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Economic Conditions and Trends",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "Ninoska Torres, 23, after giving birth to her daughter, Lisandry, at the government-run hospital in the city of La Victoria, Venezuela.",
+        "credit": "Meridith Kohut for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/04/02/world/00venezuela-pregnancy-promo/00venezuela-pregnancy-top-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/04/02/world/00venezuela-pregnancy-promo/00venezuela-pregnancy-promo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2020-04-10T14:59:05Z",
+      "section_name": "World",
+      "snippet": "We spent weeks following women inside Venezuela’s health care system, which has been crippled by a broken economy overseen by an increasingly authoritarian government.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/60c05245-5a99-589b-9b60-997e78ba4e2c",
+      "web_url": "https://www.nytimes.com/2020/04/10/world/americas/venezuela-pregnancy-birth-death.html",
+      "word_count": 1797
+    },
+    {
+      "abstract": "The U.S. had imposed sanctions on two Rosneft oil trading subsidiaries this year for helping Venezuela’s authoritarian president, Nicolás Maduro.",
+      "byline": {
+        "original": "By Anatoly Kurmanaev, Clifford Krauss and Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russian State Oil Company Rosneft, in Sudden Move, Sells Assets in Venezuela",
+        "kicker": "",
+        "print_headline": "Russian State Oil Firm Sells Assets in Venezuela"
+      },
+      "_id": "nyt://article/328a93af-78ac-59e3-956a-6699687e4abd",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Maduro, Nicolas",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Rosneft",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Economic Conditions and Trends",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "President Nicolás Maduro with Rosneft officials in 2013, in a photograph released by his office.",
+        "credit": "Miraflores Palace",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/03/28/world/28Rosneft/merlin_131369838_449b8167-a88a-4f74-bdab-fccef853c977-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/03/28/world/28Rosneft/28Rosneft-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "17",
+      "print_section": "A",
+      "pub_date": "2020-03-28T19:25:42Z",
+      "section_name": "World",
+      "snippet": "The U.S. had imposed sanctions on two Rosneft oil trading subsidiaries this year for helping Venezuela’s authoritarian president, Nicolás Maduro.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/328a93af-78ac-59e3-956a-6699687e4abd",
+      "web_url": "https://www.nytimes.com/2020/03/28/world/americas/venezuela-rosneft-oil.html",
+      "word_count": 895
+    },
+    {
+      "abstract": "New York State has 15,000 cases, roughly 5 percent of the pandemic’s growing global total. Senator Rand Paul tested positive for the coronavirus.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As State Pleas Mount, Trump Outlines Some Federal Action; Senate Democrats Block Stimulus Package",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e244043a-6b5c-5e40-bbb5-62217a1049a1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "Senator Chuck Schumer speaking to reporters at the Capitol on Sunday.",
+        "credit": "Erin Scott for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/03/22/us/22-live-briefing-schumer/merlin_170843487_3bb0d1f0-7393-4cb0-8856-0c06dd7f48a7-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/03/22/us/22-live-briefing-schumer/22-live-briefing-schumer-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-03-22T04:07:10Z",
+      "section_name": "World",
+      "snippet": "Italy’s numbers soared and Spanish hospitals overflowed as the virus’s effects were felt throughout Europe. Here’s the latest.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/e244043a-6b5c-5e40-bbb5-62217a1049a1",
+      "web_url": "https://www.nytimes.com/2020/03/22/world/coronavirus-updates-world-usa.html",
+      "word_count": 3676
+    },
+    {
+      "abstract": "In a first, the federal government banned two clubs with allegiance to the old German Reich. Police raids on members’ homes found weapons, propaganda and narcotics.",
+      "byline": {
+        "original": "By Christopher F. Schuetze"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Germany Shuts Down Far-Right Clubs That Deny the Modern State",
+        "kicker": "",
+        "print_headline": "Germany Bans Far-Right Clubs, Raiding Homes"
+      },
+      "_id": "nyt://article/fbd4b5ab-1108-5cab-9ad4-a9ffcc067e04",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Anti-Semitism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Fringe Groups and Movements",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Neo Nazi Groups",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A march of the far-right group “Reich citizens” in Berlin in November.",
+        "credit": "Omer Messinger/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/03/19/world/19Germany/19Germany-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/03/19/world/19Germany/19Germany-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "21",
+      "print_section": "A",
+      "pub_date": "2020-03-19T17:15:38Z",
+      "section_name": "World",
+      "snippet": "In a first, the federal government banned two clubs with allegiance to the old German Reich. Police raids on members’ homes found weapons, propaganda and narcotics.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fbd4b5ab-1108-5cab-9ad4-a9ffcc067e04",
+      "web_url": "https://www.nytimes.com/2020/03/19/world/europe/germany-reich-citizens-ban.html",
+      "word_count": 833
+    },
+    {
+      "abstract": "The outbreak offers an opportunity to examine the capabilities of Russia’s expanding surveillance apparatus, and gives Vladimir Putin a chance to prove his indispensability.",
+      "byline": {
+        "original": "By Anton Troianovski"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Not Just a Crisis: Coronavirus Is a Test for Putin’s Security State",
+        "kicker": "",
+        "print_headline": "Outbreak Provides an Opportunity for Putin’s Budding Surveillance State"
+      },
+      "_id": "nyt://article/c24d7f8b-e69c-5e09-a61f-43de8166b401",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Quarantines",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Moscow (Russia)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Facial Recognition Software",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Surveillance of Citizens by Government",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of Speech and Expression",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Civil Rights and Liberties",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Epidemics",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Russia had confirmed fewer than 100 coronavirus cases in Moscow as of Wednesday.",
+        "credit": "Sergey Ponomarev for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/03/19/world/19virus-russia5/merlin_170693490_c62556cf-4c5e-4883-9d29-34f61026755d-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/03/19/world/19virus-russia5/19virus-russia5-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2020-03-19T09:00:19Z",
+      "section_name": "World",
+      "snippet": "For Vladimir V. Putin’s budding police state, the coronavirus is an unexpected dress rehearsal.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c24d7f8b-e69c-5e09-a61f-43de8166b401",
+      "web_url": "https://www.nytimes.com/2020/03/19/world/europe/coronavirus-russia-putin.html",
+      "word_count": 1319
+    },
+    {
+      "abstract": "A juicy boss-from-hell story illuminates the tensions between Britain’s radical new government and its solicitous but unyielding civil service.",
+      "byline": {
+        "original": "By Mark Landler"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Boris Johnson Launches War on U.K.’s Own ‘Deep State’",
+        "kicker": "",
+        "print_headline": "All the Drama of Trump’s ‘Deep State’ Feud, but With a British Cast"
+      },
+      "_id": "nyt://article/26261866-deb3-5f95-8df8-061620d768a6",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Johnson, Boris",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Cummings, Dominic (1971- )",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Patel, Priti (1972- )",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Rutnam, Philip",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Conservative Party (Great Britain)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Government Employees",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Great Britain Withdrawal from EU (Brexit)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Boris Johnson with Home Secretary Priti Patel last year in Manchester.",
+        "credit": "Oli Scarff/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/03/08/world/08britain/merlin_161833872_14413739-6ee7-4d5e-b3cc-a314c679b983-articleLarge.jpg",
+          "height": 436,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/03/08/world/08britain/07britain-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2020-03-07T11:34:02Z",
+      "section_name": "World",
+      "snippet": "A juicy boss-from-hell story illuminates the tensions between Britain’s radical new government and its solicitous but unyielding civil service.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/26261866-deb3-5f95-8df8-061620d768a6",
+      "web_url": "https://www.nytimes.com/2020/03/07/world/europe/boris-johnson-dominic-cummings-civil-service.html",
+      "word_count": 1421
+    },
+    {
+      "abstract": "A decision by electoral authorities to declare the government the de facto winner in the March 2 elections is the catalyst for a wave of unrest. Billions in new oil revenue are at stake.",
+      "byline": {
+        "original": "By Anatoly Kurmanaev"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Crisis Deepens in Tiny Guyana, the World’s Newest Petro State",
+        "kicker": "",
+        "print_headline": "Election Crisis in Guyana Leads to Wave of Unrest"
+      },
+      "_id": "nyt://article/5114c520-3c08-5534-95da-719a7f89bdf7",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Granger, David A (1945- )",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Guyana",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "A rally last week in Georgetown, Guyana, for the ruling party. The electoral authorities said Friday it had won the most votes in the March 2 election, despite objections from international observers, judges and the opposition.",
+        "credit": "Adriana Loureiro Fernandez for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/03/06/world/06guyana/merlin_169986282_f51e53ce-a0a3-4647-a041-bebdb3b6a264-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/03/06/world/06guyana/06guyana-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2020-03-06T23:01:12Z",
+      "section_name": "World",
+      "snippet": "A decision by electoral authorities to declare the government the de facto winner in the March 2 elections is the catalyst for a wave of unrest. Billions in new oil revenue are at stake.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/5114c520-3c08-5534-95da-719a7f89bdf7",
+      "web_url": "https://www.nytimes.com/2020/03/06/world/americas/Guyana-election.html",
+      "word_count": 407
+    },
+    {
+      "abstract": "Khalifa Hifter, the military ruler of eastern Libya, is trying to take over the entire country. To see what that would look like, we paid a rare visit to the part he already controls.",
+      "byline": {
+        "original": "By David D. Kirkpatrick and Ivor Prickett"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Police State With an Islamist Twist: Inside Hifter’s Libya",
+        "kicker": "",
+        "print_headline": "Police State With Islamist Twist: Inside the Libya of ‘the Marshal’"
+      },
+      "_id": "nyt://article/a6db6f4e-1766-50df-a799-8911c839d8df",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Libya",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Hifter, Khalifa",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Benghazi (Libya)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Tripoli (Libya)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A billboard depicting Khalifa Hifter, the 76-year-old military commander known in Benghazi as “the Marshal.”",
+        "credit": "Ivor Prickett for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/02/14/world/00Benghazi-promo/00Benghazi-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/02/14/world/00Benghazi-promo/00Benghazi-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2020-02-20T05:01:16Z",
+      "section_name": "World",
+      "snippet": "Khalifa Hifter, the military ruler of eastern Libya, is trying to take over the country. We paid a rare visit to the part he already controls.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a6db6f4e-1766-50df-a799-8911c839d8df",
+      "web_url": "https://www.nytimes.com/2020/02/20/world/middleeast/libya-hifter-benghazi.html",
+      "word_count": 2059
+    },
+    {
+      "abstract": "The move is the latest in the Trump administration’s efforts to counter Beijing’s influence and intelligence operations in the United States.",
+      "byline": {
+        "original": "By Lara Jakes and Steven Lee Myers"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Designates China’s Official Media as Operatives of the Communist State",
+        "kicker": "",
+        "print_headline": "State Dept. Labels Chinese News Outlets as Agents of Communist Party"
+      },
+      "_id": "nyt://article/e2370840-5a7c-5d97-9568-0fb6278757c5",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Propaganda",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Agents Registration Act",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "China Central Television",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "China Daily",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Xinhua",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "People's Daily",
+          "rank": 12
+        },
+        {
+          "name": "Organization",
+          "value": "China Radio International",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "Xinhua News Agency’s North America headquarters in New York.",
+        "credit": "Chang W. Lee/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/02/18/us/politics/18dc-chinamedia/merlin_45526297_586da4a4-f50f-465c-8300-a263b1421284-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/02/18/us/politics/18dc-chinamedia/18dc-chinamedia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2020-02-18T20:32:21Z",
+      "section_name": "World",
+      "snippet": "The move is the latest in the Trump administration’s efforts to counter Beijing’s influence and intelligence operations in the United States.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e2370840-5a7c-5d97-9568-0fb6278757c5",
+      "web_url": "https://www.nytimes.com/2020/02/18/world/asia/china-media-trump.html",
+      "word_count": 1452
+    },
+    {
+      "abstract": "Wildfires that raged for months during a summer of extreme weather are finally under control or gone altogether in New South Wales.",
+      "byline": {
+        "original": "By Jamie Tarabay"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Australia’s Most Populous State, ‘All Fires Are Contained’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c0ed5a0a-02c6-5fd3-9bf5-f23600ac1048",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Wildfires",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Fires and Firefighters",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Rain",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Weather",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Floods",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Melbourne (Australia)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "New South Wales (Australia)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Sydney (Australia)",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Victoria (Australia)",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Torrential rain over the past week has helped extinguish bush fires but has also caused flash flooding.",
+        "credit": "Dan Peled/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14oz-fires/merlin_168674535_39676051-ba8e-44da-8325-26fa043e31c5-articleLarge.jpg",
+          "height": 397,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/02/14/us/14oz-fires/merlin_168674535_39676051-ba8e-44da-8325-26fa043e31c5-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-02-14T01:53:16Z",
+      "section_name": "World",
+      "snippet": "Wildfires that raged for months during a summer of extreme weather are finally under control or gone altogether in New South Wales.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/c0ed5a0a-02c6-5fd3-9bf5-f23600ac1048",
+      "web_url": "https://www.nytimes.com/2020/02/13/world/australia/new-south-wales-fires-extinguished.html",
+      "word_count": 290
+    },
+    {
+      "abstract": "Americans who are currently in China should consider leaving, United States officials said.",
+      "byline": {
+        "original": "By Neil Vigdor"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Department Warns Against Traveling to China Amid Coronavirus Outbreak",
+        "kicker": "",
+        "print_headline": "State Dept. Issues Warning On Traveling"
+      },
+      "_id": "nyt://article/27fd86f0-c453-54ef-b806-143bb6111f4e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Travel Warnings",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Epidemics",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "World Health Organization",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Travelers at Beijing Capital National Airport on Thursday.",
+        "credit": "Mark Schiefelbein/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/01/30/multimedia/30xp-pompeo/merlin_168086379_d8b71431-d61c-4341-af7c-15a077f8c4aa-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/01/30/multimedia/30xp-pompeo/merlin_168086379_d8b71431-d61c-4341-af7c-15a077f8c4aa-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2020-01-31T02:40:49Z",
+      "section_name": "World",
+      "snippet": "Americans who are currently in China should consider leaving, United States officials said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/27fd86f0-c453-54ef-b806-143bb6111f4e",
+      "web_url": "https://www.nytimes.com/2020/01/30/world/asia/Coronavirus-travel-advisory-.html",
+      "word_count": 485
+    },
+    {
+      "abstract": "The United States set its advisory at Level 4, which represents the highest safety risk. The World Health Organization said the virus represents a risk outside of China.",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Deaths Surpass 200, and State Department Urges Against Travel to China",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f89f51d7-430d-5744-a4e5-40d5ac8ba192",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "SARS (Severe Acute Respiratory Syndrome)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Epidemics",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Shortages",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "World Health Organization",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A patient was moved from his home to a hospital in Wuhan, China, on Thursday. Hundreds of people in the city have contracted the dangerous new coronavirus.",
+        "credit": "Hector Retamal/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/02/01/world/30china-briefing-1sub/merlin_168078303_f8d80d84-fa08-44ec-ab43-eadc5844e38a-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/02/01/world/30china-briefing-1sub/30china-briefing-1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-01-30T05:46:18Z",
+      "section_name": "World",
+      "snippet": "The United States issued its strongest warning, reserved for the most dangerous situations, over the outbreak.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/f89f51d7-430d-5744-a4e5-40d5ac8ba192",
+      "web_url": "https://www.nytimes.com/2020/01/30/world/asia/coronavirus-china.html",
+      "word_count": 2725
+    },
+    {
+      "abstract": "An agreement represents one of the most dramatic ruptures within the British royal family since King Edward VIII abdicated the throne in 1936 to marry an American woman, Wallis Simpson.",
+      "byline": {
+        "original": "By Mark Landler"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Harry and Meghan Give Up Royal Titles and Forgo State Funding",
+        "kicker": "",
+        "print_headline": "Royal Couple To Cede Titles In Family Rift"
+      },
+      "_id": "nyt://article/76af1f04-7162-5efe-b616-5ce3e02af90c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Royal Families",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Harry, Duke of Sussex",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Markle, Meghan",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Archie, Earl of Dumbarton",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Elizabeth II, Queen of Great Britain",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Prince Harry and Meghan Markle in Scotland in 2018.",
+        "credit": "Andrew Milligan/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/01/19/world/19royals/19royals-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/01/19/world/19royals/19royals-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2020-01-18T18:49:11Z",
+      "section_name": "World",
+      "snippet": "The couple will also forgo some state funding in a deal intended to end a crisis that erupted after they said they would step back from royal duties.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/76af1f04-7162-5efe-b616-5ce3e02af90c",
+      "web_url": "https://www.nytimes.com/2020/01/18/world/europe/meghan-harry-royals-uk.html",
+      "word_count": 1286
+    }
+  ]
+}

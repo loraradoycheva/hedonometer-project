@@ -1,0 +1,5094 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "2MJ6e77HBhgWrT0a1jsbMdAUzEslgDnYA7pUMZKLmn9jRrNb",
+    "begin_date": "20220101",
+    "end_date": "20221231",
+    "fq": "(headline.default:\"state\") AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 90,
+  "docs": [
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Crowley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Biden officials are talking to Congress about declaring Russia an ‘aggressor state.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/83dcca38-a7a4-5689-a8d6-0d4826e8ce54",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The village of Kamyanka in the Kharkiv region on Wednesday, which was occupied by the Russian military from March until September.",
+        "credit": "Tyler Hicks/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/12/21/multimedia/21ukraine-briefing-aggressor-state-1-446e/21ukraine-briefing-aggressor-state-1-446e-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/12/21/multimedia/21ukraine-briefing-aggressor-state-1-446e/21ukraine-briefing-aggressor-state-1-446e-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-12-21T23:56:56Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/83dcca38-a7a4-5689-a8d6-0d4826e8ce54",
+      "web_url": "https://www.nytimes.com/live/2022/12/21/world/volodymyr-zelensky-russia-ukraine-news/biden-officials-are-talking-to-congress-about-declaring-russia-an-aggressor-state",
+      "word_count": 330
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russian assaults have left Ukraine’s energy system in a precarious state, the prime minister says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bec26897-fced-5924-8b80-6b0610f78345",
+      "keywords": [],
+      "multimedia": {
+        "caption": "During a power outage in Kyiv, Ukraine, on Saturday.",
+        "credit": "Laura Boushnak for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/12/21/multimedia/21ukraine-briefing-electricity-1-a913/21ukraine-briefing-electricity-1-a913-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/12/21/multimedia/21ukraine-briefing-electricity-1-a913/21ukraine-briefing-electricity-1-a913-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-12-21T10:01:11Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/bec26897-fced-5924-8b80-6b0610f78345",
+      "web_url": "https://www.nytimes.com/live/2022/12/21/world/volodymyr-zelensky-russia-ukraine-news/russian-assaults-have-left-ukraines-energy-system-in-a-precarious-state-the-prime-minister-says",
+      "word_count": 291
+    },
+    {
+      "abstract": "The measure suspended some civil rights, including the freedom of assembly, and deepens a crisis set off when the elected president was impeached by Congress last week.",
+      "byline": {
+        "original": "By Mitra Taj and Julie Turkewitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Amid Deadly Protests, Peru Declares a National State of Emergency",
+        "kicker": "",
+        "print_headline": "Amid Fatal Protests, Peru  Calls State of Emergency"
+      },
+      "_id": "nyt://article/f2f5ae54-969f-5940-8f4b-a4edb36c2593",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Peru",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Castillo, Pedro (1969- )",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Boluarte, Dina",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Lima (Peru)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Members of Indigenous communities and farmers during a protest in Cuzco, Peru, against the removal of former President Pedro Castillo.",
+        "credit": "Paul Gambin/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/12/14/multimedia/14peru-unrest-1/14peru-1-0848-articleLarge.jpg",
+          "height": 406,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/12/14/multimedia/14peru-unrest-1/14peru-1-0848-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2022-12-14T19:52:11Z",
+      "section_name": "World",
+      "snippet": "The measure suspended some civil rights, including the freedom of assembly, and deepens a crisis set off when the elected president was impeached by Congress last week.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/f2f5ae54-969f-5940-8f4b-a4edb36c2593",
+      "web_url": "https://www.nytimes.com/2022/12/14/world/americas/peru-state-of-emergency-protests.html",
+      "word_count": 1023
+    },
+    {
+      "abstract": "The images, verified by The New York Times, show Ms. Griner being traded for the arms dealer Viktor Bout on the tarmac at Al Bateen Executive Airport in Abu Dhabi.",
+      "byline": {
+        "original": "By Yonette Joseph and Kaly Soto"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russian state media releases video footage of the Brittney Griner prisoner swap.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/624e3151-b66c-5fcc-aed5-d047e7b805bc",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Video Recordings, Downloads and Streaming",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Griner, Brittney",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Bout, Viktor",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Women's National Basketball Assn",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Prisons and Prisoners",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "United Arab Emirates",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Russian State Media",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/12/08/autossell/Griner-prisoner-swap-1/Griner-prisoner-swap-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/12/08/autossell/Griner-prisoner-swap-1/Griner-prisoner-swap-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-12-08T21:27:26Z",
+      "section_name": "World",
+      "snippet": "The images, verified by The New York Times, show Ms. Griner being traded for the arms dealer Viktor Bout on the tarmac at Al Bateen Executive Airport in Abu Dhabi.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/624e3151-b66c-5fcc-aed5-d047e7b805bc",
+      "web_url": "https://www.nytimes.com/2022/12/08/world/europe/brittney-griner-viktor-bout-video.html",
+      "word_count": 310
+    },
+    {
+      "abstract": "The threat of U.S. sanctions jeopardized completion of a second direct gas pipeline from Russia. So Gazprom and German officials concocted a phony climate foundation to get the job done.",
+      "byline": {
+        "original": "By Katrin Bennhold and Erika Solomon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Shadowy Arm of a German State Helped Russia Finish Nord Stream 2",
+        "kicker": "",
+        "print_headline": "How a Shadowy Arm of a German State Financed a Russian Pipeline"
+      },
+      "_id": "nyt://article/b146c1c5-72d2-5116-aec1-3e098d520582",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Pipelines",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Gazprom",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Nord Stream AG",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Natural Gas",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Ships and Shipping",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 13
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 14
+        },
+        {
+          "name": "Person",
+          "value": "Scholz, Olaf (1958- )",
+          "rank": 15
+        },
+        {
+          "name": "Person",
+          "value": "Schroder, Gerhard",
+          "rank": 16
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 17
+        },
+        {
+          "name": "Location",
+          "value": "Lubmin (Germany)",
+          "rank": 18
+        },
+        {
+          "name": "Location",
+          "value": "Rostock (Germany)",
+          "rank": 19
+        },
+        {
+          "name": "Location",
+          "value": "Sassnitz (Germany)",
+          "rank": 20
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 21
+        },
+        {
+          "name": "Location",
+          "value": "Mecklenburg-West Pomerania (Germany)",
+          "rank": 22
+        }
+      ],
+      "multimedia": {
+        "caption": "Pipes from Nord Stream 2 work in Sassnitz, Germany. Russia invaded Ukraine weeks after the pipeline was finished.",
+        "credit": "Laetitia Vancon for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/29/multimedia/00germany-fake-foundation-1-68f3/00germany-fake-foundation-1-68f3-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/29/multimedia/00germany-fake-foundation-1-68f3/00germany-fake-foundation-1-68f3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2022-12-02T10:00:43Z",
+      "section_name": "World",
+      "snippet": "The threat of U.S. sanctions jeopardized completion of a second direct gas pipeline from Russia. So Gazprom and German officials concocted a phony climate foundation to get the job done.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b146c1c5-72d2-5116-aec1-3e098d520582",
+      "web_url": "https://www.nytimes.com/2022/12/02/world/europe/germany-russia-nord-stream-pipeline.html",
+      "word_count": 1800
+    },
+    {
+      "abstract": "The group has been reduced from the world’s most fearsome terrorist organization to a low-level insurgency operating in limited parts of countries torn by conflict.",
+      "byline": {
+        "original": "By Ben Hubbard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Chief Is Dead and New One Is Picked. Both Are Unknown.",
+        "kicker": "",
+        "print_headline": "Islamic State Says Its Chief Was Killed"
+      },
+      "_id": "nyt://article/cc441901-0d01-5f2e-a7cd-e80fcac58208",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "American soldiers and Syrian militia members in Dayrik, Syria, near the border with Iraq and Turkey, in September.",
+        "credit": "Ahmed Mardnli/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/30/multimedia/30isis-1-b7a5/30isis-1-b7a5-articleLarge.jpg",
+          "height": 397,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/30/multimedia/30isis-1-b7a5/30isis-1-b7a5-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2022-11-30T21:26:22Z",
+      "section_name": "World",
+      "snippet": "The group has been reduced from the world’s most fearsome terrorist organization to a low-level insurgency operating in limited parts of countries torn by conflict.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/cc441901-0d01-5f2e-a7cd-e80fcac58208",
+      "web_url": "https://www.nytimes.com/2022/11/30/world/middleeast/new-isis-leader.html",
+      "word_count": 398
+    },
+    {
+      "abstract": "The French president goes to Washington with differences over how to end the war in Ukraine, and how to share its burdens, at the heart of talks with President Biden.",
+      "byline": {
+        "original": "By Roger Cohen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As Macron Pays State Visit to U.S., Ukraine Tests an Old Alliance",
+        "kicker": "",
+        "print_headline": "Trouble in Europe Tests Old but Strained France-U.S. Bonds"
+      },
+      "_id": "nyt://article/e0ffba8f-c0dc-56b1-9e63-3245656ebe53",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Macron, Emmanuel (1977- )",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States Economy",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Economic Conditions and Trends",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Inflation Reduction Act of 2022",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Alternative and Renewable Energy",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 14
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 15
+        }
+      ],
+      "multimedia": {
+        "caption": "President Biden and President Emmanuel Macron of France in Rome, last year.",
+        "credit": "Erin Schaff/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/29/multimedia/29macron-biden-1-1-b78a/29marcon-biden-1-1-b78a-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/29/multimedia/29macron-biden-1-1-b78a/29marcon-biden-1-1-b78a-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2022-11-29T17:26:53Z",
+      "section_name": "World",
+      "snippet": "The French president goes to Washington with differences over how to end the war in Ukraine, and how to share its burdens, at the heart of talks with President Biden.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/e0ffba8f-c0dc-56b1-9e63-3245656ebe53",
+      "web_url": "https://www.nytimes.com/2022/11/29/world/europe/biden-macron-state-visit.html",
+      "word_count": 1123
+    },
+    {
+      "abstract": "Vladimir Makei served 10 years as the foreign minister of Belarus, a key geopolitical battleground between Russia and the West.",
+      "byline": {
+        "original": "By Anatoly Kurmanaev and Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Belarus’s architect of Western outreach dies suddenly, state media reports.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1021dacb-baea-5dfd-b33a-b903a4dbb110",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "Vladimir Makei in Minsk, Belarus, in February during a news conference.",
+        "credit": "Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-briefing-belarus-foreign-minister/merlin_217387308_a074fab0-8a40-4a07-83c9-618a9451ba48-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-briefing-belarus-foreign-minister/28ukraine-briefing-belarus-foreign-minister-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-11-28T15:29:39Z",
+      "section_name": "World",
+      "snippet": "Vladimir Makei served 10 years as the foreign minister of Belarus, a key geopolitical battleground between Russia and the West.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1021dacb-baea-5dfd-b33a-b903a4dbb110",
+      "web_url": "https://www.nytimes.com/2022/11/28/world/europe/belarus-minister-makei-dead.html",
+      "word_count": 658
+    },
+    {
+      "abstract": "The European Union’s only directly elected institution called on the bloc to “further isolate Russia internationally.”",
+      "byline": {
+        "original": "By Matthew Mpoke Bigg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The European Parliament backs designating Russia as a state sponsor of terrorism.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1c59be0b-c536-50f6-a6e8-c4e103723f5b",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "European Parliament",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Civilians lined up for humanitarian aid in Kherson, Ukraine, last week. Millions have been displaced because of the war, while thousands are believed to have been killed.",
+        "credit": "Lynsey Addario for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/23/multimedia/23ukraine-briefing-europe-parliament-topart-1-d653/23ukraine-briefing-europe-parliament-topart-1-d653-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/23/multimedia/23ukraine-briefing-europe-parliament-topart-1-d653/23ukraine-briefing-europe-parliament-topart-1-d653-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-11-23T14:58:53Z",
+      "section_name": "World",
+      "snippet": "The European Union’s only directly elected institution called on the bloc to “further isolate Russia internationally.”",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1c59be0b-c536-50f6-a6e8-c4e103723f5b",
+      "web_url": "https://www.nytimes.com/2022/11/23/world/europe/russia-terrorism-sponsor-european-parliament.html",
+      "word_count": 304
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Lara Jakes"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "How Ukraine has become a testing ground for state-of-the-art weapons and information systems.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7602e357-8d4a-5691-b11d-baa07e42910d",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ukrainian soldiers operating a drone near Kherson, in southern Ukraine, in September.",
+        "credit": "Jim Huylebroek for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/10/08/world/15ukraine-briefing-weapons-VERSION-02/merlin_212739768_d1774e84-a9ea-4bc9-82b4-e9aaa5594ad6-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/10/08/world/15ukraine-briefing-weapons-VERSION-02/merlin_212739768_d1774e84-a9ea-4bc9-82b4-e9aaa5594ad6-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-11-18T14:30:36Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7602e357-8d4a-5691-b11d-baa07e42910d",
+      "web_url": "https://www.nytimes.com/live/2022/11/18/world/russia-ukraine-war-news/how-ukraine-has-become-a-testing-ground-for-state-of-the-art-weapons-and-information-systems",
+      "word_count": 191
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Neil MacFarquhar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia’s news media, all state-controlled, offers only muted coverage of the retreat from Kherson.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3f868a0d-0c3d-5253-a678-b59f85b86eb1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Roman Kostenko, a Ukrainian colonel and lawmaker, checked for mines as he and his detail made their way into the village of Snihurivka along the Kherson front in southern Ukraine on Thursday.",
+        "credit": "Lynsey Addario for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/11/multimedia/11ukraine-briefing-russia-reaction-1-bff8/11ukraine-briefing-russia-reaction-1-bff8-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/11/multimedia/11ukraine-briefing-russia-reaction-1-bff8/11ukraine-briefing-russia-reaction-1-bff8-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-11-11T19:04:57Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/3f868a0d-0c3d-5253-a678-b59f85b86eb1",
+      "web_url": "https://www.nytimes.com/live/2022/11/12/world/russia-ukraine-war-news/russian-media-all-state-controlled-offers-only-muted-coverage-of-the-retreat-from-kherson",
+      "word_count": 505
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anatoly Kurmanaev"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A polarizing influencer and sometime Kremlin critic has returned to Russia, state media says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/871623a2-e700-5a36-a40d-04d0c496fa66",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The Russian social media influencer, Ksenia Sobchak, in Moscow, in 2018.",
+        "credit": "Pavel Golovkin/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/07/world/07ukraine-briefing-sobchak-russia/merlin_139088490_3bd29704-0229-4321-8683-d5ba9429eaa9-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/07/world/07ukraine-briefing-sobchak-russia/07ukraine-briefing-sobchak-russia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-11-07T19:45:13Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/871623a2-e700-5a36-a40d-04d0c496fa66",
+      "web_url": "https://www.nytimes.com/live/2022/11/07/world/ukraine-war-news-russia-updates/a-polarizing-influencer-and-sometime-kremlin-critic-has-returned-to-russia-state-media-says",
+      "word_count": 319
+    },
+    {
+      "abstract": "Col. Gen. Alexander Lapin had been publicly bashed by a close ally of President Vladimir V. Putin over his performance in Ukraine.",
+      "byline": {
+        "original": "By Cassandra Vinograd and Oleg Matsnev"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russian state media confirms that a top general is no longer in his post.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/46d96c79-4ba4-50d8-891d-043a222f5318",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "Colonel General Alexander Lapin in 2021.",
+        "credit": "Maksim Bogodvid/Sputnik, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/06/world/06ukraine-briefing-lapin/06ukraine-briefing-lapin-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/06/world/06ukraine-briefing-lapin/06ukraine-briefing-lapin-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-11-06T17:30:04Z",
+      "section_name": "World",
+      "snippet": "Col. Gen. Alexander Lapin had been publicly bashed by a close ally of President Vladimir V. Putin over his performance in Ukraine.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/46d96c79-4ba4-50d8-891d-043a222f5318",
+      "web_url": "https://www.nytimes.com/2022/11/06/world/europe/russian-general-putin-war.html",
+      "word_count": 391
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By David E. Sanger, Eric Schmitt and Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Dept. warns that ‘dirty bomb’ claims could be a pretext for Russian escalation.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1ad9f4a1-3bfc-54b3-bf9a-964e8cbc4466",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ukrainian soldiers collected unexploded ordnance on Monday in a region that was previously occupied by Russian forces.",
+        "credit": "Finbarr O'Reilly for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/11/24/multimedia/24ukraine-briefing-nukes-dc-sub-1-39ee/24ukraine-briefing-nukes-dc-sub-1-39ee-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/11/24/multimedia/24ukraine-briefing-nukes-dc-sub-1-39ee/24ukraine-briefing-nukes-dc-sub-1-39ee-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-24T22:10:54Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/1ad9f4a1-3bfc-54b3-bf9a-964e8cbc4466",
+      "web_url": "https://www.nytimes.com/live/2022/10/24/world/-russia-ukraine-war-news/dirty-bomb-russia",
+      "word_count": 499
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Paul Mozur"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Xi supercharged state surveillance. In his 3rd term, its power will continue to grow.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/da091972-6cd6-5294-8d50-e650fa4853a5",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A worker installing a closed circuit television surveillance camera in Beijing in 2019.",
+        "credit": "Nicolas Asfouri/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/10/23/world/23china-party-congress-surveillance-sub/merlin_214849494_2fca1638-f0f2-45b8-8d62-11ca1fc098aa-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/10/23/world/23china-party-congress-surveillance-sub/23china-party-congress-surveillance-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-23T08:00:04Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/da091972-6cd6-5294-8d50-e650fa4853a5",
+      "web_url": "https://www.nytimes.com/live/2022/10/22/world/china-xi-jinping-congress/xi-supercharged-state-surveillance-in-his-3rd-term-its-power-will-continue-to-grow",
+      "word_count": 462
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Austin Ramzy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Xi highlights efforts to build a state focused on security.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/dca3ff5f-8039-5884-8b79-5d6a5646766a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "In Beijing on Sunday, People’s Liberation Army soldiers marched past a poster depicting President Xi Jinping.",
+        "credit": "Andy Wong/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/10/16/world/16china-party-congress-security-sub/16china-party-congress-security-sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/10/16/world/16china-party-congress-security-sub/16china-party-congress-security-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-16T11:30:05Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/dca3ff5f-8039-5884-8b79-5d6a5646766a",
+      "web_url": "https://www.nytimes.com/live/2022/10/15/world/china-party-congress-xi-jinping/xi-highlights-efforts-to-build-a-state-focused-on-security",
+      "word_count": 452
+    },
+    {
+      "abstract": "Mr. Xi signaled that little would change on tech policy, as he emphasized internet controls, state-led innovation projects and a battle for key core technology.",
+      "byline": {
+        "original": "By Paul Mozur and John Liu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "On tech, Xi points to self-reliance and state-led initiatives.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d63325fe-1b6e-55c3-80a5-7d3a9c040aea",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Science and Technology",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Computer Chips",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Looking at a computer chip through a microscope at the China Beijing International High-tech Expo in 2018. China has struggled to free itself from reliance on foreign countries for microchips.",
+        "credit": "Ng Han Guan/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/10/16/world/16china-party-congress-tech/merlin_179099631_cfa525fa-5838-4799-b335-ec5e72b07ad5-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/10/16/world/16china-party-congress-tech/16china-party-congress-tech-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-16T10:20:04Z",
+      "section_name": "World",
+      "snippet": "Mr. Xi signaled that little would change on tech policy, as he emphasized internet controls, state-led innovation projects and a battle for key core technology.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/d63325fe-1b6e-55c3-80a5-7d3a9c040aea",
+      "web_url": "https://www.nytimes.com/2022/10/16/world/asia/on-tech-xi-points-to-self-reliance-and-state-led-initiatives.html",
+      "word_count": 401
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By James C. McKinley Jr."
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A shooting at a Russian training camp in the border area kills 11 soldiers, state media reports.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d7bf3cad-2ce8-577f-8cc2-3031ecaf8216",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "Billboard of a Russian soldier at a bus stop in Moscow, in August.",
+        "credit": " Nanna Heitmann for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/06/world/15ukraine-briefing-russia-terrorist-attacktop2/merlin_212433573_d19ac406-fab1-4bee-96fb-a315306c2f79-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/06/world/15ukraine-briefing-russia-terrorist-attacktop2/06moscow-mood16-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-10-15T20:29:41Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/d7bf3cad-2ce8-577f-8cc2-3031ecaf8216",
+      "web_url": "https://www.nytimes.com/live/2022/10/16/world/russia-ukraine-war-news/two-russian-soldiers-opened-fire-on-their-comrades-killing-15-state-news-agencies-say",
+      "word_count": 537
+    },
+    {
+      "abstract": "The fallout from Shinzo Abe’s death has taken a number of unexpected turns, casting a critical light on both his long-governing party and a fringe religious group.",
+      "byline": {
+        "original": "By Motoko Rich and Ben Dooley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Why Japan Is Angry About a State Funeral for an Assassinated Leader",
+        "kicker": "",
+        "print_headline": "Japan Facing Backlash Over Abe’s State Funeral"
+      },
+      "_id": "nyt://article/8bb5f893-e3b1-55b8-b1bd-00dc4664f0c9",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Abe, Shinzo",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kishida, Fumio",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Liberal Democratic Party (Japan)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Funerals and Memorials",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Religious Cults",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Soka Gakkai",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Unification Church",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Yamagami, Tetsuya",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "A protest against the planned state funeral for Shinzo Abe, Japan’s former prime minister, in Tokyo on Monday. Many are voicing their critique of his actions in life by opposing the effort to honor him in death.",
+        "credit": "Noriko Hayashi for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/24/world/24japan-abe1/merlin_213425511_a67a67a5-1866-449f-85f2-4a96f6270f67-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/24/world/24japan-abe1/merlin_213425511_a67a67a5-1866-449f-85f2-4a96f6270f67-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "14",
+      "print_section": "A",
+      "pub_date": "2022-09-24T14:50:27Z",
+      "section_name": "World",
+      "snippet": "The fallout from Shinzo Abe’s death has taken a number of unexpected turns, casting a critical light on both his long-governing party and a fringe religious group.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/8bb5f893-e3b1-55b8-b1bd-00dc4664f0c9",
+      "web_url": "https://www.nytimes.com/2022/09/24/world/asia/shinzo-abe-funeral-unification-church.html",
+      "word_count": 1384
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Enjoli Liston"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "After the state funeral comes a family service.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/09b252d0-5c60-59ed-abfb-a0e7d825e680",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A moment of silence on the steps of St. George’s Chapel in Windsor, England, during the funeral service for the queen’s husband, Prince Philip, last year.",
+        "credit": "Pool photo by Kirsty Wigglesworth",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-st-georges-chapel-01/19queen-elizabeth-st-georges-chapel-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-st-georges-chapel-01/19queen-elizabeth-st-georges-chapel-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-09-19T12:56:34Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/09b252d0-5c60-59ed-abfb-a0e7d825e680",
+      "web_url": "https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral/after-the-state-funeral-comes-a-family-service",
+      "word_count": 304
+    },
+    {
+      "abstract": "The service for the queen’s funeral at Westminster Abbey on Sept. 19 included a reading from Prime Minister Liz Truss, a sermon from the archbishop of Canterbury, and hymns.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "Read the Order of Service for Queen Elizabeth II’s State Funeral",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/0e2bdae8-2396-553d-9325-4d690f04da73",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Elizabeth II, Queen of Great Britain",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Funerals and Memorials",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "London (England)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/19/doc-1378025-order-of-service--promo/doc-1378025-order-of-service--promo-articleLarge.png",
+          "height": 849,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/19/doc-1378025-order-of-service--promo/doc-1378025-order-of-service--promo-thumbStandard.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-09-19T10:48:23Z",
+      "section_name": "World",
+      "snippet": "The service for the queen’s funeral at Westminster Abbey on Sept. 19 included a reading from Prime Minister Liz Truss, a sermon from the archbishop of Canterbury, and hymns.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/0e2bdae8-2396-553d-9325-4d690f04da73",
+      "web_url": "https://www.nytimes.com/interactive/2022/09/19/world/europe/queen-funeral-order-of-service.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Crowley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department warned private citizens not to negotiate prisoner swaps with Russia.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d245de71-c69a-5cbd-8b59-8bc5cae31755",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A State Department spokesman was asked on Wednesday about a report that Bill Richardson, a former U.S. ambassador to the United Nations, met with Russian officials in Moscow this week.",
+        "credit": "Seth Wenig/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/14/multimedia/14ukraine-blog-griner-richardson-01/14ukraine-blog-griner-richardson-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/14/multimedia/14ukraine-blog-griner-richardson-01/14ukraine-blog-griner-richardson-01-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-09-14T22:21:25Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/d245de71-c69a-5cbd-8b59-8bc5cae31755",
+      "web_url": "https://www.nytimes.com/2022/09/15/world/europe/the-state-department-warned-private-citizens-not-to-negotiate-prisoner-swaps-with-russia.html",
+      "word_count": 315
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Crowley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Biden will not designate Russia a state sponsor of terrorism.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5d6e3099-fc0c-593c-8092-01263818a04f",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Russian officials have suggested that President Biden would rupture what remains of U.S.-Russian relations if he were to designate their country a state sponsor of terrorism.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/06/06ukraine-briefing-russia-terror-sponsor-1/06ukraine-briefing-russia-terror-sponsor-1-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/06/06ukraine-briefing-russia-terror-sponsor-1/06ukraine-briefing-russia-terror-sponsor-1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-09-06T19:25:22Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/5d6e3099-fc0c-593c-8092-01263818a04f",
+      "web_url": "https://www.nytimes.com/2022/09/07/world/europe/biden-will-not-designate-russia-a-state-sponsor-of-terrorism.html",
+      "word_count": 254
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Yonette Joseph"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Cree Nation community declares a state of emergency.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1c951ed8-6b85-5947-b6d0-0c3c2e6dda38",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Rhonda Blackmore, a commanding officer in the Royal Canadian Mounted Police, at a news conference in Regina, Saskatchewan, on Sunday.",
+        "credit": "Michael Bell/The Canadian Press, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/09/04/world/04canada-stabbing-1/04canada-stabbing1a-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/09/04/world/04canada-stabbing-1/04canada-stabbing1a-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-09-05T00:09:43Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/1c951ed8-6b85-5947-b6d0-0c3c2e6dda38",
+      "web_url": "https://www.nytimes.com/live/2022/09/04/world/canada-stabbing-attacks/the-cree-nation-indigenous-community-declares-an-emergency",
+      "word_count": 291
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Victoria Kim"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department warns that Russia is planning ‘sham’ referendums in Kharkiv.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2daa09c4-ed1f-5c19-a179-ff7612bf355a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Kharkiv, Ukraine, has been hit by Russian attacks even after Moscow’s forces were thwarted in their attempts to take the city.",
+        "credit": "Viktoriia Yakymenko/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/31/world/31ukraine-briefing-kharkiv/merlin_212188560_4f087154-c63f-4f5f-b29c-76859924bfe6-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/31/world/31ukraine-briefing-kharkiv/31ukraine-briefing-kharkiv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-08-31T11:16:46Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/2daa09c4-ed1f-5c19-a179-ff7612bf355a",
+      "web_url": "https://www.nytimes.com/live/2022/08/31/world/ukraine-russia-war-news/the-state-department-warns-that-russia-is-planning-sham-referendums-in-kharkiv",
+      "word_count": 395
+    },
+    {
+      "abstract": "The sites are sometimes used to deport prisoners. And researchers found evidence of disturbed earth on two recent occasions consistent with mass graves.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.S. State Department and Yale identify 21 detention sites in Russian-controlled territory.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1c37dcdf-88b8-58b4-84df-d5d6abcf5e15",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A satellite image showed a general view of a prison in Olenivka, Ukraine, in July. Researchers said they found evidence of disturbed earth there consistent with mass graves.",
+        "credit": "Maxar Technologies/Via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/25/multimedia/25ukraine-briefing-filtration-camps-study01/25ukraine-briefing-filtration-camps-study01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/25/multimedia/25ukraine-briefing-filtration-camps-study01/25ukraine-briefing-filtration-camps-study01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-08-25T21:53:53Z",
+      "section_name": "World",
+      "snippet": "The sites are sometimes used to deport prisoners. And researchers found evidence of disturbed earth on two recent occasions consistent with mass graves.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1c37dcdf-88b8-58b4-84df-d5d6abcf5e15",
+      "web_url": "https://www.nytimes.com/2022/08/26/world/europe/the-us-state-department-and-yale-identify-21-detention-sites-in-russian-controlled-territory.html",
+      "word_count": 634
+    },
+    {
+      "abstract": "The authorities said for the first time that the state had been a key player in the likely massacre of students from a teachers’ college in 2014.",
+      "byline": {
+        "original": "By Oscar Lopez"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mexico Says Disappearance of 43 Students Was a ‘Crime of the State’",
+        "kicker": "",
+        "print_headline": "Mexico Describes the Disappearance of 43 Students in 2014 as a ‘Crime of the State’"
+      },
+      "_id": "nyt://article/38ada75d-4e9f-512b-9fe6-4f0b0d230c02",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Escuela Normal Rural Raul Isidro Burgos (Guerrero, Mexico)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Police Brutality, Misconduct and Shootings",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Guerreros Unidos (Gang)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Lopez Obrador, Andres Manuel",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Pena Nieto, Enrique",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Cartels",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Iguala (Mexico)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Missing Persons",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "A memorial to the 43 disappeared students in Mexico City in 2019.",
+        "credit": "Celia Talbot Tobin for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/18/world/18mexico/merlin_161131596_842edf22-0770-4ab1-bdcb-1bc42cf10d5d-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/18/world/18mexico/18mexico-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2022-08-18T23:43:19Z",
+      "section_name": "World",
+      "snippet": "The authorities said for the first time that the state had been a key player in the likely massacre of students from a teachers’ college in 2014.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/38ada75d-4e9f-512b-9fe6-4f0b0d230c02",
+      "web_url": "https://www.nytimes.com/2022/08/18/world/americas/mexico-students-disappearance.html",
+      "word_count": 1026
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Moscow court places a former state television journalist under house arrest over her anti-war protest.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ff0e1383-beb7-5706-92a9-317264cd63da",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Marina Ovsyannikova, who was detained and fined after protesting the war on television in March, has been sentenced to house arrest over her protest outside the Kremlin in July.",
+        "credit": "Natalia Kolesnikova/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/11/multimedia/11ukraine-briefing-journalist-protest-topart/11ukraine-briefing-journalist-protest-topart-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/11/multimedia/11ukraine-briefing-journalist-protest-topart/11ukraine-briefing-journalist-protest-topart-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-08-11T15:49:01Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/ff0e1383-beb7-5706-92a9-317264cd63da",
+      "web_url": "https://www.nytimes.com/2022/08/11/world/europe/a-moscow-court-places-a-former-state-television-journalist-under-house-arrest-over-her-anti-war-protest.html",
+      "word_count": 472
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia detains a former state television journalist who protested over the war.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cd259679-526b-5e1a-abc8-f7ecb4fa3eee",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Ovsyannikova, Marina",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Marina Ovsyannikova, a former state television employee, during a court hearing in Moscow last month.",
+        "credit": "Alexander Zemlianichenko/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/10/multimedia/10ukraine-briefing-journalist-detained-topart/10ukraine-briefing-journalist-detained-topart-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/10/multimedia/10ukraine-briefing-journalist-detained-topart/10ukraine-briefing-journalist-detained-topart-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-08-10T19:08:41Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/cd259679-526b-5e1a-abc8-f7ecb4fa3eee",
+      "web_url": "https://www.nytimes.com/2022/08/10/world/europe/russian-journalist-detained-marina-ovsyannikova.html",
+      "word_count": 344
+    },
+    {
+      "abstract": "Tamil Nadu’s ban on single-use plastic has gotten results, thanks to relentless policing. Now, India says it will tackle the problem nationwide.",
+      "byline": {
+        "original": "By Sameer Yasir"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As India Takes On Throwaway Plastic, This State Shows How It’s Done",
+        "kicker": "",
+        "print_headline": "As India Bans Disposable Plastic, One State Offers a Playbook"
+      },
+      "_id": "nyt://article/b6130065-53cd-5938-998b-7ff933102dba",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Plastic Bags",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Recalls and Bans of Products",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Tamil Nadu (India)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Fines (Penalties)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Environment",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Plastics",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Amul Vasudevan, right, selling vegetables in July along a busy road in Chennai, India. “Plastic bags can only be eliminated if the customer decides it, not the seller,” she said.",
+        "credit": "Anindito Mukherjee for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/07/26/world/00india-plastic-ban-01/00india-plastic-ban-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/07/26/world/00india-plastic-ban-01/00india-plastic-ban-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2022-07-31T18:26:37Z",
+      "section_name": "World",
+      "snippet": "Tamil Nadu’s ban on single-use plastic has gotten results, thanks to relentless policing. Now, India says it will tackle the problem nationwide.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/b6130065-53cd-5938-998b-7ff933102dba",
+      "web_url": "https://www.nytimes.com/2022/07/31/world/asia/india-plastic-ban.html",
+      "word_count": 1064
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Victoria Kim"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department says two Americans died recently in Donbas.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0c0232b5-2c16-5016-9e97-65a82f2906ea",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ukrainian military vehicles in the Donbas region this week.",
+        "credit": "Gleb Garanich/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/07/23/world/23ukraine-briefing-american-deaths/23ukraine-briefing-american-deaths-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/07/23/world/23ukraine-briefing-american-deaths/23ukraine-briefing-american-deaths-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-07-23T05:18:47Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/0c0232b5-2c16-5016-9e97-65a82f2906ea",
+      "web_url": "https://www.nytimes.com/2022/07/24/world/europe/the-state-department-says-two-americans-died-recently-in-the-donbas.html",
+      "word_count": 249
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Emily Schmall and Skandha Gunasekara"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Protesters take over the prime minister’s office and state broadcaster.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cbd63cab-a74e-5048-a9ad-e3551e4ee7db",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Demonstrators outside Prime Minister Ranil Wickremesinghe’s office on Wednesday.",
+        "credit": "Atul Loke for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/08/12/world/12sri-lanka-resign-office-sub-01/merlin_209980455_97182f0d-7bbe-4988-aa80-9a4f3659fd56-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/08/12/world/12sri-lanka-resign-office-sub-01/merlin_209980455_97182f0d-7bbe-4988-aa80-9a4f3659fd56-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-07-13T09:32:28Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/cbd63cab-a74e-5048-a9ad-e3551e4ee7db",
+      "web_url": "https://www.nytimes.com/2022/07/12/world/asia/protesters-take-over-prime-ministers-office-and-state-broadcaster.html",
+      "word_count": 117
+    },
+    {
+      "abstract": "Iran’s state news agency said the quake, which did extensive damage to a village, was followed by two more.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran Earthquake Kills at Least 5, State Media Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e4b36058-5472-5e4d-b871-60b5481dd51f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Earthquakes",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "Clearing away debris on Saturday in the Iranian village of Sayeh Khosh, in Hormozgan Province.",
+        "credit": "Abdolhossein Rezvani/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/07/01/multimedia/01iran-quake/01iran-quake-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/07/01/multimedia/01iran-quake/01iran-quake-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-07-02T00:35:31Z",
+      "section_name": "World",
+      "snippet": "Iran’s state news agency said the quake, which did extensive damage to a village, was followed by two more.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/e4b36058-5472-5e4d-b871-60b5481dd51f",
+      "web_url": "https://www.nytimes.com/2022/07/01/world/middleeast/iran-earthquake.html",
+      "word_count": 231
+    },
+    {
+      "abstract": " ",
+      "byline": {
+        "original": "By Farnaz Fassihi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Zelensky urges the U.N. to label Russia a terrorist state over a missile strike on a shopping mall.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/20a1d668-0987-5fce-a9cf-ff1a064d819e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ukrainian servicemen standing guard near the remains of a shopping center in Kremenchuk, Ukraine, on Tuesday, a day after it was hit by a Russian missile.",
+        "credit": "Oleg Petrasyuk/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/06/28/world/28ukraine-briefing-UN-security-council-sub/merlin_209285292_39a831f9-e925-40b6-902b-96ea8a39d4cc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/06/28/world/28ukraine-briefing-UN-security-council-sub/28ukraine-briefing-UN-security-council-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-06-29T00:40:04Z",
+      "section_name": "World",
+      "snippet": " ",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/20a1d668-0987-5fce-a9cf-ff1a064d819e",
+      "web_url": "https://www.nytimes.com/2022/06/29/world/europe/zelensky-urges-the-un-to-label-russia-a-terrorist-state-over-a-missile-strike-on-a-shopping-mall.html",
+      "word_count": 415
+    },
+    {
+      "abstract": "Times reporters spent over a year combing through government bidding documents that reveal the country’s technological road map to ensure the longevity of its authoritarian rule.",
+      "byline": {
+        "original": "By Isabelle Qian, Muyi Xiao, Paul Mozur and Alexander Cardia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Four Takeaways From a Times Investigation Into China’s Expanding Surveillance State",
+        "kicker": "Visual Investigations",
+        "print_headline": "China’s Expanding Surveillance State"
+      },
+      "_id": "nyt://article/f6d70d9d-1328-5b8d-b141-cf7196b0e01a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Surveillance of Citizens by Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "your-feed-visual-investigations",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Facial Recognition Software",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Computer Vision",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Video Recordings, Downloads and Streaming",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Chinese Language",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Asia Society",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "ChinaFile (Magazine)",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Megvii Technology Ltd",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Ministry of Public Security of the People's Republic of China",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "New York Times",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Beijing (China)",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Far East, South and Southeast Asia and Pacific Areas",
+          "rank": 14
+        },
+        {
+          "name": "Location",
+          "value": "Fujian Province (China)",
+          "rank": 15
+        },
+        {
+          "name": "Location",
+          "value": "Guangdong Province (China)",
+          "rank": 16
+        },
+        {
+          "name": "Location",
+          "value": "Henan Province (China)",
+          "rank": 17
+        },
+        {
+          "name": "Location",
+          "value": "Xinjiang (China)",
+          "rank": 18
+        },
+        {
+          "name": "Subject",
+          "value": "vis-video",
+          "rank": 19
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/06/21/video/21vid-takeaways-english-promo/21vid-takeaways-english-promo-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/06/21/video/21vid-takeaways-english-promo/21vid-takeaways-english-promo-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2022-06-21T07:00:11Z",
+      "section_name": "World",
+      "snippet": "Times reporters spent over a year combing through government bidding documents that reveal the country’s technological road map to ensure the longevity of its authoritarian rule.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/f6d70d9d-1328-5b8d-b141-cf7196b0e01a",
+      "web_url": "https://www.nytimes.com/2022/06/21/world/asia/china-surveillance-investigation.html",
+      "word_count": 1261
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Maham Javaid"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department says it has seen videos that appear to show 2 missing Americans.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/385c1acd-9f49-54ec-ad2e-90de9c99235a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Andy Tai Ngoc Huynh and Alex Drueke, two American veterans who traveled to Ukraine to fight Russia’s invasion.",
+        "credit": "Via Darla Black, Lois Drueke",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/06/16/world/19ukraine-briefing-americans/16ukraine-briefing-missing-americans-dyp-articleLarge.jpg",
+          "height": 300,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/06/16/world/19ukraine-briefing-americans/16ukraine-briefing-missing-americans-dyp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-06-19T09:05:50Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/385c1acd-9f49-54ec-ad2e-90de9c99235a",
+      "web_url": "https://www.nytimes.com/live/2022/06/19/world/ukraine-russia-news/the-state-department-says-it-has-seen-videos-that-appear-to-show-2-missing-americans",
+      "word_count": 653
+    },
+    {
+      "abstract": "A State Department spokesman did not provide specifics. Earlier reports that two U.S. veterans had been captured by Russian forces remain unconfirmed.",
+      "byline": {
+        "original": "By Anushka Patil"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department says a third American fighter may be missing in Ukraine.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8eec01e8-f6ee-54a6-a5e1-d9948271e456",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Missing in Action",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Drueke, Alex",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Huynh, Andy Tai Ngoc",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Veterans",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Ned Price, a U.S. State Department spokesperson, said a possible third American fighter had gone missing in Ukraine in recent weeks.",
+        "credit": "Pool photo by Andrew Harnik",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/07/16/world/16ukraine-briefing-missing-americans-sub/merlin_203013414_43b8a3bc-137f-4e9c-81d0-084c57ed7c72-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/07/16/world/16ukraine-briefing-missing-americans-sub/16ukraine-briefing-missing-americans-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-06-16T21:13:58Z",
+      "section_name": "World",
+      "snippet": "A State Department spokesman did not provide specifics. Earlier reports that two U.S. veterans had been captured by Russian forces remain unconfirmed.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/8eec01e8-f6ee-54a6-a5e1-d9948271e456",
+      "web_url": "https://www.nytimes.com/2022/06/16/world/europe/missing-american-ukraine.html",
+      "word_count": 525
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Crowley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia threatened American reporters in Moscow, the State Dept. said.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f561be11-f0b5-5ee5-aa07-b7cc88524449",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ned Price, a spokesman for the State Department, said that “qualified” Russian journalists were still being given visas to work in the United States, but that American journalists in Moscow had been threatened that their credentials were at risk.",
+        "credit": "Pool photo by Andrew Harnik",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/06/06/multimedia/06ukraine-blog-state-dept-visas-01/06ukraine-blog-state-dept-visas-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/06/06/multimedia/06ukraine-blog-state-dept-visas-01/06ukraine-blog-state-dept-visas-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-06-07T03:05:10Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/f561be11-f0b5-5ee5-aa07-b7cc88524449",
+      "web_url": "https://www.nytimes.com/live/2022/06/06/world/russia-ukraine-war-news/russia-threatened-american-reporters-in-moscow-the-state-dept-said",
+      "word_count": 395
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Stephen Castle"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The service in St. Paul’s Cathedral highlights the queen’s role as head of church and state.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9b40991e-2c98-5631-bbf0-3aedfe20e0ed",
+      "keywords": [],
+      "multimedia": {
+        "caption": "St. Paul’s Cathedral in London.",
+        "credit": "Paul Ellis/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/06/03/world/03queen-jubilee-friday-head-of-state-sub/merlin_207966009_68029c1a-cf26-41d1-bab7-929dc89b619e-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/06/03/world/03queen-jubilee-friday-head-of-state-sub/merlin_207966009_68029c1a-cf26-41d1-bab7-929dc89b619e-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-06-03T07:00:11Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/9b40991e-2c98-5631-bbf0-3aedfe20e0ed",
+      "web_url": "https://www.nytimes.com/live/2022/06/03/world/queen-elizabeth-jubilee/a-service-in-st-pauls-cathedral-will-highlight-the-queens-role-as-head-of-church-and-state",
+      "word_count": 341
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Benjamin Novak"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hungary’s Viktor Orban declares state of emergency, citing the Ukraine war to expand his power.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/99123d6a-1e72-52de-ab85-c135c44cf1f9",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Prime Minister Viktor Orban of Hungary, front right, declared a “state of emergency” in the country over the war in Ukraine on Wednesday.",
+        "credit": "Attila Kisbenedek/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/25/multimedia/25ukraine-blog-orban-topart/25ukraine-blog-orban-topart-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/25/multimedia/25ukraine-blog-orban-topart/25ukraine-blog-orban-topart-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-25T15:23:43Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/99123d6a-1e72-52de-ab85-c135c44cf1f9",
+      "web_url": "https://www.nytimes.com/live/2022/05/25/world/russia-ukraine-war/hungarys-viktor-orban-declares-state-of-emergency-citing-the-ukraine-war-to-expand-his-power",
+      "word_count": 530
+    },
+    {
+      "abstract": "The ban in Bihar State, championed by local women, was aimed at tackling alcoholism and domestic violence. But a drinking scene has sprung up across the border in Nepal.",
+      "byline": {
+        "original": "By Mujib Mashal and Bhadra Sharma"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "An Indian State Banned Alcohol. The Drinking Moved to Nearby Nepal.",
+        "kicker": "Nepal-India Border Dispatch",
+        "print_headline": "An Indian State Banned Alcohol. The Party Moved Next Door."
+      },
+      "_id": "nyt://article/0b06555b-7a5a-5344-b48b-ad1d95a79aa0",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Alcoholic Beverages",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Alcohol Abuse",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Nepal",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Bihar (India)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Bars and Nightclubs",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Fines (Penalties)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Smuggling",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Sharing food and drinks at a bar in Mahottari, Nepal, just across the border with India.",
+        "credit": "Saumya Khandelwal for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/20/world/00nepal-dispatch-04/merlin_205629348_f94a4ad3-0d65-429a-a465-5cff2d5fc4b9-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/20/world/00nepal-dispatch-04/00nepal-dispatch-04-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2022-05-19T07:00:15Z",
+      "section_name": "World",
+      "snippet": "The ban in Bihar State, championed by local women, was aimed at tackling alcoholism and domestic violence. But a drinking scene has sprung up across the border in Nepal.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/0b06555b-7a5a-5344-b48b-ad1d95a79aa0",
+      "web_url": "https://www.nytimes.com/2022/05/19/world/asia/nepal-india-bihar-alcohol.html",
+      "word_count": 1330
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "On Russian state media, the fall of the Mariupol steel plant is greeted with glee.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2e785ff5-979f-525b-a95c-70ce859125a1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "Alexander Ermochenko/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/18/world/18ukraine-blog-russian-media-azovstal/merlin_206814882_8f1048f1-4793-428f-9b07-cf6bbcc4a2e6-articleLarge.jpg",
+          "height": 390,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/18/world/18ukraine-blog-russian-media-azovstal/merlin_206814882_8f1048f1-4793-428f-9b07-cf6bbcc4a2e6-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-18T15:26:28Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/2e785ff5-979f-525b-a95c-70ce859125a1",
+      "web_url": "https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war/on-russian-state-media-the-fall-of-the-mariupol-steel-plant-is-greeted-with-glee",
+      "word_count": 464
+    },
+    {
+      "abstract": "Chancellor Olaf Scholz’s Social Democrats scored record-low votes in the first major electoral test he has faced since taking office.",
+      "byline": {
+        "original": "By Christopher F. Schuetze"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In a Setback for Scholz, Conservatives Keep Western State in Germany",
+        "kicker": "",
+        "print_headline": "Social Democrats Brace for Defeat  In Germany’s Most Populous State"
+      },
+      "_id": "nyt://article/708ba4fb-9026-5ef6-8ea8-e56afdd00a82",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Scholz, Olaf (1958- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Christian Democratic Union (Germany)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "North Rhine-Westphalia (Germany)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Social Democratic Party (Germany)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "The top candidate of the Christian Democratic Union in North Rhine-Westphalia, Hendrik Wüst, arrived at a polling station Sunday with his family. ",
+        "credit": "Ina Fassbender/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/15/world/15germany-nrw-1/merlin_206890530_2ee7eeb7-d193-4e92-a0bf-b669fc723c87-articleLarge.jpg",
+          "height": 384,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/15/world/15germany-nrw-1/15germany-nrw-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2022-05-15T21:54:36Z",
+      "section_name": "World",
+      "snippet": "Chancellor Olaf Scholz’s Social Democrats scored record-low votes in the first major electoral test he has faced since taking office.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/708ba4fb-9026-5ef6-8ea8-e56afdd00a82",
+      "web_url": "https://www.nytimes.com/2022/05/15/world/europe/germany-elections-scholz.html",
+      "word_count": 1014
+    },
+    {
+      "abstract": "Patron has found more than 200 explosives, President Zelensky said. The dog has gone viral as Ukraine wages an information war.",
+      "byline": {
+        "original": "By Anushka Patil"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A bomb-sniffing dog named Patron received state honors from Zelensky.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f194f9c9-8ff9-550a-94aa-83fac33d030e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Dogs",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Social Media",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Patron on the job at the Gostomel airfield near Kyiv, Ukraine, on Thursday.",
+        "credit": "Oleg Petrasyuk/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/08/world/08ukraine-blog-patron-dog-2/08ukraine-blog-patron-dog-2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/08/world/08ukraine-blog-patron-dog-2/08ukraine-blog-patron-dog-2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-09T00:45:04Z",
+      "section_name": "World",
+      "snippet": "Patron has found more than 200 explosives, President Zelensky said. The dog has gone viral as Ukraine wages an information war.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/f194f9c9-8ff9-550a-94aa-83fac33d030e",
+      "web_url": "https://www.nytimes.com/2022/05/08/world/europe/bomb-sniffing-dog-patron-zelensky.html",
+      "word_count": 355
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Austin Ramzy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State media lionizes John Lee while his predecessor gets the cold shoulder.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/342fc3ae-ac7a-532d-aaeb-766148561fc3",
+      "keywords": [],
+      "multimedia": {
+        "caption": "John Lee, the sole candidate for chief executive of Hong Kong, chatting with some residents days before the election.",
+        "credit": "Tyrone Siu/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/08/world/08hongkong-briefing-beijing-01/merlin_206367744_e0fbecad-3613-40fd-bd44-65759690abf6-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/08/world/08hongkong-briefing-beijing-01/08hongkong-briefing-beijing-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-08T04:26:52Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/342fc3ae-ac7a-532d-aaeb-766148561fc3",
+      "web_url": "https://www.nytimes.com/live/2022/05/07/world/hong-kong-john-lee/state-media-lionizes-john-lee-while-his-predecessor-gets-the-cold-shoulder",
+      "word_count": 342
+    },
+    {
+      "abstract": "It was the second such declaration in weeks by Gotabaya Rajapaksa, whose government is being blamed for the country’s deepening economic crisis.",
+      "byline": {
+        "original": "By Skandha Gunasekara"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Sri Lanka’s President Declares State of Emergency Again Amid Protests",
+        "kicker": "",
+        "print_headline": "Protests Send Sri Lanka Into State of Emergency"
+      },
+      "_id": "nyt://article/4955e771-874f-515e-8a2b-33e8a9926e9f",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Sri Lanka",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Colombo (Sri Lanka)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Rajapaksa, Gotabaya",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Rajapaksa, Mahinda",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Economic Conditions and Trends",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The police dispersed protesters near Parliament in Colombo, Sri Lanka, on Friday. Protesters say the political elite has failed a country trying to emerge from the shadow of civil war.",
+        "credit": "Ishara S. Kodikara/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/07/world/07srilanka1/merlin_206474721_8f13fce8-4fb9-4491-ad8f-384c0687a522-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/07/world/07srilanka1/07srilanka1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2022-05-07T13:38:23Z",
+      "section_name": "World",
+      "snippet": "It was the second such declaration in weeks by Gotabaya Rajapaksa, whose government is being blamed for the country’s deepening economic crisis.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/4955e771-874f-515e-8a2b-33e8a9926e9f",
+      "web_url": "https://www.nytimes.com/2022/05/07/world/asia/sri-lanka-protests-emergency.html",
+      "word_count": 753
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Alexandra E. Petri"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Carolina state employees will receive paid time off to get booster shots, the governor said.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f4546d78-ef47-5c6e-8bd4-04817cc5ce7d",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A pharmacist administering a Covid-19 booster shot on Thursday in Durham, N.C.",
+        "credit": "Veasey Conway for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/05/multimedia/05virus-briefing-north-carolina/05virus-briefing-north-carolina-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/05/multimedia/05virus-briefing-north-carolina/05virus-briefing-north-carolina-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-05-05T21:35:39Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/f4546d78-ef47-5c6e-8bd4-04817cc5ce7d",
+      "web_url": "https://www.nytimes.com/2022/05/05/world/north-carolina-state-employees-will-receive-paid-time-off-to-get-booster-shots-the-governor-said.html",
+      "word_count": 439
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A defiant Zelensky tells reporters the U.S. secretaries of state and defense will visit Kyiv.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bff5a057-1470-5df3-a86b-e2c075afbb6b",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ukraine’s president, Volodymyr Zelensky, at a news conference in the capital, Kyiv, on Saturday.",
+        "credit": "Daniel Berehulak for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/23/multimedia/23ukraine-blog-zelensky-presser-01/23ukraine-blog-zelensky-presser-01-articleLarge.jpg",
+          "height": 410,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/23/multimedia/23ukraine-blog-zelensky-presser-01/23ukraine-blog-zelensky-presser-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-23T20:11:00Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/bff5a057-1470-5df3-a86b-e2c075afbb6b",
+      "web_url": "https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news/zelensky-blinken-austin-ukraine-visit",
+      "word_count": 544
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Christopher F. Schuetze"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Germany’s smallest state is No. 1 in vaccines.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fe722b37-0120-51eb-86f7-e2dc15d12c87",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A mobile vaccination center in Bremen, Germany, in February. Bremen has the highest level of vaccination among the 16 German states.",
+        "credit": "Laetitia Vancon for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/12/world/12virus-briefing-germany-vaccines-versiongo/merlin_202219956_e715a292-3abc-4c40-aa75-a52fe99f84fa-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/12/world/12virus-briefing-germany-vaccines-versiongo/00germany-vaccines-03-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-12T20:30:06Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fe722b37-0120-51eb-86f7-e2dc15d12c87",
+      "web_url": "https://www.nytimes.com/2022/04/12/world/europe/germanys-smallest-state-is-no-1-in-vaccines.html",
+      "word_count": 206
+    },
+    {
+      "abstract": "Bremen — Germany’s smallest state — managed its vaccination campaign better than any other place in Germany. It succeeded by activating community networks.",
+      "byline": {
+        "original": "By Christopher F. Schuetze"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A German State Is Last in Almost Everything. But It’s No. 1 in Vaccines.",
+        "kicker": "",
+        "print_headline": "How Germany’s Smallest State Is Leading the Way on Vaccines"
+      },
+      "_id": "nyt://article/76b0eb8c-515d-5493-983f-64dd87838f43",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Bremen (Germany)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Vaccination and Immunization",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A mobile vaccination center, left, parked in the multicultural and densely populated district of Gröpelingen, in Bremen, Germany. The bus at right was used as a place for people to rest after being vaccinated.",
+        "credit": "Laetitia Vancon for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/12/world/00germany-vaccines-01/merlin_202219737_2d2a1f5c-6166-4c43-8866-f713ee80098f-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/12/world/00germany-vaccines-01/00germany-vaccines-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2022-04-12T16:36:18Z",
+      "section_name": "World",
+      "snippet": "Bremen — Germany’s smallest state — managed its vaccination campaign better than any other place in Germany. It succeeded by activating community networks.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/76b0eb8c-515d-5493-983f-64dd87838f43",
+      "web_url": "https://www.nytimes.com/2022/04/12/world/europe/germany-covid-vaccine-strategy.html",
+      "word_count": 1298
+    },
+    {
+      "abstract": "A lockdown in the city of 25 million people “severely impacts travel and access to public services,” the State Department said.",
+      "byline": {
+        "original": "By John Yoon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.S. State Department orders nonemergency workers and their families to leave Shanghai.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2faec20f-ec34-5257-bf29-55f9f20fda72",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A worker in a protective suit kept watch next to barricades set around a sealed-off area during a lockdown to curb the spread of the coronavirus in Shanghai on Monday.",
+        "credit": "Aly Song/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/12/world/12virus-briefing-shanghai-02/merlin_205347513_4c26efec-afa9-4aa6-a9bf-50274c7190fa-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/12/world/12virus-briefing-shanghai-02/12virus-briefing-shanghai-02-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-12T03:26:31Z",
+      "section_name": "World",
+      "snippet": "A lockdown in the city of 25 million people “severely impacts travel and access to public services,” the State Department said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/2faec20f-ec34-5257-bf29-55f9f20fda72",
+      "web_url": "https://www.nytimes.com/live/2022/04/12/world/covid-19-mandates-cases-vaccine/us-shanghai-lockdown",
+      "word_count": 367
+    },
+    {
+      "abstract": "Public health measures imposed under the declaration have often been strict, including bans on alcohol sales and certain types of clothing.",
+      "byline": {
+        "original": "By Lynsey Chutel"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "South Africa lifts its Covid ‘state of disaster’ after two years.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/554e6c85-a8ac-54e8-bc8a-bb903f864369",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Walking past an informative graffiti art work educating local Soweto residents about the dangers of the coronavirus, Johannesburg, in November.",
+        "credit": "Kim Ludbrook/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/05/04/world/04virus-briefing-safrica-sub/merlin_198567513_9bb0203e-c185-4a11-b471-7b1c250e184c-articleLarge.jpg",
+          "height": 420,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/05/04/world/04virus-briefing-safrica-sub/04virus-briefing-safrica-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-04-04T21:11:10Z",
+      "section_name": "World",
+      "snippet": "Public health measures imposed under the declaration have often been strict, including bans on alcohol sales and certain types of clothing.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/554e6c85-a8ac-54e8-bc8a-bb903f864369",
+      "web_url": "https://www.nytimes.com/2022/04/04/world/south-africa-lifts-its-covid-state-of-disaster-after-two-years.html",
+      "word_count": 529
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Meghan Miner Murray"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hawaii lifts its indoor mask mandate and travel restrictions, the last state to do so.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0972ef67-dcc1-57a8-988b-a668d7731a32",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Hawaii dropped its indoor mask mandate as of Saturday, but many residents say they will continue to wear them anyway. The federal mask mandate for transportation remains in effect for all U.S. states.",
+        "credit": "Caleb Jones/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/26/lens/26virus-briefing-hawaii-01/26virus-briefing-hawaii-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/26/lens/26virus-briefing-hawaii-01/26virus-briefing-hawaii-01-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "National",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-26T19:42:09Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/0972ef67-dcc1-57a8-988b-a668d7731a32",
+      "web_url": "https://www.nytimes.com/live/2022/03/27/world/covid-19-mandates-cases-vaccine/hawaii-lifts-its-indoor-mask-mandate-and-travel-restrictions-the-last-state-to-do-so",
+      "word_count": 658
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Israel, the Ukraine war brings new urgency to arguments about the purpose of a Jewish state.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f34f371a-420b-5553-a625-7ef06bf0fb43",
+      "keywords": [],
+      "multimedia": {
+        "caption": "New immigrants from Ukraine arrive in Israel on a flight sponsored by the Jewish Agency, a quasi-governmental body that assists with rescue and immigration.",
+        "credit": "Amit Elkayam for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/23/world/23ukraine-blog-israel-immigration-grid1/merlin_203863818_8a5a079e-4933-4d0a-886c-fab98abbd715-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/23/world/23ukraine-blog-israel-immigration-grid1/merlin_203863818_8a5a079e-4933-4d0a-886c-fab98abbd715-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-23T20:10:32Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/f34f371a-420b-5553-a625-7ef06bf0fb43",
+      "web_url": "https://www.nytimes.com/live/2022/03/23/world/ukraine-russia-war/in-israel-the-ukraine-war-brings-new-urgency-to-arguments-about-the-purpose-of-a-jewish-state",
+      "word_count": 272
+    },
+    {
+      "abstract": "Most Ukrainians seeking refuge in Israel are non-Jews. Some Israelis see a moral imperative to take them in, but others see a threat to the country’s Jewish character.",
+      "byline": {
+        "original": "By Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine War Ignites Israeli Debate Over Purpose of a Jewish State",
+        "kicker": "",
+        "print_headline": "Israelis Debate How Many, and What Kind of, Refugees to Accept"
+      },
+      "_id": "nyt://article/88364d78-d07e-5fd2-aef4-7f0b1b3ea98e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Jewish Agency for Israel",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Lau, David (1966- )",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Lida Stryzhkovl, from Kyiv, Ukraine, and her grandson, Dima, waiting at Ben-Gurion Airport's train station, on their way to Beersheba, where a relative lives.",
+        "credit": "Amit Elkayam for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/17/world/xxISRAEL-IMMIGRATION01/merlin_203863938_9f2a9d8a-1e44-463f-877b-c4871bf2e3e5-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/17/world/xxISRAEL-IMMIGRATION01/xxISRAEL-IMMIGRATION01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "14",
+      "print_section": "A",
+      "pub_date": "2022-03-23T13:59:40Z",
+      "section_name": "World",
+      "snippet": "Most Ukrainians seeking refuge in Israel are non-Jews. Some Israelis see a moral imperative to take them in, but others see a threat to the country’s Jewish character.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/88364d78-d07e-5fd2-aef4-7f0b1b3ea98e",
+      "web_url": "https://www.nytimes.com/2022/03/23/world/middleeast/israel-ukraine-refugees-jewish.html",
+      "word_count": 1265
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Mike Ives, Amy Chang Chien and Joy Dong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China’s state media (subtly) softens its tone on the war.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7f46dcbb-2428-5067-b751-b22666f1f12b",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Reading Chinese state media’s coverage on Russia’s invasion of Ukraine last month.",
+        "credit": "Jade Gao/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/17/world/17ukraine-blog-china-media/merlin_202758567_8712903f-81a6-4cb0-850d-d983566134a2-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/17/world/17ukraine-blog-china-media/17ukraine-blog-china-media-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-18T12:21:42Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7f46dcbb-2428-5067-b751-b22666f1f12b",
+      "web_url": "https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war/china-media-russia-ukraine-war",
+      "word_count": 563
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Azi Paybarah"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Zelensky calls for more economic sanctions against the ‘terrorist state’ of Russia.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e35ecf62-9b3c-5952-913b-b5a98ce81b85",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Damaged vehicles and buildings in Kharkiv on Wednesday.",
+        "credit": "Pavel Dorogoy/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/16/world/16ukraine-blog-zelensky-speech/merlin_203939658_5ce746d6-3728-4092-9643-739dc66e2d4c-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/16/world/16ukraine-blog-zelensky-speech/16ukraine-blog-zelensky-speech-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-17T02:14:44Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/e35ecf62-9b3c-5952-913b-b5a98ce81b85",
+      "web_url": "https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war/zelensky-calls-for-more-economic-sanctions-against-the-terrorist-state-of-russia",
+      "word_count": 349
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Daniel Walters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Oregon and Washington State, known for cautious Covid strategies, lift their statewide mask mandates.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e5eed494-6c5a-57ba-8c5c-3124d1375930",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Brown, Kate (1960- )",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Inslee, Jay",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Oregon",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Washington (State)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Masks",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Vaccination and Immunization",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus Omicron Variant",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Placing an order at a bakery in Yakima, Wash., in 2020.",
+        "credit": "Elaine Thompson/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/03/us/politics/0312virus-briefing-Washington-State-Oregon/merlin_174208089_bd56176d-31ef-4baf-a9e7-5cd782592b4f-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/03/us/politics/0312virus-briefing-Washington-State-Oregon/merlin_174208089_bd56176d-31ef-4baf-a9e7-5cd782592b4f-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "National",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-12T23:57:35Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/e5eed494-6c5a-57ba-8c5c-3124d1375930",
+      "web_url": "https://www.nytimes.com/2022/03/13/world/oregon-washington-state-lift-statewide-mask-mandates.html",
+      "word_count": 427
+    },
+    {
+      "abstract": "The western state of Maharashtra on Wednesday reported no daily fatalities from the virus for the third time this month.",
+      "byline": {
+        "original": "By Sameer Yasir"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "An Indian state that Covid once hit hard is now recording sharply lower deaths.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f8721ca6-74bb-500c-b776-425549bbc840",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Vaccination and Immunization",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Maharashtra (India)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Commuters at a train station in Mumbai last week.",
+        "credit": "Jewel Samad/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/11/world/11virus-briefing-india/11virus-briefing-india-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/11/world/11virus-briefing-india/11virus-briefing-india-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-11T10:36:47Z",
+      "section_name": "World",
+      "snippet": "The western state of Maharashtra on Wednesday reported no daily fatalities from the virus for the third time this month.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/f8721ca6-74bb-500c-b776-425549bbc840",
+      "web_url": "https://www.nytimes.com/2022/03/11/world/asia/covid-india-maharashtra-deaths.html",
+      "word_count": 501
+    },
+    {
+      "abstract": "Uttar Pradesh, India’s most populous state, is staying in the Bharatiya Janata Party’s hands, as the party maintains its electoral success despite mounting economic hardship.",
+      "byline": {
+        "original": "By Karan Deep Singh and Mujib Mashal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Modi’s Party Wins the Biggest Prize in India’s State Elections",
+        "kicker": "",
+        "print_headline": "Modi’s Party Keeps Power in Key State"
+      },
+      "_id": "nyt://article/36dce0ab-b903-570f-9b9f-d4496f547308",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Uttar Pradesh State (India)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Adityanath, Yogi",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Aam Aadmi Party (India)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Indian National Congress",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "B.J.P. supporters celebrate victory in Lucknow, the state capital of Uttar Pradesh, on Thursday.",
+        "credit": "Saumya Khandelwal for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/10/world/10India-elections-15/merlin_203578365_b7d01b8f-5f27-44a9-b276-b518524b4af6-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/10/world/10India-elections-15/10India-elections-15-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2022-03-10T07:28:00Z",
+      "section_name": "World",
+      "snippet": "Uttar Pradesh, India’s most populous state, is staying in the Bharatiya Janata Party’s hands, as the party maintains its electoral success despite mounting economic hardship.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/36dce0ab-b903-570f-9b9f-d4496f547308",
+      "web_url": "https://www.nytimes.com/2022/03/10/world/asia/india-elections-modi.html",
+      "word_count": 1185
+    },
+    {
+      "abstract": "About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross-hairs of war.",
+      "byline": {
+        "original": "By Damien Cave and Vjosa Isai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State of Fighting in Ukraine’s Besieged Cities",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/419a48e2-58b8-5529-9348-c7b3d38bbf1d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Kyiv (Ukraine)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Kherson (Ukraine)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Mariupol (Ukraine)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Kharkiv (Ukraine)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Cleaning up debris after a residential building was hit by missiles in Kyiv in February.",
+        "credit": "Lynsey Addario for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/04/world/04ukraine-tracker01/merlin_202841250_d8485e71-aca3-4439-84fc-97a0720b6c91-articleLarge.jpg",
+          "height": 404,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/04/world/04ukraine-tracker01/merlin_202841250_d8485e71-aca3-4439-84fc-97a0720b6c91-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-05T20:23:45Z",
+      "section_name": "World",
+      "snippet": "About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross-hairs of war.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/419a48e2-58b8-5529-9348-c7b3d38bbf1d",
+      "web_url": "https://www.nytimes.com/article/ukraine-cities.html",
+      "word_count": 1835
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Lara Jakes"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Secretary of State Blinken assesses refugee needs at the Ukraine border.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/082d13bf-f693-53fc-ae7e-bae9d3087969",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ukrainian refugees sheltering in what a week ago was functioning as a shopping mall were visited by U.S. Secretary of State Antony J. Blinken on Saturday.",
+        "credit": "Pool photo by Olivier Douliery",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/05/multimedia/05ukraine-blog-blinken-poland-topart/05ukraine-blog-blinken-poland-topart-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/05/multimedia/05ukraine-blog-blinken-poland-topart/05ukraine-blog-blinken-poland-topart-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-05T16:57:47Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/082d13bf-f693-53fc-ae7e-bae9d3087969",
+      "web_url": "https://www.nytimes.com/live/2022/03/05/world/russia-ukraine/secretary-of-state-blinken-assesses-refugee-needs-at-the-ukraine-border",
+      "word_count": 319
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Adeel Hassan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Biden’s state of the virus and Omicron surges in Hong Kong and New Zealand: The week in Covid news.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ce0b8e2a-cf48-532d-b6a1-c5bb60643c7e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Biden announced a “test to treat” program that would allow Americans who test positive at a pharmacy to “receive antiviral pills on the spot at no cost.”",
+        "credit": "Kenny Holston for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/05/us/05virus-briefing-the-week-in-covid-news/merlin_203147328_b700e775-6671-4bde-a1c9-7cc4ef3e3f30-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/05/us/05virus-briefing-the-week-in-covid-news/05virus-briefing-the-week-in-covid-news-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-05T15:15:05Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/ce0b8e2a-cf48-532d-b6a1-c5bb60643c7e",
+      "web_url": "https://www.nytimes.com/live/2022/03/05/world/covid-19-tests-cases-vaccine/bidens-state-of-the-virus-and-omicron-surges-in-hong-kong-and-new-zealand-the-week-in-covid-news",
+      "word_count": 517
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Lara Jakes"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.S. secretary of state promises NATO unity amid Russia’s invasion of Ukraine.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7e45b191-966f-5734-883e-558ccc0db849",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Jens Stoltenberg, NATO’s secretary general, right, and Secretary of State Antony J. Blinken before a NATO meeting in Brussels on Friday.",
+        "credit": "Pool photo by Yves Herman",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/04/03/world/03ukraine-briefing-NATO-01/merlin_203207250_c79a40e5-282b-49c4-8230-d7b73b1af5fd-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/04/03/world/03ukraine-briefing-NATO-01/03ukraine-briefing-NATO-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-04T10:55:39Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7e45b191-966f-5734-883e-558ccc0db849",
+      "web_url": "https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/the-us-secretary-of-state-promises-nato-unity-amid-russias-invasion-of-ukraine",
+      "word_count": 267
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Sheryl Gay Stolberg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Biden will lay out new nursing home protections in his State of the Union speech.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/aac95928-8c1e-5744-8b40-62eeef153ae1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Nursing home residents waited to receive a Covid-19 vaccine in New York last year.",
+        "credit": "Yuki Iwamura/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/01/world/01virus-briefing-SOTU-nursing-homes-sub/merlin_191257761_cdefdb23-2673-4324-ae7b-68dd1883c446-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/01/world/01virus-briefing-SOTU-nursing-homes-sub/01virus-briefing-SOTU-nursing-homes-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-03-01T10:00:29Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/aac95928-8c1e-5744-8b40-62eeef153ae1",
+      "web_url": "https://www.nytimes.com/2022/03/01/world/americas/biden-will-lay-out-new-nursing-home-protections-in-his-state-of-the-union-speech.html",
+      "word_count": 503
+    },
+    {
+      "abstract": "This year’s address from the president, unlike last year’s, is open to all members of Congress.",
+      "byline": {
+        "original": "By Jonathan Weisman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The mask mandate in the Capitol is being lifted in time for the State of the Union.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e0e71e93-9b46-5a43-82e7-c80adf1eba02",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "State of the Union Message (US)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Capitol Building (Washington, DC)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Greene, Marjorie Taylor (1974- )",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Clyde, Andrew (1963- )",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Masks",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The mask mandate on the House floor at the U.S. Capitol is being lifted.",
+        "credit": "Al Drago for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/27/multimedia/27virus-briefing-no-masks-capitol-01/27virus-briefing-no-masks-capitol-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/27/multimedia/27virus-briefing-no-masks-capitol-01/27virus-briefing-no-masks-capitol-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-28T02:06:31Z",
+      "section_name": "World",
+      "snippet": "This year’s address from the president, unlike last year’s, is open to all members of Congress.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/e0e71e93-9b46-5a43-82e7-c80adf1eba02",
+      "web_url": "https://www.nytimes.com/2022/02/28/world/state-of-the-union-mask-mandate.html",
+      "word_count": 316
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Sophie Kasakove"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Gov. Newsom lifts many Covid executive orders, but not California’s state of emergency.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3fbd777b-6fb5-5e09-8ba0-c887152228c8",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Gov. Gavin Newsom of California at a news conference on Feb. 17. On Friday, he said that the last of the state’s pandemic executive orders would be lifted by the end of June.",
+        "credit": "Watchara Phomicinda/The Orange County Register, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/26/multimedia/26virus-briefing-california-02/26virus-briefing-california-02-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/26/multimedia/26virus-briefing-california-02/26virus-briefing-california-02-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "National",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-26T21:32:18Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/3fbd777b-6fb5-5e09-8ba0-c887152228c8",
+      "web_url": "https://www.nytimes.com/live/2022/02/26/world/covid-19-tests-cases-vaccine/gov-newsom-lifts-many-covid-executive-orders-but-not-californias-state-of-emergency",
+      "word_count": 308
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Daisuke Wakabayashi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "YouTube blocks advertising from Russian state-owned media.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2ff929cd-6ba8-584a-a314-39e62c213f84",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-26T19:32:09Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/2ff929cd-6ba8-584a-a314-39e62c213f84",
+      "web_url": "https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war/youtube-blocks-advertising-from-russian-state-owned-media",
+      "word_count": 263
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Crowley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department says Moscow’s diplomacy was a ‘pretense.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5735625d-0bb2-5d0d-b07d-b4739f48f855",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Secretary of State Antony J. Blinken, left, with the Russia’s foreign minister, Sergey V. Lavrov, before a meeting in Geneva last month.",
+        "credit": "Pool photo by Alex Brandon",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/25/world/25ukraine-briefing-diplomacy-moscow/merlin_200667282_e5f299ff-6492-4035-94e6-3fcf3ee625d9-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/25/world/25ukraine-briefing-diplomacy-moscow/25ukraine-briefing-diplomacy-moscow-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-26T13:02:03Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/5735625d-0bb2-5d0d-b07d-b4739f48f855",
+      "web_url": "https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war/the-state-department-says-moscows-diplomacy-was-a-pretense",
+      "word_count": 183
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Roger Cohen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Putin, warning against interference, says that Russia is a ‘powerful nuclear state.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5dd30175-a84b-58dc-b788-e209a288b29a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "President Vladimir V. Putin of Russia speaking at the Kremlin in Moscow on Thursday.",
+        "credit": "Russian Presidency, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/24/world/24ukraine-briefing-putin-nuclear-1/24ukraine-briefing-putin-nuclear-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/24/world/24ukraine-briefing-putin-nuclear-1/24ukraine-briefing-putin-nuclear-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-24T14:39:21Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/5dd30175-a84b-58dc-b788-e209a288b29a",
+      "web_url": "https://www.nytimes.com/live/2022/02/24/world/russia-attacks-ukraine/putin-nuclear-war-ukraine",
+      "word_count": 385
+    },
+    {
+      "abstract": "Prime Minister Mario Draghi said on Wednesday that the situation in Italy had improved enough to allow the emergency declaration to lapse after more than two years.",
+      "byline": {
+        "original": "By Elisabetta Povoledo"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Italy says it will end its pandemic state of emergency on March 31.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/306cafa1-52c1-5327-8cde-b716d2bd67ff",
+      "keywords": [],
+      "multimedia": {
+        "caption": "People walked through Milan without masks on Feb. 11, the first day after an outdoor mask mandate was partially lifted.",
+        "credit": "Daniel Dal Zennaro/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/23/multimedia/23virus-briefing-italy-emergency/23virus-briefing-italy-emergency-articleLarge.jpg",
+          "height": 417,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/23/multimedia/23virus-briefing-italy-emergency/23virus-briefing-italy-emergency-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-23T20:36:31Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Mario Draghi said on Wednesday that the situation in Italy had improved enough to allow the emergency declaration to lapse after more than two years.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/306cafa1-52c1-5327-8cde-b716d2bd67ff",
+      "web_url": "https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine/italy-says-it-will-end-its-pandemic-state-of-emergency-on-march-31",
+      "word_count": 309
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Valerie Hopkins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine declares a 30-day state of emergency.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/50176483-df3b-5444-9ba5-538e3c8540fd",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Some residents fled the town of Shchastia in eastern Ukraine on Tuesday.",
+        "credit": "Tyler Hicks/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/23/world/23ukraine-briefing-ukraine-emergency-sub/merlin_202688412_55df1d11-d564-4973-9f9f-f0fb101c8506-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/23/world/23ukraine-briefing-ukraine-emergency-sub/merlin_202688412_55df1d11-d564-4973-9f9f-f0fb101c8506-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-23T11:53:38Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/50176483-df3b-5444-9ba5-538e3c8540fd",
+      "web_url": "https://www.nytimes.com/live/2022/02/23/world/russia-ukraine-putin/ukraine-is-set-to-declare-a-state-of-emergency",
+      "word_count": 328
+    },
+    {
+      "abstract": "Ukraine’s minister of digital transformation, Mykhailo Fedorov, said the attack “bore traces of foreign intelligence services.”",
+      "byline": {
+        "original": "By Valerie Hopkins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A hack of the Defense Ministry, army and state banks was the largest of its kind in Ukraine’s history.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ccab067a-dde5-57ea-833c-b76b2e9ad516",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Cyberattacks and Hackers",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Cyberwarfare and Defense",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Computers and the Internet",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Serhiy Prokopenko, head of Ukraine’s Head of the National Center of Cyber Security on February 14, 2022.",
+        "credit": "Michael Downey for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/15/world/europe/UKRAINE-CYBER/UKRAINE-CYBER-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/15/world/europe/UKRAINE-CYBER/UKRAINE-CYBER-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-15T18:43:42Z",
+      "section_name": "World",
+      "snippet": "Ukraine’s minister of digital transformation, Mykhailo Fedorov, said the attack “bore traces of foreign intelligence services.”",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/ccab067a-dde5-57ea-833c-b76b2e9ad516",
+      "web_url": "https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html",
+      "word_count": 694
+    },
+    {
+      "abstract": "Some thoughts on a better politics — and some relief Australia isn’t America.",
+      "byline": {
+        "original": "By Besha Rodell"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Readers Reflect on the State of Australian Politics",
+        "kicker": "Letter 244",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fd75aeb1-2c17-582b-b69b-2793bb5e5873",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Scott Morrison of Australia.",
+        "credit": "Mick Tsikas/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/04/world/04ausletter243-1/04ausletter243-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/04/world/04ausletter243-1/04ausletter243-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-11T07:52:23Z",
+      "section_name": "World",
+      "snippet": "Some thoughts on a better politics — and some relief Australia isn’t America.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/fd75aeb1-2c17-582b-b69b-2793bb5e5873",
+      "web_url": "https://www.nytimes.com/2022/02/11/world/australia/state-of-politics.html",
+      "word_count": 1334
+    },
+    {
+      "abstract": "While many voters say they are concerned about the economy, the prime minister’s party has placed a focus on religion, with often polarizing effects.",
+      "byline": {
+        "original": "By Hari Kumar and Emily Schmall"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Bellwether for Narendra Modi as India’s Largest State Goes to the Polls",
+        "kicker": "",
+        "print_headline": "Modi’s Focus on Religion Is Tested as States Vote"
+      },
+      "_id": "nyt://article/d21ff53a-8980-59f8-93c1-de845eaa5afe",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Voting and Voters",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Economic Conditions and Trends",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Hinduism",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Adityanath, Yogi",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Uttar Pradesh State (India)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Voting began on Thursday in the state of Uttar Pradesh in northern India.",
+        "credit": "Manish Swarup/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/10/world/10india-election-01/10india-election-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/10/world/10india-election-01/10india-election-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2022-02-10T10:37:30Z",
+      "section_name": "World",
+      "snippet": "While many voters say they are concerned about the economy, the prime minister’s party has placed a focus on religion, with often polarizing effects.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/d21ff53a-8980-59f8-93c1-de845eaa5afe",
+      "web_url": "https://www.nytimes.com/2022/02/10/world/asia/india-election-modi-uttar-pradesh.html",
+      "word_count": 1159
+    },
+    {
+      "abstract": "Though case numbers are at a record level, Germany is recording relatively few Covid deaths and stable hospitalization rates.",
+      "byline": {
+        "original": "By Christopher F. Schuetze"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State by state, Germany relaxes its Covid rules, even as cases surge.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5e6b2164-c600-52e3-a1e1-a411f61a1a24",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Vaccination and Immunization",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Saarland (Germany)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Schleswig-Holstein (Germany)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Bavaria (Germany)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Berlin (Germany)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Brandenburg (Germany)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Hesse (Germany)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "A department store in Berlin last year. Several German states are loosening Covid restrictions even as the country’s caseload rises.",
+        "credit": "Sean Gallup/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/09/world/09virus-briefing-germany-update-02/merlin_198583440_00976fd1-8096-4531-b09a-1922849dfcbf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/09/world/09virus-briefing-germany-update-02/09virus-briefing-germany-update-02-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-09T13:22:13Z",
+      "section_name": "World",
+      "snippet": "Though case numbers are at a record level, Germany is recording relatively few Covid deaths and stable hospitalization rates.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/5e6b2164-c600-52e3-a1e1-a411f61a1a24",
+      "web_url": "https://www.nytimes.com/2022/02/09/world/europe/germany-covid-restrictions.html",
+      "word_count": 312
+    },
+    {
+      "abstract": "A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent.",
+      "byline": {
+        "original": "By Ian Austen and Dan Bilefsky"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ottawa Mayor Declares State of Emergency Amid Antigovernment Protests",
+        "kicker": "",
+        "print_headline": "Truckers’ Protests Grow in Canada"
+      },
+      "_id": "nyt://article/f6ac6884-3885-56cc-b3b6-ea048a6125d8",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Ottawa (Ontario)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Trucks and Trucking",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Protesters in Ottawa on Sunday.",
+        "credit": "Lars Hagberg/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/07/multimedia/07canada-truckers/07canada-truckers-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/07/multimedia/07canada-truckers/07canada-truckers-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2022-02-07T00:53:48Z",
+      "section_name": "World",
+      "snippet": "A 10-day demonstration by truckers and other protesters has ensnarled Canada’s capital and led officials to warn that things could turn violent.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/f6ac6884-3885-56cc-b3b6-ea048a6125d8",
+      "web_url": "https://www.nytimes.com/2022/02/06/world/americas/canada-trucker-protest-ottawa.html",
+      "word_count": 837
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ian Austen and Vjosa Isai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ottawa declares a state of emergency as protests against pandemic measures spread across Canada.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8257c743-e94c-53b3-b9b5-a0b4a6c283e4",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Canadian truckers and their supporters gathered on a closed street in Ottawa on Friday during protests against Covid vaccine mandates.",
+        "credit": "Lars Hagberg/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/03/04/world/05virus-briefing-canada-truckers/merlin_201364047_8818c7c2-14fd-420b-b725-e47c85296e10-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/03/04/world/05virus-briefing-canada-truckers/04virus-briefing-canada-truckers-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-05T16:24:34Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/8257c743-e94c-53b3-b9b5-a0b4a6c283e4",
+      "web_url": "https://www.nytimes.com/live/2022/02/06/world/covid-test-vaccine-cases/canadas-capital-paralyzed-by-a-trucker-led-protest-against-vaccine-mandates-braces-for-more-protesters",
+      "word_count": 351
+    },
+    {
+      "abstract": "A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate.",
+      "byline": {
+        "original": "By Shashank Bengali and Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Five Takeaways From the U.S. Raid That Killed the Islamic State’s Leader",
+        "kicker": "",
+        "print_headline": "U.S. Raid on Islamic State Offers Reminder of Enduring Chaos in Syria"
+      },
+      "_id": "nyt://article/f5268f2a-9854-59d6-8914-dda9dddfd5a5",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "al-Qurayshi, Abu Ibrahim al-Hashemi",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "The house in Atmeh, Syria, in which Abu Ibrahim al-Hashimi al-Qurayshi, the leader of the Islamic State, was living.",
+        "credit": "Aaref Watad/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/04/world/04syria-takeaways/04syria-takeaways-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/04/world/04syria-takeaways/04syria-takeaways-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2022-02-04T16:03:01Z",
+      "section_name": "World",
+      "snippet": "A daring raid by U.S. Special Operations forces that resulted in the death of the ISIS leader offered a vivid reminder that the chaos in Syria continues to reverberate.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/f5268f2a-9854-59d6-8914-dda9dddfd5a5",
+      "web_url": "https://www.nytimes.com/2022/02/04/world/middleeast/islamic-state-syria-raid-takeaways.html",
+      "word_count": 1442
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Vivian Wang and Joy Dong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese state media offered breathless coverage of the meeting.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5f43964b-d28a-5f4d-acfb-2d701838e0da",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Vladimir V. Putin of Russia met with China’s leader, Xi Jinping, in Beijing on Friday.",
+        "credit": "Alexei Druzhinin/Sputnik, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/04/world/04ukraine-briefing-china-react/merlin_201319821_ef470e1c-7bcb-4da6-bdf6-506a60798f3b-articleLarge.jpg",
+          "height": 398,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/04/world/04ukraine-briefing-china-react/merlin_201319821_ef470e1c-7bcb-4da6-bdf6-506a60798f3b-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-04T10:35:56Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/5f43964b-d28a-5f4d-acfb-2d701838e0da",
+      "web_url": "https://www.nytimes.com/live/2022/02/03/world/russia-ukraine-xi-putin/chinese-state-media-offered-breathless-coverage-of-the-meeting",
+      "word_count": 434
+    },
+    {
+      "abstract": "Amid rising tensions with the West, Moscow is taking harsh action against DW, which it said was retaliation for Germany barring a Russian broadcaster, RT.",
+      "byline": {
+        "original": "By Valerie Hopkins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia says it will shut down a German state broadcaster.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2ddb7701-ff2f-5b2a-809b-9eb43c8f1fc7",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Censorship",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Deutsche Welle",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "RT (TV Network)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The building housing Germany’s state-owned broadcaster Deutsche Welle in Moscow on Thursday.",
+        "credit": "Yuri Kochetkov/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/03/world/03ukraine-briefing-dw1/merlin_201278373_2ddbecf7-7afc-4557-8925-60850b87d1fc-articleLarge.jpg",
+          "height": 409,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/03/world/03ukraine-briefing-dw1/03ukraine-briefing-dw1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-03T17:25:09Z",
+      "section_name": "World",
+      "snippet": "Amid rising tensions with the West, Moscow is taking harsh action against DW, which it said was retaliation for Germany barring a Russian broadcaster, RT.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/2ddb7701-ff2f-5b2a-809b-9eb43c8f1fc7",
+      "web_url": "https://www.nytimes.com/live/2022/02/03/world/ukraine-russia-news/russia-deutsche-welle",
+      "word_count": 481
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ben Hubbard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Islamic State has shown that it can still pull off military operations.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/479f6b47-00db-5261-a17e-e6feaa04b428",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Kurdish security forces searching for Islamic State fighters near the Ghweiran prison in Hasaka, northeastern Syria, in January.",
+        "credit": "Diego Ibarra Sanchez for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/02/03/world/03isis-briefing-lede/merlin_200963796_93182da9-6d45-4e6a-8ea8-a1924bdf3796-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/02/03/world/03isis-briefing-lede/03isis-briefing-lede-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-02-03T12:56:40Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/479f6b47-00db-5261-a17e-e6feaa04b428",
+      "web_url": "https://www.nytimes.com/2022/02/03/world/the-islamic-state-has-shown-in-that-it-can-still-pull-off-military-operations.html",
+      "word_count": 324
+    },
+    {
+      "abstract": "“ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so.",
+      "byline": {
+        "original": "By Jane Arraf and Ben Hubbard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As Islamic State Resurges, U.S. Is Drawn Back Into the Fray",
+        "kicker": "",
+        "print_headline": "In Its Biggest Confrontation With ISIS in Years, the U.S. Fights a Resurgence"
+      },
+      "_id": "nyt://article/174a3934-68f2-56fa-bcf8-d48bf2feebb3",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Syrian Democratic Forces",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Prison Escapes",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "An American military vehicle patrolling on Monday in Hasaka, Syria.",
+        "credit": "Ahmed Mardnli/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/25/world/25syria-ledeall-1/merlin_200833671_c52a8b0b-36e0-413e-bdca-b685912a88af-articleLarge.jpg",
+          "height": 366,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/25/world/25syria-ledeall-1/25syria-ledeall-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2022-01-25T23:16:00Z",
+      "section_name": "World",
+      "snippet": "“ISIS is not over”: Attacks in Syria and Iraq make clear that the militants have lost neither their will to fight nor their ability to do so.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/174a3934-68f2-56fa-bcf8-d48bf2feebb3",
+      "web_url": "https://www.nytimes.com/2022/01/25/world/middleeast/isis-syria.html",
+      "word_count": 1206
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Hikari Hida"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Japan places Tokyo and 12 other prefectures under a quasi-state of emergency because of Omicron.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e4bb1097-1efe-57ec-abb7-68a0bbbbfbc5",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Osaka (Japan)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Okinawa and Other Ryukyu Islands (Japan)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Tokyo (Japan)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Tokyo last week. Thirteen additional prefectures in Japan will be placed under a quasi-state of emergency because of a rise in Omicron cases.",
+        "credit": "Carl Court/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/19/world/19virus-briefing-japan-emergency/merlin_200234739_53d1f560-73ec-4e1e-8915-5d894f52f52c-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/19/world/19virus-briefing-japan-emergency/19virus-briefing-japan-emergency-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-01-19T10:35:14Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e4bb1097-1efe-57ec-abb7-68a0bbbbfbc5",
+      "web_url": "https://www.nytimes.com/2022/01/19/world/asia/japan-places-tokyo-and-12-other-prefectures-under-a-quasi-state-of-emergency-because-of-omicron.html",
+      "word_count": 218
+    },
+    {
+      "abstract": "A German court found a former Syrian intelligence officer guilty of crimes against humanity and sentenced him to life in prison — a first after a decade of war.",
+      "byline": {
+        "original": "By Ben Hubbard and Katrin Bennhold"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Murder, Torture, Rape: A Landmark Conviction on State Violence in Syria",
+        "kicker": "",
+        "print_headline": "A Landmark Conviction on Syrian War Crimes"
+      },
+      "_id": "nyt://article/9b2e9447-86e6-5360-91fe-c947ad433fe2",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Raslan, Anwar (1963- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Torture",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Decisions and Verdicts",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "The former Syrian intelligence officer Anwar Raslan in the courtroom on Thursday in Koblenz, Germany.",
+        "credit": "Pool photo by Thomas Frey",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/13/world/13syria-germany/merlin_200294628_a61c80ca-6326-4f34-8f4b-96c4d4c7d814-articleLarge.jpg",
+          "height": 419,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/13/world/13syria-germany/13syria-germany-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2022-01-13T21:53:52Z",
+      "section_name": "World",
+      "snippet": "A German court found a former Syrian intelligence officer guilty of crimes against humanity and sentenced him to life in prison — a first after a decade of war.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/9b2e9447-86e6-5360-91fe-c947ad433fe2",
+      "web_url": "https://www.nytimes.com/2022/01/13/world/middleeast/verdict-syria-war-crimes.html",
+      "word_count": 1262
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Valerie Hopkins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "How Russia’s state media are portraying the talks.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/89b99a1b-ebd6-5fa5-9199-494bec2b02d7",
+      "keywords": [],
+      "multimedia": {
+        "caption": "In Moscow earlier this month. Fear of a third world war is the second most common worry held by Russians, according to a recent poll.",
+        "credit": "Yuri Kochetkov/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/10/world/10us-russia-briefing-media/merlin_199884558_3725f019-88d6-4f01-890a-2a91b843ee9b-articleLarge.jpg",
+          "height": 365,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/10/world/10us-russia-briefing-media/merlin_199884558_3725f019-88d6-4f01-890a-2a91b843ee9b-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-01-10T11:52:07Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/89b99a1b-ebd6-5fa5-9199-494bec2b02d7",
+      "web_url": "https://www.nytimes.com/live/2022/01/10/world/russia-us-ukraine-talks/how-russias-state-media-are-portraying-the-talks",
+      "word_count": 312
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Andrés R. Martínez"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The number of New York State hospitals that must cancel elective surgeries grows to 40.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/914c4c96-1292-50d7-9520-0139896683ac",
+      "keywords": [],
+      "multimedia": {
+        "caption": "With more hospitals approaching capacity, New York has ordered 40 across the state to cancel elective procedures for at least two weeks, starting on Thursday.",
+        "credit": "John Minchillo/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/08/multimedia/08virus-briefing-ny-hospitals-surgery-01/08virus-briefing-ny-hospitals-surgery-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/08/multimedia/08virus-briefing-ny-hospitals-surgery-01/08virus-briefing-ny-hospitals-surgery-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Metro",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-01-08T23:27:59Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/914c4c96-1292-50d7-9520-0139896683ac",
+      "web_url": "https://www.nytimes.com/live/2022/01/08/world/omicron-covid-vaccine-tests/the-number-of-new-york-state-hospitals-that-must-cancel-elective-surgeries-grows-to-40",
+      "word_count": 472
+    },
+    {
+      "abstract": ",",
+      "byline": {
+        "original": "By Andrea Kannapell"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A lawsuit filed by Texas governor reveals that many of the state’s Army National Guard refused vaccines.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7460df29-05b6-5a4c-b3f3-a3dd6cb79655",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Gov. Greg Abbott of Texas greeting members of the National Guard in September after a news conference in the city of Del Rio, where thousands of Haitian migrants attempted to cross the border from Mexico. ",
+        "credit": "Julio Cortez/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/04/multimedia/04virus-briefing-texas-national-guard/04virus-briefing-texas-national-guard-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/04/multimedia/04virus-briefing-texas-national-guard/04virus-briefing-texas-national-guard-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Live",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-01-05T02:51:05Z",
+      "section_name": "World",
+      "snippet": ",",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7460df29-05b6-5a4c-b3f3-a3dd6cb79655",
+      "web_url": "https://www.nytimes.com/live/2022/01/04/world/omicron-covid-vaccine-tests/a-lawsuit-filed-by-texas-governor-reveals-that-many-of-the-states-army-national-guard-refused-vaccines",
+      "word_count": 484
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Azi Paybarah"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Maryland’s governor declares a 30-day state of emergency as cases soar.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/82b812ae-92d9-5f1a-a941-a8e2527c9482",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Maryland Gov. Larry Hogan with Maryland Health Secretary Dennis Schrader during a news conference last month in Annapolis, Md. Gov. Hogan declared a 30-day state of emergency on Tuesday.",
+        "credit": "Brian Witte/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/04/multimedia/04virus-briefing-maryland-emergency/04virus-briefing-maryland-emergency-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/04/multimedia/04virus-briefing-maryland-emergency/04virus-briefing-maryland-emergency-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2022-01-05T00:54:03Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/82b812ae-92d9-5f1a-a941-a8e2527c9482",
+      "web_url": "https://www.nytimes.com/live/2022/01/04/world/omicron-covid-vaccine-tests/marylands-governor-declares-a-30-day-state-of-emergency-as-cases-soar",
+      "word_count": 312
+    },
+    {
+      "abstract": "Thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. The president later announced the resignation of the government.",
+      "byline": {
+        "original": "By Valerie Hopkins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kazakhstan Declares State of Emergency as Protests Over Fuel Prices Spread",
+        "kicker": "",
+        "print_headline": "Rising Fuel Prices Spur Anger in Kazakhstan"
+      },
+      "_id": "nyt://article/c7bf0dc7-8686-525d-9d52-7caa8099ed80",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Kazakhstan",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Prices (Fares, Fees and Rates)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Tokayev, Kassym-Jomart",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Nazarbayev, Nursultan A",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Protesters facing off against riot police early Wednesday morning in the center of Almaty, Kazakhstan’s largest city.",
+        "credit": "Vladimir Tretyakov/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2022/01/04/world/04Kazakhstan-emergency-1/merlin_199923705_292a037d-40d4-45a9-afcc-e028896c0ed5-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2022/01/04/world/04Kazakhstan-emergency-1/04Kazakhstan-emergency-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2022-01-05T00:48:48Z",
+      "section_name": "World",
+      "snippet": "Thousands took to the street as gas prices doubled. The government responded with curfews and tear gas. The president later announced the resignation of the government.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c7bf0dc7-8686-525d-9d52-7caa8099ed80",
+      "web_url": "https://www.nytimes.com/2022/01/04/world/europe/kazakhstan-emergency-protests-fuel.html",
+      "word_count": 526
+    }
+  ]
+}

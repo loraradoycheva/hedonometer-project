@@ -1,0 +1,5823 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20160101",
+    "end_date": "20161231",
+    "fq": "(headline.default:(\"claim\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 75,
+  "docs": [
+    {
+      "abstract": "The number is one-third higher than in any other year, with 14 people, on average, drowning in the sea every day in 2016, the United Nations said.",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘Worst Annual Death Toll Ever’: Mediterranean Claims 5,000 Migrants",
+        "kicker": "",
+        "print_headline": "Deadliest Year for Migrants Crossing Mediterranean"
+      },
+      "_id": "nyt://article/3f21ace8-e673-5e04-ae94-f9b880b88cca",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Middle East and Africa Migrant Crisis",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Cumming-Bruce, Nick",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Drownings",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Mediterranean Sea",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations High Commission for Refugees",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Libya",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Sicily (Italy)",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Two Thousand Sixteen",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Migrants from West Africa aboard a rescue vessel in the Mediterranean in November.",
+        "credit": "Dan Kitwood/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/24/world/24Migrants/24Migrants-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/24/world/24Migrants/24Migrants-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "A",
+      "pub_date": "2016-12-23T16:33:36Z",
+      "section_name": "World",
+      "snippet": "The number is one-third higher than in any other year, with 14 people, on average, drowning in the sea every day in 2016, the United Nations said.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3f21ace8-e673-5e04-ae94-f9b880b88cca",
+      "web_url": "https://www.nytimes.com/2016/12/23/world/europe/migrant-death-toll-mediterranean-europe.html",
+      "word_count": 320
+    },
+    {
+      "abstract": "The assault in the southern city of Karak killed 10 people, including the head of the military’s special forces, two civilians and a Canadian tourist.",
+      "byline": {
+        "original": "By Rana F. Sweis"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Is Said to Claim Responsibility for Deadly Attack in Jordan",
+        "kicker": "",
+        "print_headline": "ISIS Claims Deadly Attack in Jordan"
+      },
+      "_id": "nyt://article/d1972a75-7f0f-56e3-bda7-c7b5f7d14bf0",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Sweis, Rana F",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Karak (Jordan)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Jordan",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Maaytah, Saad",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The funeral on Monday of a high-ranking security officer killed in an assault in Karak, Jordan.",
+        "credit": "Muhammad Hamed/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/21/world/21Jordan/21Jordan-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/21/world/21Jordan/21Jordan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-12-20T15:18:08Z",
+      "section_name": "World",
+      "snippet": "The assault in the southern city of Karak killed 10 people, including the head of the military’s special forces, two civilians and a Canadian tourist.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/d1972a75-7f0f-56e3-bda7-c7b5f7d14bf0",
+      "web_url": "https://www.nytimes.com/2016/12/20/world/middleeast/jordan-attack-isis-karak.html",
+      "word_count": 608
+    },
+    {
+      "abstract": "German officials, citing a lack of evidence, freed their initial suspect in the assault that killed 12, and continued to search for an attacker that the militant group said had acted on its behalf.",
+      "byline": {
+        "original": "By Melissa Eddy and Alison Smale"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Germany Releases Berlin Attack Suspect as ISIS Claims Involvement",
+        "kicker": "",
+        "print_headline": "Market Rampage Puts Chancellor in Perilous Spot"
+      },
+      "_id": "nyt://article/3c40b389-49c1-5f1a-8fef-41ec4b522570",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Smale, Alison",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Eddy, Melissa",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Berlin (Germany)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Trucks and Trucking",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "The path of destruction at the Christmas market in Berlin on Tuesday, after a truck that crashed through was removed from the site.",
+        "credit": "Markus Schreiber/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/21/world/21Germany3/20Germany3-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/21/world/21Germany3/21Germany3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2016-12-20T10:44:11Z",
+      "section_name": "World",
+      "snippet": "• The German chancellor said the authorities were investigating whether the attack with a truck, in which 12 people were killed and 45 wounded, was perpetrated by a migrant or refugee. • Seeking clues to the identity of the assailant, the German special police conducted a search at the refugee shelter at Tempelhof airport.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3c40b389-49c1-5f1a-8fef-41ec4b522570",
+      "web_url": "https://www.nytimes.com/2016/12/20/world/europe/berlin-attack-christmas-market.html",
+      "word_count": 1699
+    },
+    {
+      "abstract": "After an attack in Cairo that killed 25 people on Sunday, the Islamic State vowed to escalate its “war on polytheism,” a reference to Christianity.",
+      "byline": {
+        "original": "By Declan Walsh and Nour Youssef"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Responsibility for Egypt Church Bombing and Warns of More to Come",
+        "kicker": "",
+        "print_headline": "Church Blast in Egypt Was Prelude, ISIS Warns"
+      },
+      "_id": "nyt://article/6aadf1c0-7fee-5fa1-a127-ad9026ca1b4f",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Youssef, Nour",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Walsh, Declan",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Cairo (Egypt)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Sisi, Abdel Fattah el-",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Muslim Brotherhood (Egypt)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Egypt",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "The coffins of victims from Sunday’s bombing of St. Mark’s Coptic Orthodox Cathedral after funeral services in Cairo on Monday.",
+        "credit": "Khaled Desouki/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/14/world/14egypt/14egypt-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/14/world/14egypt/14egypt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2016-12-14T02:05:18Z",
+      "section_name": "World",
+      "snippet": "After an attack in Cairo that killed 25 people on Sunday, the Islamic State vowed to escalate its “war on polytheism,” a reference to Christianity.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/6aadf1c0-7fee-5fa1-a127-ad9026ca1b4f",
+      "web_url": "https://www.nytimes.com/2016/12/13/world/middleeast/egypt-isis-bombing-coptic-christians.html",
+      "word_count": 691
+    },
+    {
+      "abstract": "The Kurdistan Freedom Falcons said in a statement on Sunday that it had carried out the double suicide bombing in Turkey the night before that killed dozens and targeted the police.",
+      "byline": {
+        "original": "By Safak Timur"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kurdish Militant Group Claims Responsibility for Deadly Istanbul Bombing",
+        "kicker": "",
+        "print_headline": "Kurdish Militant Group Says It Carried Out Deadly Bombings in Istanbul"
+      },
+      "_id": "nyt://article/d356c145-92fc-5cd7-a585-6ec2987529d8",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Timur, Safak",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Kurds",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Kurdistan Freedom Falcons",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Kurdistan Workers' Party",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Istanbul (Turkey)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Coffins of police officers were carried on Sunday in Istanbul.",
+        "credit": "Daghan Kozanoglu/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/12/world/TURKEY1/TURKEY1-articleLarge.jpg",
+          "height": 432,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/12/world/TURKEY1/TURKEY1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-12-11T22:27:05Z",
+      "section_name": "World",
+      "snippet": "The Kurdistan Freedom Falcons said in a statement on Sunday that it had carried out the double suicide bombing in Turkey the night before that killed dozens and targeted the police.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/d356c145-92fc-5cd7-a585-6ec2987529d8",
+      "web_url": "https://www.nytimes.com/2016/12/11/world/europe/kurdish-tak-istanbul-double-bombing.html",
+      "word_count": 482
+    },
+    {
+      "abstract": "Ahead of Friday’s impeachment vote, here are the accusations against President Park Geun-hye, which she has dismissed as a “house of cards.”",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Claims Against South Korean President: Extortion, Abuse of Power and Bribery",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/51154e44-3f94-511f-9825-923e7439ee71",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Choi Soon-sil",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Park Geun-hye",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Extortion and Blackmail",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Impeachment",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Bribery and Kickbacks",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Classified Information and State Secrets",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "A protest in Seoul, South Korea, on Saturday calling for President Park Geun-hye to step down.",
+        "credit": "Kim Hong-Ji/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/09/world/09CHARGES-1/09CHARGES-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/09/world/09CHARGES-1/09CHARGES-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-12-08T10:59:43Z",
+      "section_name": "World",
+      "snippet": "Ahead of Friday’s impeachment vote, here are the accusations against President Park Geun-hye, which she has dismissed as a “house of cards.”",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/51154e44-3f94-511f-9825-923e7439ee71",
+      "web_url": "https://www.nytimes.com/2016/12/08/world/asia/south-korea-park-geun-hye-accusations-impeachment.html",
+      "word_count": 751
+    },
+    {
+      "abstract": "In long-awaited public hearings, victims and their families recounted abuses from nearly 60 years of dictatorship, including death and persecution.",
+      "byline": {
+        "original": "By Carlotta Gall"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Silenced for Decades, ‘Victims of Despotism’ Air Torture Claims in Tunisia",
+        "kicker": "",
+        "print_headline": "Silenced for Decades, ‘Victims of Despotism’ Air Torture Claims in Tunisia"
+      },
+      "_id": "nyt://article/bf6310f5-a5cb-5b80-97e4-13c1850042f2",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Tunisia",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Gall, Carlotta",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Middle East and North Africa Unrest (2010- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Torture",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Truth and Dignity Commission (Tunisia)",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Ben Ali, Zine El-Abidine",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Bourguiba, Habib",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Mothers of torture victims carried their sons’ portraits before the Truth and Dignity Commission hearings in Tunis on Thursday.",
+        "credit": "Fethi Belaid/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/11/19/world/19Tunisia1/19Tunisia1-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/11/19/world/19Tunisia1/19Tunisia1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-11-18T20:24:40Z",
+      "section_name": "World",
+      "snippet": "In long-awaited public hearings, victims and their families recounted abuses from nearly 60 years of dictatorship, including death and persecution.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/bf6310f5-a5cb-5b80-97e4-13c1850042f2",
+      "web_url": "https://www.nytimes.com/2016/11/19/world/africa/silenced-for-decades-victims-of-despotism-air-torture-claims-in-tunisia.html",
+      "word_count": 1194
+    },
+    {
+      "abstract": "The attack in Kabul, which left at least six people dead and a dozen wounded, was the latest example of the Islamic State ranging beyond its base in eastern Afghanistan.",
+      "byline": {
+        "original": "By Mujib Mashal and Jawad Sukhanyar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Afghan Bodyguards Targeted in Bombing Claimed by ISIS Affiliates",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/977cb451-5f73-555a-9afb-00c4ebf32de0",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Khorasan",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Afghan National Security Forces",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-11-16T18:10:39Z",
+      "section_name": "World",
+      "snippet": "The attack in Kabul, which left at least six people dead and a dozen wounded, was the latest example of the Islamic State ranging beyond its base in eastern Afghanistan.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/977cb451-5f73-555a-9afb-00c4ebf32de0",
+      "web_url": "https://www.nytimes.com/2016/11/17/world/asia/kabul-afghanistan-bombing.html",
+      "word_count": 373
+    },
+    {
+      "abstract": "Over the past weeks, 24 schools have been set ablaze, dashing hopes for a return to normalcy in the region after months of protests and curfews.",
+      "byline": {
+        "original": "By Sameer Yasir and Hari Kumar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Unrest in Kashmir Claims New Casualties: Schools",
+        "kicker": "",
+        "print_headline": "Unrest in Kashmir Hits Fresh Targets: Schools"
+      },
+      "_id": "nyt://article/1e1fc6a4-650c-5dc3-9a9c-9042d3208ad9",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Kashmir and Jammu (India)",
+          "rank": 1
+        },
+        {
+          "name": "",
+          "value": "",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Arson",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kumar, Hari",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Fires and Firefighters",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Education (K-12)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-10-28T18:43:22Z",
+      "section_name": "World",
+      "snippet": "Over the past weeks, 24 schools have been set ablaze, dashing hopes for a return to normalcy in the region after months of protests and curfews.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/1e1fc6a4-650c-5dc3-9a9c-9042d3208ad9",
+      "web_url": "https://www.nytimes.com/2016/10/29/world/asia/unrest-in-kashmir-claims-new-casualties-schools.html",
+      "word_count": 1047
+    },
+    {
+      "abstract": "Militants detonated a powerful bomb when most guests were sleeping, officials said, and part of the building collapsed.",
+      "byline": {
+        "original": "By Jeffrey Gettleman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Militants Bomb Kenya Hotel, Killing 12; Shabab Claim Responsibility",
+        "kicker": "",
+        "print_headline": "Shabab Claim Hotel Attack That Killed 12 in Kenya"
+      },
+      "_id": "nyt://article/68a6fcdd-f06b-5462-9efa-db8c87ea5db1",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Gettleman, Jeffrey",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Shabab",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mandera (Kenya)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Kenya",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The aftermath of an attack on Tuesday in Mandera, Kenya. According to officials, a powerful bomb was detonated at a hotel when most guests were sleeping.",
+        "credit": "Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/10/26/business/26SHABAB-web1/26SHABAB-web1-articleLarge.jpg",
+          "height": 352,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/10/26/business/26SHABAB-web1/26SHABAB-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2016-10-25T10:02:29Z",
+      "section_name": "World",
+      "snippet": "Militants detonated a powerful bomb when most guests were sleeping, officials said, and part of the building collapsed.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/68a6fcdd-f06b-5462-9efa-db8c87ea5db1",
+      "web_url": "https://www.nytimes.com/2016/10/26/world/africa/kenya-shabab-attack.html",
+      "word_count": 464
+    },
+    {
+      "abstract": "In a small cave in rural Russia, some scientists say there’s compelling data about evolution and the interbreeding of a variety of early humans.",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Siberian Town Stakes a Claim as Humanity’s Cradle",
+        "kicker": "Soloneshnoye Journal",
+        "print_headline": "Siberian Town Stakes a Claim as Humanity’s Cradle"
+      },
+      "_id": "nyt://article/bd3eac2c-b7a0-5fad-8dea-0ae2516f4c0b",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Kramer, Andrew E",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Soloneshnoye (Russia)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Archaeology and Anthropology",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Neanderthal Man",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Denisova Hominid",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Caves and Caverns",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Evolution (Biology)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Fossils",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "The Cradle of Humanity Nature Park, near the entrance to the Denisova cave.",
+        "credit": "Brendan Hoffman for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/10/19/world/19SIBERIA-web1SUB/19SIBERIA-web1SUB-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/10/19/world/19SIBERIA-web1SUB/19SIBERIA-web1SUB-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-10-19T13:30:26Z",
+      "section_name": "World",
+      "snippet": "In a small cave in rural Russia, some scientists say there’s compelling data about evolution and the interbreeding of a variety of early humans.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/bd3eac2c-b7a0-5fad-8dea-0ae2516f4c0b",
+      "web_url": "https://www.nytimes.com/2016/10/20/world/europe/siberian-town-stakes-a-claim-as-humanitys-cradle.html",
+      "word_count": 1023
+    },
+    {
+      "abstract": "Mrs. May, speaking at her party’s convention, sought to court disaffected working-class voters and vowed to rein in abuses by big business.",
+      "byline": {
+        "original": "By Stephen Castle"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Theresa May, British Premier, Urges Conservatives to Claim ‘New Center Ground’",
+        "kicker": "",
+        "print_headline": "Britain’s Prime Minister Urges Conservatives to Claim ‘New Center Ground’"
+      },
+      "_id": "nyt://article/fc49f84d-dd75-57e9-8b22-13636aadf54a",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "May, Theresa M",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Castle, Stephen",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Conservative Party (Great Britain)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Great Britain Withdrawal from EU (Brexit)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Attending the Conservative Party’s conference in Birmingham, England, on Monday.",
+        "credit": "Oli Scarff/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/10/06/world/06britain-web1/06britain-web1-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/10/06/world/06britain-web1/06britain-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-10-05T14:43:21Z",
+      "section_name": "World",
+      "snippet": "Mrs. May, speaking at her party’s convention, sought to court disaffected working-class voters and vowed to rein in abuses by big business.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fc49f84d-dd75-57e9-8b22-13636aadf54a",
+      "web_url": "https://www.nytimes.com/2016/10/06/world/europe/theresa-may-conservative-party-convention.html",
+      "word_count": 1134
+    },
+    {
+      "abstract": "Harry Sarfo, a German jailed in his home country, appears to be shooting toward a man on the ground, although the view is partially blocked.",
+      "byline": {
+        "original": "By Rukmini Callimachi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Video May Contradict Ex-ISIS Member’s Claim on Rejecting Violence",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2b9ded81-a603-58d4-b2cc-82ea0252ee2c",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Sarfo, Harry",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Prisoners of War",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-10-05T02:21:05Z",
+      "section_name": "World",
+      "snippet": "Harry Sarfo, a German jailed in his home country, appears to be shooting toward a man on the ground, although the view is partially blocked.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/2b9ded81-a603-58d4-b2cc-82ea0252ee2c",
+      "web_url": "https://www.nytimes.com/2016/10/05/world/europe/isis-harry-sarfo.html",
+      "word_count": 303
+    },
+    {
+      "abstract": "Pakistan played down the early morning operation, which it said killed two of its soldiers and wounded nine, calling it a propaganda exercise by Delhi.",
+      "byline": {
+        "original": "By Ellen Barry and Salman Masood"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "India Claims ‘Surgical Strikes’ Across Line of Control in Kashmir",
+        "kicker": "",
+        "print_headline": "India Says It Attacked Terror Camps in Kashmir"
+      },
+      "_id": "nyt://article/5d3682eb-25bb-5a50-8a59-c8895af79a25",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Kashmir and Jammu (India)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Masood, Salman",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Barry, Ellen",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Lt. Gen. Ranbir Singh, the Indian director general of military operations, at a news briefing in New Delhi on Thursday.",
+        "credit": "Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/09/30/world/30KASHMIR-web1/30KASHMIR-web1-articleLarge.jpg",
+          "height": 438,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/09/30/world/30KASHMIR-web1/30KASHMIR-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-09-29T09:07:56Z",
+      "section_name": "World",
+      "snippet": "Pakistan played down the early morning operation, which it said killed two of its soldiers and wounded nine, calling it a propaganda exercise by Delhi.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/5d3682eb-25bb-5a50-8a59-c8895af79a25",
+      "web_url": "https://www.nytimes.com/2016/09/30/world/asia/kashmir-india-pakistan.html",
+      "word_count": 805
+    },
+    {
+      "abstract": "Under questioning, Edgar Matobato said he did not hear the president order an execution but saw him give orders to a death squad commander.",
+      "byline": {
+        "original": "By Richard C. Paddock and Felipe Villamor"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Professed Hit Man Tempers Claims of Rodrigo Duterte’s Role in Philippine Killings",
+        "kicker": "",
+        "print_headline": "Tempered Testimony on Filipino Death Squad"
+      },
+      "_id": "nyt://article/41e31120-f44f-565c-b1ab-c72b24200aa4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Philippines",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Paddock, Richard C",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Duterte, Rodrigo",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Villamor, Felipe",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Matobato, Edgar",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Vigilantes",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Police Brutality, Misconduct and Shootings",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Edgar Matobato, who has implicated President Rodrigo Duterte of the Philippines in many killings, told senators on Thursday that he had not personally heard him order executions.",
+        "credit": "Bullit Marquez/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/09/23/world/PHILIPPINES1/PHILIPPINES1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/09/23/world/PHILIPPINES1/PHILIPPINES1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "A",
+      "pub_date": "2016-09-22T13:46:35Z",
+      "section_name": "World",
+      "snippet": "Under questioning, Edgar Matobato said he did not hear the president order an execution but saw him give orders to a death squad commander.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/41e31120-f44f-565c-b1ab-c72b24200aa4",
+      "web_url": "https://www.nytimes.com/2016/09/23/world/asia/philippines-duterte-edgar-matobato-hitman.html",
+      "word_count": 887
+    },
+    {
+      "abstract": "Two missiles were fired at aircraft that were targeting artillery positions in the Syrian Golan Heights, but neither came close, the Israeli military said.",
+      "byline": {
+        "original": "By Isabel Kershner and Anne Barnard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel Denies Claims That Syria Shot Down Warplane and Drone",
+        "kicker": "",
+        "print_headline": "Israel Denies Syria Shot Down Warplane and Drone"
+      },
+      "_id": "nyt://article/351870e1-021d-5496-8778-be1bb962c0be",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Golan Heights",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Barnard, Anne",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kershner, Isabel",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Military Aircraft",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Drones (Pilotless Planes)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Israeli forces during a training exercise in the Israeli-held part of the Golan Heights on Tuesday.",
+        "credit": "Ariel Schalit/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/09/14/world/14Israel-web2/14Israel-web2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/09/14/world/14Israel-web2/14Israel-web2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "A",
+      "pub_date": "2016-09-13T11:20:36Z",
+      "section_name": "World",
+      "snippet": "Two missiles were fired at aircraft that were targeting artillery positions in the Syrian Golan Heights, but neither came close, the Israeli military said.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/351870e1-021d-5496-8778-be1bb962c0be",
+      "web_url": "https://www.nytimes.com/2016/09/14/world/middleeast/israel-syria-warplane-drone-golan-heights.html",
+      "word_count": 609
+    },
+    {
+      "abstract": "Correspondents of The New York Times provide context and analysis on the statement issued by North Korea that claimed success for a nuclear test.",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Decoding North Korea’s Claim of a Successful Nuclear Test",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3eb0cdfb-c1f2-5046-a4fd-a452fd8d38f4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Nuclear Tests",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Workers' Party of Korea",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Missiles and Missile Defense Systems",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Screens at the Korea Meteorological Administration, in Seoul, South Korea, showing seismic waves on Friday. The detonation was equivalent to 10 kilotons of TNT, the Defense Ministry said.",
+        "credit": "Ahn Young-Joon/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/09/10/world/10korea-text-web1/10korea-text-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/09/10/world/10korea-text-web1/10korea-text-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-09-09T11:30:45Z",
+      "section_name": "World",
+      "snippet": "Correspondents of The New York Times provide context and analysis on the statement issued by North Korea that claimed success for a nuclear test.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Text",
+      "uri": "nyt://article/3eb0cdfb-c1f2-5046-a4fd-a452fd8d38f4",
+      "web_url": "https://www.nytimes.com/2016/09/10/world/asia/north-korea-nuclear-test-statement.html",
+      "word_count": 895
+    },
+    {
+      "abstract": "The Pentagon quickly dismissed the claim, a challenge to an American report that one of its drone strikes had killed Abu Muhammad al-Adnani in Syria.",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia Claims Credit for Killing Senior ISIS Leader in Syria",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/32a89c0a-bae2-5070-992e-71344bdc0817",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Adnani, Abu Mohammed al-",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Targeted Killings",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "An image of Abu Muhammad al-Adnani posted online Wednesday by supporters of the Islamic State.",
+        "credit": "via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/09/01/world/01adnani/01adnani-articleLarge.jpg",
+          "height": 675,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/09/01/world/01adnani/01adnani-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-08-31T16:42:55Z",
+      "section_name": "World",
+      "snippet": "The Pentagon quickly dismissed the claim, a challenge to an American report that one of its drone strikes had killed Abu Muhammad al-Adnani in Syria.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/32a89c0a-bae2-5070-992e-71344bdc0817",
+      "web_url": "https://www.nytimes.com/2016/09/01/world/middleeast/russia-claims-credit-for-killing-senior-isis-leader.html",
+      "word_count": 342
+    },
+    {
+      "abstract": "A truck loaded with explosives blew up outside of a popular hotel in Mogadishu where government officials were meeting.",
+      "byline": {
+        "original": "By Jeffrey Gettleman and Hussein Mohamed"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Truck Bomb Kills 15 in Somalia; Shabab Claim Responsibility",
+        "kicker": "",
+        "print_headline": "15 Are Killed by Truck Bomb in Somalia"
+      },
+      "_id": "nyt://article/f75689c2-7bcd-527c-b7da-d81d9ce5782d",
+      "keywords": [
+        {
+          "name": "",
+          "value": "",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Shabab",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Gettleman, Jeffrey",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Mogadishu (Somalia)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Somalia",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Emergency personnel and soldiers gathered at the scene of a truck bomb in Mogadishu, Somalia on Tuesday. The attack killed at least 15 people.",
+        "credit": "Mohamed Abdiwahab/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/31/world/31Somalia-web1/31Somalia-web1-articleLarge.jpg",
+          "height": 393,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/31/world/31Somalia-web1/31Somalia-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2016-08-30T19:52:32Z",
+      "section_name": "World",
+      "snippet": "A truck loaded with explosives blew up outside of a popular hotel in Mogadishu where government officials were meeting.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/f75689c2-7bcd-527c-b7da-d81d9ce5782d",
+      "web_url": "https://www.nytimes.com/2016/08/31/world/africa/somalia-shabab-mogadishu.html",
+      "word_count": 320
+    },
+    {
+      "abstract": "The hotly disputed charge that China takes organs from prisoners of conscience gained new prominence as Hong Kong hosted a transplant conference.",
+      "byline": {
+        "original": "By Didi Kirsten Tatlow"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Angry Claims and Furious Denials Over Organ Transplants in China",
+        "kicker": "Sinosphere",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/56b2d4a7-c02f-5b7f-99d7-af4e80bd3a1f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Transplants",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Organ Donation",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Falun Gong",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Transplantation Society",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Falun Gong practitioners protested outside the Transplantation Society’s conference in Hong Kong last week.",
+        "credit": "Lam Yik Fei for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/25/world/25letter-web1/25letter-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/25/world/25letter-web1/25letter-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-08-24T21:00:05Z",
+      "section_name": "World",
+      "snippet": "The hotly disputed charge that China takes organs from prisoners of conscience gained new prominence as Hong Kong hosted a transplant conference.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/56b2d4a7-c02f-5b7f-99d7-af4e80bd3a1f",
+      "web_url": "https://www.nytimes.com/2016/08/25/world/asia/china-organ-transplants.html",
+      "word_count": 611
+    },
+    {
+      "abstract": "The head of the Transplantation Society said that the decades-long practice of using the organs of executed prisoners, which China says has stopped, had horrified the rest of the world.",
+      "byline": {
+        "original": "By Didi Kirsten Tatlow"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese Claim That World Accepts Its Organ Transplant System Is Rebutted",
+        "kicker": "Sinosphere",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/83314f06-cf45-5673-adfe-17ed06689738",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Transplants",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Hong Kong",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Falun Gong",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Huang Jiefu",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Dr. Philip J. O’Connell, president of the Transplantation Society, said he had told Chinese presenters at a conference that their country’s decades-long practice of using the organs of executed prisoners had horrified the rest of the world.",
+        "credit": "Lam Yik Fei for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/20/world/20CHINAORGANS01/20CHINAORGANS01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/20/world/20CHINAORGANS01/20CHINAORGANS01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-08-19T13:58:27Z",
+      "section_name": "World",
+      "snippet": "The head of the Transplantation Society said that the decades-long practice of using the organs of executed prisoners, which China says has stopped, had horrified the rest of the world.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/83314f06-cf45-5673-adfe-17ed06689738",
+      "web_url": "https://www.nytimes.com/2016/08/20/world/asia/china-hong-kong-organ-transplants.html",
+      "word_count": 684
+    },
+    {
+      "abstract": "The WikiLeaks founder was granted political asylum by the Ecuadoreans in 2012, and he has been confined to its London embassy ever since.",
+      "byline": {
+        "original": "By Steven Erlanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Julian Assange to Be Questioned by Sweden Over Rape Claim, Ecuador Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/6fa9d4c5-bf54-5ed4-8e4a-be90afa13b12",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Assange, Julian P",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "WikiLeaks",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "London (England)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Ecuador",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Sweden",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Extradition",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Julian Assange, shown in February, was granted political asylum by Ecuador in 2012 after his appeal against extradition to Sweden was denied, and he has been confined to its London embassy ever since.",
+        "credit": "Peter Nicholls/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/12/world/12Assange-web/12Assange-web-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/12/world/12Assange-web/12Assange-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-08-11T08:10:01Z",
+      "section_name": "World",
+      "snippet": "The WikiLeaks founder was granted political asylum by the Ecuadoreans in 2012, and he has been confined to its London embassy ever since.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/6fa9d4c5-bf54-5ed4-8e4a-be90afa13b12",
+      "web_url": "https://www.nytimes.com/2016/08/12/world/europe/julian-assange-sweden-ecuador.html",
+      "word_count": 603
+    },
+    {
+      "abstract": "If confirmed, the capture of the seaside city of Surt would be a severe blow to the Islamic State’s expansion into North Africa.",
+      "byline": {
+        "original": "By Rod Nordland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S.-Backed Militias in Libya Claim to Retake ISIS Stronghold of Surt",
+        "kicker": "",
+        "print_headline": "U.S.-Backed Militias in Libya Claim to Take Surt, an Islamic State Stronghold"
+      },
+      "_id": "nyt://article/d74efbdb-7702-5675-9e04-46412bca2916",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Nordland, Rod",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Libya",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Surt (Libya)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Qaddafi, Muammar el-",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Libyan forces during a battle with Islamic State fighters in Surt, Libya, last month. ",
+        "credit": "Goran Tomasevic/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/11/world/11libya1/11libya1-articleLarge.jpg",
+          "height": 424,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/11/world/11libya1/11libya1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2016-08-10T18:43:45Z",
+      "section_name": "World",
+      "snippet": "If confirmed, the capture of the seaside city of Surt would be a severe blow to the Islamic State’s expansion into North Africa.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/d74efbdb-7702-5675-9e04-46412bca2916",
+      "web_url": "https://www.nytimes.com/2016/08/11/world/middleeast/isis-libya-surt.html",
+      "word_count": 860
+    },
+    {
+      "abstract": "From the archives of the International Herald Tribune: Bicyclists seek the same rights to the road as carriages in 1891.",
+      "byline": {
+        "original": "By International Herald Tribune"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "1891: Bicyclists Claim Right to Road",
+        "kicker": "IHT Retrospective",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/27666dbc-db14-5fb4-ae9b-f9e19d6ccb75",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Bicycles and Bicycling",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Carriages",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Social Conditions and Trends",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "IHT Archive",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/11/blogs/11iht-retrospective-bicycle/11iht-retrospective-bicycle-articleLarge.png",
+          "height": 781,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/11/blogs/11iht-retrospective-bicycle/11iht-retrospective-bicycle-thumbStandard.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-08-10T12:54:31Z",
+      "section_name": "World",
+      "snippet": "From the archives of the International Herald Tribune: Bicyclists seek the same rights to the road as carriages in 1891.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/27666dbc-db14-5fb4-ae9b-f9e19d6ccb75",
+      "web_url": "https://iht-retrospective.blogs.nytimes.com/2016/08/10/1891-bicyclists-claim-right-to-road/",
+      "word_count": 102
+    },
+    {
+      "abstract": "The group issued a statement saying the attacker, who wounded two police officers before being fatally shot, was its “soldier.”",
+      "byline": {
+        "original": "By Aurelien Breeden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Claims Responsibility for Belgium Machete Attack",
+        "kicker": "",
+        "print_headline": "ISIS Claims It Was Behind Machete Attack in Belgium"
+      },
+      "_id": "nyt://article/77801e53-feb2-5d45-84b0-fe1a42c85228",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Breeden, Aurelien",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Amaq News Agency",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Charleroi (Belgium)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Belgium",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Attacks on Police",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-08-07T15:52:21Z",
+      "section_name": "World",
+      "snippet": "The group issued a statement saying the attacker, who wounded two police officers before being fatally shot, was its “soldier.”",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/77801e53-feb2-5d45-84b0-fe1a42c85228",
+      "web_url": "https://www.nytimes.com/2016/08/08/world/europe/islamic-state-claims-responsibility-for-belgium-machete-attack.html",
+      "word_count": 365
+    },
+    {
+      "abstract": "The party, in an effort to appeal to Palestinians ahead of hotly contested elections, also claimed to have “offered 170,000 martyrs.”",
+      "byline": {
+        "original": "By Diaa Hadid"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fatah Makes Incendiary Facebook Claim of Killing 11,000 Israelis",
+        "kicker": "",
+        "print_headline": "Fatah Makes Public Claim That It Killed  11,000 Israelis"
+      },
+      "_id": "nyt://article/0173750b-c5d6-5027-a2d4-d8905cacec94",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Hadid, Diaa",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Fatah, Al",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Abbas, Mahmoud",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Facebook Inc",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "The Palestinian president, Mahmoud Abbas, has repeatedly said he supports nonviolent resistance against the Israeli occupation.\n\n\n",
+        "credit": "Majdi Mohammed/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/05/world/05fatah/05palestinians-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/05/world/05fatah/05fatah-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-08-05T00:33:08Z",
+      "section_name": "World",
+      "snippet": "The party, in an effort to appeal to Palestinians ahead of hotly contested elections, also claimed to have “offered 170,000 martyrs.”",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/0173750b-c5d6-5027-a2d4-d8905cacec94",
+      "web_url": "https://www.nytimes.com/2016/08/05/world/middleeast/fatah-makes-incendiary-facebook-claim-of-killing-11000-israelis.html",
+      "word_count": 644
+    },
+    {
+      "abstract": "The Taliban said that a truck loaded with explosives had been used, followed by a squad of attackers. Afghan officials say one police officer was killed.",
+      "byline": {
+        "original": "By Mujib Mashal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Taliban Claim Responsibility for Bombing at a Kabul Hotel for Foreigners",
+        "kicker": "",
+        "print_headline": "Taliban Claim Bombing at Hotel for Foreigners in Kabul"
+      },
+      "_id": "nyt://article/604d7de9-baf8-5182-969d-34456a6e7782",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Mashal, Mujib",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "An Afghan police officer near a guesthouse on the outskirts of Kabul, Afghanistan, that was attacked on Monday.",
+        "credit": "Hedayatullah Amid/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/01/world/01KABULsub/01KABULsub-articleLarge.jpg",
+          "height": 375,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/01/world/01KABULsub/01KABULsub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "A",
+      "pub_date": "2016-08-01T03:57:22Z",
+      "section_name": "World",
+      "snippet": "The Taliban said that a truck loaded with explosives had been used, followed by a squad of attackers. Afghan officials say one police officer was killed.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/604d7de9-baf8-5182-969d-34456a6e7782",
+      "web_url": "https://www.nytimes.com/2016/08/01/world/asia/kabul-afghanistan-northgate-truck-bomb.html",
+      "word_count": 442
+    },
+    {
+      "abstract": "The constitutional court in Warsaw upheld a 2015 law that substantially restricts potential claims by former property owners.",
+      "byline": {
+        "original": "By Joanna Berendt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Polish Court Limits World War II-Era Restitution Claims in Warsaw",
+        "kicker": "",
+        "print_headline": "Polish Court Limits Claims for Seizing of Property"
+      },
+      "_id": "nyt://article/92ef6cfa-65bd-5638-b958-adc8948f5a6f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Reparations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Holocaust and the Nazi Era",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "World War II (1939-45)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Warsaw (Poland)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Poland",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Compensation for Damages (Law)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-07-27T19:03:29Z",
+      "section_name": "World",
+      "snippet": "The constitutional court in Warsaw upheld a 2015 law that substantially restricts potential claims by former property owners.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/92ef6cfa-65bd-5638-b958-adc8948f5a6f",
+      "web_url": "https://www.nytimes.com/2016/07/28/world/europe/polish-court-limits-world-war-ii-era-restitution-claims-in-warsaw.html",
+      "word_count": 885
+    },
+    {
+      "abstract": "Ethnic Hazaras were protesting peacefully in the capital when suicide attackers struck, killing at least 80 people.",
+      "byline": {
+        "original": "By Mujib Mashal and Zahra Nader"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Deadly Bombing at Demonstration in Kabul, Afghanistan",
+        "kicker": "",
+        "print_headline": "ISIS Claims Suicide Bombing of Protest in Kabul, Killing at Least 80"
+      },
+      "_id": "nyt://article/96825a31-96fb-51e7-83f0-da8f1d0bdafe",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Nader, Zahra",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Mashal, Mujib",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Hazaras (Ethnic Group)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Hospitals treated the many Afghans wounded Saturday when suicide bombers struck a demonstration in Kabul, the capital.",
+        "credit": "Adam Ferguson for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/24/world/asia/24AFGHANISTAN/24AFGHANISTAN-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/24/world/asia/24AFGHANISTAN/24AFGHANISTAN-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-07-23T12:17:33Z",
+      "section_name": "World",
+      "snippet": "Ethnic Hazaras were protesting peacefully in the capital when suicide attackers struck, killing at least 80 people.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/96825a31-96fb-51e7-83f0-da8f1d0bdafe",
+      "web_url": "https://www.nytimes.com/2016/07/24/world/asia/kabul-afghanistan-explosions-hazaras-protest.html",
+      "word_count": 1046
+    },
+    {
+      "abstract": "Officials said the attacker, Mohamed Lahouaiej Bouhlel, may have “radicalized himself very quickly.” Four of his acquaintances have been detained.",
+      "byline": {
+        "original": "By Alissa J. Rubin and Aurelien Breeden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Truck Attacker in France Was Its ‘Soldier’",
+        "kicker": "",
+        "print_headline": "Islamic State Claims Responsibility for Terrorist Attack in Nice"
+      },
+      "_id": "nyt://article/b55c5d24-e112-5d6b-80f0-f9eb6b5f4d29",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Nice, France, Attack (July 2016)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Rubin, Alissa J",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Breeden, Aurelien",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Lahouaiej Bouhlel, Mohamed",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Mourners at a makeshift memorial on the Promenade des Anglais in Nice, France, on Friday.",
+        "credit": "Andrew Testa for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/17/world/17France-web/17France-web-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/17/world/17France-web/17France-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2016-07-16T10:09:02Z",
+      "section_name": "World",
+      "snippet": "Officials said the attacker, Mohamed Lahouaiej Bouhlel, may have “radicalized himself very quickly.” Four of his acquaintances have been detained.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b55c5d24-e112-5d6b-80f0-f9eb6b5f4d29",
+      "web_url": "https://www.nytimes.com/2016/07/17/world/europe/isis-nice-france-attack.html",
+      "word_count": 1463
+    },
+    {
+      "abstract": "The move came after the Chinese National Academy of Arts announced that Yanhuang Chunqiu’s publisher was dismissed and its chief editor was demoted.",
+      "byline": {
+        "original": "By Kiki Zhao"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Liberal Chinese Journal, Claiming Interference by Overseers, Files Lawsuit",
+        "kicker": "Sinosphere",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cdd4f27a-519e-5ae3-ad0e-38311a816597",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "China Academy of Art",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Yanhuang Chunqiu (Journal)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Magazines",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Du Daozheng",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Jia Leilei",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Du Daozheng, who has been removed as publisher of the journal Yanhuang Chunqiu, in his office in Beijing in 2009.",
+        "credit": "Shiho Fukada for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/16/world/16CHINAJOURNAL-web1/16CHINAJOURNAL-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/16/world/16CHINAJOURNAL-web1/16CHINAJOURNAL-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-07-15T12:29:38Z",
+      "section_name": "World",
+      "snippet": "The move came after the Chinese National Academy of Arts announced that Yanhuang Chunqiu’s publisher was dismissed and its chief editor was demoted.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/cdd4f27a-519e-5ae3-ad0e-38311a816597",
+      "web_url": "https://www.nytimes.com/2016/07/16/world/asia/yanhuang-chunqiu-china-du-daozheng.html",
+      "word_count": 783
+    },
+    {
+      "abstract": "An international panel in The Hague delivered a sweeping rebuke of China’s behavior, deciding that its expansive claim to sovereignty over the waters had no legal basis.",
+      "byline": {
+        "original": "By Jane Perlez"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Tribunal Rejects Beijing’s Claims in South China Sea",
+        "kicker": "",
+        "print_headline": "Panel Rejects China’s Claims in Sea Dispute"
+      },
+      "_id": "nyt://article/197c2e92-91c1-50a0-82c0-3cc41a302bea",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "International Court of Justice (UN)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Philippines",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Scarborough Shoal (South China Sea)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Law of the Sea (UN Convention)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A member of the Chinese Coast Guard ordering a boat to leave the area of Scarborough Shoal, seen as green water in the background, in June.",
+        "credit": "Sergey Ponomarev for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/13/world/13tribunal1/13tribunal1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/13/world/13tribunal1/13tribunal1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2016-07-12T07:53:35Z",
+      "section_name": "World",
+      "snippet": "An international panel in The Hague delivered a sweeping rebuke of China’s behavior, deciding that its expansive claim to sovereignty over the waters had no legal basis.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/197c2e92-91c1-50a0-82c0-3cc41a302bea",
+      "web_url": "https://www.nytimes.com/2016/07/13/world/asia/south-china-sea-hague-ruling-philippines.html",
+      "word_count": 1557
+    },
+    {
+      "abstract": "The electoral commission has forecast that Mr. Turnbull’s Liberal Party-led coalition could win a combined 76 seats, which would give it an absolute majority.",
+      "byline": {
+        "original": "By Brett Cole"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Malcolm Turnbull Claims Victory in Australia Election After Rival Concedes",
+        "kicker": "",
+        "print_headline": "Australian Stalemate Broken as Premier Declares Election Victory"
+      },
+      "_id": "nyt://article/303a6bb0-8571-589c-ae6f-d13bac657a61",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 1
+        },
+        {
+          "name": "",
+          "value": "",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Turnbull, Malcolm (1954- )",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Liberal Party (Australia)",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "House of Representatives",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Labor Party (Australia)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Malcolm Turnbull in Sydney, Australia, on Sunday. His coalition will have to deal with a fractious upper house, the Senate.",
+        "credit": "Rick Rycroft/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/11/world/11australia/11australia-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/11/world/11australia/11australia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2016-07-10T08:11:57Z",
+      "section_name": "World",
+      "snippet": "The electoral commission has forecast that Mr. Turnbull’s Liberal Party-led coalition could win a combined 76 seats, which would give it an absolute majority.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/303a6bb0-8571-589c-ae6f-d13bac657a61",
+      "web_url": "https://www.nytimes.com/2016/07/11/world/australia/election-results-malcolm-turnbull-liberal.html",
+      "word_count": 306
+    },
+    {
+      "abstract": "One contender seemed to suggest in a newspaper interview that being a mother would make her a better leader than her rival, who does not have children.",
+      "byline": {
+        "original": "By Stephen Castle"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Contest for British Premier Flares Over Claims on Motherhood",
+        "kicker": "",
+        "print_headline": "Remarks on Motherhood  Roil British Premier Race"
+      },
+      "_id": "nyt://article/83e27a69-2909-53a3-bbb8-bd9c2e1e8be2",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Castle, Stephen",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Great Britain Withdrawal from EU (Brexit)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Conservative Party (Great Britain)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Times of London",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Gove, Michael Andrew",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Leadsom, Andrea (1963- )",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "May, Theresa M",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Newspapers",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Andrea Leadsom, the energy minister, after giving television interviews in London on Thursday.",
+        "credit": "Hannah Mckay/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/10/world/10london-web/10london-web-articleLarge.jpg",
+          "height": 392,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/10/world/10london-web/10london-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2016-07-09T15:55:08Z",
+      "section_name": "World",
+      "snippet": "One contender seemed to suggest in a newspaper interview that being a mother would make her a better leader than her rival, who does not have children.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/83e27a69-2909-53a3-bbb8-bd9c2e1e8be2",
+      "web_url": "https://www.nytimes.com/2016/07/10/world/europe/contest-for-british-premier-flares-over-claims-on-motherhood.html",
+      "word_count": 639
+    },
+    {
+      "abstract": "An indigenous group that survived Spanish and Inca conquest cannot handle the abrupt upheaval of global warming. Lake Poopó was more than their livelihood: It was their identity.",
+      "byline": {
+        "original": "By Nicholas Casey and Josh Haner"
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "Climate Change Claims a Lake, and an Identity",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/603fc6b5-b31e-5a5b-9f5a-aacf5ae3f6a4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Global Warming",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Bolivia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Lake Poopo (Bolivia)",
+          "rank": 3
+        },
+        {
+          "name": "Keyword",
+          "value": "Uru-Murato",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Llapallapani (Bolivia)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Migrants (Environmental)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The dry bed of Lake Poopó, near Llapallapani, Bolivia",
+        "credit": "Josh Haner/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/29/world/americas/00BOLIVIA15/00BOLIVIA-slide-1AK2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/29/world/americas/00BOLIVIA15/00BOLIVIA-slide-1AK2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-07-07T09:00:09Z",
+      "section_name": "World",
+      "snippet": "An indigenous group that survived Spanish and Inca conquest cannot handle the abrupt upheaval of global warming. Lake Poopó was more than their livelihood: It was their identity.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/603fc6b5-b31e-5a5b-9f5a-aacf5ae3f6a4",
+      "web_url": "https://www.nytimes.com/interactive/2016/07/07/world/americas/bolivia-climate-change-lake-poopo.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "The couple are accused of doctoring photographs to suggest they reached the summit in May, becoming the first husband-and-wife team from India to do so.",
+      "byline": {
+        "original": "By Nida Najar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Nepal Investigating Indian Couple’s Claim of Climbing Everest",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e0fb63a2-6254-5671-b28c-2babdc9195b4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Mountaineering",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Mount Everest",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Nepal",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Pune (India)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Satyarup Siddhanta, a climber based in Bangalore, India, holding in his right hand a photograph of him on Mount Everest, along with a version that he said an Indian couple had altered.",
+        "credit": "Bikas Das/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/06/world/06NEPAL/06NEPAL-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/06/world/06NEPAL/06NEPAL-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-07-05T11:35:27Z",
+      "section_name": "World",
+      "snippet": "The couple are accused of doctoring photographs to suggest they reached the summit in May, becoming the first husband-and-wife team from India to do so.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e0fb63a2-6254-5671-b28c-2babdc9195b4",
+      "web_url": "https://www.nytimes.com/2016/07/06/world/asia/nepal-india-mount-everest-claim.html",
+      "word_count": 413
+    },
+    {
+      "abstract": "Father Rafael Moussa, 46, a Coptic Orthodox minister, was shot outside a car repair shop in one of several attacks since 2013 on Coptic Christians.",
+      "byline": {
+        "original": "By Nour Youssef"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Killing of Coptic Christian Minister in Sinai",
+        "kicker": "",
+        "print_headline": "ISIS Claims Sinai Killing of Minister"
+      },
+      "_id": "nyt://article/9aaf8e57-3a12-55bd-b8e9-1bb77d42b14d",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Youssef, Nour",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Sinai Peninsula (Egypt)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Discrimination",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Coptic Orthodox Church of Alexandria",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Moussa, Rafael",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Egypt",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-06-30T20:08:56Z",
+      "section_name": "World",
+      "snippet": "Father Rafael Moussa, 46, a Coptic Orthodox minister, was shot outside a car repair shop in one of several attacks since 2013 on Coptic Christians.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/9aaf8e57-3a12-55bd-b8e9-1bb77d42b14d",
+      "web_url": "https://www.nytimes.com/2016/07/01/world/middleeast/isis-claims-killing-of-coptic-christian-minister-in-sinai.html",
+      "word_count": 354
+    },
+    {
+      "abstract": "The assault last week killed seven members of the Jordanian security forces, said a news agency that often serves as a conduit for reports about the group.",
+      "byline": {
+        "original": "By Rana F. Sweis"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Is Said to Claim Responsibility for Attack at Jordan-Syria Border",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a4e1adff-60d1-523c-b3e3-242c8714d99f",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Jordan",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Amaq News Agency",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The Ruqban refugee camp in Jordan’s northeast border. The Jordanian government responded to a suicide attack last week by sealing its borders with Syria.",
+        "credit": "Abu Adel/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/28/world/28jordan-web1/28jordan-web1-articleLarge.jpg",
+          "height": 364,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/28/world/28jordan-web1/28jordan-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-06-27T09:53:57Z",
+      "section_name": "World",
+      "snippet": "The assault last week killed seven members of the Jordanian security forces, said a news agency that often serves as a conduit for reports about the group.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a4e1adff-60d1-523c-b3e3-242c8714d99f",
+      "web_url": "https://www.nytimes.com/2016/06/28/world/middleeast/islamic-state-jordan-suicide-attack.html",
+      "word_count": 485
+    },
+    {
+      "abstract": "The president of the Palestinian Authority said it had become “evident” that an allegation he made in a speech to the European Parliament was “baseless.”",
+      "byline": {
+        "original": "By Diaa Hadid"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Abbas Retracts Claim That Israeli Rabbis Called for Poisoning Water",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e61c3f46-9ea3-5d2d-aa2a-4a26c8b5fda3",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Palestine Liberation Organization",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Abbas, Mahmoud",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-06-24T23:26:04Z",
+      "section_name": "World",
+      "snippet": "The president of the Palestinian Authority said it had become “evident” that an allegation he made in a speech to the European Parliament was “baseless.”",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/e61c3f46-9ea3-5d2d-aa2a-4a26c8b5fda3",
+      "web_url": "https://www.nytimes.com/2016/06/25/world/middleeast/mahmoud-abbas-israel-rabbis-poison-palestinian-water.html",
+      "word_count": 325
+    },
+    {
+      "abstract": "Prime Minister Benjamin Netanyahu of Israel denounced the Palestinian leader’s unsubstantiated allegation, saying he was spreading a “blood libel.”",
+      "byline": {
+        "original": "By Diaa Hadid"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mahmoud Abbas Claims Rabbis Urged Israel to Poison Palestinians’ Water",
+        "kicker": "",
+        "print_headline": "Abbas Claims Rabbis Sought to Poison Water"
+      },
+      "_id": "nyt://article/293c200c-977c-5e1b-b3c3-0280d0bfea59",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Hadid, Diaa",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Abbas, Mahmoud",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Poisoning and Poisons",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Palestinian Authority",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Anti-Semitism",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "European Parliament",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Brussels (Belgium)",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "President Mahmoud Abbas of the Palestinian Authority delivering a speech on Thursday to the European Parliament in Brussels.",
+        "credit": "John Thys/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/24/world/24ABBAS-web/24ABBAS-web-articleLarge.jpg",
+          "height": 890,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/24/world/24ABBAS-web/24ABBAS-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2016-06-24T01:34:36Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Benjamin Netanyahu of Israel denounced the Palestinian leader’s unsubstantiated allegation, saying he was spreading a “blood libel.”",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/293c200c-977c-5e1b-b3c3-0280d0bfea59",
+      "web_url": "https://www.nytimes.com/2016/06/24/world/middleeast/mahmoud-abbas-claims-rabbis-urged-israel-to-poison-palestinians-water.html",
+      "word_count": 662
+    },
+    {
+      "abstract": "Developers say that the app is nothing but a marketing stunt because it showed users a static image of water, not real-time satellite photos of the ocean.",
+      "byline": {
+        "original": "By Katie Rogers"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "I Sea, App That Claims It Can Find Migrants Adrift in Ocean, Is Called Misleading",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c163a80e-587c-5b72-9123-971ddb8a3a38",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "I Sea (Grey for Good)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Mobile Applications",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Maritime Accidents and Safety",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Migrant Offshore Aid Station",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Middle East and Africa Migrant Crisis",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Grey Group",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Rescues",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A crowded inflatable boat with Syrian refugees drifted in the Aegean Sea between Turkey and Greece in August.",
+        "credit": "Yannis Behrakis/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/21/world/22xp-seaapp2/22xp-seaapp2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/21/world/22xp-seaapp2/22xp-seaapp2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-06-21T15:46:37Z",
+      "section_name": "World",
+      "snippet": "Developers say that the app is nothing but a marketing stunt because it showed users a static image of water, not real-time satellite photos of the ocean.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/c163a80e-587c-5b72-9123-971ddb8a3a38",
+      "web_url": "https://www.nytimes.com/2016/06/22/world/i-sea-app-that-claims-it-can-find-migrants-adrift-in-ocean-is-called-misleading.html",
+      "word_count": 543
+    },
+    {
+      "abstract": "A Palestinian envoy said the negotiations were possible because of the Palestinian territories’ United Nations status as a nonmember observer state.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Palestinians Enter Talks With Egypt to Stake Mediterranean Claims",
+        "kicker": "",
+        "print_headline": "Palestinians Try to Stake Claims in Mediterranean"
+      },
+      "_id": "nyt://article/1dafe768-69df-5498-bc2f-8e27143193fc",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Gladstone, Rick",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mediterranean Sea",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Egypt",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Law of the Sea (UN Convention)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Mansour, Riyad H",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Palestinian Authority",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Riyad H. Mansour, the Palestinian ambassador to the United Nations, in 2014. He says Palestinians are entitled to declare an undersea “exclusive economic zone” in the Mediterranean.",
+        "credit": "John Minchillo/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/18/world/NATIONS/NATIONS-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/18/world/NATIONS/NATIONS-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "A",
+      "pub_date": "2016-06-18T00:44:32Z",
+      "section_name": "World",
+      "snippet": "A Palestinian envoy said the negotiations were possible because of the Palestinian territories’ United Nations status as a nonmember observer state.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/1dafe768-69df-5498-bc2f-8e27143193fc",
+      "web_url": "https://www.nytimes.com/2016/06/18/world/middleeast/palestinians-enter-talks-with-egypt-to-stake-mediterranean-claims.html",
+      "word_count": 599
+    },
+    {
+      "abstract": "The officer and a female companion died in Magnanville, about 35 miles west of Paris. The Islamic State claimed responsibility.",
+      "byline": {
+        "original": "By Alissa J. Rubin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Responsibility for Killing of French Police Officer",
+        "kicker": "",
+        "print_headline": "ISIS Claims Responsibility for Killing of French Police Officer"
+      },
+      "_id": "nyt://article/05cc9d48-9ab3-5b73-be09-00e3d351a971",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Rubin, Alissa Johannsen",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Attacks on Police",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Paris (France)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Investigators near the scene of the stabbing that killed a police officer in Magnanville, France. His companion also died in the attack.",
+        "credit": "Matthieu Alexandre/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14francestabbing/14francestabbing-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/14/world/14francestabbing/14francestabbing-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2016-06-14T00:36:58Z",
+      "section_name": "World",
+      "snippet": "The officer and a female companion died in Magnanville, about 35 miles west of Paris. The Islamic State claimed responsibility.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/05cc9d48-9ab3-5b73-be09-00e3d351a971",
+      "web_url": "https://www.nytimes.com/2016/06/14/world/europe/france-stabbing-police-officer-magnanville.html",
+      "word_count": 631
+    },
+    {
+      "abstract": "The Kurdistan Freedom Falcons, affiliated with the outlawed Kurdistan Workers’ Party, said it was behind the attack that killed 11 people.",
+      "byline": {
+        "original": "By Sewell Chan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kurdish Militant Group T.A.K. Claims Responsibility for Istanbul Bombing",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/62857d55-3bbd-5a13-97ab-452656574182",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Kurdistan Workers' Party",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Istanbul (Turkey)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Kurdistan Freedom Falcons",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A canvas protected the facade of a hotel in Istanbul on Wednesday. The hotel was damaged in a car bombing that killed 11 people on Tuesday.",
+        "credit": "Yasin Akgul/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/11/world/11TURKEY-web1/11TURKEY-web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/11/world/11TURKEY-web1/11TURKEY-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-06-10T09:24:44Z",
+      "section_name": "World",
+      "snippet": "The Kurdistan Freedom Falcons, affiliated with the outlawed Kurdistan Workers’ Party, said it was behind the attack that killed 11 people.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/62857d55-3bbd-5a13-97ab-452656574182",
+      "web_url": "https://www.nytimes.com/2016/06/11/world/europe/istanbul-bomb-kurdish-pkk.html",
+      "word_count": 263
+    },
+    {
+      "abstract": "An attack at a court in Logar on Sunday was revenge for recent executions of Taliban prisoners, a spokesman for the insurgents said.",
+      "byline": {
+        "original": "By Rod Nordland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Taliban Claim Killing of 7 in Afghan Province, Including New Attorney General",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/85a59440-eb38-571b-bb8c-4d3ab4dec32c",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2016-06-05T13:57:39Z",
+      "section_name": "World",
+      "snippet": "An attack at a court in Logar on Sunday was revenge for recent executions of Taliban prisoners, a spokesman for the insurgents said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/85a59440-eb38-571b-bb8c-4d3ab4dec32c",
+      "web_url": "https://www.nytimes.com/2016/06/06/world/asia/taliban-claim-killing-of-7-in-afghan-province-including-new-attorney-general.html",
+      "word_count": 386
+    },
+    {
+      "abstract": "A maintenance worker in the prime minister’s residence endured “humiliation, excessive and even unreasonable demands,” the court said, awarding him about $26,000.",
+      "byline": {
+        "original": "By Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israeli Worker Wins Case Claiming Abusive Treatment by Sara Netanyahu",
+        "kicker": "",
+        "print_headline": "Israeli Worker Wins Case Claiming Abusive Treatment by the Wife of Netanyahu"
+      },
+      "_id": "nyt://article/f0b99033-0fcb-5921-9ddd-73182c4446cd",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Kershner, Isabel",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Sara",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Eliyahu, Guy",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Jerusalem (Israel)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-05-31T19:02:44Z",
+      "section_name": "World",
+      "snippet": "A maintenance worker in the prime minister’s residence endured “humiliation, excessive and even unreasonable demands,” the court said, awarding him about $26,000.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/f0b99033-0fcb-5921-9ddd-73182c4446cd",
+      "web_url": "https://www.nytimes.com/2016/06/01/world/middleeast/israeli-worker-wins-case-claiming-abusive-treatment-by-sara-netanyahu.html",
+      "word_count": 923
+    },
+    {
+      "abstract": "The police have arrested a former customer of the victim, a Hindu shoe store owner, but an account linked to Islamic militants claimed responsibility for the death.",
+      "byline": {
+        "original": "By Julfikar Ali Manik"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Bangladeshi Police Dismiss Claim That ISIS Was Behind Shop Owner’s Death",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/38f01262-4aeb-5a48-bdff-9a9ca5048b9c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Pramanik, Debesh Chandra",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Bangladesh",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Hinduism",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-05-25T20:20:06Z",
+      "section_name": "World",
+      "snippet": "The police have arrested a former customer of the victim, a Hindu shoe store owner, but an account linked to Islamic militants claimed responsibility for the death.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/38f01262-4aeb-5a48-bdff-9a9ca5048b9c",
+      "web_url": "https://www.nytimes.com/2016/05/26/world/asia/bangladeshi-police-dismiss-claim-that-isis-was-behind-shop-owners-death.html",
+      "word_count": 413
+    },
+    {
+      "abstract": "That message came through clearly when several women stepped forward with accusations that forced a National Assembly leader to resign.",
+      "byline": {
+        "original": "By Adam Nossiter"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "French Lawmaker’s Fall Over Harassment Claims May Hold Lesson for Men: Behave",
+        "kicker": "Memo From France",
+        "print_headline": "Lawmaker’s Downfall May Hold Lesson for Men: Behave"
+      },
+      "_id": "nyt://article/79e64082-f1ab-5670-9ddf-774412faa815",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Nossiter, Adam",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Baupin, Denis (1962- )",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Women's Rights",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A group of women demonstrated against the sexual harassment of women in front of the National Assembly in Paris this month. The Assembly’s vice president, Denis Baupin, resigned amid accusations of misbehavior.",
+        "credit": "Dominique Faget/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/23/world/23FRANCE1/23FRANCE1-articleLarge.jpg",
+          "height": 407,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/23/world/23FRANCE1/23FRANCE1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-05-22T23:17:16Z",
+      "section_name": "World",
+      "snippet": "That message came through clearly when several women stepped forward with accusations that forced a National Assembly leader to resign.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/79e64082-f1ab-5670-9ddf-774412faa815",
+      "web_url": "https://www.nytimes.com/2016/05/23/world/europe/france-sexual-harassment-denis-baupin-politics.html",
+      "word_count": 1254
+    },
+    {
+      "abstract": "The legislation, now headed to the House and opposed by the White House, is another sign of escalating tensions between the Mideast nation and the U.S.",
+      "byline": {
+        "original": "By Mark Mazzetti"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Senate Passes Bill Exposing Saudi Arabia to 9/11 Legal Claims",
+        "kicker": "",
+        "print_headline": "Senate Passes Bill That Could Expose Saudi Arabia to Legal Claims Over 9/11"
+      },
+      "_id": "nyt://article/e766fd86-782d-522b-8cd9-35ed62759373",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Mazzetti, Mark",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "September 11 (2001)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Senate",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Suits and Litigation (Civil)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Obama with Adel al-Jubeir, the Saudi foreign minister, during a trip to the kingdom last month.",
+        "credit": "Stephen Crowley/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/18/us/18saudis-web/18saudis-web-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/18/us/18saudis-web/18saudis-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-05-17T16:28:15Z",
+      "section_name": "World",
+      "snippet": "The legislation, now headed to the House and opposed by the White House, is another sign of escalating tensions between the Mideast nation and the U.S.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/e766fd86-782d-522b-8cd9-35ed62759373",
+      "web_url": "https://www.nytimes.com/2016/05/18/us/politics/senate-passes-bill-that-would-expose-saudi-arabia-to-legal-jeopardy-over-9-11.html",
+      "word_count": 921
+    },
+    {
+      "abstract": "China has been taking its case to the international news media ahead of a court decision in a suit filed by the Philippines that challenges Beijing’s claims.",
+      "byline": {
+        "original": "By Michael Forsythe"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Beijing Tries to Whip Up Support for Its South China Sea Claims",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/da62711e-3a53-5895-9d4e-7c21bba118ce",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Philippines",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Permanent Court of Arbitration",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Law of the Sea (UN Convention)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A Filipino fisherman repaired his boat near a fleet of boats that fish at Scarborough Shoal. Concern is growing that China may try to build an island on the shoal, which is close to Manila and to bases in the Philippines used by the United States.",
+        "credit": "Erik De Castro/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/13/world/asia/14ChinaSea-web/13ChinaSea-web-articleLarge.jpg",
+          "height": 369,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/13/world/asia/14ChinaSea-web/14ChinaSea-web-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-05-13T12:56:00Z",
+      "section_name": "World",
+      "snippet": "China has been taking its case to the international news media ahead of a court decision in a suit filed by the Philippines that challenges Beijing’s claims.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/da62711e-3a53-5895-9d4e-7c21bba118ce",
+      "web_url": "https://www.nytimes.com/2016/05/14/world/asia/south-china-sea-philippines-hague-ruling.html",
+      "word_count": 712
+    },
+    {
+      "abstract": "Secretary of State John Kerry disputed complaints that American sanctions are impeding business with Iran despite the nuclear deal.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kerry Rebuts Claims That U.S. Is Undercutting Iran Trade and Investment",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d030b1f8-792e-5406-8ef6-905a74b37bb5",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kerry, John",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Banking and Financial Institutions",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-05-11T02:11:42Z",
+      "section_name": "World",
+      "snippet": "Secretary of State John Kerry disputed complaints that American sanctions are impeding business with Iran despite the nuclear deal.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/d030b1f8-792e-5406-8ef6-905a74b37bb5",
+      "web_url": "https://www.nytimes.com/2016/05/11/world/middleeast/john-kerry-iran-sanctions.html",
+      "word_count": 638
+    },
+    {
+      "abstract": "The operation was intended to show that the United States opposes China’s efforts to restrict navigation in the strategic waterway, the Pentagon said.",
+      "byline": {
+        "original": "By Jane Perlez"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Sails Warship Near Island in South China Sea, Challenging Chinese Claims",
+        "kicker": "",
+        "print_headline": "U.S. Destroyer Patrols Near Disputed Island"
+      },
+      "_id": "nyt://article/9cd534a1-ab5a-5052-9edd-97f1a552cea6",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Paracel Islands",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Spratly Islands",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Navigation",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Philippines",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "The William P. Lawrence, a guided missile destroyer, in Coronado, Calif., in January. The ship ventured into the vicinity of Fiery Cross Reef, an artificial island that China constructed in the South China Sea, on Tuesday.",
+        "credit": "Gregory Bull/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/11/world/11CHINA-web2/11CHINA-web2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/11/world/11CHINA-web2/11CHINA-web2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-05-10T08:46:11Z",
+      "section_name": "World",
+      "snippet": "The operation was intended to show that the United States opposes China’s efforts to restrict navigation in the strategic waterway, the Pentagon said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9cd534a1-ab5a-5052-9edd-97f1a552cea6",
+      "web_url": "https://www.nytimes.com/2016/05/11/world/asia/south-china-sea-us-warship.html",
+      "word_count": 569
+    },
+    {
+      "abstract": "Kim Jong-un says Pyongyang would only resort to using its cache of atomic weapons if its national sovereignty were breached or threatened.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea Claims Its Nuclear Arsenal Is Just a ‘Deterrent’",
+        "kicker": "",
+        "print_headline": "Nuclear Arsenal a ‘Deterrent,’ North Korea Says"
+      },
+      "_id": "nyt://article/b6c9b76c-5361-5dc0-9729-87a58d59370b",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Choe Sang-Hun",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Control and Limitation and Disarmament",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Photographs by Korean Central News Agency, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/05/08/world/08KOREANUKE1/08KOREANUKE1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/05/08/world/08KOREANUKE1/08KOREANUKE1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-05-08T03:13:26Z",
+      "section_name": "World",
+      "snippet": "Kim Jong-un says Pyongyang would only resort to using its cache of atomic weapons if its national sovereignty were breached or threatened.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/b6c9b76c-5361-5dc0-9729-87a58d59370b",
+      "web_url": "https://www.nytimes.com/2016/05/08/world/asia/north-korea-claims-its-nuclear-arsenal-is-just-a-deterrent.html",
+      "word_count": 896
+    },
+    {
+      "abstract": "The colonel was shot dead near the capital of Riyadh, the latest attack in the kingdom to be claimed by the Islamic State.",
+      "byline": {
+        "original": "By Ben Hubbard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Saudi Police Colonel Is Killed and ISIS Claims Responsibility",
+        "kicker": "World Briefing",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cc539a1e-6676-5159-9f44-b0742e5d1ea1",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-04-05T15:00:18Z",
+      "section_name": "World",
+      "snippet": "The colonel was shot dead near the capital of Riyadh, the latest attack in the kingdom to be claimed by the Islamic State.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/cc539a1e-6676-5159-9f44-b0742e5d1ea1",
+      "web_url": "https://www.nytimes.com/2016/04/06/world/middleeast/saudi-arabia-police-colonel-killed-islamic-state.html",
+      "word_count": 108
+    },
+    {
+      "abstract": "Azerbaijan laid the seeds for continued fighting over the long-disputed enclave by saying that it would keep the territory seized by its forces.",
+      "byline": {
+        "original": "By Neil MacFarquhar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Azerbaijan Claims to Halt Violence in Nagorno-Karabakh, but Warns Armenia",
+        "kicker": "",
+        "print_headline": "Azerbaijan Says It Ceased Combat Against Armenia"
+      },
+      "_id": "nyt://article/3de4293f-6071-5917-802b-e544b8259311",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Azerbaijan",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "MacFarquhar, Neil",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Armenia",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Nagorno-Karabakh",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Aliyev, Ilham H",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Armenian forces fired artillery toward troops from Azerbaijan on Sunday in the town of Martakert in Nagorno-Karabakh.",
+        "credit": "Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/04/04/world/04ARMENIA/04ARMENIA-articleLarge.jpg",
+          "height": 409,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/04/04/world/04ARMENIA/04ARMENIA-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2016-04-03T17:18:19Z",
+      "section_name": "World",
+      "snippet": "Azerbaijan laid the seeds for continued fighting over the long-disputed enclave by saying that it would keep the territory seized by its forces.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3de4293f-6071-5917-802b-e544b8259311",
+      "web_url": "https://www.nytimes.com/2016/04/04/world/europe/azerbaijan-armenia-nagorno-karabakh-conflict.html",
+      "word_count": 1064
+    },
+    {
+      "abstract": "Overseas subsidiaries have long acted as a shield for extractive companies, but cases describing negligence and rape could lead to new scrutiny.",
+      "byline": {
+        "original": "By Suzanne Daley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Guatemalan Women’s Claims Put Focus on Canadian Firms’ Conduct Abroad",
+        "kicker": "",
+        "print_headline": "Outcry Echoes Up to Canada "
+      },
+      "_id": "nyt://article/0845777f-cda1-556d-96d2-6f7400b73f51",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Daley, Suzanne",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Guatemala",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Hudbay Mineral Inc",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Mines and Mining",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Caal, Margarita Caal",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Suits and Litigation (Civil)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Angelica Choc, right, sued a Canadian company in the 2009 killing of her husband, a local leader, and Rosa Elbira Coc Ich, left, says she was evicted and gang-raped in 2007.",
+        "credit": "Adriana Zehbrauskas for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/04/03/world/americas/03GUATEMALA-1/03GUATEMALA-1-articleLarge.jpg",
+          "height": 686,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/04/03/world/americas/03GUATEMALA-1/03GUATEMALA-1-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2016-04-02T16:13:56Z",
+      "section_name": "World",
+      "snippet": "Overseas subsidiaries have long acted as a shield for extractive companies, but cases describing negligence and rape could lead to new scrutiny.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/0845777f-cda1-556d-96d2-6f7400b73f51",
+      "web_url": "https://www.nytimes.com/2016/04/03/world/americas/guatemalan-womens-claims-put-focus-on-canadian-firms-conduct-abroad.html",
+      "word_count": 1515
+    },
+    {
+      "abstract": "The Islamic State militant group claimed responsibility for the blasts, which occurred four days after the capture of a suspect in the Paris attacks.",
+      "byline": {
+        "original": "By Alissa J. Rubin, Aurelien Breeden and Anita Raghavan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Strikes Claimed by ISIS Shut Brussels and Shake European Security",
+        "kicker": "",
+        "print_headline": "Brussels Attacks Shake European Security"
+      },
+      "_id": "nyt://article/4dcc6269-56c5-54f8-bc80-23de29977f04",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Brussels Attacks (March 2016)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Raghavan, Anita",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Breeden, Aurelien",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Rubin, Alissa Johannsen",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Subways",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Airports",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Security and Warning Systems",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Brussels (Belgium)",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Paris Attacks (November 2015)",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "The Belgian federal prosecutor’s office confirmed the three men in a picture published in the Belgian news media are suspects in the airport bombings.",
+        "credit": "Belgian Federal Police, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2016-03-22T07:38:22Z",
+      "section_name": "World",
+      "snippet": "The Islamic State militant group claimed responsibility for the blasts, which occurred four days after the capture of a suspect in the Paris attacks.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/4dcc6269-56c5-54f8-bc80-23de29977f04",
+      "web_url": "https://www.nytimes.com/2016/03/23/world/europe/brussels-airport-explosions.html",
+      "word_count": 1632
+    },
+    {
+      "abstract": "Salah Abdeslam, wounded in a shootout with the Brussels police, is thought to be the last surviving member of the group that carried out deadly attacks on Paris in November.",
+      "byline": {
+        "original": "By Aurelien Breeden and Alissa J. Rubin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Paris Suspect Claims He ‘Backed Out’ of Stadium Bombing, Prosecutor Says",
+        "kicker": "",
+        "print_headline": "Paris Suspect Claims He &#8216;Backed Out&#8217; of Stadium Bombing, Prosecutor Says"
+      },
+      "_id": "nyt://article/dad1d5fa-3a15-5ac7-9750-4ab340fccdc9",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Rubin, Alissa Johannsen",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Abdeslam, Salah",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Breeden, Aurelien",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Paris Attacks (November 2015)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Brussels (Belgium)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Cazeneuve, Bernard (1963- )",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Hollande, Francois",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Paris (France)",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Security forces guard a street leading to the federal police headquarters where captured fugitive Salah Abdeslam appeared before a judge in Brussels, Belgium.",
+        "credit": "Peter Dejong/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/03/20/world/20BELGIUM1/20BELGIUM1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/03/20/world/20BELGIUM1/20BELGIUM1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2016-03-19T17:57:51Z",
+      "section_name": "World",
+      "snippet": "Salah Abdeslam, wounded in a shootout with the Brussels police, is thought to be the last surviving member of the group that carried out deadly attacks on Paris in November.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/dad1d5fa-3a15-5ac7-9750-4ab340fccdc9",
+      "web_url": "https://www.nytimes.com/2016/03/20/world/europe/paris-terror-attacks-suspect-belgium.html",
+      "word_count": 556
+    },
+    {
+      "abstract": "The militant group made the statement online, but the police in Dhaka said that a homeopathic doctor had been killed and that he had reportedly been threatened by drug addicts.",
+      "byline": {
+        "original": "By Julfikar Ali Manik and Nida Najar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Bangladesh Police Dispute ISIS’ Claim That It Killed Shiite Preacher",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/123b8945-e8e7-5b11-996d-fe36adfe3505",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Shiite Muslims",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Bangladesh",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-03-15T18:39:13Z",
+      "section_name": "World",
+      "snippet": "The militant group made the statement online, but the police in Dhaka said that a homeopathic doctor had been killed and that he had reportedly been threatened by drug addicts.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/123b8945-e8e7-5b11-996d-fe36adfe3505",
+      "web_url": "https://www.nytimes.com/2016/03/16/world/asia/bangladesh-police-dispute-isis-claim-that-it-killed-shiite-preacher.html",
+      "word_count": 318
+    },
+    {
+      "abstract": "A bomb in a laptop computer went off at a security checkpoint at the airport in Beletwein in central Somalia, wounding at least six people, officials said.",
+      "byline": {
+        "original": "By Mohamed Ibrahim"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Shabab Claim Responsibility for Blast at Somali Airport",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/039bdd65-6496-5d2d-940c-a3b27a782edd",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Shabab",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Somalia",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Airports",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-03-07T18:13:24Z",
+      "section_name": "World",
+      "snippet": "A bomb in a laptop computer went off at a security checkpoint at the airport in Beletwein in central Somalia, wounding at least six people, officials said.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/039bdd65-6496-5d2d-940c-a3b27a782edd",
+      "web_url": "https://www.nytimes.com/2016/03/08/world/africa/shabab-claim-responsibility-for-blast-at-somali-airport.html",
+      "word_count": 151
+    },
+    {
+      "abstract": "At least 10 people were killed and dozens were wounded in an attack on a hotel and public garden in Mogadishu. Security forces managed to stop militants from storming the building, officials said.",
+      "byline": {
+        "original": "By Mohamed Ibrahim"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Shabab Militants Claim Deadly Attack on Hotel in Somalia",
+        "kicker": "",
+        "print_headline": "Somali Hotel Is Attacked by Militants"
+      },
+      "_id": "nyt://article/f2447ecd-7bc7-5287-880c-b4cadd92a53a",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Somalia",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Ibrahim, Mohammed",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Shabab",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Mogadishu (Somalia)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A injured man after an attack at the SYL Hotel in Mogadishu, Somalia, on Friday.",
+        "credit": "Said Yusuf Warsame/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/27/world/27Somalia-1/27Somalia-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/27/world/27Somalia-1/27Somalia-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-02-26T19:34:05Z",
+      "section_name": "World",
+      "snippet": "At least 10 people were killed and dozens were wounded in an attack on a hotel and public garden in Mogadishu. Security forces managed to stop militants from storming the building, officials said.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/f2447ecd-7bc7-5287-880c-b4cadd92a53a",
+      "web_url": "https://www.nytimes.com/2016/02/27/world/africa/shabab-gunmen-attack-hotel-in-somalia.html",
+      "word_count": 364
+    },
+    {
+      "abstract": "The reprinting of a letter purportedly written by star athletes in 1995, alleging they were tricked into using drugs, has reignited a scandal.",
+      "byline": {
+        "original": "By Didi Kirsten Tatlow"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Doping Claims Involving Chinese Track Stars Re-emerge, Decades Later",
+        "kicker": "Sinosphere",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9506b36a-2f1f-5051-80c0-11b4c7bd4c8c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Doping (Sports)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Running",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Olympic Games",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Tests (Drug Use)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Records and Achievements",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "International Assn of Athletics Federations",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Ma Junren (1944- )",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Wang Junxia (1973- )",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Wang Junxia of China, center, the gold medalist in the 5,000 meters, with Pauline Konga of Kenya, right, silver, and Roberta Brunet of Italy, bronze, at the 1996 Summer Olympic Games in Atlanta.",
+        "credit": "Ed Reinke/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/18/world/18chinadoping01/18chinadoping01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/18/world/18chinadoping01/18chinadoping01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-02-24T23:00:06Z",
+      "section_name": "World",
+      "snippet": "The reprinting of a letter purportedly written by star athletes in 1995, alleging they were tricked into using drugs, has reignited a scandal.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9506b36a-2f1f-5051-80c0-11b4c7bd4c8c",
+      "web_url": "https://www.nytimes.com/2016/02/25/world/asia/china-olympics-doping-ma-junren.html",
+      "word_count": 1129
+    },
+    {
+      "abstract": "Critics say the decision to release the files, which are unverified and indicate the former president was a Communist informer, is political.",
+      "byline": {
+        "original": "By Joanna Berendt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Lech Walesa Files Made Public Despite Forgery Claims",
+        "kicker": "",
+        "print_headline": "Walesa Denies Claims of Informer Role in Uncovered Files "
+      },
+      "_id": "nyt://article/2fc7876a-d685-5860-8a73-d73401d33ead",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Berendt, Joanna",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Poland",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Walesa, Lech",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Archives and Records",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "USSR (Former Soviet Union)",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Solidarity (Poland)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Kiszczak, Czeslaw (1925-2015)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Communism (Theory and Philosophy)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A copy of the Communist-era secret service documents, released on Monday in Warsaw, that are said to indicate that the Solidarity leader Lech Walesa was a collaborator.",
+        "credit": "Kacper Pempel/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/23/world/23Warsaw-web/23Warsaw-web-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/23/world/23Warsaw-web/23Warsaw-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2016-02-22T19:00:56Z",
+      "section_name": "World",
+      "snippet": "Critics say the decision to release the files, which are unverified and indicate the former president was a Communist informer, is political.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/2fc7876a-d685-5860-8a73-d73401d33ead",
+      "web_url": "https://www.nytimes.com/2016/02/23/world/europe/lech-walesa-poland.html",
+      "word_count": 474
+    },
+    {
+      "abstract": "The Kurdistan Freedom Hawks claimed responsibility for a bombing that killed 28 in Turkey’s capital, but Turkey’s leaders continued to blame a different Kurdish group, an ally of the United States.",
+      "byline": {
+        "original": "By Tim Arango and Somini Sengupta"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Obscure Kurdish Group Claims Hand in Bombing Turks ",
+        "kicker": "",
+        "print_headline": "Obscure Kurdish Group Claims Hand in Bombing Turks "
+      },
+      "_id": "nyt://article/2e9dee3f-014a-5a71-b8dd-fa664ea9903e",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Sengupta, Somini",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Arango, Tim",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Ankara (Turkey)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Kurds",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "People's Protection Units (YPG)",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Kurdistan Freedom Hawks",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "A",
+      "pub_date": "2016-02-20T01:45:08Z",
+      "section_name": "World",
+      "snippet": "The Kurdistan Freedom Hawks claimed responsibility for a bombing that killed 28 in Turkey’s capital, but Turkey’s leaders continued to blame a different Kurdish group, an ally of the United States.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/2e9dee3f-014a-5a71-b8dd-fa664ea9903e",
+      "web_url": "https://www.nytimes.com/2016/02/20/world/europe/obscure-kurdish-group-claims-hand-in-bombing-turks.html",
+      "word_count": 602
+    },
+    {
+      "abstract": "The resignation of Ms. Aguirre highlights the seriousness of corruption accusations against the Popular Party of Prime Minister Mariano Rajoy.",
+      "byline": {
+        "original": "By Raphael Minder"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Esperanza Aguirre, an Official in Spain’s Governing Party, Quits Amid Corruption Claims",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9701714a-4536-5a18-a335-b924236a3bd4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Spain",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Popular Party (Spain)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Bribery and Kickbacks",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Podemos (Spanish Political Party)",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Spanish Socialist Workers' Party",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Rajoy, Mariano",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Madrid (Spain)",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Aguirre, Esperanza",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "The longstanding leader of the Popular Party in Madrid, Esperanza Aguirre, resigned on Sunday after mounting allegations of corruption within her party. “Corruption is killing us,” Ms. Aguirre said. “I don’t have any direct responsibility, but I understand that I have a political responsibility.”",
+        "credit": "Luca Piergiovanni/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/15/world/15SPAIN-web1/15SPAIN-web1-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/15/world/15SPAIN-web1/15SPAIN-web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-02-14T23:34:05Z",
+      "section_name": "World",
+      "snippet": "The resignation of Ms. Aguirre highlights the seriousness of corruption accusations against the Popular Party of Prime Minister Mariano Rajoy.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/9701714a-4536-5a18-a335-b924236a3bd4",
+      "web_url": "https://www.nytimes.com/2016/02/15/world/europe/esperanza-aguirre-an-official-in-spains-governing-party-quits-amid-corruption-claims.html",
+      "word_count": 690
+    },
+    {
+      "abstract": "A man who set off a bomb was sucked out of a Daallo Airlines plane through a hole when the blast ripped open the cabin in flight, officials said.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Shabab Claims Plane Attack ",
+        "kicker": "",
+        "print_headline": " Shabab Claim Bid to Blow Up Jet "
+      },
+      "_id": "nyt://article/79cfdbcf-78b2-5fd5-906d-9419cbaefc80",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Somalia",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Shabab",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Aviation Accidents, Safety and Disasters",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Daallo Airlines",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Mogadishu (Somalia)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-02-13T22:58:02Z",
+      "section_name": "World",
+      "snippet": "A man who set off a bomb was sucked out of a Daallo Airlines plane through a hole when the blast ripped open the cabin in flight, officials said.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/79cfdbcf-78b2-5fd5-906d-9419cbaefc80",
+      "web_url": "https://www.nytimes.com/2016/02/14/world/africa/shabab-claims-plane-attack.html",
+      "word_count": 203
+    },
+    {
+      "abstract": "The claim comes after a long effort to secure the territory, and mineral rights, to Arctic Ocean seabed, including an area under the North Pole.",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia Presents Revised Claim of Arctic Territory to the United Nations",
+        "kicker": "",
+        "print_headline": "Russia Makes U.N. Claim to Arctic Ocean Seabed"
+      },
+      "_id": "nyt://article/668c4ef4-307c-54ea-93ca-876f557f3c1c",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Kramer, Andrew E",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Arctic Ocean",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Law of the Sea (UN Convention)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Russian Ministry of Defense, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/09/multimedia/10deers-soldiers/10deers-soldiers-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/09/multimedia/10deers-soldiers/10deers-soldiers-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-02-10T01:19:22Z",
+      "section_name": "World",
+      "snippet": "The claim comes after a long effort to secure the territory, and mineral rights, to Arctic Ocean seabed, including an area under the North Pole.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/668c4ef4-307c-54ea-93ca-876f557f3c1c",
+      "web_url": "https://www.nytimes.com/2016/02/10/world/europe/russia-to-present-revised-claim-of-arctic-territory-to-the-united-nations.html",
+      "word_count": 500
+    },
+    {
+      "abstract": "In an exercise intended to challenge excessive territorial claims by China, a United States vessel entered the disputed waters in the Paracel Islands without giving China notice.",
+      "byline": {
+        "original": "By Jane Perlez"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Challenges China’s Claim of Islands With Maritime Operation",
+        "kicker": "",
+        "print_headline": "U.S. Challenges China’s Claim of Islands With Sea Operation"
+      },
+      "_id": "nyt://article/3aa0a6da-f059-59e9-b676-c33683891d4e",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "United States Navy",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Defense Department",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Ships and Shipping",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2016-01-30T16:42:48Z",
+      "section_name": "World",
+      "snippet": "In an exercise intended to challenge excessive territorial claims by China, a United States vessel entered the disputed waters in the Paracel Islands without giving China notice.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3aa0a6da-f059-59e9-b676-c33683891d4e",
+      "web_url": "https://www.nytimes.com/2016/01/31/world/asia/us-challenges-chinas-claim-of-islands-with-maritime-operation.html",
+      "word_count": 637
+    },
+    {
+      "abstract": "Russia’s foreign minister said a girl’s disappearance and alleged rape in Berlin was “hushed up.” But German officials have warned against politicizing the case.",
+      "byline": {
+        "original": "By Ivan Nechepurenko and Alison Smale"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia Dismisses German Warnings About Exploiting Teen Rape Claim",
+        "kicker": "",
+        "print_headline": "Russia Dismisses German Claims of Politicizing Rape Claim"
+      },
+      "_id": "nyt://article/383bcd05-83fd-5b87-9715-62268113aa8a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Lavrov, Sergey V",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Missing Persons",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Steinmeier, Frank-Walter",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Middle East and Africa Migrant Crisis",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Kidnapping and Hostages",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Channel One (Russia)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Yuri Kochetkov/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/01/29/world/video-lavrov/video-lavrov-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/01/29/world/video-lavrov/video-lavrov-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2016-01-29T01:07:55Z",
+      "section_name": "World",
+      "snippet": "Russia’s foreign minister said a girl’s disappearance and alleged rape in Berlin was “hushed up.” But German officials have warned against politicizing the case.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/383bcd05-83fd-5b87-9715-62268113aa8a",
+      "web_url": "https://www.nytimes.com/2016/01/29/world/europe/russia-dismisses-german-claims-of-exploiting-teen-rape-case.html",
+      "word_count": 529
+    },
+    {
+      "abstract": "A suicide car bomber rammed the gates of the restaurant, near a beach in Mogadishu, and then gunmen fought their way into the building.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Somalia: Shabab Militants Claim Attack on Restaurant",
+        "kicker": "World Briefing",
+        "print_headline": "Africa; Somalia: Shabab Militants Claim Attack on Restaurant"
+      },
+      "_id": "nyt://article/7ec84222-9d20-5ba6-a006-5a638fd7cf4b",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Somalia",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Shabab",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Mogadishu (Somalia)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Restaurants",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Liido Seafood (Mogadishu, Somalia, Restaurant)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2016-01-22T03:13:51Z",
+      "section_name": "World",
+      "snippet": "A suicide car bomber rammed the gates of the restaurant, near a beach in Mogadishu, and then gunmen fought their way into the building.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "Brief",
+      "uri": "nyt://article/7ec84222-9d20-5ba6-a006-5a638fd7cf4b",
+      "web_url": "https://www.nytimes.com/2016/01/22/world/africa/somalia-shabab-militants-claim-attack-on-restaurant.html",
+      "word_count": 84
+    },
+    {
+      "abstract": "The claim by militants in Afghanistan was a sign that the Islamic State’s central command is increasingly willing to promote its Afghan affiliate as a supported group.",
+      "byline": {
+        "original": "By Khalid Alokozay and Mujib Mashal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Assault That Killed 7 Near Pakistani Consulate in Afghanistan",
+        "kicker": "",
+        "print_headline": "ISIS Claims Responsibility for Assault That Killed 7 Afghans"
+      },
+      "_id": "nyt://article/4264c709-43cd-522a-b037-0eddaf6c0968",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 1
+        },
+        {
+          "name": "",
+          "value": "",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Mashal, Mujib",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Jalalabad (Afghanistan)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Nangarhar Province (Afghanistan)",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Noorullah Shirzada/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/01/13/multimedia/14afghanistan/14afghanistan-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/01/13/multimedia/14afghanistan/14afghanistan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-01-13T07:15:26Z",
+      "section_name": "World",
+      "snippet": "The claim by militants in Afghanistan was a sign that the Islamic State’s central command is increasingly willing to promote its Afghan affiliate as a supported group.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/4264c709-43cd-522a-b037-0eddaf6c0968",
+      "web_url": "https://www.nytimes.com/2016/01/14/world/asia/jalalabad-afghanistan-blast.html",
+      "word_count": 603
+    },
+    {
+      "abstract": "American officials said that the military had lost contact with the boats in the Persian Gulf and that Iran had promised to return the sailors soon.",
+      "byline": {
+        "original": "By Helene Cooper and David E. Sanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran Seizes U.S. Sailors Amid Claims of Spying",
+        "kicker": "",
+        "print_headline": "Iran Seizes U.S. Sailors Amid Claims of Spying"
+      },
+      "_id": "nyt://article/a2410fb1-1f8b-5d30-9162-d53612cb4e8e",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Sanger, David E",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Cooper, Helene",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "United States Navy",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Persian Gulf",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A boat of the type seized by Iran in the Persian Gulf on Tuesday. The sailors aboard are expected to be returned soon.",
+        "credit": "Zane Ecklund/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/01/13/world/13SHIPS/13SHIPS-articleLarge.jpg",
+          "height": 428,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/01/13/world/13SHIPS/13SHIPS-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2016-01-12T21:44:20Z",
+      "section_name": "World",
+      "snippet": "American officials said that the military had lost contact with the boats in the Persian Gulf and that Iran had promised to return the sailors soon.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a2410fb1-1f8b-5d30-9162-d53612cb4e8e",
+      "web_url": "https://www.nytimes.com/2016/01/13/world/middleeast/iran-holds-us-navy-boats-crew.html",
+      "word_count": 1135
+    },
+    {
+      "abstract": "The North’s authorities took the man, identified as Kim Dong-chul, 62, to a hotel in the capital to be interviewed by a CNN reporter, the network said.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Man Claiming to Be American Tells CNN He’s Detained in North Korea",
+        "kicker": "",
+        "print_headline": "American Held by North Korea, Report Says"
+      },
+      "_id": "nyt://article/3b73831d-eb72-5196-bf90-54e93708dade",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Choe Sang-Hun",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kim Dong-chul",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "CNN",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "National Intelligence Service (South Korea)",
+          "rank": 11
+        },
+        {
+          "name": "",
+          "value": "",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-01-11T12:19:22Z",
+      "section_name": "World",
+      "snippet": "The North’s authorities took the man, identified as Kim Dong-chul, 62, to a hotel in the capital to be interviewed by a CNN reporter, the network said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3b73831d-eb72-5196-bf90-54e93708dade",
+      "web_url": "https://www.nytimes.com/2016/01/12/world/asia/north-korea-kim-dong-chul.html",
+      "word_count": 275
+    },
+    {
+      "abstract": "North Korea’s announcement that it had completed a test of the weapon infuriated China, which had recently sought to forge closer ties with its reclusive neighbor.",
+      "byline": {
+        "original": "By Javier C. Hernández"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea’s Hydrogen Bomb Claim Strains Ties With China",
+        "kicker": "",
+        "print_headline": "Nuclear Blast Strains Bonds With Beijing"
+      },
+      "_id": "nyt://article/442977f2-a1f8-5f5b-a318-3bf051f14877",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Tests",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Earthquakes",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Far East, South and Southeast Asia and Pacific Areas",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "The leader of North Korea, Kim Jong-un, left, and a senior Chinese Communist Party official, Liu Yunshan, at a celebration of the 70th anniversary of the founding of the ruling Workers' Party in Pyongyang, the capital, in October.",
+        "credit": "Korean Central News Agency, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/01/07/world/07china_web1/07china_web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/01/07/world/07china_web1/07china_web1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2016-01-06T13:52:36Z",
+      "section_name": "World",
+      "snippet": "North Korea’s announcement that it had completed a test of the weapon infuriated China, which had recently sought to forge closer ties with its reclusive neighbor.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/442977f2-a1f8-5f5b-a318-3bf051f14877",
+      "web_url": "https://www.nytimes.com/2016/01/07/world/asia/north-korea-china-hydrogen-test.html",
+      "word_count": 1180
+    },
+    {
+      "abstract": "The group of hackers said the attack, which shut down the broadcaster’s digital services for a few hours on Thursday, was intended as a test of its own abilities.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Group Claiming to Oppose ISIS Says It Committed Cyberattack on BBC",
+        "kicker": "",
+        "print_headline": "Group Says It Disrupted BBC "
+      },
+      "_id": "nyt://article/36b99612-10fe-56a8-baef-66163a17d11b",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "British Broadcasting Corp",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Cyberattacks and Hackers",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-01-02T18:57:59Z",
+      "section_name": "World",
+      "snippet": "The group of hackers said the attack, which shut down the broadcaster’s digital services for a few hours on Thursday, was intended as a test of its own abilities.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/36b99612-10fe-56a8-baef-66163a17d11b",
+      "web_url": "https://www.nytimes.com/2016/01/03/world/europe/group-claiming-to-oppose-isis-says-it-committed-cyberattack-on-bbc.html",
+      "word_count": 168
+    }
+  ]
+}

@@ -1,0 +1,4253 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "2MJ6e77HBhgWrT0a1jsbMdAUzEslgDnYA7pUMZKLmn9jRrNb",
+    "begin_date": "20170101",
+    "end_date": "20171231",
+    "fq": "(headline.default:\"state\") AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 60,
+  "docs": [
+    {
+      "abstract": "A suicide bomber struck a crowded gathering in Kabul, leaving more than 40 dead. The group has claimed several attacks on Shiite targets across the country.",
+      "byline": {
+        "original": "By Fahim Abed, Fatima Faizi and Mujib Mashal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Claims Deadly Blast at Afghan Shiite Center",
+        "kicker": "",
+        "print_headline": "ISIS Claims Deadly Blast  At Afghan Shiite Center"
+      },
+      "_id": "nyt://article/99f3fbb7-736e-5e5f-a2fd-6f3b4ac78c40",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Shiite Muslims",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "vis-multimedia",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "The scene of a suicide bomb attack that killed dozens in Kabul, Afghanistan, on Thursday.",
+        "credit": "Hedayatullah Amid/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/12/29/world/29afghanistan-1sub2/29afghanistan-1sub2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/12/29/world/29afghanistan-1sub2/29afghanistan-1sub2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-12-28T09:11:34Z",
+      "section_name": "World",
+      "snippet": "At least one suicide bomber made it inside the cultural center, detonating in the middle of a student discussion. The Taliban denied responsibility.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/99f3fbb7-736e-5e5f-a2fd-6f3b4ac78c40",
+      "web_url": "https://www.nytimes.com/2017/12/28/world/asia/afghanistan-suicide-attack.html",
+      "word_count": 931
+    },
+    {
+      "abstract": "Voters in Gujarat and Himachal Pradesh showed that the Bharatiya Janata Party of Prime Minister Narendra Modi was still a formidable political force.",
+      "byline": {
+        "original": "By Hari Kumar and Jeffrey Gettleman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In India, Modi’s Party Shows Its Might in State Elections",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8a32f9c6-8c46-50b1-9f0d-7c90e8efad27",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Indian National Congress",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Gujarat State (India)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Himachal Pradesh (India)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Supporters of the Bharatiya Janata Party celebrating in Ahmedabad, India, on Monday after Gujarat State election results were announced.",
+        "credit": "Ajit Solanki/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/12/19/world/19india-1sub/19india-1sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/12/19/world/19india-1sub/19india-1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-12-18T12:32:21Z",
+      "section_name": "World",
+      "snippet": "Voters in Gujarat and Himachal Pradesh showed that the Bharatiya Janata Party of Prime Minister Narendra Modi was still a formidable political force.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/8a32f9c6-8c46-50b1-9f0d-7c90e8efad27",
+      "web_url": "https://www.nytimes.com/2017/12/18/world/asia/bharatiya-janata-party-india.html",
+      "word_count": 392
+    },
+    {
+      "abstract": "B-52s have once again been called into action in Afghanistan. A New York Times correspondent flew on one.",
+      "byline": {
+        "original": "By Eric Schmitt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hunting Taliban and Islamic State Fighters, From 20,000 Feet",
+        "kicker": "",
+        "print_headline": "Hunting Militants in Afghanistan, With 10 Tons of Bombs at 20,000 Feet"
+      },
+      "_id": "nyt://article/69df82ed-71e6-5ded-ba81-7509c5f3d862",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "United States Air Force",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Nicholson, John W Jr (1957- )",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A United States Air Force long-range bomber, the B-52 Stratofortress, last week. It is assigned to the 69th Expeditionary Bomber Squadron at Al Udeid Air Base, Qatar.",
+        "credit": "Master Sgt. Phil Speck/U.S. Air National Guard",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/12/12/world/12bomber2-1513014176980/12bomber2-1513014176980-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/12/12/world/12bomber2-1513014176980/12bomber2-1513014176980-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2017-12-11T15:59:18Z",
+      "section_name": "World",
+      "snippet": "B-52s have once again been called into action in Afghanistan. A New York Times correspondent flew on one.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/69df82ed-71e6-5ded-ba81-7509c5f3d862",
+      "web_url": "https://www.nytimes.com/2017/12/11/world/asia/taliban-isis-afghanistan-drugs-b52s.html",
+      "word_count": 1418
+    },
+    {
+      "abstract": "The North’s claims about its latest missile test raise the question of whether a deal to freeze its arsenal could be a possibility.",
+      "byline": {
+        "original": "By Mark Landler and Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea Says It’s Now a Nuclear State. Could That Mean It’s Ready to Talk?",
+        "kicker": "",
+        "print_headline": "North Korea Test Raises Questions on Next Steps"
+      },
+      "_id": "nyt://article/4fa16a58-eb4a-5206-ab43-a5b894b4e7ae",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Missiles and Missile Defense Systems",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "State television in Pyongyang, the North Korean capital, announcing the country’s latest missile launch on Wednesday. The North said it had “finally realized the great historic cause of completing the state nuclear force.”",
+        "credit": "Kim Won-Jin/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/30/world/30nkorea-1/30nkorea-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/30/world/30nkorea-1/30nkorea-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2017-11-29T15:09:47Z",
+      "section_name": "World",
+      "snippet": "The North’s claims about its latest missile test raise the question of whether a deal to freeze its arsenal could be a possibility.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/4fa16a58-eb4a-5206-ab43-a5b894b4e7ae",
+      "web_url": "https://www.nytimes.com/2017/11/29/world/asia/north-korea-nuclear-missile-.html",
+      "word_count": 1253
+    },
+    {
+      "abstract": "About 500 people have been detained without charge in a corruption crackdown, but how corruption is defined is unclear.",
+      "byline": {
+        "original": "By Nicholas Kulish and David D. Kirkpatrick"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Saudi Arabia, Where Family and State Are One, Arrests May Be Selective",
+        "kicker": "",
+        "print_headline": "Arrests Reveal Blending of Kin And Kingdom"
+      },
+      "_id": "nyt://article/a44598ae-fa30-571f-80cf-c0e22d4b100a",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Mohammed bin Salman (1985- )",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Abdulaziz bin Salman, Prince of Saudi Arabia",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Abdullah, Turki bin",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Alwaleed bin Talal",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Royal Families",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Conflicts of Interest",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Crown Prince Mohammed bin Salman, center, in Riyadh, Saudi Arabia, last month.",
+        "credit": "Tasneem Alsultan for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/08/world/08saudi1/08saudi1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/08/world/08saudi1/08saudi1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2017-11-08T01:22:55Z",
+      "section_name": "World",
+      "snippet": "About 500 people have been detained without charge in a corruption crackdown, but how corruption is defined is unclear.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a44598ae-fa30-571f-80cf-c0e22d4b100a",
+      "web_url": "https://www.nytimes.com/2017/11/07/world/middleeast/saudi-arabia-royal-family-corruption.html",
+      "word_count": 1623
+    },
+    {
+      "abstract": "A report detailed atrocities, most by the militant group also known as ISIS, during the Iraqi government’s campaign to recapture Mosul.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Says Islamic State Executed Hundreds During Siege of Mosul",
+        "kicker": "",
+        "print_headline": "U.N. Says ISIS Executed Hundreds in Iraqi City"
+      },
+      "_id": "nyt://article/8e9afa0f-30c3-5420-b4a0-ed3a745f6a17",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Mosul (Iraq)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Fleeing Iraqi civilians walked past the heavily damaged al-Nuri mosque in Mosul, Iraq, in July.",
+        "credit": "Felipe Dana/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/03/world/03MOSUL-01/03MOSUL-01-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/03/world/03MOSUL-01/03MOSUL-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-11-02T23:35:53Z",
+      "section_name": "World",
+      "snippet": "A report detailed atrocities, most by the militant group also known as ISIS, during the Iraqi government’s campaign to recapture Mosul.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/8e9afa0f-30c3-5420-b4a0-ed3a745f6a17",
+      "web_url": "https://www.nytimes.com/2017/11/02/world/middleeast/mosul-atrocities-islamic-state.html",
+      "word_count": 565
+    },
+    {
+      "abstract": "The militants in Iraq and Syria cling to 5 percent of the territory they had three years ago but are likely to continue attacks even they lose it all.",
+      "byline": {
+        "original": "By David Zucchino"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Is ‘On the Run,’ U.S. Commander Says",
+        "kicker": "",
+        "print_headline": "Islamic State Is ‘on the Run,’ Says American Commander in Iraq"
+      },
+      "_id": "nyt://article/5aaa398c-15db-5014-8974-884e098bfb37",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Defense Department",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Euphrates River",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "People who fled the city of Hawija, Iraq, waiting to enter Kurdistan. The Islamic State lost Hawija this month and now controls only 5 percent of the territory it once had.",
+        "credit": "Ivor Prickett for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/26/world/26iraq1/26iraq1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/26/world/26iraq1/26iraq1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2017-10-25T21:45:57Z",
+      "section_name": "World",
+      "snippet": "The militants in Iraq and Syria cling to 5 percent of the territory they had three years ago but are likely to continue attacks even they lose it all.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/5aaa398c-15db-5014-8974-884e098bfb37",
+      "web_url": "https://www.nytimes.com/2017/10/25/world/middleeast/islamic-state-isis-us.html",
+      "word_count": 929
+    },
+    {
+      "abstract": "A look at what the Islamic State controlled at different stages of its military dominance.",
+      "byline": {
+        "original": "By Sarah Almukhtar, Troy Griggs, K.K. Rebecca Lai and Tim Wallace"
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "The Islamic State: From Insurgency to Rogue State and Back",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/b680043e-dec2-5c80-aa89-db5db17a4ad4",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/19/world/middleeast/isis-the-islamic-state-from-insurgency-to-rogue-state-and-back-1508642669904/isis-the-islamic-state-from-insurgency-to-rogue-state-and-back-1508642669904-articleLarge-v2.gif",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/19/world/middleeast/isis-the-islamic-state-from-insurgency-to-rogue-state-and-back-1508642669904/isis-the-islamic-state-from-insurgency-to-rogue-state-and-back-1508642669904-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-10-22T11:00:01Z",
+      "section_name": "World",
+      "snippet": "A look at what the Islamic State controlled at different stages of its military dominance.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/b680043e-dec2-5c80-aa89-db5db17a4ad4",
+      "web_url": "https://www.nytimes.com/interactive/2017/10/22/world/middleeast/isis-the-islamic-state-from-insurgency-to-rogue-state-and-back.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "“It has not reached Iraq and will not reach Iraq,” an American official said, though the military says food and water are reaching the militants and their families.",
+      "byline": {
+        "original": "By Rod Nordland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "No Relief for Islamic State Convoy Blocked in Syria",
+        "kicker": "",
+        "print_headline": "Islamic State Convoy Dwindles but Is Still Stranded in Syria"
+      },
+      "_id": "nyt://article/5f38f838-409c-54a0-bfdf-ff651121e421",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Syrian Army",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Members of the Islamic State and their families in a bus in Syria last week as they were transported to Deir al-Zour Province.",
+        "credit": "Louai Beshara/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/09/08/world/08convoysub/08convoysub-articleLarge.jpg",
+          "height": 397,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/09/08/world/08convoysub/08convoysub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-09-07T16:36:14Z",
+      "section_name": "World",
+      "snippet": "“It has not reached Iraq and will not reach Iraq,” an American official said, though the military says food and water are reaching the militants and their families.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/5f38f838-409c-54a0-bfdf-ff651121e421",
+      "web_url": "https://www.nytimes.com/2017/09/07/world/middleeast/isis-syria-convoy.html",
+      "word_count": 829
+    },
+    {
+      "abstract": "A convoy of 308 Islamic State militants has nowhere to go, with angry ISIS comrades in front of them, a broken Syrian deal behind and U.S. bombers overhead.",
+      "byline": {
+        "original": "By Rod Nordland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Convoy Remains Stuck in Syria",
+        "kicker": "",
+        "print_headline": "ISIS Convoy Is Stuck in Syrian Desert"
+      },
+      "_id": "nyt://article/df18fcb1-b46b-5072-87ab-f60ed3488f8c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Syrian Army",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Deir al-Zour (Syria)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Arsal (Lebanon)",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Buses that are part of the Islamic State convoy in the Syrian desert on Tuesday.",
+        "credit": "Louai Beshara/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/09/01/world/01Syria/01Syria-articleLarge.jpg",
+          "height": 366,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/09/01/world/01Syria/01Syria-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-08-31T21:06:36Z",
+      "section_name": "World",
+      "snippet": "A convoy of 308 Islamic State militants has nowhere to go, with angry ISIS comrades in front of them, a broken Syrian deal behind and U.S. bombers overhead.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/df18fcb1-b46b-5072-87ab-f60ed3488f8c",
+      "web_url": "https://www.nytimes.com/2017/08/31/world/asia/islamic-state-isis-convoy-syria-hezbollah-lebanon.html",
+      "word_count": 1057
+    },
+    {
+      "abstract": "The names of several mountains and creeks in Queensland containing racial slurs have been removed from the state’s records, the latest such move in a country still reckoning with its colonial past.",
+      "byline": {
+        "original": "By Isabella Kwai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Australian State Removes Racially Offensive Place Names",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9bf20483-1c82-54c5-9c0b-db49ff3bf5f8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Names, Geographical",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Aborigines",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Discrimination",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Indecency, Obscenity and Profanity",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Queensland (Australia)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-08-29T11:29:19Z",
+      "section_name": "World",
+      "snippet": "The names of several mountains and creeks in Queensland containing racial slurs have been removed from the state’s records, the latest such move in a country still reckoning with its colonial past.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/9bf20483-1c82-54c5-9c0b-db49ff3bf5f8",
+      "web_url": "https://www.nytimes.com/2017/08/29/world/australia/queensland-racial-slurs-names.html",
+      "word_count": 440
+    },
+    {
+      "abstract": "While President Obama decided against providing such assistance to the beleaguered country, the issue was rekindled when President Trump took office.",
+      "byline": {
+        "original": "By Eric Schmitt and Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pentagon and State Department Said to Propose Arming Ukraine",
+        "kicker": "",
+        "print_headline": "U.S. Officials Draft Proposal  To Send Weapons to Ukraine"
+      },
+      "_id": "nyt://article/094b21ca-36b0-560a-abe0-7ddeab87971a",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "A Ukrainian soldier firing a weapon toward the positions of the armed forces of the self-proclaimed Donetsk People’s Republic in the front-line town of Krasnohorivka, in Donetsk region, Ukraine, in July.",
+        "credit": "Maksim Levin/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/02/world/02dc-arms/02dc-arms-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/02/world/02dc-arms/02dc-arms-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "15",
+      "print_section": "A",
+      "pub_date": "2017-08-01T13:06:35Z",
+      "section_name": "World",
+      "snippet": "While President Obama decided against providing such assistance to the beleaguered country, the issue was rekindled when President Trump took office.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/094b21ca-36b0-560a-abe0-7ddeab87971a",
+      "web_url": "https://www.nytimes.com/2017/08/01/world/europe/pentagon-and-state-department-are-said-to-propose-arming-ukraine.html",
+      "word_count": 510
+    },
+    {
+      "abstract": "Beijing says it’s up to the United States and North Korea — not China — to find a solution to tensions over Pyongyang’s missile and nuclear program.",
+      "byline": {
+        "original": "By Chris Buckley and Austin Ramzy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China’s State Media Slams Trump’s ‘Emotional Venting’ on Twitter",
+        "kicker": "",
+        "print_headline": "State Media in China Assails Trump’s ‘Venting’"
+      },
+      "_id": "nyt://article/3d93be70-a0c3-5037-9f77-90aa5a4c0055",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Tests",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Control and Limitation and Disarmament",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Missiles and Missile Defense Systems",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Security Council (UN)",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 12
+        },
+        {
+          "name": "Organization",
+          "value": "Xinhua",
+          "rank": 13
+        },
+        {
+          "name": "Person",
+          "value": "Tillerson, Rex W",
+          "rank": 14
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 15
+        }
+      ],
+      "multimedia": {
+        "caption": "Propaganda at a museum in Sinchon, south of Pyongyang, North Korea, last month. China argues that the North will not return to negotiations unless the United States and its northeast Asian allies take conciliatory steps.",
+        "credit": "Ed Jones/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/02/world/asia/02china-1/02china-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/02/world/asia/02china-1/02china-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-08-01T06:09:38Z",
+      "section_name": "World",
+      "snippet": "Beijing says it’s up to the United States and North Korea — not China — to find a solution to tensions over Pyongyang’s missile and nuclear program.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3d93be70-a0c3-5037-9f77-90aa5a4c0055",
+      "web_url": "https://www.nytimes.com/2017/08/01/world/asia/china-trump-north-korea.html",
+      "word_count": 925
+    },
+    {
+      "abstract": "The attack killed two Afghans, a man and a woman, in at least the third coordinated assault to take place in the Afghan capital over the last few weeks.",
+      "byline": {
+        "original": "By Jawad Sukhanyar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "2 Die in Attack on Iraqi Embassy in Kabul by Islamic State",
+        "kicker": "",
+        "print_headline": "2 Killed in Attack on Iraqi Embassy in Kabul"
+      },
+      "_id": "nyt://article/115be4ac-63b8-59d5-9c03-b80952543398",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Security forces at the site of an attack at the Iraqi Embassy in Kabul, Afghanistan, on Monday.",
+        "credit": "Omar Sobhani/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/01/world/01Afghanistan3/01Afghanistan3-articleLarge.jpg",
+          "height": 435,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/01/world/01Afghanistan3/01Afghanistan3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-07-31T09:29:05Z",
+      "section_name": "World",
+      "snippet": "The Islamic State claimed responsibility for the coordinated assault in the Afghan capital.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/115be4ac-63b8-59d5-9c03-b80952543398",
+      "web_url": "https://www.nytimes.com/2017/07/31/world/asia/afghanistan-suicide-bomb-kabul-iraq-embassy.html",
+      "word_count": 275
+    },
+    {
+      "abstract": "Sgt. First Class Ikaika Erik Kang, 34, is accused of trying to provide equipment, training and classified military information to ISIS.",
+      "byline": {
+        "original": "By Noah Weiland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Army Sergeant Is Charged With Trying to Aid Islamic State",
+        "kicker": "",
+        "print_headline": "U.S. Army Sergeant Is Charged With Trying to Aid ISIS"
+      },
+      "_id": "nyt://article/927392ae-d3b1-5b96-9341-01dfdedb9f74",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Classified Information and State Secrets",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "United States Army",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Baghdadi, Abu Bakr al-",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Hawaii",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "An undated photograph shows a man identified as Sgt. First Class Ikaika Erik Kang kissing what appears to be the Islamic State flag and putting it up to his forehead.",
+        "credit": "U.S. District Court, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/07/24/us/24dc-military/24dc-military-articleLarge.jpg",
+          "height": 697,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/07/24/us/24dc-military/24dc-military-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2017-07-23T20:09:31Z",
+      "section_name": "World",
+      "snippet": "He is accused of trying to provide equipment, training and classified information.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/927392ae-d3b1-5b96-9341-01dfdedb9f74",
+      "web_url": "https://www.nytimes.com/2017/07/23/world/middleeast/army-solder-charged-islamic-state.html",
+      "word_count": 536
+    },
+    {
+      "abstract": "Human rights advocates warned that closing the office could hurt American efforts to bring war criminals to justice.",
+      "byline": {
+        "original": "By Michael R. Gordon and Marlise Simons"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "War Crimes Office May Be Closed in State Dept. Reorganization",
+        "kicker": "",
+        "print_headline": "War Crimes Office May Be Shuttered As Tillerson Reorganizes State Dept."
+      },
+      "_id": "nyt://article/e71fbad9-c23c-575a-b507-d6d47cb0af2d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Tillerson, Rex W",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Rex W. Tillerson in Istanbul this month. A State Department spokeswoman said decisions on restructuring were not yet final.",
+        "credit": "Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/07/19/us/19dc-warcrimes/19dc-warcrimes-articleLarge.jpg",
+          "height": 384,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/07/19/us/19dc-warcrimes/19dc-warcrimes-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "16",
+      "print_section": "A",
+      "pub_date": "2017-07-19T00:13:46Z",
+      "section_name": "World",
+      "snippet": "Human rights advocates warned that closing the office could hurt American efforts to bring war criminals to justice.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/e71fbad9-c23c-575a-b507-d6d47cb0af2d",
+      "web_url": "https://www.nytimes.com/2017/07/18/world/americas/state-department-war-crimes-office-closing.html",
+      "word_count": 667
+    },
+    {
+      "abstract": "The secretary of state has hired two consulting groups to help execute a major reorganization of the department, which he called “not a highly disciplined organization.”",
+      "byline": {
+        "original": "By Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Tillerson’s Grand Renovation Plan in State Department Gets Assistance",
+        "kicker": "",
+        "print_headline": "Tillerson Plan To Reorganize State Dept. Gets Helpers"
+      },
+      "_id": "nyt://article/3013d98f-9071-5fbb-8367-4bceb223ddc4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Tillerson, Rex W",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Rex W. Tillerson in Istanbul earlier this month. Mr. Tillerson said he had hired the firms Deloitte and Insigniam to help oversee the reorganization of the State Department.",
+        "credit": "Murad Sezer/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/07/18/us/politics/18dc-tillerson/merlin-to-scoop-124560146-347342-articleLarge.jpg",
+          "height": 383,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/07/18/us/politics/18dc-tillerson/18dc-tillerson-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-07-17T17:38:17Z",
+      "section_name": "World",
+      "snippet": "The secretary of state has hired two consulting groups to help execute a major reorganization of the department, which he called “not a highly disciplined organization.”",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/3013d98f-9071-5fbb-8367-4bceb223ddc4",
+      "web_url": "https://www.nytimes.com/2017/07/17/world/tillerson-state-department-reorganization.html",
+      "word_count": 390
+    },
+    {
+      "abstract": "The Breakdown: Conversation starters and context, drawn from the day’s news in Australia.",
+      "byline": {
+        "original": "By Adam Baidawi and Isabella Kwai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Party Takes Aim at Hijabs for Children. Also: Australian Is Shot in U.S., and Julie Bishop on Trump.",
+        "kicker": "The Breakdown",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1908d900-3ca0-5fac-87c8-9e77cb8814fc",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "vis-multimedia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "First Ladies (US)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Bishop, Julie (1956- )",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Macron, Emmanuel (1977- )",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Ireland",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump and his wife, Melania Trump, being greeted their French counterparts, Emmanuel and Brigitte Macron, last week in Paris. Mr. Trump’s appraisal of the French first lady’s appearance drew a retort from the Australian foreign minister on Sunday.",
+        "credit": "Stephen Crowley/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/07/13/multimedia/17ozbreakdown-trump/merlin-to-scoop-124709237-675440-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/07/13/multimedia/17ozbreakdown-trump/13trumpfrance-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-07-17T00:55:00Z",
+      "section_name": "World",
+      "snippet": "The Breakdown: Conversation starters and context, drawn from the day’s news in Australia.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "briefing",
+      "uri": "nyt://article/1908d900-3ca0-5fac-87c8-9e77cb8814fc",
+      "web_url": "https://www.nytimes.com/2017/07/16/world/australia/julie-bishop-trump-australia-headscarves-children.html",
+      "word_count": 801
+    },
+    {
+      "abstract": "After a nearly nine-month campaign to wrest Mosul, once Iraq’s second-largest city, from Islamic State control, images captured by DigitalGlobe reveal that vital parts of the city are now in ruins.",
+      "byline": {
+        "original": "By JUGAL K. PATEL and TIM WALLACE"
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "Before and After Satellite Images of Mosul Reveal the Devastation After the Islamic State Was Forced Out",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/e6507268-4885-55c2-a2f9-1d51a541f321",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mosul (Iraq)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/07/15/world/middleeast/mosul-before-after-1500093130633/mosul-before-after-1500093130633-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/07/15/world/middleeast/mosul-before-after-1500093130633/mosul-before-after-1500093130633-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-07-15T05:33:13Z",
+      "section_name": "World",
+      "snippet": "After a nearly nine-month campaign to wrest Mosul, once Iraq’s second-largest city, from Islamic State control, images captured by DigitalGlobe reveal that vital parts of the city are now in ruins.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/e6507268-4885-55c2-a2f9-1d51a541f321",
+      "web_url": "https://www.nytimes.com/interactive/2017/07/15/world/middleeast/mosul-before-after.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "Conversation starters and context, drawn from the day’s news in Australia.",
+      "byline": {
+        "original": "By Isabella Kwai and Adam Baidawi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Decriminalization of the Sex Trade Edges Ahead in One State. Also: Australia’s Digital Slump",
+        "kicker": "The Breakdown",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/71936ab6-d570-558e-81ee-a648604f12a1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "vis-multimedia",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "Related Article",
+        "credit": "André da Loba",
+        "default": {
+          "url": "https://static01.nyt.com/images/2015/08/24/opinion/RFDSexWorkDecrim-LN/RFDSexWorkDecrim-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2015/08/24/opinion/RFDSexWorkDecrim-LN/RFDSexWorkDecrim-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-07-06T06:27:13Z",
+      "section_name": "World",
+      "snippet": "Conversation starters and context, drawn from the day’s news in Australia.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/71936ab6-d570-558e-81ee-a648604f12a1",
+      "web_url": "https://www.nytimes.com/2017/07/06/world/australia/sex-work-prostitution-online-taxes.html",
+      "word_count": 1106
+    },
+    {
+      "abstract": "The designation is part of a cascade of signals from Washington that relations between the United States and China could soon plunge.",
+      "byline": {
+        "original": "By Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China Is Among Worst Human Trafficking Offenders, State Dept. Says",
+        "kicker": "",
+        "print_headline": "Sharp Criticism for China In U.S. Report on Slavery"
+      },
+      "_id": "nyt://article/cd8b6081-2593-5712-a997-8556e816d2d2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Rex W. Tillerson at the White House on Monday. The State Department dropped China to the lowest tier of its ranking this year in its annual assessment of global efforts to end forms of modern slavery.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/06/28/us/28dc-trafficking/28dc-trafficking-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/06/28/us/28dc-trafficking/28dc-trafficking-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-06-27T15:02:14Z",
+      "section_name": "World",
+      "snippet": "The designation is the latest signal of worsening relations between the United States and China.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/cd8b6081-2593-5712-a997-8556e816d2d2",
+      "web_url": "https://www.nytimes.com/2017/06/27/world/asia/china-human-trafficking.html",
+      "word_count": 845
+    },
+    {
+      "abstract": "The office of the special representative for Afghanistan and Pakistan, created in early 2009, will be folded back into a State Department bureau.",
+      "byline": {
+        "original": "By Mark Landler"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Dept. Moves to Shut Office Planning Afghanistan Strategy",
+        "kicker": "",
+        "print_headline": "State Dept. Moves to Close Afghan Strategy Office"
+      },
+      "_id": "nyt://article/9873dbe2-4d13-5f09-9d6a-455ce7e58eae",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-06-24T00:49:44Z",
+      "section_name": "World",
+      "snippet": "The office of the special representative for Afghanistan and Pakistan, created in early 2009, will be folded back into a State Department bureau.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9873dbe2-4d13-5f09-9d6a-455ce7e58eae",
+      "web_url": "https://www.nytimes.com/2017/06/23/world/asia/trump-obama-afghanistan-pakistan.html",
+      "word_count": 874
+    },
+    {
+      "abstract": "The statement seemed to put President Trump and Secretary of State Rex W. Tillerson further at odds about who is to blame for the dispute.",
+      "byline": {
+        "original": "By Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Dept. Lashes Out at Gulf Countries Over Qatar Embargo",
+        "kicker": "",
+        "print_headline": "State Dept. Lashes Out Over Qatar Embargo"
+      },
+      "_id": "nyt://article/36309cbc-77d2-550e-b933-51ac62db0da4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Qatar",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Tillerson, Rex W",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump and Secretary of State Rex W. Tillerson in May in Riyadh, Saudi Arabia.",
+        "credit": "Stephen Crowley/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/06/21/us/21dc-diplo/21dc-diplo-articleLarge.jpg",
+          "height": 377,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/06/21/us/21dc-diplo/21dc-diplo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "15",
+      "print_section": "A",
+      "pub_date": "2017-06-20T23:38:10Z",
+      "section_name": "World",
+      "snippet": "The statement seemed to put President Trump and Secretary of State Rex W. Tillerson further at odds about who is to blame for the dispute.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/36309cbc-77d2-550e-b933-51ac62db0da4",
+      "web_url": "https://www.nytimes.com/2017/06/20/world/middleeast/qatar-saudi-arabia-trump-tillerson.html",
+      "word_count": 746
+    },
+    {
+      "abstract": "The naturalized citizen, Marcel Pika, moved back to his home country in 2007 and was detained in the wake of unrest after an election in 2016.",
+      "byline": {
+        "original": "By Dionne Searcey"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Dept. Voices Concern for American Held in Republic of Congo",
+        "kicker": "",
+        "print_headline": "State Dept. Voices Concern for Naturalized U.S. Citizen Held in Republic of Congo"
+      },
+      "_id": "nyt://article/a4f45abc-2b18-548b-8ff4-0e6d3c474990",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Congo, Republic of (Congo-Brazzaville)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Sassou-Nguesso, Denis",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Pika, Marcel",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-06-07T20:58:52Z",
+      "section_name": "World",
+      "snippet": "The naturalized citizen, Marcel Pika, moved back to his home country in 2007 and was detained in the wake of unrest after an election in 2016.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/a4f45abc-2b18-548b-8ff4-0e6d3c474990",
+      "web_url": "https://www.nytimes.com/2017/06/07/world/africa/marcel-pika-congo-republic.html",
+      "word_count": 602
+    },
+    {
+      "abstract": "With 97.8 percent of the vote counted, less than 3 percent separated Alfredo del Mazo Maza of the Institutional Revolutionary Party and Delfina Gómez Álvarez of the National Regeneration Movement.",
+      "byline": {
+        "original": "By Kirk Semple"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "P.R.I. Closes In on Narrow Victory in State of Mexico Governor’s Race",
+        "kicker": "",
+        "print_headline": "President’s Party on Verge of Narrow Win in State of Mexico Governor’s Race"
+      },
+      "_id": "nyt://article/d746d0c5-83bf-523d-bd80-1edc01499e0e",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Institutional Revolutionary Party (Mexico)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "National Regeneration Movement (Mexico)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Lopez Obrador, Andres Manuel",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Elections, Governors",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Gomez Alvarez, Delfina",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "del Mazo Maza, Alfredo",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Alfredo del Mazo Maza of the Institutional Revolutionary Party held a narrow lead on Monday night in the race for governor of the State of Mexico.",
+        "credit": "Brett Gundlock for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/06/06/world/06MEXICO1sub/06MEXICO1sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/06/06/world/06MEXICO1sub/06MEXICO1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-06-06T01:20:56Z",
+      "section_name": "World",
+      "snippet": "With 97.8 percent of the votes tallied, less than 3 percent separated the two top finishers.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/d746d0c5-83bf-523d-bd80-1edc01499e0e",
+      "web_url": "https://www.nytimes.com/2017/06/05/world/americas/mexico-pri-party-state-election.html",
+      "word_count": 1177
+    },
+    {
+      "abstract": "The Hungarian-American philanthropist and financier defended the university he established in Budapest against a government effort to shut it down.",
+      "byline": {
+        "original": "By Palko Karasz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "George Soros Accuses Viktor Orban of Turning Hungary Into ‘Mafia State’",
+        "kicker": "",
+        "print_headline": "Soros Sees ‘Mafia State’  Under Hungary’s Leader"
+      },
+      "_id": "nyt://article/d2392583-b331-5c5f-b1b1-2f7446443029",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Philanthropy",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Central European University",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Open Society Foundations",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Transparency International",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Cuomo, Andrew M",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Kaczynski, Jaroslaw",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Soros, George",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Hungary",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "George Soros spoke at the Brussels Economic Forum on Thursday.",
+        "credit": "Marlene Awaad/Bloomberg",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/06/02/world/02hungary/02hungary-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/06/02/world/02hungary/02hungary-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-06-01T19:17:37Z",
+      "section_name": "World",
+      "snippet": "The Hungarian-American philanthropist and financier defended the university he established in Budapest against a government effort to shut it down.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/d2392583-b331-5c5f-b1b1-2f7446443029",
+      "web_url": "https://www.nytimes.com/2017/06/01/world/europe/george-soros-accuses-viktor-orban-of-turning-hungary-into-mafia-state.html",
+      "word_count": 783
+    },
+    {
+      "abstract": "The mainland authorities have never leveled that charge against someone from Taiwan before, and his formal arrest adds a new strain to tensions between Beijing and Taipei.",
+      "byline": {
+        "original": "By Chris Horton and Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China Charges Activist From Taiwan With ‘Subverting State Power’",
+        "kicker": "",
+        "print_headline": "In a First, China Charges a Taiwanese Activist With Subversion"
+      },
+      "_id": "nyt://article/1eb9ed30-d10d-5eb4-9d36-10d2c97ad215",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Chinese Nationalist Party (Taiwan)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Democratic Progressive Party (Taiwan)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Taiwan",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Lee Ming-cheh",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Lee Ching-yu holding a photo of her husband, the rights advocate Lee Ming-cheh, at a news conference in Taipei, Taiwan, in March.",
+        "credit": "Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/30/world/30taiwan-1/30taiwan-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/30/world/30taiwan-1/30taiwan-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-05-29T12:02:51Z",
+      "section_name": "World",
+      "snippet": "The mainland authorities have never leveled that charge against someone from Taiwan before, and his formal arrest adds a new strain to tensions between Beijing and Taipei.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/1eb9ed30-d10d-5eb4-9d36-10d2c97ad215",
+      "web_url": "https://www.nytimes.com/2017/05/29/world/asia/taiwan-china-activist-lee-ming-cheh.html",
+      "word_count": 840
+    },
+    {
+      "abstract": "Unrest in Venezuela leads to insurgents occupying the state of Bolivar, a mutiny and the killing of General Rodil.",
+      "byline": {
+        "original": "By International Herald Tribune"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "1892: Venezuelan Insurgents Occupy Bolívar State",
+        "kicker": "IHT Retrospective",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/320a8f6d-f03d-5046-ae82-5e70686d3b83",
+      "keywords": [
+        {
+          "name": "Keyword",
+          "value": "Insurgency",
+          "rank": 1
+        },
+        {
+          "name": "Keyword",
+          "value": "Mutiny",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Bolivar",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-05-18T14:05:45Z",
+      "section_name": "World",
+      "snippet": "Unrest in Venezuela leads to insurgents occupying the state of Bolivar, a mutiny and the killing of General Rodil.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/320a8f6d-f03d-5046-ae82-5e70686d3b83",
+      "web_url": "https://iht-retrospective.blogs.nytimes.com/2017/05/18/1892-the-venezuelan-revolution-bolivar-occupied-by-insurgents/",
+      "word_count": 271
+    },
+    {
+      "abstract": "The election in North Rhine-Westphalia, the country’s most populous state, was seen as a dress rehearsal for national parliamentary elections in September.",
+      "byline": {
+        "original": "By Alison Smale"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Angela Merkel’s Party Scores Big Win in Key German State Election",
+        "kicker": "",
+        "print_headline": "Merkel’s Party Records Its Third Key Victory in German State Elections"
+      },
+      "_id": "nyt://article/11795be5-d9a1-589d-bfdf-e01481f41437",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Schulz, Martin (1955- )",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Voting and Voters",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Christian Democratic Union (Germany)",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Social Democratic Party (Germany)",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Alternative for Germany",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Chancellor Angela Merkel at an election rally in Aachen, Germany, on Saturday.",
+        "credit": "Thilo Schmuelgen/Reuters..",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/14/world/europe/merkel-img/merkel-img-articleLarge.jpg",
+          "height": 412,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/14/world/europe/merkel-img/merkel-img-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-05-14T06:48:57Z",
+      "section_name": "World",
+      "snippet": "The election in the country’s most populous state was seen as a dress rehearsal.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/11795be5-d9a1-589d-bfdf-e01481f41437",
+      "web_url": "https://www.nytimes.com/2017/05/14/world/europe/german-elections-angela-merkel-martin-schulz.html",
+      "word_count": 1211
+    },
+    {
+      "abstract": "The order from President Moon Jae-in was largely symbolic, signaling his intent to erase the unpopular legacies of his ousted predecessor, Park Geun-hye.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "South Korea’s New Leader Abolishes State-Issued History Textbooks",
+        "kicker": "",
+        "print_headline": "South Korea’s New Leader Abolishes Predecessor’s Government-Issued History Textbooks"
+      },
+      "_id": "nyt://article/410705f7-7bec-5c4d-b7aa-0ed57c4c1a2d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Textbooks",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Moon Jae-in",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Park Geun-hye",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A high school in Seoul, South Korea. The three history books prepared by the government were meant to instill patriotism, but critics accused them of minimizing the darker chapters of Korean history.",
+        "credit": "Ed Jones/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/13/world/13korea-textbooks-1/13korea-textbooks-1-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/13/world/13korea-textbooks-1/13korea-textbooks-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-05-12T09:59:57Z",
+      "section_name": "World",
+      "snippet": "The order from President Moon Jae-in signaled his intent to erase the unpopular legacies of his ousted predecessor, Park Geun-hye.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/410705f7-7bec-5c4d-b7aa-0ed57c4c1a2d",
+      "web_url": "https://www.nytimes.com/2017/05/12/world/asia/south-korea-history-textbooks-moon.html",
+      "word_count": 575
+    },
+    {
+      "abstract": "Kim Hak-song was arrested on Saturday and was under investigation on charges of committing “hostile acts” against the country. The detention would bring the number of Americans held there to four.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea Detains Another American, State Agency Says",
+        "kicker": "",
+        "print_headline": "Accused of ‘Hostile Acts,’ a 4th American Citizen Is Detained by North Korea"
+      },
+      "_id": "nyt://article/4eecd7b9-34a3-597b-9d36-541b511e9efb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kim Dong-chul",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kim, Tony (Kim Sang-duk)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Warmbier, Otto Frederick (1994- )",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Kim Hak-song",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-05-07T13:04:35Z",
+      "section_name": "World",
+      "snippet": "The detention would bring the number of Americans held there to four.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/4eecd7b9-34a3-597b-9d36-541b511e9efb",
+      "web_url": "https://www.nytimes.com/2017/05/07/world/asia/north-korea-detains-american-kim-hak-song.html",
+      "word_count": 425
+    },
+    {
+      "abstract": "The results in Schleswig-Holstein may reflect voters’ mood heading into national elections later this year, in which Ms. Merkel will seek a fourth term.",
+      "byline": {
+        "original": "By Melissa Eddy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Angela Merkel’s Party Wins Unexpectedly in German State Elections",
+        "kicker": "",
+        "print_headline": "An Unexpected Win for Merkel’s Party"
+      },
+      "_id": "nyt://article/99a174fb-a752-56fe-8949-0b79be8170e5",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Christian Democratic Union (Germany)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Gunther, Daniel",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Schleswig-Holstein (Germany)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Voting and Voters",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A voter filled out his ballot papers at a polling station in Kiel during the regional state elections in Schleswig-Holstein, Germany.",
+        "credit": "Morris Macmatzen/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/08/world/08germany2/08germany2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/08/world/08germany2/08germany2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-05-07T11:02:36Z",
+      "section_name": "World",
+      "snippet": "Results will be viewed as reflecting voters’ moods ahead of key elections.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/99a174fb-a752-56fe-8949-0b79be8170e5",
+      "web_url": "https://www.nytimes.com/2017/05/07/world/europe/german-state-vote-schleswig-holstein-merkel.html",
+      "word_count": 562
+    },
+    {
+      "abstract": "The attack, one of the largest recent ones in northeastern Syria, occurred near a refugee camp that houses nearly 17,000 people.",
+      "byline": {
+        "original": "By Anne Barnard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Attack Kills Dozens Near Syria Refugee Camp",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ee680727-0d96-5457-ab01-bbd778ab34d1",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "International Rescue Committee",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A nurse with a wounded patient at a hospital in Hasaka, Syria, on Tuesday after an attack by the Islamic State.",
+        "credit": "Delil Souleiman/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03syria/03syria-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/03/world/03syria/03syria-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-05-02T19:36:31Z",
+      "section_name": "World",
+      "snippet": "The attack, one of the largest recent ones in northeastern Syria, occurred near a refugee camp that houses nearly 17,000 people.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/ee680727-0d96-5457-ab01-bbd778ab34d1",
+      "web_url": "https://www.nytimes.com/2017/05/02/world/middleeast/islamic-state-attack-syria-refugees.html",
+      "word_count": 179
+    },
+    {
+      "abstract": "An email drafted by State Department diplomats is an apparent attempt to get the U.N. ambassador and the secretary of state on the same page.",
+      "byline": {
+        "original": "By Somini Sengupta and Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Department Wants to Clear Nikki Haley’s Remarks Before She Speaks",
+        "kicker": "",
+        "print_headline": "State Department Seeks To Review Haley’s Remarks"
+      },
+      "_id": "nyt://article/ea8f9d90-25d6-5ae1-8cf5-8b3b5517c671",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Security Council (UN)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Haley, Nikki R",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Tillerson, Rex W",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Nikki R. Haley, the United States ambassador to the United Nations, at the White House on Monday.",
+        "credit": "Michael Reynolds/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/28/world/28nations-1/28nations-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/28/world/28nations-1/28nations-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "14",
+      "print_section": "A",
+      "pub_date": "2017-04-27T23:21:22Z",
+      "section_name": "World",
+      "snippet": "An email drafted by State Department diplomats is an apparent attempt to get the U.N. ambassador and the secretary of state on the same page.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/ea8f9d90-25d6-5ae1-8cf5-8b3b5517c671",
+      "web_url": "https://www.nytimes.com/2017/04/27/world/americas/state-department-united-nations-ambassador.html",
+      "word_count": 977
+    },
+    {
+      "abstract": "American troops killed Abdurakhmon Uzbeki on April 6 in Mayadin, Syria. He was targeted for his role in the Islamic State’s plotting of terrorist attacks.",
+      "byline": {
+        "original": "By Eric Schmitt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Raid Killed a ‘Close Associate’ of Islamic State Leader, Military Says",
+        "kicker": "",
+        "print_headline": "Militant Tied To ISIS Chief Was Killed  In U.S. Raid"
+      },
+      "_id": "nyt://article/5b472b1e-3e57-55d6-90a3-14fdf1270f12",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Uzbeki, Abdurakhmon",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A woman laid flowers at a makeshift memorial in front of the Reina nightclub in Istanbul in January. On April 6, United States Special Operations forces carried out a ground raid in Syria that killed Abdurakhmon Uzbeki, an ISIS militant who had helped plot the attack on the nightclub.",
+        "credit": "Ozan Kose/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/22/world/22Military/22Military-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/22/world/22Military/22Military-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-04-22T00:19:11Z",
+      "section_name": "World",
+      "snippet": "American troops killed Abdurakhmon Uzbeki on April 6 in Mayadin, Syria. He was targeted for his role in the Islamic State’s plotting of terrorist attacks.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/5b472b1e-3e57-55d6-90a3-14fdf1270f12",
+      "web_url": "https://www.nytimes.com/2017/04/21/world/middleeast/isis-abdurakhmon-uzbeki-syria-special-operations.html",
+      "word_count": 607
+    },
+    {
+      "abstract": "Two suicide bombings at churches in Egypt on Palm Sunday called into question President Abdel Fattah el-Sisi’s image as a bulwark against Islamic extremists.",
+      "byline": {
+        "original": "By Magdy Samaan and Declan Walsh"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Egypt Declares State of Emergency, as Attacks Undercut Promise of Security",
+        "kicker": "",
+        "print_headline": "Church Bombings in Egypt Undercut Leader’s Promise of Security"
+      },
+      "_id": "nyt://article/4f1bba96-7b6f-58c3-b74c-1b3144c872a7",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Egypt",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Christians and Christianity",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Sisi, Abdel Fattah el-",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Coptic Orthodox Church of Alexandria",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Inside St. George’s Church after the deadly explosion on Palm Sunday in Tanta, Egypt.",
+        "credit": "Khaled Elfiqi/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/09/world/middleeast/explosion-mg1/explosion-mg1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/09/world/middleeast/explosion-mg1/explosion-mg1-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2017-04-09T08:49:07Z",
+      "section_name": "World",
+      "snippet": "There was no immediate claim of responsibility for the blasts, but the bombing comes weeks before Pope Francis is to visit the country.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/4f1bba96-7b6f-58c3-b74c-1b3144c872a7",
+      "web_url": "https://www.nytimes.com/2017/04/09/world/middleeast/explosion-egypt-coptic-christian-church.html",
+      "word_count": 1358
+    },
+    {
+      "abstract": "Gujarat, the home of India’s prime minister, Narendra Modi, is raising the maximum punishment for slaughtering a cow from seven years.",
+      "byline": {
+        "original": "By Nida Najar and Suhasini Raj"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Indian State Is Expanding Penalty for Killing a Cow to Life in Prison",
+        "kicker": "",
+        "print_headline": "Killing a Cow May Bring Life in Prison in an Indian State"
+      },
+      "_id": "nyt://article/dd3a4292-4651-5b35-9918-2658271f2a9f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Hinduism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Cattle",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Gujarat State (India)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Beef",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A cattle market in the Indian state of Maharashtra. The slaughter of cows has long been illegal under an existing law in the state of Gujarat. The stricter law raises the maximum punishment from seven years in prison.",
+        "credit": "Tom Jamieson for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/01/world/01India/01India-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/01/world/01India/01India-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-03-31T16:31:33Z",
+      "section_name": "World",
+      "snippet": "Gujarat, the home of India’s prime minister, Narendra Modi, is raising the maximum punishment for slaughtering a cow from seven years.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/dd3a4292-4651-5b35-9918-2658271f2a9f",
+      "web_url": "https://www.nytimes.com/2017/03/31/world/asia/india-gujarat-cow-slaughter-penalty.html",
+      "word_count": 404
+    },
+    {
+      "abstract": "A news broadcast showed the police training at a replica of the house where Osama bin Laden was killed in 2011. It took an eagle-eyed viewer to point it out.",
+      "byline": {
+        "original": "By Jane Perlez and Yufan Huang"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "On State TV, Chinese Forces Storm a Compound a Lot Like Bin Laden’s",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/35a565dc-c1ba-5ab5-a9df-fe5ae866d60c",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "bin Laden, Osama",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Abbottabad (Pakistan)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Xinjiang (China)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "People's Liberation Army (China)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Uighurs (Chinese Ethnic Group)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "CCTV",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/29/world/asia/29chinabinladen-1/29chinabinladen-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/29/world/asia/29chinabinladen-1/29chinabinladen-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-03-28T09:50:38Z",
+      "section_name": "World",
+      "snippet": "A news broadcast showed the police training at a replica of the house where Osama bin Laden was killed in 2011. It took an eagle-eyed viewer to point it out.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/35a565dc-c1ba-5ab5-a9df-fe5ae866d60c",
+      "web_url": "https://www.nytimes.com/2017/03/28/world/asia/china-osama-bin-laden-compound-xinjiang.html",
+      "word_count": 867
+    },
+    {
+      "abstract": "Results from Sunday’s vote in tiny Saarland gave the German chancellor’s Christian Democrats about 40 percent of the vote, a boost for Ms. Merkel as she seeks her fourth term as chancellor.",
+      "byline": {
+        "original": "By Alison Smale"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Angela Merkel’s Re-election Bid Is Buoyed by Widely Watched State Election",
+        "kicker": "",
+        "print_headline": "A State Election Buoys Merkel’s Re-election Bid"
+      },
+      "_id": "nyt://article/a1035257-cde3-5d73-bb4e-f49b418dce01",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Saarland (Germany)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Christian Democratic Union (Germany)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Social Democratic Party (Germany)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Chancellor Angela Merkel of Germany in Rome on Saturday. Regional elections on Sunday could have big implications for her future.",
+        "credit": "Remo Casilli/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/26/world/27GERMANY3-merkel/27GERMANY3-merkel-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/26/world/27GERMANY3-merkel/27GERMANY3-merkel-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-03-26T14:48:30Z",
+      "section_name": "World",
+      "snippet": "Saarland is almost the smallest of Germany’s 16 states, but its election on Sunday carries big implications for the future of the chancellor.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/a1035257-cde3-5d73-bb4e-f49b418dce01",
+      "web_url": "https://www.nytimes.com/2017/03/26/world/europe/angela-merkels-fate-may-be-reflected-in-vote-by-small-german-state.html",
+      "word_count": 887
+    },
+    {
+      "abstract": "If he is confirmed, Mr. Sullivan would be deputy to Secretary of State Rex W. Tillerson, even though neither has experience at the State Department.",
+      "byline": {
+        "original": "By Maggie Haberman and Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Expected to Pick John Sullivan as No. 2 at State Dept.",
+        "kicker": "",
+        "print_headline": "Lawyer Said to Be the Choice for Deputy Secretary at State Dept."
+      },
+      "_id": "nyt://article/88327b7e-7f8c-50e0-b39e-21918ce723f3",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Appointments and Executive Changes",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Sullivan, John J (1959- )",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "John J. Sullivan.",
+        "credit": "Department of Commerce",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/25/world/25Diplo/25Diplo-articleLarge.jpg",
+          "height": 841,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/25/world/25Diplo/25Diplo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "17",
+      "print_section": "A",
+      "pub_date": "2017-03-24T16:08:00Z",
+      "section_name": "World",
+      "snippet": "If he is confirmed, Mr. Sullivan would be deputy to Secretary of State Rex W. Tillerson, even though neither has experience at the State Department.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/88327b7e-7f8c-50e0-b39e-21918ce723f3",
+      "web_url": "https://www.nytimes.com/2017/03/24/world/trump-john-sullivan-rex-tillerson-state-department.html",
+      "word_count": 507
+    },
+    {
+      "abstract": "A Tabasco State law barring surrogate mothers from bearing children for foreigners reflects a troubled international system that, in one view, is “not sustainable.”",
+      "byline": {
+        "original": "By Victoria Burnett"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As Mexican State Limits Surrogacy, Global System Is Further Strained",
+        "kicker": "",
+        "print_headline": "Mexican State Limits Surrogacy, Straining Global System"
+      },
+      "_id": "nyt://article/cc708366-f24f-55de-8985-539c5dc91c93",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Surrogate Motherhood",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Tabasco (Mexico)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Homosexuality and Bisexuality",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Birth Certificates",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Michael Theologos with his son Alexandros. The baby, born to a surrogate mother in Tabasco State, Mexico, had been taken away from him for several weeks.",
+        "credit": "Todd Heisler/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/24/world/24Surrogacy/24Surrogacy-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/24/world/24Surrogacy/24Surrogacy-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-03-23T22:02:19Z",
+      "section_name": "World",
+      "snippet": "A Tabasco State law barring surrogate mothers from bearing children for foreigners reflects a troubled international system that, in one view, is “not sustainable.”",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/cc708366-f24f-55de-8985-539c5dc91c93",
+      "web_url": "https://www.nytimes.com/2017/03/23/world/americas/as-mexican-state-limits-surrogacy-global-system-is-further-strained.html",
+      "word_count": 1496
+    },
+    {
+      "abstract": "After failed efforts by other leaders to put in place a national civil code, the Chinese president is reviving the idea as he seeks to remake China’s legal system.",
+      "byline": {
+        "original": "By Javier C. Hernández and Owen Guo"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China Pushes Legal Overhaul That Would Bolster State Power",
+        "kicker": "",
+        "print_headline": "Pushing to Remake China’s Legal System"
+      },
+      "_id": "nyt://article/022f5849-5716-56e6-93d5-4cc04486bb89",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of Speech and Expression",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Civil Rights and Liberties",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "President Xi Jinping of China, center, at a meeting of the National People’s Congress at the Great Hall of the People in Beijing on Wednesday.",
+        "credit": "Lintao Zhang/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/16/world/16China/16China-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/16/world/16China/16China-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-03-15T14:15:53Z",
+      "section_name": "World",
+      "snippet": "After failed efforts by other leaders to put in place a national civil code, the Chinese president is reviving the idea as he seeks to remake China’s legal system.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/022f5849-5716-56e6-93d5-4cc04486bb89",
+      "web_url": "https://www.nytimes.com/2017/03/15/world/asia/xi-jinping-legal-overhaul.html",
+      "word_count": 992
+    },
+    {
+      "abstract": "The victory, by the largest margin in decades, consolidated the Indian prime minister’s power and put him in a strong position to win re-election in 2019.",
+      "byline": {
+        "original": "By Geeta Anand"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Narendra Modi’s B.J.P. Party Wins Big in Uttar Pradesh, India’s Largest State",
+        "kicker": "",
+        "print_headline": "Modi’s Party Wins Big in India’s Largest State"
+      },
+      "_id": "nyt://article/0d192325-484e-5058-8504-635e51cdf5b3",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Uttar Pradesh State (India)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "In New Delhi, supporters of the Bharatiya Janata Party celebrated its win in the state of Uttar Pradesh on Saturday. The vote was seen as a referendum on the prime minister.",
+        "credit": "Tsering Topgyal/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/12/world/12india-alt/12india-alt-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/12/world/12india-alt/12india-alt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-03-11T13:15:05Z",
+      "section_name": "World",
+      "snippet": "The victory, by the largest margin in decades, consolidated the Indian prime minister’s power and put him in a strong position to win re-election in 2019.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/0d192325-484e-5058-8504-635e51cdf5b3",
+      "web_url": "https://www.nytimes.com/2017/03/11/world/asia/narendra-modis-party-wins-big-in-uttar-pradesh-indias-largest-state.html",
+      "word_count": 1138
+    },
+    {
+      "abstract": "A “deep state” is a network of civilian and military officials who control elected governments. In the United States, it is President Trump who has put his agencies under stress, experts say.",
+      "byline": {
+        "original": "By Max Fisher"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "What Happens When You Fight a ‘Deep State’ That Doesn’t Exist",
+        "kicker": "The Interpreter",
+        "print_headline": "What Happens When You Fight a ‘Deep State’ That Doesn’t Exist"
+      },
+      "_id": "nyt://article/30512c2a-86ec-5154-8269-050e3a041175",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Federal Bureau of Investigation",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "National Security Council",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump speaking during a health care discussion with House committee chairmen at the White House on Friday.",
+        "credit": "Al Drago/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/12/world/12int-deepstate/12int-deepstate-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/12/world/12int-deepstate/12int-deepstate-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2017-03-10T18:24:58Z",
+      "section_name": "World",
+      "snippet": "A “deep state” is a network of civilian and military officials who control elected governments. In the U.S., it is President Trump who has put his agencies under stress, experts say.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/30512c2a-86ec-5154-8269-050e3a041175",
+      "web_url": "https://www.nytimes.com/2017/03/10/world/americas/what-happens-when-you-fight-a-deep-state-that-doesnt-exist.html",
+      "word_count": 1388
+    },
+    {
+      "abstract": "A U.S. citizen of Indian origin was shot in the arm while in his driveway by a man who the victim said told him to “go back to your own country.”",
+      "byline": {
+        "original": "By Ellen Barry"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Officials in U.S. and India Condemn Shooting of Sikh Man in Washington State",
+        "kicker": "",
+        "print_headline": "U.S. and Indian Officials  Condemn Shooting of Sikh"
+      },
+      "_id": "nyt://article/30bd7bf2-e9b5-562b-8736-cf17ffc14e2c",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Rai, Deep",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Washington (State)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Worshipers at a Sikh temple in Renton, Wash., on Sunday. A Sikh man in nearby Kent was shot on Frida",
+        "credit": "Ted S. Warren/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/06/world/06SIKH/06SIKH-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/06/world/06SIKH/06SIKH-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-03-05T11:12:15Z",
+      "section_name": "World",
+      "snippet": "A U.S. citizen of Indian origin was shot in the arm while in his driveway by a man who the victim said told him to “go back to your own country.”",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/30bd7bf2-e9b5-562b-8736-cf17ffc14e2c",
+      "web_url": "https://www.nytimes.com/2017/03/05/world/asia/sikh-shooting-washington-state.html",
+      "word_count": 445
+    },
+    {
+      "abstract": "Officials in Assam said the ancient liturgical language of Hindu priests would now be mandatory in the upper grades of all public high schools.",
+      "byline": {
+        "original": "By Ayesha Venkataraman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Indian State Says It’ll Require Study of Sanskrit, Raising Eyebrows",
+        "kicker": "",
+        "print_headline": "Sanskrit, Spoken by Few but Loved by Hindu Nationalists, Gets a Boost"
+      },
+      "_id": "nyt://article/bf6c9128-2530-5e8a-8d5a-33456651ee82",
+      "keywords": [
+        {
+          "name": "Keyword",
+          "value": "Sanskrit",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Assam State (India)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Language and Languages",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Education (K-12)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A classroom in the village of Dadara in Assam State. Sanskrit will become mandatory for students in the upper grades of all public high schools in the state.",
+        "credit": "Anupam Nath/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/04/world/04Sanskrit/04Sanskrit-articleLarge.jpg",
+          "height": 396,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/04/world/04Sanskrit/04Sanskrit-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-03-03T21:34:20Z",
+      "section_name": "World",
+      "snippet": "Officials in Assam said the ancient liturgical language of Hindu priests would now be mandatory in the upper grades of all public high schools.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/bf6c9128-2530-5e8a-8d5a-33456651ee82",
+      "web_url": "https://www.nytimes.com/2017/03/03/world/asia/india-sanskrit-assam.html",
+      "word_count": 542
+    },
+    {
+      "abstract": "The endorsement, from an Obama administration appointee, comes as the Trump administration is taking a hard look at all aid to Mexico.",
+      "byline": {
+        "original": "By Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Dept. Official Praises Mexican Efforts in War on Drugs",
+        "kicker": "",
+        "print_headline": "Praise for Mexico in the War on Drugs"
+      },
+      "_id": "nyt://article/f1c693cc-a941-5b5b-a430-37bf82cee46f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Brownfield, William R",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Walls between Tijuana and the United States. President Trump has criticized Mexico as a source of dangerous illegal immigrants and drugs, and promised to build a wall along the entire border.",
+        "credit": "Bryan Denton for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/03/world/03Drugs/03Drugs-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/03/world/03Drugs/03Drugs-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "16",
+      "print_section": "A",
+      "pub_date": "2017-03-02T19:33:21Z",
+      "section_name": "World",
+      "snippet": "The endorsement, from an Obama administration appointee, comes as the Trump administration is taking a hard look at all aid to Mexico.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/f1c693cc-a941-5b5b-a430-37bf82cee46f",
+      "web_url": "https://www.nytimes.com/2017/03/02/world/americas/drug-narcotics-mexico-state-department.html",
+      "word_count": 491
+    },
+    {
+      "abstract": "The United States risks developing an entrenched culture of conflict between the president and his own bureaucracy, experts warn.",
+      "byline": {
+        "original": "By Amanda Taub and Max Fisher"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As Leaks Multiply, Fears of a ‘Deep State’ in America",
+        "kicker": "The Interpreter",
+        "print_headline": "Echoes of a ‘Deep State’ as a Culture of Conflict Gains New Intensity"
+      },
+      "_id": "nyt://article/7b9166b0-0728-5649-8a97-902531b55dbc",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "A rally against the coup attempt in Ankara last July. Turkey’s president, Recep Tayyip Erdogan, has battled the deep state by conducting vast purges after the failed attempt last year.",
+        "credit": "Nicole Tung for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/17/world/17int-state1-sub/17int-state1-sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/17/world/17int-state1-sub/17int-state1-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "16",
+      "print_section": "A",
+      "pub_date": "2017-02-17T02:31:31Z",
+      "section_name": "World",
+      "snippet": "The United States risks developing an entrenched culture of conflict between the president and his own bureaucracy, experts warn.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/7b9166b0-0728-5649-8a97-902531b55dbc",
+      "web_url": "https://www.nytimes.com/2017/02/16/world/americas/deep-state-leaks-trump.html",
+      "word_count": 1488
+    },
+    {
+      "abstract": "Palestinians and Israelis look to the future after President Trump seemingly overturned decades of American policy centered on the creation of a Palestinian state alongside Israel.",
+      "byline": {
+        "original": "By Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Is 2-State Solution Dead? In Israel, a Debate Over What’s Next",
+        "kicker": "",
+        "print_headline": "One-State Solution Has Many in Israel Stumped "
+      },
+      "_id": "nyt://article/6b6a2767-c4fd-5100-bbb9-7ed63f4298ce",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "An Israeli soldier last month on a street that separates an Israeli settlement and a Palestinian neighborhood inside the West Bank city of Hebron. President Trump’s comments on a two-state solution have prompted confusion in the region.",
+        "credit": "Chris McGrath/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/17/world/17Israel1sub/17Israel1sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/17/world/17Israel1sub/17Israel1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2017-02-16T23:07:01Z",
+      "section_name": "World",
+      "snippet": "Palestinians and Israelis considered what other viable options exist after Mr. Trump seemingly overturned decades of American policy centered on the creation of a Palestinian state alongside Israel.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/6b6a2767-c4fd-5100-bbb9-7ed63f4298ce",
+      "web_url": "https://www.nytimes.com/2017/02/16/world/middleeast/israel-palestinians-two-state-solution.html",
+      "word_count": 1571
+    },
+    {
+      "abstract": "Nikki R. Haley’s remarks seemed intended to dispel confusion over whether the United States is committed to states for Israelis and Palestinians.",
+      "byline": {
+        "original": "By Somini Sengupta"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Envoy Says U.S. Still Backs Palestinian State",
+        "kicker": "",
+        "print_headline": "Palestinian State Remains U.S. Goal, U.N. Envoy Says"
+      },
+      "_id": "nyt://article/c080698f-f0fb-539b-8b45-9b8cfb0e8329",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Haley, Nikki R",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Nikki R. Haley at the United Nations on Thursday. “We absolutely support a two-state solution,” she said, “but we are thinking out of the box as well.”",
+        "credit": "Mary Altaffer/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/17/us/17Nations/17Nations-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/17/us/17Nations/17Nations-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "18",
+      "print_section": "A",
+      "pub_date": "2017-02-16T19:24:09Z",
+      "section_name": "World",
+      "snippet": "Nikki R. Haley’s remarks seemed intended to dispel confusion over whether the United States is committed to states for Israelis and Palestinians.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/c080698f-f0fb-539b-8b45-9b8cfb0e8329",
+      "web_url": "https://www.nytimes.com/2017/02/16/world/middleeast/nikki-haley-israel-palestinians-two-state-solution.html",
+      "word_count": 578
+    },
+    {
+      "abstract": "In talks with Israel’s prime minister, the president said the United States would no longer insist on a two-state solution for a peace accord.",
+      "byline": {
+        "original": "By Peter Baker and Mark Landler"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump, Meeting With Netanyahu, Backs Away From Palestinian State",
+        "kicker": "",
+        "print_headline": "U.S. Won’t Press a Two-State Path to Mideast Peace"
+      },
+      "_id": "nyt://article/157d196f-74ef-5592-a907-07b1db8e723a",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Benjamin Netanyahu spoke at a joint news conference with President Trump in the East Room on Wednesday.",
+        "credit": "Stephen Crowley/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/16/world/16prexy/16prexy-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/16/world/16prexy/16prexy-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2017-02-15T18:01:31Z",
+      "section_name": "World",
+      "snippet": "The president, in talks with Israel’s prime minister, said the U.S. would no longer insist on a two-state solution for a peace accord.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/157d196f-74ef-5592-a907-07b1db8e723a",
+      "web_url": "https://www.nytimes.com/2017/02/15/world/middleeast/benjamin-netanyahu-israel-trump.html",
+      "word_count": 1387
+    },
+    {
+      "abstract": "The possible end of a 50-year-old United States policy was raised by a White House official ahead of President Trump’s meeting with Prime Minister Benjamin Netanyahu of Israel.",
+      "byline": {
+        "original": "By Ian Fisher"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Palestinians Dismayed as U.S. Appears to Back Off Two-State Solution",
+        "kicker": "",
+        "print_headline": "Palestinians  Dismayed  at U.S. Shift on Policy"
+      },
+      "_id": "nyt://article/0b4826fc-e670-5d2a-8307-1badb1ecfb3b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Middle East",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A separation barrier near the Shuafat Palestinian refugee camp in East Jerusalem. Some Israelis say a two-state solution to the Middle East conflict is impossible because the Palestinians in the West Bank and those in Gaza disagree on too many issues.",
+        "credit": "Daniel Berehulak for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/16/world/16Palestinians/16Palestinians-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/16/world/16Palestinians/16Palestinians-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "15",
+      "print_section": "A",
+      "pub_date": "2017-02-15T17:10:02Z",
+      "section_name": "World",
+      "snippet": "The possible end of a 50-year-old United States policy was raised by a White House official ahead of President Trump’s meeting with Prime Minister Benjamin Netanyahu of Israel.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/0b4826fc-e670-5d2a-8307-1badb1ecfb3b",
+      "web_url": "https://www.nytimes.com/2017/02/15/world/middleeast/trump-israel-two-state-solution.html",
+      "word_count": 679
+    },
+    {
+      "abstract": "If the prime minister prevails in Uttar Pradesh, he will gain the political clout he needs to push through his economic agenda. But voters are restless.",
+      "byline": {
+        "original": "By Geeta Anand"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Modi Faces ‘Disappointed’ Voters in India’s Most Populous State",
+        "kicker": "",
+        "print_headline": "Modi’s Party Faces ‘Disappointed’ Voters in a Pivotal State"
+      },
+      "_id": "nyt://article/ae421b53-24c5-5991-93e4-2b55da66a809",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Uttar Pradesh State (India)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Indian Rupee (Currency)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A polling station in Meerut, in Uttar Pradesh State. Prime Minister Narendra Modi’s party is facing a test in elections in the state.",
+        "credit": "Manish Swarup/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/15/world/15uttar1/15uttar1-articleLarge.jpg",
+          "height": 396,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/15/world/15uttar1/15uttar1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-02-15T00:16:32Z",
+      "section_name": "World",
+      "snippet": "If the prime minister prevails in Uttar Pradesh, he will gain the political clout he needs to push through his economic agenda. But voters are restless.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/ae421b53-24c5-5991-93e4-2b55da66a809",
+      "web_url": "https://www.nytimes.com/2017/02/14/world/asia/modi-voters-india-uttar-pradesh.html",
+      "word_count": 1368
+    },
+    {
+      "abstract": "The cable, asserting that the president’s order on immigration will not make the nation safer, has wended through dozens of embassies and is still spreading.",
+      "byline": {
+        "original": "By Jeffrey Gettleman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Dept. Dissent Cable on Trump’s Ban Draws 1,000 Signatures",
+        "kicker": "",
+        "print_headline": "Dissent on Travel Ban Spreads  From One Embassy to Another"
+      },
+      "_id": "nyt://article/8f1a99ab-2d3c-5739-8b45-eb49a0d6b816",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Visas",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The State Department in Washington. A dissent cable spread through dozens of American embassies around the world.",
+        "credit": "Win Mcnamee/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/01/world/01Dissent/01Dissent-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/01/world/01Dissent/01Dissent-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2017-01-31T20:28:41Z",
+      "section_name": "World",
+      "snippet": "The cable, asserting that the president’s order on immigration will not make the nation safer, has wended through dozens of embassies and is still spreading.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/8f1a99ab-2d3c-5739-8b45-eb49a0d6b816",
+      "web_url": "https://www.nytimes.com/2017/01/31/world/americas/state-dept-dissent-cable-trump-immigration-order.html",
+      "word_count": 997
+    },
+    {
+      "abstract": "The announcement came three months after government troops, aided by American air support and military advisers, began an assault to retake the city.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iraqi Forces Take Eastern Mosul From Islamic State",
+        "kicker": "",
+        "print_headline": "Iraqis Take Eastern Mosul From Islamic State"
+      },
+      "_id": "nyt://article/f92fc1b1-972a-559b-98dc-16c38a2a61a7",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Mosul (Iraq)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Falluja (Iraq)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "American military personnel in Iraq during a battle with Islamic State militants at the University of Mosul on Wednesday.",
+        "credit": "Muhammad Hamed/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/19/world/middleeast/19iraq2/19iraq2-articleLarge.jpg",
+          "height": 430,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/19/world/middleeast/19iraq2/19iraq2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-01-18T21:54:48Z",
+      "section_name": "World",
+      "snippet": "The announcement came three months after government troops, aided by American air support and military advisers, began an assault to retake the city.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/f92fc1b1-972a-559b-98dc-16c38a2a61a7",
+      "web_url": "https://www.nytimes.com/2017/01/18/world/middleeast/iraq-mosul-isis.html",
+      "word_count": 474
+    },
+    {
+      "abstract": "Though peace efforts between Israel and the Palestinians seem doomed, world leaders gathered in Paris for a peace conference and signaled that they still longed for a solution.",
+      "byline": {
+        "original": "By Alissa J. Rubin, Benoît Morenne and Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "World Leaders Push Israel and Trump to Forge a 2-State Deal",
+        "kicker": "",
+        "print_headline": "As Key Players Retreat, World Prods Mideast"
+      },
+      "_id": "nyt://article/7314c2d3-f5d7-547a-962b-3d40a7eb0430",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "President François Hollande of France speaking in Paris at a conference reaffirming support for solving the Israeli-Palestinian conflict.",
+        "credit": "Pool photo by Bertrand Guay",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/16/world/16PARIS/16PARIS-articleLarge.jpg",
+          "height": 390,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/16/world/16PARIS/16PARIS-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2017-01-15T15:41:28Z",
+      "section_name": "World",
+      "snippet": "Though peace efforts between Israel and the Palestinians seem doomed, world leaders gathered in Paris for a peace conference and signaled that they still longed for a solution.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/7314c2d3-f5d7-547a-962b-3d40a7eb0430",
+      "web_url": "https://www.nytimes.com/2017/01/15/world/middleeast/missing-at-israel-palestinian-peace-conference-israelis-or-palestinians.html",
+      "word_count": 1125
+    },
+    {
+      "abstract": "The outbreak in Minas Gerais State in southeastern Brazil appears to have killed at least 10 people, and 133 suspected cases are being investigated.",
+      "byline": {
+        "original": "By Dom Phillips"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Yellow Fever Outbreak in Brazil Prompts a State of Emergency",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f23fe8ea-a0ee-54b2-a44b-07f4598eb316",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Yellow Fever",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Minas Gerais (Brazil)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Brazil",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Mosquitoes",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Vaccination and Immunization",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Yellow fever vaccinations were being given on Friday in Caratinga, Brazil, to combat an outbreak in Minas Gerais, a southeastern state.",
+        "credit": "Douglas Magno/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/14/world/14brazil_web1/14brazil_web1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/14/world/14brazil_web1/14brazil_web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-01-14T03:30:54Z",
+      "section_name": "World",
+      "snippet": "The outbreak in Minas Gerais State in southeastern Brazil appears to have killed at least 10 people, and 133 suspected cases are being investigated.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/f23fe8ea-a0ee-54b2-a44b-07f4598eb316",
+      "web_url": "https://www.nytimes.com/2017/01/13/world/americas/brazil-yellow-fever-febre-amarela.html",
+      "word_count": 669
+    },
+    {
+      "abstract": "One newspaper warned of “large-scale war” if the United States intervened in the South China Sea, as Donald J. Trump’s nominee for secretary of state suggested.",
+      "byline": {
+        "original": "By Javier C. Hernández"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese State Media Denounce Rex Tillerson’s Call to Block Island Access",
+        "kicker": "",
+        "print_headline": "Chinese State Media Denounce Call by Tillerson to Block Access to Islands"
+      },
+      "_id": "nyt://article/e457a4b4-032d-54ef-a8d3-0df3746c646a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Tillerson, Rex W",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Rex W. Tillerson, the nominee for secretary of state, at his Senate confirmation hearing on Wednesday. He said that Beijing’s efforts to build islands in the South China Sea, and to equip some with military equipment, were illegal.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/14/us/14China/14China-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/14/us/14China/14China-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2017-01-13T13:22:07Z",
+      "section_name": "World",
+      "snippet": "One newspaper warned of “large-scale war” if the United States intervened in the South China Sea, as Donald J. Trump’s nominee for secretary of state suggested.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e457a4b4-032d-54ef-a8d3-0df3746c646a",
+      "web_url": "https://www.nytimes.com/2017/01/13/world/asia/rex-tillerson-south-china-sea.html",
+      "word_count": 712
+    },
+    {
+      "abstract": "An official with the land and resources bureau in a city in southwest China wounded the mayor and the Communist Party secretary at a meeting, news reports said.",
+      "byline": {
+        "original": "By Chris Buckley and Adam Wu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese City Official Shoots 2 Others and Kills Himself, State Media Says",
+        "kicker": "",
+        "print_headline": "Gunfire, Suicide and a Meeting in China"
+      },
+      "_id": "nyt://article/baf8580b-8b59-51b5-92ec-1dd62f82c760",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Sichuan Province (China)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-01-04T09:17:24Z",
+      "section_name": "World",
+      "snippet": "An official with the land and resources bureau in a city in southwest China wounded the mayor and the Communist Party secretary at a meeting, news reports said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/baf8580b-8b59-51b5-92ec-1dd62f82c760",
+      "web_url": "https://www.nytimes.com/2017/01/04/world/asia/china-sichuan-shooting.html",
+      "word_count": 357
+    },
+    {
+      "abstract": "China has banned access to Twitter, but it is the country that President-elect Donald J. Trump seems to most enjoy taunting on his personal feed.",
+      "byline": {
+        "original": "By Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Enough With the Tweets, China’s State Media Tells Trump",
+        "kicker": "Sinosphere",
+        "print_headline": "Chinese Media Chides Trump on ‘Twitter Foreign Policy’"
+      },
+      "_id": "nyt://article/3c5a3178-2eca-57c8-ab7b-7ef8f7a0b2db",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Twitter",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Donald J. Trump demonstrating how he uses Twitter in his office in Trump Tower in New York in 2015. He has jabbed at Beijing over Taiwan, trade, the South China Sea and, most recently, North Korea.",
+        "credit": "Josh Haner/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/05/world/05CHINATRUMP-1/05CHINATRUMP-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/05/world/05CHINATRUMP-1/05CHINATRUMP-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "14",
+      "print_section": "A",
+      "pub_date": "2017-01-04T08:59:23Z",
+      "section_name": "World",
+      "snippet": "China has banned access to Twitter, but it is the country that President-elect Donald J. Trump seems to most enjoy taunting on his personal feed.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3c5a3178-2eca-57c8-ab7b-7ef8f7a0b2db",
+      "web_url": "https://www.nytimes.com/2017/01/04/world/asia/china-xinhua-donald-trump-twitter.html",
+      "word_count": 391
+    }
+  ]
+}

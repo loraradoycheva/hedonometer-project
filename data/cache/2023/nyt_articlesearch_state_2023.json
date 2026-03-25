@@ -1,0 +1,4858 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "2MJ6e77HBhgWrT0a1jsbMdAUzEslgDnYA7pUMZKLmn9jRrNb",
+    "begin_date": "20230101",
+    "end_date": "20231231",
+    "fq": "(headline.default:\"state\") AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 74,
+  "docs": [
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Dermer is to meet with the secretary of state and Biden’s national security adviser.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/86e1f7bf-8b27-5a52-af08-a83e8bec7374",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ron Dermer, a former Israeli ambassador to the United States, is part of Israel’s five-member war cabinet.",
+        "credit": "Abir Sultan/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/12/14/multimedia/26israel-hamas-dermer-dc/14israel-cabinet-hftz-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/12/14/multimedia/26israel-hamas-dermer-dc/14israel-cabinet-hftz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-12-26T13:13:19Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/86e1f7bf-8b27-5a52-af08-a83e8bec7374",
+      "web_url": "https://www.nytimes.com/live/2023/12/26/world/israel-hamas-war-gaza-news/a-netanyahu-adviser-heads-to-dc-after-the-israeli-leader-pledged-to-deepen-the-war",
+      "word_count": 723
+    },
+    {
+      "abstract": "The sit-in shut down Poland’s main public news station, a possible harbinger of battles to come as the party voted out of power tries to keep its grip on state institutions.",
+      "byline": {
+        "original": "By Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Refusing to Accept Loss of Power, Polish Right Occupies State TV",
+        "kicker": "",
+        "print_headline": "Polish Right Stages a Sit-In And Shuts Down State TV"
+      },
+      "_id": "nyt://article/3c787c88-cd4a-5d80-94e1-227fc3092ca4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Poland",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Public Broadcasting",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Warsaw (Poland)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Propaganda",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Law and Justice (Poland)",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "TVP (Polish Television)",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Kaczynski, Jaroslaw",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Tusk, Donald",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "Police officers in front of the public broadcasting headquarters on Wednesday in Warsaw, where members of the ousted former government staged a sit-in to prevent new managers from taking over.",
+        "credit": "Kalbar/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/12/20/multimedia/20poland-tv-vjwt/20poland-tv-vjwt-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/12/20/multimedia/20poland-tv-vjwt/20poland-tv-vjwt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2023-12-20T21:46:07Z",
+      "section_name": "World",
+      "snippet": "The sit-in shut down Poland’s main public news station, a possible harbinger of battles to come as the party voted out of power tries to keep its grip on state institutions.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3c787c88-cd4a-5d80-94e1-227fc3092ca4",
+      "web_url": "https://www.nytimes.com/2023/12/20/world/europe/poland-state-tv-protest.html",
+      "word_count": 1038
+    },
+    {
+      "abstract": "It is the first time the Biden administration has declared an emergency to expedite arms shipments to the Middle East, which are controversial because of the civilian death toll from Israeli airstrikes.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State Department bypasses Congress to approve Israel’s order for tank ammunition.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/973651b5-7bc9-5b07-8369-e766c8f5ea8f",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Israeli soldiers working on their tank near the border with Gaza on Friday.",
+        "credit": "Amir Cohen/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/12/09/multimedia/09israel-hamas-ammunition-gfck/09israel-hamas-ammunition-gfck-articleLarge-v3.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/12/09/multimedia/09israel-hamas-ammunition-gfck/09israel-hamas-ammunition-gfck-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-12-09T22:25:21Z",
+      "section_name": "World",
+      "snippet": "It is the first time the Biden administration has declared an emergency to expedite arms shipments to the Middle East, which are controversial because of the civilian death toll from Israeli airstrikes.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/973651b5-7bc9-5b07-8369-e766c8f5ea8f",
+      "web_url": "https://www.nytimes.com/live/2023/12/09/world/israel-hamas-war-gaza-news/state-department-bypasses-congress-to-approve-israels-order-for-tank-ammunition",
+      "word_count": 324
+    },
+    {
+      "abstract": "Plus Israel’s campaign in Gaza.",
+      "byline": {
+        "original": "By Amelia Nierenberg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Monday Briefing: Big State Victories for Modi",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c8f7813e-18cc-5ad4-88b5-6ea9e4269536",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Far East, South and Southeast Asia and Pacific Areas",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "Shivraj Singh Chouhan, the chief minister of Madhya Pradesh and a B.J.P. member, greeted supporters yesterday. ",
+        "credit": "Gagan Nayar/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03india-elections-01-cwqv-mofinl/03india-elections-01-cwqv-mofinl-articleLarge.jpg",
+          "height": 600,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03india-elections-01-cwqv-mofinl/03india-elections-01-cwqv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "NYTNow",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-12-03T20:45:35Z",
+      "section_name": "World",
+      "snippet": "Plus Israel’s campaign in Gaza.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "briefing",
+      "uri": "nyt://article/c8f7813e-18cc-5ad4-88b5-6ea9e4269536",
+      "web_url": "https://www.nytimes.com/2023/12/03/world/asia/modi-india-state-bjp-gaza.html",
+      "word_count": 1103
+    },
+    {
+      "abstract": "Results of voting for the governments of four Indian states showed gains for Mr. Modi’s ruling party, putting him in a strong position ahead of general elections in the spring.",
+      "byline": {
+        "original": "By Mujib Mashal and Hari Kumar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "With Big State Victories, Modi Expands His Dominance in India",
+        "kicker": "",
+        "print_headline": "With Big State Victories, Modi’s Ruling Party Expands Dominance in India"
+      },
+      "_id": "nyt://article/5dfa03a9-3cf6-55e7-b071-824e53566665",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Hinduism",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Indian National Congress",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Gandhi, Rahul",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Madhya Pradesh (India)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Uttar Pradesh State (India)",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Shivraj Singh Chouhan, the chief minister of the Indian state of Madhya Pradesh and a member of the Bharatiya Janata Party, is greeted by supporters in Bhopal, India, on Sunday.",
+        "credit": "Gagan Nayar/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03india-elections-01-cwqv/03india-elections-01-cwqv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/12/03/multimedia/03india-elections-01-cwqv/03india-elections-01-cwqv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2023-12-03T14:50:35Z",
+      "section_name": "World",
+      "snippet": "Results of voting for the governments of four Indian states showed gains for Mr. Modi’s ruling party, putting him in a strong position ahead of general elections in the spring.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/5dfa03a9-3cf6-55e7-b071-824e53566665",
+      "web_url": "https://www.nytimes.com/2023/12/03/world/asia/india-state-elections-modi.html",
+      "word_count": 1091
+    },
+    {
+      "abstract": "President Biden emphasized that the Israeli-Palestinian conflict will not end without a two-state solution.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Biden Says a ‘Real’ Palestinian State Must Come After War",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bc1a86c5-5f40-5afa-9511-b0820e4e1b18",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "President Biden at a news conference in California on Wednesday.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/15/multimedia/15dc-biden-israel-war-pbwc/15dc-biden-israel-war-pbwc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/15/multimedia/15dc-biden-israel-war-pbwc/15dc-biden-israel-war-pbwc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-11-16T03:36:07Z",
+      "section_name": "World",
+      "snippet": "President Biden emphasized that the Israeli-Palestinian conflict will not end without a two-state solution.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/bc1a86c5-5f40-5afa-9511-b0820e4e1b18",
+      "web_url": "https://www.nytimes.com/2023/11/16/world/middleeast/biden-palestinian-gaza-hamar-israel-war.html",
+      "word_count": 520
+    },
+    {
+      "abstract": "The organization, which oversees the West Bank, says it will consider helping run Gaza after the war — if Washington pushes for the creation of a Palestinian state alongside the Israeli one.",
+      "byline": {
+        "original": "By Mark Landler"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Palestinian Authority Open to Gaza Role if U.S. Backs 2-State Solution",
+        "kicker": "",
+        "print_headline": "P.L.O. Signals Openness To Postwar Role in Gaza"
+      },
+      "_id": "nyt://article/1a01d7e2-0caa-53d8-9078-5347139427b9",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Palestinian Authority",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Displaced people from Gaza City relocating to the south of Gaza Strip on Wednesday.",
+        "credit": "Samar Abu Elouf for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/09/multimedia/09israel-palestinians-01-jpcq/09israel-palestinians-01-jpcq-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/09/multimedia/09israel-palestinians-01-jpcq/09israel-palestinians-01-jpcq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2023-11-09T12:59:57Z",
+      "section_name": "World",
+      "snippet": "The organization, which oversees the West Bank, says it will consider helping run Gaza after the war — if Washington pushes for the creation of a Palestinian state alongside the Israeli one.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/1a01d7e2-0caa-53d8-9078-5347139427b9",
+      "web_url": "https://www.nytimes.com/2023/11/09/world/middleeast/palestinian-authority-gaza.html",
+      "word_count": 1065
+    },
+    {
+      "abstract": "Hamas leaders say they waged their Oct. 7 attack on Israel because they believed the Palestinian cause was slipping away, and that only violence could revive it.",
+      "byline": {
+        "original": "By Ben Hubbard and Maria Abi-Habib"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Behind Hamas’s Bloody Gambit to Create a ‘Permanent’ State of War",
+        "kicker": "",
+        "print_headline": "Hamas’s Goal for Oct. 7: A Permanent State of War"
+      },
+      "_id": "nyt://article/7811a3de-8947-5a21-8685-8282a8395e0b",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Peace Process",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 12
+        },
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 13
+        },
+        {
+          "name": "Organization",
+          "value": "Palestinian Authority",
+          "rank": 14
+        },
+        {
+          "name": "Organization",
+          "value": "Palestinian Islamic Jihad",
+          "rank": 15
+        },
+        {
+          "name": "Subject",
+          "value": "Arabs",
+          "rank": 16
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 17
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 18
+        },
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 19
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 20
+        },
+        {
+          "name": "Person",
+          "value": "Deif, Muhammad",
+          "rank": 21
+        },
+        {
+          "name": "Person",
+          "value": "Sinwar, Yehya",
+          "rank": 22
+        },
+        {
+          "name": "Person",
+          "value": "Shalit, Gilad",
+          "rank": 23
+        }
+      ],
+      "multimedia": {
+        "caption": "Palestinians surveying the damage caused by Israeli airstrikes in Khan Younis, in the southern Gaza Strip, last month.",
+        "credit": "Yousef Masoud for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/07/multimedia/00Hamas-Evolution-kgql/00Hamas-Evolution-kgql-articleLarge.jpg",
+          "height": 404,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/07/multimedia/00Hamas-Evolution-kgql/00Hamas-Evolution-kgql-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2023-11-08T10:02:19Z",
+      "section_name": "World",
+      "snippet": "Hamas leaders say they waged their Oct. 7 attack on Israel because they believed the Palestinian cause was slipping away, and that only violence could revive it.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/7811a3de-8947-5a21-8685-8282a8395e0b",
+      "web_url": "https://www.nytimes.com/2023/11/08/world/middleeast/hamas-israel-gaza-war.html",
+      "word_count": 2817
+    },
+    {
+      "abstract": "Israel has been using the kits during its bombing campaign in Gaza.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department Approves $320 Million Sale of Guided Bomb Equipment to Israel",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7118a37a-9e30-5e06-a9cc-1a15661d826c",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Senate",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "House of Representatives",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Palestinians search for bodies and survivors at the Jabaliya refugee camp the day after an Israeli airstrike on Oct. 31 in northern Gaza.",
+        "credit": "Mohammed Saber/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/03/multimedia/06israel-hamas-smart-bomb/06israel-hamas-smart-bomb-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/03/multimedia/06israel-hamas-smart-bomb/06israel-hamas-smart-bomb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-11-06T20:11:45Z",
+      "section_name": "World",
+      "snippet": "Israel has been using the kits during its bombing campaign in Gaza.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/7118a37a-9e30-5e06-a9cc-1a15661d826c",
+      "web_url": "https://www.nytimes.com/2023/11/06/world/middleeast/us-israel-bomb-equipment-sale.html",
+      "word_count": 578
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By New York Times Audio"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.S. wants a two-state solution. Do its Arab allies?",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/6c58dcaf-4531-5bda-93a6-356bded01283",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-11-03T20:16:18Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/6c58dcaf-4531-5bda-93a6-356bded01283",
+      "web_url": "https://www.nytimes.com/live/2023/11/03/world/israel-hamas-war-gaza-news/the-us-wants-a-two-state-solution-do-its-arab-allies",
+      "word_count": 105
+    },
+    {
+      "abstract": "A local official reportedly said the center’s manager had been arrested, and he blamed overcrowding at the facility for the high toll.",
+      "byline": {
+        "original": "By Cassandra Vinograd"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fire at Drug Rehab Center in Iran Kills at Least 32, State Media Report",
+        "kicker": "",
+        "print_headline": "At Least 32 Dead After Fire in Iran At Rehab Center"
+      },
+      "_id": "nyt://article/812a0b21-8476-5029-b943-de6082ba3144",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Fires and Firefighters",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Caspian Sea",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2023-11-03T09:31:32Z",
+      "section_name": "World",
+      "snippet": "A local official reportedly said the center’s manager had been arrested, and he blamed overcrowding at the facility for the high toll.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/812a0b21-8476-5029-b943-de6082ba3144",
+      "web_url": "https://www.nytimes.com/2023/11/03/world/middleeast/iran-fire-drug-rehab-center.html",
+      "word_count": 321
+    },
+    {
+      "abstract": "As President Biden and other Western leaders promote the idea, some diplomats and analysts say the Hamas-Israel war may breathe new life into it.",
+      "byline": {
+        "original": "By Mark Landler"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Does a 2-State Solution, Long Discounted, Still Have a Future?",
+        "kicker": "",
+        "print_headline": "Long Discounted, Two-State Solution Is Again Being Discussed. A Little Bit."
+      },
+      "_id": "nyt://article/0432fab9-0d51-546e-97df-0f5c182f33b2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Palestinian Authority",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 13
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 14
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 15
+        }
+      ],
+      "multimedia": {
+        "caption": "From left, Prime Minister Ehud Barak, President Bill Clinton and the Palestinian leader Yasir Arafat at Camp David in 2000, when Israel and the Palestinians arguably came closest to striking a two-state settlement.",
+        "credit": "Paul Hosefros/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/01/multimedia/01Israel-Two-States-zbtm/01Israel-Two-States-zbtm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/01/multimedia/01Israel-Two-States-zbtm/01Israel-Two-States-zbtm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2023-11-01T09:03:08Z",
+      "section_name": "World",
+      "snippet": "As President Biden and other Western leaders promote the idea, some diplomats and analysts say the Hamas-Israel war may breathe new life into it.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/0432fab9-0d51-546e-97df-0f5c182f33b2",
+      "web_url": "https://www.nytimes.com/2023/11/01/world/middleeast/israel-palestine-two-state-solution.html",
+      "word_count": 1437
+    },
+    {
+      "abstract": "What happened to Armita Geravand, who entered a subway car and was carried out minutes later, is unclear. But her case evoked parallels to that of Mahsa Amini.",
+      "byline": {
+        "original": "By Emma Bubola and Leily Nikounazar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iranian Teenager Reported Brain Dead by State Media",
+        "kicker": "",
+        "print_headline": "Iranian Teenager Reported Brain Dead by State Media"
+      },
+      "_id": "nyt://article/f387c527-e2a9-5401-b41e-ef80e47df959",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Muslim Veiling",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Dress Codes",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Tehran (Iran)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Amini, Mahsa (2000-22)",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Geravand, Armita",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Armita Geravand in a social media photo.",
+        "credit": "Armita Geravand family archive",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23IRAN-TEENAGER-01-kmtq/23IRAN-TEENAGER-01-kmtq-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23IRAN-TEENAGER-01-kmtq/23IRAN-TEENAGER-01-kmtq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2023-10-23T14:03:22Z",
+      "section_name": "World",
+      "snippet": "What happened to Armita Geravand, who entered a subway car and was carried out minutes later, is unclear. But her case evoked parallels to that of Mahsa Amini.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/f387c527-e2a9-5401-b41e-ef80e47df959",
+      "web_url": "https://www.nytimes.com/2023/10/23/world/europe/iran-teenager-armita-geravand-brain-dead.html",
+      "word_count": 581
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Vivian Yee"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Thousands in Egypt protest Israeli attacks on Gaza and call for a Palestinian state.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3e69d764-4f30-5d46-8d4d-5cbde25cbb16",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "Demonstrators at Al Azhar mosque in Cairo gathered in support of Palestinians in Gaza on Friday.",
+        "credit": "Mohamed Hossam/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/10/20/multimedia/20israel-hamas-protests-wzgj/20israel-hamas-protests-wzgj-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/10/20/multimedia/20israel-hamas-protests-wzgj/20israel-hamas-protests-wzgj-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-10-20T21:24:17Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/3e69d764-4f30-5d46-8d4d-5cbde25cbb16",
+      "web_url": "https://www.nytimes.com/live/2023/10/20/world/israel-hamas-war-gaza-news/thousands-in-egypt-protest-israeli-attacks-on-gaza-and-call-for-a-palestinian-state",
+      "word_count": 576
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ceylan Yeginsu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department has issued a rare global travel warning for Americans.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/6617b4bf-12cb-507a-9b42-3a66f319e274",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Al Friedman, a 26-year-old from Israel, walking past armed police officers at Kennedy Airport in New York City last week before flying to Tel Aviv to deliver supplies.",
+        "credit": "Adam Gray/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/10/19/multimedia/19israel-hamas-blog-worldwide-caution-travel-sub-gkcw/19israel-hamas-blog-worldwide-caution-travel-sub-gkcw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/10/19/multimedia/19israel-hamas-blog-worldwide-caution-travel-sub-gkcw/19israel-hamas-blog-worldwide-caution-travel-sub-gkcw-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-10-19T21:40:33Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/6617b4bf-12cb-507a-9b42-3a66f319e274",
+      "web_url": "https://www.nytimes.com/live/2023/10/19/world/israel-hamas-war-gaza-news/the-state-department-has-issued-a-rare-global-travel-warning-for-americans",
+      "word_count": 443
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Farnaz Fassihi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "An Iranian state television segment envisioned how attacks on Israel could unfold.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7ddf52c4-90eb-5178-9131-a9d774ad5060",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Khamenei, Ali",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Lebanon",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A handout photo made available by the office of the Iranian supreme leader, Ayatollah Ali Khamenei, said to be of him in Tehran on Tuesday.",
+        "credit": "Iranian supreme leader office, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/10/18/multimedia/18israel-hamas-iran-threats-01-fblk/18israel-hamas-iran-threats-01-fblk-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/10/18/multimedia/18israel-hamas-iran-threats-01-fblk/18israel-hamas-iran-threats-01-fblk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-10-19T03:06:30Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7ddf52c4-90eb-5178-9131-a9d774ad5060",
+      "web_url": "https://www.nytimes.com/live/2023/10/19/world/israel-hamas-war-gaza-news/an-iranian-state-television-segment-envisioned-how-attacks-on-israel-could-unfold",
+      "word_count": 429
+    },
+    {
+      "abstract": "The attack was a bloody reminder of the insecurity that persists in the region and which has spread to neighboring Pakistan since the end of the U.S.-led war.",
+      "byline": {
+        "original": "By Christina Goldbaum and Najim Rahim"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Attack Kills 17 at Shiite Mosque in Northern Afghanistan",
+        "kicker": "",
+        "print_headline": "Islamic State Kills Shiites In Attack On Mosque"
+      },
+      "_id": "nyt://article/a8fc9ee4-d471-541a-b5df-8874c35efb73",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Shiite Muslims",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State Khorasan",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Baghlan Province (Afghanistan)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2023-10-13T15:17:17Z",
+      "section_name": "World",
+      "snippet": "The attack was a bloody reminder of the insecurity that persists in the region and which has spread to neighboring Pakistan since the end of the U.S.-led war.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/a8fc9ee4-d471-541a-b5df-8874c35efb73",
+      "web_url": "https://www.nytimes.com/2023/10/13/world/asia/shiite-mosque-attack-afghanistan.html",
+      "word_count": 644
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anushka Patil"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Dozens of Ukrainian children were taken from Russian-occupied regions to Belarus this week, said Belarusian state media.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ab66a3c4-7f34-5213-abb3-620c2f857819",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "The Ukrainian first lady, Olena Zelenska, implored world leaders on the sidelines of the U.N. General Assembly on Tuesday to help return thousands of Ukrainian children abducted and deported by Russia. ",
+        "credit": "Ed Jones/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/09/21/world/21ukraine-blog-belarus-abductions/21ukraine-blog-belarus-abductions-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/09/21/world/21ukraine-blog-belarus-abductions/21ukraine-blog-belarus-abductions-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-09-21T18:40:55Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/ab66a3c4-7f34-5213-abb3-620c2f857819",
+      "web_url": "https://www.nytimes.com/live/2023/09/21/world/zelensky-russia-ukraine-news/dozens-of-ukrainian-children-were-taken-from-russian-occupied-regions-to-belarus-this-week-said-belarusian-state-media",
+      "word_count": 500
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By John Ismay"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Zelensky visits the Pentagon for talks on the state of the war.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7c6fb1eb-9605-589a-bb8c-f6c4d8abba4e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Secretary of Defense Lloyd J. Austin III greets the Ukrainian president, Volodymyr Zelensky, during a welcome ceremony at the Pentagon on Thursday.",
+        "credit": "Andrew Harnik/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/09/21/multimedia/21ukraine-briefing-zelenzky-pentagon1-vbtk/21ukraine-briefing-zelenzky-pentagon1-vbtk-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/09/21/multimedia/21ukraine-briefing-zelenzky-pentagon1-vbtk/21ukraine-briefing-zelenzky-pentagon1-vbtk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-09-21T16:00:25Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7c6fb1eb-9605-589a-bb8c-f6c4d8abba4e",
+      "web_url": "https://www.nytimes.com/live/2023/09/21/world/zelensky-russia-ukraine-news/zelensky-visits-the-pentagon-for-talks-on-the-state-of-the-war",
+      "word_count": 231
+    },
+    {
+      "abstract": "An article sheds light on a notorious cold case.",
+      "byline": {
+        "original": "By Amanda Taub"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Mexico, Drug Trade Flourished With the Help of the State",
+        "kicker": "the interpreter",
+        "print_headline": "In Mexico, Drug Trade Flourished With State’s Help"
+      },
+      "_id": "nyt://article/b6c1564b-7847-5838-9dd1-d1cb2e776304",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Smuggling",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Organized Crime",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Police",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Cartels",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Guerreros Unidos (Gang)",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Institutional Revolutionary Party (Mexico)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Posters in Mexico City of some of the 43 students who were kidnapped in 2014 by the police and turned over to a cartel.",
+        "credit": "Luis Antonio Rojas for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/09/06/multimedia/6InterpreterNL-Mexico-kjbp/6InterpreterNL-Mexico-kjbp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/09/06/multimedia/6InterpreterNL-Mexico-kjbp/6InterpreterNL-Mexico-kjbp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2023-09-06T16:30:34Z",
+      "section_name": "World",
+      "snippet": "An article sheds light on a notorious cold case.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b6c1564b-7847-5838-9dd1-d1cb2e776304",
+      "web_url": "https://www.nytimes.com/2023/09/06/world/europe/interpreter-mexico-drug-trade.html",
+      "word_count": 1181
+    },
+    {
+      "abstract": "Advice that travelers to the U.S. “check relevant state and local laws” came in response to rules this year restricting transgender care, drag shows and sports participation.",
+      "byline": {
+        "original": "By Ian Austen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Canada Cautions L.G.B.T.Q. Citizens Visiting U.S. Over State Laws",
+        "kicker": "",
+        "print_headline": "Gay Canadians Warned That Some Parts of U.S. May Not Be Safe to Visit"
+      },
+      "_id": "nyt://article/4384628c-5b2d-5de0-8485-e7a5e059251f",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Travel Warnings",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Homosexuality and Bisexuality",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Transgender",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "States (US)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Florida",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Drag queens and allies marched to the Florida Capitol in Tallahassee in April. Moves by state lawmakers, particularly in Florida, to curtail L.G.B.T.Q. rights have received prominent attention in Canada.",
+        "credit": "Alicia Devine/Tallahassee Democrat, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/08/30/multimedia/30canada-advisory3-qktw/30canada-advisory3-qktw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/08/30/multimedia/30canada-advisory3-qktw/30canada-advisory3-qktw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2023-08-30T18:49:07Z",
+      "section_name": "World",
+      "snippet": "Advice that travelers to the U.S. “check relevant state and local laws” came in response to rules this year restricting transgender care, drag shows and sports participation.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/4384628c-5b2d-5de0-8485-e7a5e059251f",
+      "web_url": "https://www.nytimes.com/2023/08/30/world/canada/travel-warning-us-lgbtq.html",
+      "word_count": 553
+    },
+    {
+      "abstract": "The emergency order was issued late Friday as wildfires threatened Yellowknife, in the Northwest Territories, and Kelowna, in British Columbia.",
+      "byline": {
+        "original": "By Ian Austen and Vjosa Isai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "British Columbia Under State of Emergency as Wildfires Rage in Canada",
+        "kicker": "",
+        "print_headline": "Evacuations Are Ordered As Wildfires Burn Canada"
+      },
+      "_id": "nyt://article/2cc25883-2be1-58bf-908a-2b20473d069d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Wildfires",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Fires and Firefighters",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Global Warming",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Canadian Armed Forces",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Canadian Broadcasting Corp",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Facebook Inc",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Meta Platforms Inc",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "British Columbia (Canada)",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Kelowna (British Columbia)",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Northwest Territories (Canada)",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "A satellite image showing wildfires burning near Yellowknife, the capital of the Northwest Territories, on Wednesday.",
+        "credit": "Maxar Technologies",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/08/18/multimedia/18canada-evacuations-top-klvh/18canada-evacuations-top-klvh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/08/18/multimedia/18canada-evacuations-top-klvh/18canada-evacuations-top-klvh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2023-08-18T19:04:41Z",
+      "section_name": "World",
+      "snippet": "The emergency order was issued late Friday as wildfires threatened Yellowknife, in the Northwest Territories, and Kelowna, in British Columbia.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/2cc25883-2be1-58bf-908a-2b20473d069d",
+      "web_url": "https://www.nytimes.com/2023/08/18/world/americas/canada-wildfires-yellowknife-kelowna.html",
+      "word_count": 979
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Paul Sonne"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘Pretty perplexing challenges for any state’: Experts say drones are hard to ward off.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a56bd47b-3a81-58e4-9d97-53e4604a873c",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Emergency service workers at Sergiev Posad in Russia’s Moscow region on Wednesday after an explosion on the grounds of the Zagorsk Optical-Mechanical Plant.",
+        "credit": "Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/08/09/multimedia/09ukraine-briefing-defending-against-drones-qwtv/09ukraine-briefing-defending-against-drones-qwtv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/08/09/multimedia/09ukraine-briefing-defending-against-drones-qwtv/09ukraine-briefing-defending-against-drones-qwtv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-08-09T21:27:51Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/a56bd47b-3a81-58e4-9d97-53e4604a873c",
+      "web_url": "https://www.nytimes.com/live/2023/08/10/world/russia-ukraine-news/pretty-perplexing-challenges-for-any-state-experts-say-drones-are-hard-to-ward-off",
+      "word_count": 362
+    },
+    {
+      "abstract": "The largest-ever Women’s World Cup tournament highlights the growing professionalization of the sport. A sportswriter shares his thoughts.",
+      "byline": {
+        "original": "By Yan Zhuang"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State of Women’s Soccer",
+        "kicker": "letter 317",
+        "print_headline": "Professionalization Playing Out at World Cup"
+      },
+      "_id": "nyt://article/f5140cb3-78e0-5c3a-9cca-a135908b7506",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Women's World Cup (Soccer)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "New Zealand",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Aurora Mikalsen of Norway, left, after New Zealand scored during the FIFA Women’s World Cup Australia & New Zealand 2023 in Auckland, New Zealand, this month.",
+        "credit": "Phil Walter/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/07/28/multimedia/28ozletter-top-tkhm/28ozletter-top-tkhm-articleLarge.jpg",
+          "height": 374,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/07/28/multimedia/28ozletter-top-tkhm/28ozletter-top-tkhm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "2",
+      "print_section": "A",
+      "pub_date": "2023-07-28T11:59:45Z",
+      "section_name": "World",
+      "snippet": "The largest-ever Women’s World Cup tournament highlights the growing professionalization of the sport. A sportswriter shares his thoughts.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/f5140cb3-78e0-5c3a-9cca-a135908b7506",
+      "web_url": "https://www.nytimes.com/2023/07/28/world/australia/the-state-of-womens-soccer.html",
+      "word_count": 1390
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Valerie Hopkins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mariupol State University has graduated its newest class after fleeing its devastated home city.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d72d8486-f9ff-54d2-94ec-1fca4eabe9f8",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-07-21T07:37:01Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/d72d8486-f9ff-54d2-94ec-1fca4eabe9f8",
+      "web_url": "https://www.nytimes.com/2023/07/21/world/europe/mariupol-state-university-has-graduated-its-newest-class-after-fleeing-its-devastated-home-city.html",
+      "word_count": 338
+    },
+    {
+      "abstract": "The state of Victoria cited budget issues in deciding not to stage the multisports competition, originally known as the British Empire Games, raising questions about the event’s fading prestige.",
+      "byline": {
+        "original": "By Natasha Frost"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Australian State Backs Out of Hosting the 2026 Commonwealth Games",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9be6fd84-f979-5973-a0c0-f18d0f4d9ca3",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Commonwealth Games",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Athletics and Sports",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Victoria (Australia)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Australian Broadcasting Corporation via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/07/18/video/18vid-oz-games-still/18vid-oz-games-still-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/07/18/video/18vid-oz-games-still/18vid-oz-games-still-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-07-18T08:29:01Z",
+      "section_name": "World",
+      "snippet": "The state of Victoria cited budget issues in deciding not to stage the multisports competition, originally known as the British Empire Games, raising questions about the event’s fading prestige.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/9be6fd84-f979-5973-a0c0-f18d0f4d9ca3",
+      "web_url": "https://www.nytimes.com/2023/07/18/world/australia/victoria-australia-commonwealth-games-2026.html",
+      "word_count": 701
+    },
+    {
+      "abstract": "In Ecuador, an intelligence official said: “People consume abroad, but they don’t understand the consequences that take place here.”",
+      "byline": {
+        "original": "By Julie Turkewitz and Victor Moriyama"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "How a Peaceful Country Became a Gold Rush State for Drug Cartels",
+        "kicker": "",
+        "print_headline": "Violence Reigns As Drug Cartels Rise in Ecuador"
+      },
+      "_id": "nyt://article/6fdb996f-ecef-5859-885c-ceac857d3e40",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Ecuador",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Guayaquil (Ecuador)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Cocaine and Crack Cocaine",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Cartels",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Gangs",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Crime and Criminals",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Prisons and Prisoners",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Smuggling",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Nueva Generacion",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Sinaloa Cartel",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Lasso, Guillermo",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 13
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "Men detained during a police raid in suburb of Guayaquil.",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/07/07/world/00ecuador-violence-10/00ecuador-violence-10-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/07/07/world/00ecuador-violence-10/00ecuador-violence-10-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2023-07-12T09:01:00Z",
+      "section_name": "World",
+      "snippet": "In Ecuador, an intelligence official said: “People consume abroad, but they don’t understand the consequences that take place here.”",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/6fdb996f-ecef-5859-885c-ceac857d3e40",
+      "web_url": "https://www.nytimes.com/2023/07/12/world/americas/ecuador-drug-cartels.html",
+      "word_count": 1455
+    },
+    {
+      "abstract": "Russia should conduct prompt and transparent investigation of attack against journalist,",
+      "byline": {
+        "original": "By Gabriela Sá Pessoa and Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department calls for prompt and transparent investigation of attack against Russian journalist.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/6f96e368-dad8-5831-a7d2-9299b2c102fa",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "Elena Milashina, an investigative journalist with Novaya Gazeta, in Moscow on Wednesday, in a photograph the independent news outlet published with her permission.",
+        "credit": "Anna Artemyeva/Nonaya Gazeta, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/07/06/multimedia/06ukraine-briefing-milashina-statedepartment-01-clmf/06ukraine-briefing-milashina-statedepartment-01-clmf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/07/06/multimedia/06ukraine-briefing-milashina-statedepartment-01-clmf/06ukraine-briefing-milashina-statedepartment-01-clmf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-07-06T23:09:17Z",
+      "section_name": "World",
+      "snippet": "Russia should conduct prompt and transparent investigation of attack against journalist,",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/6f96e368-dad8-5831-a7d2-9299b2c102fa",
+      "web_url": "https://www.nytimes.com/live/2023/07/06/world/russia-ukraine-news/the-state-department-calls-for-prompt-and-transparent-investigation-of-attack-against-russian-journalist",
+      "word_count": 507
+    },
+    {
+      "abstract": "More than 1,300 people were arrested overnight as riotous protests again gripped France over the police killing of a 17-year-old and the country’s president stayed home to deal with the crisis.",
+      "byline": {
+        "original": "By Isabella Kwai and Aurelien Breeden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Macron Cancels State Visit to Germany Amid Unrest at Home",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2b746ac1-43a4-51a8-b668-e69222657b8a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Police Brutality, Misconduct and Shootings",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Nanterre (France)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Merzouk, Nahel (d 2023)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Protesters clashed with riot police officers in Marseille, in southern France, on Friday.",
+        "credit": "Christophe Simon/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/07/01/multimedia/01france-unrest-01-bhcj/01france-unrest-01-bhcj-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/07/01/multimedia/01france-unrest-01-bhcj/01france-unrest-01-bhcj-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-07-01T10:34:43Z",
+      "section_name": "World",
+      "snippet": "More than 1,300 people were arrested overnight as riotous protests again gripped France over the police killing of a 17-year-old and the country’s president stayed home to deal with the crisis.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/2b746ac1-43a4-51a8-b668-e69222657b8a",
+      "web_url": "https://www.nytimes.com/2023/07/01/world/europe/macron-france-unrest-police-shooting.html",
+      "word_count": 760
+    },
+    {
+      "abstract": "Yevgeny Prigozhin, the head of Wagner forces, appeared to have little popular support for his uprising. Still, some voices expressed criticism of President Vladimir V. Putin.",
+      "byline": {
+        "original": "By Neil MacFarquhar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia’s State Media Blamed Prigozhin, But Some Criticism of Putin Surfaced",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/6381330e-0ad6-5953-ae94-e4137e531eba",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Prigozhin, Yevgeny V",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "NTV, a state-run channel, called the uprising a betrayal and hinted at the involvement of foreign powers.",
+        "credit": "Natalia Kolesnikova/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/25/multimedia/25ukraine-blog-russian-media-qzhp/25ukraine-blog-russian-media-qzhp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/25/multimedia/25ukraine-blog-russian-media-qzhp/25ukraine-blog-russian-media-qzhp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-06-25T20:40:01Z",
+      "section_name": "World",
+      "snippet": "Yevgeny Prigozhin, the head of Wagner forces, appeared to have little popular support for his uprising. Still, some voices expressed criticism of President Vladimir V. Putin.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/6381330e-0ad6-5953-ae94-e4137e531eba",
+      "web_url": "https://www.nytimes.com/2023/06/25/world/europe/russia-media-reaction-prigozhin-wagner.html",
+      "word_count": 733
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Though the Wagner rebellion ended quickly, it raised questions in Russia about the power of the state.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/6d3a5694-b9f1-53d6-b6a3-5886187b6cee",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Wagner mercenaries load a tank on a truck in Rostov-on-Don, Russia, just before they pulled out of the city.",
+        "credit": "Vasily Deryugin/Kommersant Publishing House, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/25/multimedia/25ukraine-blog-wagner-popularity-gtfm/25ukraine-blog-wagner-popularity-gtfm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/25/multimedia/25ukraine-blog-wagner-popularity-gtfm/25ukraine-blog-wagner-popularity-gtfm-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-06-25T16:24:01Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/6d3a5694-b9f1-53d6-b6a3-5886187b6cee",
+      "web_url": "https://www.nytimes.com/live/2023/06/25/world/russia-wagner-prigozhin-news-ukraine/though-the-wagner-rebellion-ended-quickly-it-raised-questions-in-russia-about-the-power-of-the-state",
+      "word_count": 311
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Gaya Gupta"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The state of bomb shelters across Ukraine is poor, Zelensky says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a0688635-47f6-571a-bb63-7c7dd187da89",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A memorial for a 9-year-old girl who died when she was unable to get inside a bomb shelter in Kyiv in early June.",
+        "credit": "Nicole Tung for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/23/multimedia/23ukraine-briefing-shelters-mhzf/23ukraine-briefing-shelters-mhzf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/23/multimedia/23ukraine-briefing-shelters-mhzf/23ukraine-briefing-shelters-mhzf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-06-23T17:22:54Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/a0688635-47f6-571a-bb63-7c7dd187da89",
+      "web_url": "https://www.nytimes.com/live/2023/06/23/world/russia-ukraine-news/the-state-of-bomb-shelters-across-ukraine-is-poor-zelensky-says",
+      "word_count": 305
+    },
+    {
+      "abstract": "Allowing Moscow to place tactical nuclear weapons on its soil is just the latest sign of its loss of sovereignty to the Kremlin, military experts and pro-democracy activists say.",
+      "byline": {
+        "original": "By Valerie Hopkins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Belarus Is Fast Becoming a ‘Vassal State’ of Russia",
+        "kicker": "",
+        "print_headline": "Belarus Is Quickly Becoming a ‘Vassal State’ of Russia"
+      },
+      "_id": "nyt://article/8b0295d3-48a8-54cc-83a3-22ce80fbb31c",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Lukashenko, Aleksandr G",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Tikhanovskaya, Svetlana",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "A photo released by Russian state media showed President Alexander Lukashenko of Belarus and President Vladimir Putin of Russia in Sochi, Russia, this month.",
+        "credit": "Sputnik, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/16/multimedia/00belarus-russia-02-qvcm/00belarus-russia-02-qvcm-articleLarge.jpg",
+          "height": 392,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/16/multimedia/00belarus-russia-02-qvcm/00belarus-russia-02-qvcm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2023-06-22T09:00:47Z",
+      "section_name": "World",
+      "snippet": "Allowing Moscow to place tactical nuclear weapons on its soil is just the latest sign of its loss of sovereignty to the Kremlin, military experts and pro-democracy activists say.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/8b0295d3-48a8-54cc-83a3-22ce80fbb31c",
+      "web_url": "https://www.nytimes.com/2023/06/22/world/europe/belarus-russia-lukashenko.html",
+      "word_count": 1338
+    },
+    {
+      "abstract": "After several protesters were killed by live ammunition this month in Senegal, many in the usually stable West African nation wonder what comes next.",
+      "byline": {
+        "original": "By Elian Peltier and Carmen Abd Ali"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘The State Killed My Brother’: Senegal in Uproar After Deadly Protests",
+        "kicker": "",
+        "print_headline": "Protests Turn Deadly  In Senegal, Leaving  Over a Dozen Dead"
+      },
+      "_id": "nyt://article/9cf0ff6d-0cbd-5062-9047-8dc859bd8ffc",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "vis-photo",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Police Brutality, Misconduct and Shootings",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Dakar (Senegal)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Senegal",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Sall, Macky",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Sonko, Ousmane",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Amnesty International",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Carmen Abd Ali for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/12/multimedia/12senegal-promo/12senegal-01-tqgp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/12/multimedia/12senegal-promo/12senegal-01-tqgp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2023-06-12T09:01:06Z",
+      "section_name": "World",
+      "snippet": "After several protesters were killed by live ammunition this month in Senegal, many in the usually stable West African nation wonder what comes next.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/9cf0ff6d-0cbd-5062-9047-8dc859bd8ffc",
+      "web_url": "https://www.nytimes.com/2023/06/12/world/africa/senegal-protests.html",
+      "word_count": 1188
+    },
+    {
+      "abstract": "The man, Michael Travis Leake, has been accused of drug trafficking, according to Russian state media.",
+      "byline": {
+        "original": "By Matthew Mpoke Bigg and Adam Entous"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A U.S. Citizen Has Been Arrested in Russia, State Department Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4d90f90d-a0ab-5ace-a9eb-a4e28e3d8ee0",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Leake, Michael Travis",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-06-11T18:34:11Z",
+      "section_name": "World",
+      "snippet": "The man, Michael Travis Leake, has been accused of drug trafficking, according to Russian state media.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/4d90f90d-a0ab-5ace-a9eb-a4e28e3d8ee0",
+      "web_url": "https://www.nytimes.com/2023/06/11/world/europe/us-citizen-arrested-russia-drug-trafficking.html",
+      "word_count": 217
+    },
+    {
+      "abstract": "Evidence found in encrypted messages helped speed the fall of Milo Djukanovic in Montenegro. His successor, Jakov Milatovic, says he plans to clean up the country.",
+      "byline": {
+        "original": "By Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "How a Cracked Phone App Upended a Crime-Ridden Balkan State",
+        "kicker": "",
+        "print_headline": "Decrypted Messages Helped Doom Leader of Crime-Filled Nation"
+      },
+      "_id": "nyt://article/8ae49c4e-e6c9-578a-80dc-bc0d8ae737c9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Organized Crime",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Appointments and Executive Changes",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Djukanovic, Milo",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Milatovic, Jakov",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Montenegro",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Kotor Bay, Montenegro. The country’s institutions have long been plagued by corruption and links to organized crime.",
+        "credit": "Susan Wright for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/03/multimedia/00montenegro-crime-01-bqfz/00montenegro-crime-01-bqfz-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/03/multimedia/00montenegro-crime-01-bqfz/00montenegro-crime-01-bqfz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2023-06-08T15:22:14Z",
+      "section_name": "World",
+      "snippet": "Evidence found in encrypted messages helped speed the fall of Milo Djukanovic in Montenegro. His successor, Jakov Milatovic, says he plans to clean up the country.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/8ae49c4e-e6c9-578a-80dc-bc0d8ae737c9",
+      "web_url": "https://www.nytimes.com/2023/06/08/world/europe/montenegro-president-djukanovic-messages.html",
+      "word_count": 1374
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Paul Sonne"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Officials declare a state of emergency in Russian-occupied areas affected by flooding.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2d3f93ec-706a-5bb7-871f-4801a1050c2a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A local resident entered his flooded home on Wednesday in the Russian-occupied town of Nova Kakhovka, Ukraine.",
+        "credit": "Alexander Ermochenko/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/07/multimedia/07ukraine-occupied-evacuations-lvbp/07ukraine-occupied-evacuations-lvbp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/07/multimedia/07ukraine-occupied-evacuations-lvbp/07ukraine-occupied-evacuations-lvbp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-06-07T14:45:03Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/2d3f93ec-706a-5bb7-871f-4801a1050c2a",
+      "web_url": "https://www.nytimes.com/live/2023/06/07/world/russia-ukraine-news/officials-declare-a-state-of-emergency-in-russian-occupied-areas-affected-by-flooding",
+      "word_count": 224
+    },
+    {
+      "abstract": "India will soon be history’s most populous country. But the growth is uneven, and the Himalayan state of Sikkim is offering cash incentives to encourage births.",
+      "byline": {
+        "original": "By Sameer Yasir"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Overcrowded India? This State Is Desperate for More Babies.",
+        "kicker": "",
+        "print_headline": "In Populous India, a State Is Offering Cash to Encourage More Babies"
+      },
+      "_id": "nyt://article/745d952e-2252-5f8b-aa8c-5b25af1cb672",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Sikkim (India)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Birth Rates",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "In Vitro Fertilization",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Population",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Motivation and Incentive Programs",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A woman undergoing an ultrasound at the Newlife Fertility Center in April in Siliguri, India. Although India is set to become the most populous nation on earth, the populations of some regions are shrinking.",
+        "credit": "Smita Sharma for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/10/multimedia/00india-fertility-01-qzcb/00india-fertility-01-qzcb-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/10/multimedia/00india-fertility-01-qzcb/00india-fertility-01-qzcb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2023-05-29T07:00:24Z",
+      "section_name": "World",
+      "snippet": "India will soon be history’s most populous country. But the growth is uneven, and the Himalayan state of Sikkim is offering cash incentives to encourage births.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/745d952e-2252-5f8b-aa8c-5b25af1cb672",
+      "web_url": "https://www.nytimes.com/2023/05/29/world/asia/india-fertility-rate.html",
+      "word_count": 828
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Matthew Mpoke Bigg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The president of Belarus arrives in Moscow, state media says, a day after he denied that he was gravely ill.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c6dea833-ec57-5c6f-9d0f-acf9d1f5a457",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Alexander Lukashenko of Belarus at the Victory Day parade in Moscow earlier this month, in a photo released by Russian state media.",
+        "credit": "Pool photo by Sputnik",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/24/multimedia/24ukraine-briefing-belarus-bjth/24ukraine-briefing-belarus-bjth-articleLarge.jpg",
+          "height": 384,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/24/multimedia/24ukraine-briefing-belarus-bjth/24ukraine-briefing-belarus-bjth-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-05-24T11:24:42Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/c6dea833-ec57-5c6f-9d0f-acf9d1f5a457",
+      "web_url": "https://www.nytimes.com/live/2023/05/24/world/russia-ukraine-news/the-president-of-belarus-departs-for-moscow-state-media-says-a-day-after-he-denied-that-he-was-gravely-ill",
+      "word_count": 234
+    },
+    {
+      "abstract": "Roman Protasevich had been sentenced to eight years in prison. The details of his 2021 arrest drew international attention.",
+      "byline": {
+        "original": "By Matthew Mpoke Bigg and Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Belarus Pardons Opposition Activist Who Was Hauled Off a Ryanair Flight, State Media Says",
+        "kicker": "",
+        "print_headline": "In Belarus, Activist Gets A Pardon"
+      },
+      "_id": "nyt://article/fa8db457-3755-5d5f-baad-49ccc53eedb5",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Lukashenko, Aleksandr G",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Protasevich, Roman",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Sapega, Sofia",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Minsk (Belarus)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The activist Roman Protasevich, center, at a news briefing organized by the Ministry of Foreign Affairs in Minsk, Belarus, in 2021.",
+        "credit": "Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/22/world/22ukraine-briefing-protasevich/22ukraine-briefing-protasevich-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/22/world/22ukraine-briefing-protasevich/22ukraine-briefing-protasevich-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2023-05-22T12:45:49Z",
+      "section_name": "World",
+      "snippet": "Roman Protasevich had been sentenced to eight years in prison. The details of his 2021 arrest drew international attention.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fa8db457-3755-5d5f-baad-49ccc53eedb5",
+      "web_url": "https://www.nytimes.com/2023/05/22/world/europe/belarus-protasevich-activist-pardon.html",
+      "word_count": 445
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anton Troianovski"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russian state media celebrates Bakhmut, with a notable omission.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e34b421f-6ac1-5e2c-ad50-8e0d5981ced7",
+      "keywords": [],
+      "multimedia": {
+        "caption": "An image taken from video released by the press service of Wagner founder Yevgeny V. Prigozhin purports to show him with his fighters in Bakhmut, Ukraine, on Saturday.",
+        "credit": "Prigozhin Press Service, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/21/multimedia/21ukraine-blog-russia-reax-bfwv/21ukraine-blog-russia-reax-bfwv-articleLarge.jpg",
+          "height": 361,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/21/multimedia/21ukraine-blog-russia-reax-bfwv/21ukraine-blog-russia-reax-bfwv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-05-21T11:29:04Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/e34b421f-6ac1-5e2c-ad50-8e0d5981ced7",
+      "web_url": "https://www.nytimes.com/live/2023/05/21/world/russia-ukraine-news/russian-state-media-celebrates-bakhmut-but-with-a-notable-omission",
+      "word_count": 482
+    },
+    {
+      "abstract": "The State Department had no immediate comment on the report that the man, identified as Robert Shonov, had been arrested and charged with conspiracy.",
+      "byline": {
+        "original": "By Daniel Victor"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A former U.S. Embassy employee is being held in Moscow, according to Russia’s state news agency.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7c22acdc-d5e8-580c-8578-8d589c0f1af7",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Lefortovo Prison",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Shonov, Robert",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "An entrance to the Lefortovo Prison in Moscow. Tass, the Russian state news agency, said a former U.S. Embassy employee identified as Robert Shonov was being held there. ",
+        "credit": "Evgenia Novozhenina/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/15/multimedia/15ukraine-briefing-american-detained-vladivostok-01-jwmp/15ukraine-briefing-american-detained-vladivostok-01-jwmp-articleLarge.jpg",
+          "height": 438,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/15/multimedia/15ukraine-briefing-american-detained-vladivostok-01-jwmp/15ukraine-briefing-american-detained-vladivostok-01-jwmp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-05-15T20:32:29Z",
+      "section_name": "World",
+      "snippet": "The State Department had no immediate comment on the report that the man, identified as Robert Shonov, had been arrested and charged with conspiracy.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/7c22acdc-d5e8-580c-8578-8d589c0f1af7",
+      "web_url": "https://www.nytimes.com/2023/05/15/world/europe/robert-shonov-detained-russia-moscow.html",
+      "word_count": 228
+    },
+    {
+      "abstract": "Aleksandr G. Lukashenko, a Kremlin ally, had not been shown since he attended events last week celebrating the Soviet Union’s triumph over Nazi Germany in 1945.",
+      "byline": {
+        "original": "By Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "State news media release a photo of Belarus’s leader amid speculation about his health.",
+        "kicker": "",
+        "print_headline": "Lukashenko Is Absent, And Rumors Are Growing"
+      },
+      "_id": "nyt://article/c1502ab8-80ab-5fff-8f61-38c7c5f09686",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Lukashenko, Aleksandr G",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Minsk (Belarus)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "vis-video",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "President Alexander G. Lukashenko at the Victory Day military parade in Moscow last week, in a photo from Russian state media.",
+        "credit": "Pool photo by Gavriil Grigorov",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/15/multimedia/15ukraine-briefing-lukashenko-wgzf/15ukraine-briefing-lukashenko-wgzf-articleLarge.jpg",
+          "height": 384,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/15/multimedia/15ukraine-briefing-lukashenko-wgzf/15ukraine-briefing-lukashenko-wgzf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2023-05-15T16:40:53Z",
+      "section_name": "World",
+      "snippet": "Aleksandr G. Lukashenko, a Kremlin ally, had not been shown since he attended events last week celebrating the Soviet Union’s triumph over Nazi Germany in 1945.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c1502ab8-80ab-5fff-8f61-38c7c5f09686",
+      "web_url": "https://www.nytimes.com/2023/05/16/world/europe/belarus-president-lukashenko-photo.html",
+      "word_count": 465
+    },
+    {
+      "abstract": "The Commonwealth country has scheduled a referendum in 2024 on whether to cut ties to the British monarchy, opening up a debate on how to reshape the society.",
+      "byline": {
+        "original": "By Emiliano Rodríguez Mega"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Charles is Jamaica’s head of state. The island nation may break with the monarchy next year.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4f510d63-a51a-577f-a0fa-9a0565d4e09d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Jamaica (West Indies)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Royal Families",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Constitutions",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Colonization",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Referendums",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A protest demanding an apology and reparations for slavery in Kingston, Jamaica, last year during a visit by King Charles III’s son Prince William, Prince of Wales, and his wife, Catherine, Princess of Wales.",
+        "credit": "Collin Reid/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/06/multimedia/06charles-coronation-jamaica-cvgz/06charles-coronation-jamaica-cvgz-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/06/multimedia/06charles-coronation-jamaica-cvgz/06charles-coronation-jamaica-cvgz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-05-06T17:07:03Z",
+      "section_name": "World",
+      "snippet": "The Commonwealth country has scheduled a referendum in 2024 on whether to cut ties to the British monarchy, opening up a debate on how to reshape the society.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "briefing",
+      "uri": "nyt://article/4f510d63-a51a-577f-a0fa-9a0565d4e09d",
+      "web_url": "https://www.nytimes.com/2023/05/06/world/americas/jamaica-monarchy-referendum.html",
+      "word_count": 582
+    },
+    {
+      "abstract": "Violence erupted over a question of who gets to claim special tribal status.",
+      "byline": {
+        "original": "By Alex Travelli and Suhasini Raj"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Dozens Killed in Ethnic Clashes in India’s Manipur State",
+        "kicker": "",
+        "print_headline": "India Moves To End Fight After Dozens Are Killed"
+      },
+      "_id": "nyt://article/2ae854ff-d2aa-58e8-93a0-d40ed30edbb8",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Manipur State (India)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Decisions and Verdicts",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A truck burns on Thursday in Imphal, the capital of Manipur state, where there have been days of violence between rival ethnic groups.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/06/multimedia/06india-unrest-zfvb/06india-unrest-zfvb-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/06/multimedia/06india-unrest-zfvb/06india-unrest-zfvb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2023-05-06T14:02:25Z",
+      "section_name": "World",
+      "snippet": "Violence erupted over a question of who gets to claim special tribal status.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/2ae854ff-d2aa-58e8-93a0-d40ed30edbb8",
+      "web_url": "https://www.nytimes.com/2023/05/06/world/asia/ethnic-clashes-indias-manipur-state.html",
+      "word_count": 618
+    },
+    {
+      "abstract": "Zakhar Prilepin, who himself fought in eastern Ukraine, has long advocated an imperialist foreign policy by Moscow.",
+      "byline": {
+        "original": "By Neil MacFarquhar and Anton Troianovski"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Car Bombing Injures Prominent Russian Nationalist Writer, State Media Reports",
+        "kicker": "",
+        "print_headline": "Car Bombing Said to Target Russian Writer"
+      },
+      "_id": "nyt://article/212925d8-7422-594d-9be0-fab4b6a59b8a",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Prilepin, Zakhar",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Writing and Writers",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Nationalism (Theory and Philosophy)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Zakhar Prilepin in 2012.",
+        "credit": "Jeff Pachoud/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/06/multimedia/06russia-bombing-prilepin-01-chgj/06russia-bombing-prilepin-01-chgj-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/06/multimedia/06russia-bombing-prilepin-01-chgj/06russia-bombing-prilepin-01-chgj-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2023-05-06T10:58:56Z",
+      "section_name": "World",
+      "snippet": "Zakhar Prilepin, who himself fought in eastern Ukraine, has long advocated an imperialist foreign policy by Moscow.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/212925d8-7422-594d-9be0-fab4b6a59b8a",
+      "web_url": "https://www.nytimes.com/2023/05/06/world/europe/russia-prilepin-bombing.html",
+      "word_count": 1132
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Natasha Frost"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Australia and New Zealand, the coronation of their new head of state feels a long way away.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/919f1675-4f93-58f5-91f3-10309cbd2c12",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Visitors to Madame Tussauds in Sydney, Australia, interacting with newly unveiled wax figures of King Charles III, Prince William and Catherine, Princess of Wales, on Thursday.",
+        "credit": "Nikki Short/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/06/multimedia/06charles-coronation-oz-nz-kmqt/06charles-coronation-oz-nz-kmqt-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/06/multimedia/06charles-coronation-oz-nz-kmqt/06charles-coronation-oz-nz-kmqt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-05-06T10:16:44Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/919f1675-4f93-58f5-91f3-10309cbd2c12",
+      "web_url": "https://www.nytimes.com/live/2023/05/06/world/coronation-king-charles-uk/in-australia-and-new-zealand-the-coronation-of-their-new-head-of-state-feels-a-long-way-away",
+      "word_count": 667
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anushka Patil and Juston Jones"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A new Navalny trial and a state visit in Washington: What to watch for this week.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cb1da569-a022-54cb-8a18-b998603db59e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The Russian opposition leader Aleksei A. Navalny standing in a defendant’s cage in Babuskinsky District Court in Moscow in 2021.",
+        "credit": "Alexander Zemlianichenko/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/24/multimedia/24ukraine-briefing-week-ahead-1-mcfw/24ukraine-briefing-week-ahead-1-mcfw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/24/multimedia/24ukraine-briefing-week-ahead-1-mcfw/24ukraine-briefing-week-ahead-1-mcfw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-24T05:03:06Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/cb1da569-a022-54cb-8a18-b998603db59e",
+      "web_url": "https://www.nytimes.com/live/2023/04/24/world/ukraine-russia-news/lavrov-at-the-un-a-new-navalny-trial-and-a-state-visit-in-washington-what-to-watch-for-this-week",
+      "word_count": 230
+    },
+    {
+      "abstract": "A public radio station in the city of Szczecin is under fire for helping to identify a 15-year-old sex abuse victim, the son of a local opposition politician, who later killed himself.",
+      "byline": {
+        "original": "By Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Boy’s Suicide in Poland Spurs Backlash Against State Media Tactics",
+        "kicker": "",
+        "print_headline": "A Media Backlash in Poland, Set Off by a Suicide"
+      },
+      "_id": "nyt://article/8906e13c-f987-5513-b3dd-e8e807417e8d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Poland",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Public Broadcasting",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Radio",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Law and Justice (Poland)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Child Abuse and Neglect",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Suicides and Suicide Attempts",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A view of the neighborhood in Szczecin, Poland, where a 15-year-old sex abuse victim who killed himself in March lived.",
+        "credit": "Sergey Ponomarev for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/09/multimedia/09poland-opposition-01-wpjh/09poland-opposition-01-wpjh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/09/multimedia/09poland-opposition-01-wpjh/09poland-opposition-01-wpjh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2023-04-15T14:32:51Z",
+      "section_name": "World",
+      "snippet": "A public radio station in the city of Szczecin is under fire for helping to identify a 15-year-old sex abuse victim, the son of a local opposition politician, who later killed himself.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/8906e13c-f987-5513-b3dd-e8e807417e8d",
+      "web_url": "https://www.nytimes.com/2023/04/15/world/europe/poland-suicide-radio-szczecin.html",
+      "word_count": 1502
+    },
+    {
+      "abstract": "Aleksei Moskalyov, a single father, escaped house arrest in Russia after he was charged with “discrediting” the Russian Army over the war in Ukraine.",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Belarus extradites a Russian father convicted after his daughter drew an antiwar picture, state news media reports.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/507df6d1-18cc-5034-9256-863b7de270e1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Child Custody and Support",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Extradition",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Moskalyov, Aleksei",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Aleksei Moskalyov in a Russian courtroom in March. His case has attracted international attention, in part because it has thrown custody of his daughter into question.",
+        "credit": "Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/28/multimedia/13ukraine-briefing-moskalyov-01/28russia-child-01-ktpg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/28/multimedia/13ukraine-briefing-moskalyov-01/28russia-child-01-ktpg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-13T11:35:20Z",
+      "section_name": "World",
+      "snippet": "Aleksei Moskalyov, a single father, escaped house arrest in Russia after he was charged with “discrediting” the Russian Army over the war in Ukraine.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/507df6d1-18cc-5034-9256-863b7de270e1",
+      "web_url": "https://www.nytimes.com/2023/04/13/world/europe/belarus-russia-extradition-anti-war-picture.html",
+      "word_count": 355
+    },
+    {
+      "abstract": "The finding means that the U.S. government sees the Wall Street Journal reporter as the equivalent of a political hostage.",
+      "byline": {
+        "original": "By Michael Crowley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department declares Evan Gershkovich ‘wrongfully detained’ by Russia.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7ab7004d-2e8c-5f36-b0aa-2c6b307c78a7",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Gershkovich, Evan",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "The Wall Street Journal correspondent Evan Gershkovich in an undated photograph.",
+        "credit": "The Wall Street Journal, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/10/multimedia/10ukraine-briefing-gershkovich0-lbkm/10ukraine-briefing-gershkovich0-lbkm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/10/multimedia/10ukraine-briefing-gershkovich0-lbkm/10ukraine-briefing-gershkovich0-lbkm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-10T20:37:58Z",
+      "section_name": "World",
+      "snippet": "The finding means that the U.S. government sees the Wall Street Journal reporter as the equivalent of a political hostage.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/7ab7004d-2e8c-5f36-b0aa-2c6b307c78a7",
+      "web_url": "https://www.nytimes.com/2023/04/11/world/europe/evan-gershkovich-russia-hostage-detained.html",
+      "word_count": 658
+    },
+    {
+      "abstract": "Evan Gershkovich, a reporter for The Wall Street Journal, was detained last week. The Journal and U.S. officials have vehemently rejected the Russian authorities’ allegations against him.",
+      "byline": {
+        "original": "By Neil MacFarquhar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia formally charges detained American reporter with espionage, according to state media.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c265e316-b39a-585c-be59-d67429cefc3c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Gershkovich, Evan",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Wall Street Journal",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Evan Gershkovich, a Wall Street Journal reporter, being escorted by officers from court to a bus in Moscow on Thursday.",
+        "credit": "Alexander Zemlianichenko/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/07/multimedia/07ukraine-briefing-gershkovich-pzch/07ukraine-briefing-gershkovich-pzch-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/07/multimedia/07ukraine-briefing-gershkovich-pzch/07ukraine-briefing-gershkovich-pzch-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-07T19:32:19Z",
+      "section_name": "World",
+      "snippet": "Evan Gershkovich, a reporter for The Wall Street Journal, was detained last week. The Journal and U.S. officials have vehemently rejected the Russian authorities’ allegations against him.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c265e316-b39a-585c-be59-d67429cefc3c",
+      "web_url": "https://www.nytimes.com/2023/04/07/world/europe/evan-gershkovich-charged-espionage-russia.html",
+      "word_count": 548
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department summoned Russia’s ambassador over the detention of an American reporter.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4a0da5ee-0652-526f-80f8-3f98975ce7d3",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Anatoly Antonov, Russia’s ambassador to the United States, after a visit to the State Department in Washington last month.",
+        "credit": "Patrick Semansky/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/04/multimedia/04ukraine-briefing-antonov-topart-khcg/04ukraine-briefing-antonov-topart-khcg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/04/multimedia/04ukraine-briefing-antonov-topart-khcg/04ukraine-briefing-antonov-topart-khcg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-04T19:23:20Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/4a0da5ee-0652-526f-80f8-3f98975ce7d3",
+      "web_url": "https://www.nytimes.com/live/2023/04/04/world/russia-ukraine-war/the-state-department-summoned-russias-ambassador-over-the-detention-of-an-american-reporter",
+      "word_count": 460
+    },
+    {
+      "abstract": "Despite sanctions and the pandemic, laborers from the country remain abroad, earning desperately needed cash for the regime, according to a new report.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Koreans Trapped in ‘State-Sponsored Slavery’ in Russia",
+        "kicker": "",
+        "print_headline": "North Koreans Trapped  Inside Russia and China Toil for the Government"
+      },
+      "_id": "nyt://article/4af9ef7d-ec2a-577e-a298-3258cd9c261a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "North Korean workers in 2019 waiting for their flight at an airport in Vladivostok, Russia. Under a United Nations Security Council resolution, countries were required to expel all North Korean workers by the end of 2019.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/03/multimedia/03nkorea-humanrights-01-jlpz/03nkorea-humanrights-01-jlpz-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/03/multimedia/03nkorea-humanrights-01-jlpz/03nkorea-humanrights-01-jlpz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2023-04-03T12:41:39Z",
+      "section_name": "World",
+      "snippet": "Despite sanctions and the pandemic, laborers from the country remain abroad, earning desperately needed cash for the regime, according to a new report.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/4af9ef7d-ec2a-577e-a298-3258cd9c261a",
+      "web_url": "https://www.nytimes.com/2023/04/03/world/asia/north-korea-human-rights.html",
+      "word_count": 949
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Vivek Shankar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Poland announces a state visit by Zelensky.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/281ec2e6-d348-5de3-845d-d7275f55daf6",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Volodymyr Zelensky in Izium, Ukraine, last year. He has left the country only a handful of times since the full-scale invasion began.",
+        "credit": "Nicole Tung for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/03/multimedia/03ukraine-briefing-zelensky-poland-bhtl/03ukraine-briefing-zelensky-poland-bhtl-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/03/multimedia/03ukraine-briefing-zelensky-poland-bhtl/03ukraine-briefing-zelensky-poland-bhtl-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-03T09:10:35Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/281ec2e6-d348-5de3-845d-d7275f55daf6",
+      "web_url": "https://www.nytimes.com/live/2023/04/03/world/russia-ukraine-war/poland-announces-a-state-visit-by-zelensky-this-week",
+      "word_count": 326
+    },
+    {
+      "abstract": "Charles and Camilla, the queen consort, visited the Brandenburg Gate in Berlin to start their three-day trip.",
+      "byline": {
+        "original": "By Christopher F. Schuetze and Jenny Gross"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "King Charles Arrives in Germany for First State Visit as Monarch",
+        "kicker": "",
+        "print_headline": "Germans Welcome Charles  In His First Travel as King"
+      },
+      "_id": "nyt://article/c9b87893-1a96-545c-a815-84e5694b1e47",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Charles III, King of the United Kingdom",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Berlin (Germany)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "King Charles III and Camilla, the queen consort, standing with President Frank-Walter Steinmeier of Germany and his wife, Elke Büdenbender, at the Brandenburg Gate on Wednesday.",
+        "credit": "Ronny Hartmann/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/29/multimedia/29xp-charles-germany-02-cmtk/29xp-charles-germany-02-cmtk-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/29/multimedia/29xp-charles-germany-02-cmtk/29xp-charles-germany-02-cmtk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2023-03-29T14:42:49Z",
+      "section_name": "World",
+      "snippet": "Charles and Camilla, the queen consort, visited the Brandenburg Gate in Berlin to start their three-day trip.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c9b87893-1a96-545c-a815-84e5694b1e47",
+      "web_url": "https://www.nytimes.com/2023/03/29/world/europe/king-charles-camilla-visit-germany.html",
+      "word_count": 662
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Constant Méheut"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "For 20 years, Marina Ovsyannikova worked for Russian state TV, but after the invasion of Ukraine she couldn’t keep quiet.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3b96fd5c-d09a-5188-aeab-a06b5d89612e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Marina Ovsyannikova , who used to work as an editor for the Channel One Russia television channel, in Paris this month.",
+        "credit": "Dmitry Kostyukov for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/25/multimedia/25ukraine-briefing-Ovsyannikova-profile-VERSION-lbph/25ukraine-briefing-Ovsyannikova-profile-VERSION-lbph-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/25/multimedia/25ukraine-briefing-Ovsyannikova-profile-VERSION-lbph/25ukraine-briefing-Ovsyannikova-profile-VERSION-lbph-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-03-28T21:07:50Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/3b96fd5c-d09a-5188-aeab-a06b5d89612e",
+      "web_url": "https://www.nytimes.com/live/2023/03/28/world/russia-ukraine-news/for-20-years-marina-ovsyannikova-worked-for-russian-state-tv-but-after-the-invasion-of-ukraine-she-couldnt-keep-quiet",
+      "word_count": 240
+    },
+    {
+      "abstract": "After neo-Nazis appeared at a protest against transgender rights in Melbourne, a local politician was facing expulsion from her party for taking part in the demonstration.",
+      "byline": {
+        "original": "By Natasha Frost"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Australian State Moves to Ban Nazi Salute After Clashes at Rally",
+        "kicker": "",
+        "print_headline": "Australia Moves to Ban Nazi Salute After Transgender Rights Rally"
+      },
+      "_id": "nyt://article/474cf493-8621-5f34-9d1a-d4ca354f2e30",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Victoria (Australia)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Melbourne (Australia)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Fringe Groups and Movements",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Neo Nazi Groups",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Transgender",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Right-Wing Extremism and Alt-Right",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Members of an Australian neo-Nazi group during a rally against transgender rights at Parliament House in Melbourne on Saturday.",
+        "credit": "James Ross/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/20/multimedia/20OZ-NAZIS1-wtqp/20OZ-NAZIS1-wtqp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/20/multimedia/20OZ-NAZIS1-wtqp/20OZ-NAZIS1-wtqp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2023-03-20T13:25:37Z",
+      "section_name": "World",
+      "snippet": "After neo-Nazis appeared at a protest against transgender rights in Melbourne, a local politician was facing expulsion from her party for taking part in the demonstration.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/474cf493-8621-5f34-9d1a-d4ca354f2e30",
+      "web_url": "https://www.nytimes.com/2023/03/20/world/australia/melbourne-nazi-salute.html",
+      "word_count": 841
+    },
+    {
+      "abstract": "The rise of Amritpal Singh, a self-styled preacher, has raised fears of violence in Punjab, where thousands died in the 1980s during a Sikh insurgency.",
+      "byline": {
+        "original": "By Sameer Yasir and Suhasini Raj"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Internet Blocked in Indian State as Security Forces Pursue Separatist",
+        "kicker": "",
+        "print_headline": "Punjab Security Forces Hunt a Sikh Separatist Amid Insurgency Fears"
+      },
+      "_id": "nyt://article/5f5ef2a7-c4ff-599f-8d34-bb1e3352e9ac",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sikhs and Sikhism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Secession and Independence Movements",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Fugitives",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Attacks on Police",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Content Type: Personal Profile",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Singh, Amritpal (1993- )",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Shah, Amit (1964- )",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Punjab (India)",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Police officers outside the home of Amritpal Singh in Jallupur Khera, a village about 30 miles from Amritsar, India. ",
+        "credit": "Narinder Nanu/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/20/multimedia/20india-punjab-01-mvwg/20india-punjab-01-mvwg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/20/multimedia/20india-punjab-01-mvwg/20india-punjab-01-mvwg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2023-03-20T12:27:30Z",
+      "section_name": "World",
+      "snippet": "The rise of Amritpal Singh, a self-styled preacher, has raised fears of violence in Punjab, where thousands died in the 1980s during a Sikh insurgency.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/5f5ef2a7-c4ff-599f-8d34-bb1e3352e9ac",
+      "web_url": "https://www.nytimes.com/2023/03/20/world/asia/india-punjab-internet-shutdown-amritpal-singh.html",
+      "word_count": 852
+    },
+    {
+      "abstract": "The government moved elections scheduled for Saturday back by a week, saying it needed more time to reset digital voting machines at the center of fraud accusations.",
+      "byline": {
+        "original": "By Elian Peltier and Oladeinde Olawoyin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Nigeria Postpones State Elections Amid Presidential Vote Controversy",
+        "kicker": "",
+        "print_headline": "Nigeria Delays State Elections by a Week Amid Presidential Vote Controversy"
+      },
+      "_id": "nyt://article/5beae3b2-08f9-582c-b9dd-842e215f2412",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Nigeria",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Voter Fraud (Election Fraud)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Voting Machines",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Tinubu, Bola Ahmed",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Obi, Peter (1961- )",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Abubakar, Atiku",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A campaign billboard for a Lagos governor candidate on Tuesday. Nigeria’s election commission is postponing the election for 28 of the country’s 36 state governors.",
+        "credit": "Pius Utomi Ekpei/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/09/multimedia/09nigeria-1-kltq/09nigeria-1-kltq-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/09/multimedia/09nigeria-1-kltq/09nigeria-1-kltq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2023-03-09T21:25:04Z",
+      "section_name": "World",
+      "snippet": "The government moved elections scheduled for Saturday back by a week, saying it needed more time to reset digital voting machines at the center of fraud accusations.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/5beae3b2-08f9-582c-b9dd-842e215f2412",
+      "web_url": "https://www.nytimes.com/2023/03/09/world/africa/nigeria-state-elections.html",
+      "word_count": 896
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Tiffany May"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.S. orders the seizure of a Boeing jet linked to a Russian state-controlled oil company.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/81284332-8fdb-5d7d-9982-65f5b88c0505",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The headquarters of Rosneft in Moscow.",
+        "credit": "Kirill Kudryavtsev/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/09/multimedia/09ukraine-briefing-warrant-rosneft-qthf/09ukraine-briefing-warrant-rosneft-qthf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/09/multimedia/09ukraine-briefing-warrant-rosneft-qthf/09ukraine-briefing-warrant-rosneft-qthf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-03-09T08:29:45Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/81284332-8fdb-5d7d-9982-65f5b88c0505",
+      "web_url": "https://www.nytimes.com/live/2023/03/09/world/russia-ukraine-news/the-us-orders-the-seizure-of-a-boeing-jet-linked-to-a-russian-state-controlled-oil-company",
+      "word_count": 253
+    },
+    {
+      "abstract": "This is the first time a paper trail has emerged to prove definitively that the Mexican military spied on citizens who were trying to expose its misdeeds.",
+      "byline": {
+        "original": "By Natalie Kitroeff and Ronen Bergman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Spying by Mexico’s Armed Forces Brings Fears of a ‘Military State’",
+        "kicker": "",
+        "print_headline": "Spying by Mexico Raises Fears of ‘Military State’"
+      },
+      "_id": "nyt://article/ec397432-9cac-5aac-b09a-15702347c3a6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Surveillance of Citizens by Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Police Brutality, Misconduct and Shootings",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Ramos, Raymundo (Activist)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Lopez Obrador, Andres Manuel",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "NSO Group",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Nuevo Laredo (Mexico)",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Citizen Lab",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Amit Elkayam for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/07/multimedia/07mexico-spying-PROMO/07mexico-spying-01-mtpv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/07/multimedia/07mexico-spying-PROMO/07mexico-spying-01-mtpv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2023-03-07T14:12:10Z",
+      "section_name": "World",
+      "snippet": "This is the first time a paper trail has emerged to prove definitively that the Mexican military spied on citizens who were trying to expose its misdeeds.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/ec397432-9cac-5aac-b09a-15702347c3a6",
+      "web_url": "https://www.nytimes.com/2023/03/07/world/americas/mexico-military-surveillance.html",
+      "word_count": 1297
+    },
+    {
+      "abstract": "Britain’s new monarch and his wife, Camilla, the queen consort, will attend state banquets in Paris and Berlin later this month.",
+      "byline": {
+        "original": "By Jenny Gross"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "King Charles Will Travel to France and Germany for First State Visits",
+        "kicker": "",
+        "print_headline": "King Charles Plans Visits  To Germany  And France"
+      },
+      "_id": "nyt://article/14a0f430-f301-5a14-9810-91c061f50c49",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Charles III, King of the United Kingdom",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Macron, Emmanuel (1977- )",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Steinmeier, Frank-Walter",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "King Charles III last month. He will make his first state visits since becoming king to France and Germany.",
+        "credit": "Chris Jackson/Chris Jackson Collection, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/03/multimedia/03xp-charles-lzcp/03xp-charles-lzcp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/03/multimedia/03xp-charles-lzcp/03xp-charles-lzcp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2023-03-03T15:52:27Z",
+      "section_name": "World",
+      "snippet": "Britain’s new monarch and his wife, Camilla, the queen consort, will attend state banquets in Paris and Berlin later this month.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/14a0f430-f301-5a14-9810-91c061f50c49",
+      "web_url": "https://www.nytimes.com/2023/03/03/world/europe/king-charles-france-germany-visit.html",
+      "word_count": 393
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael D. Shear"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Biden will be stating values, not jousting with Putin, a top adviser says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/40d1bc15-8bb7-555e-923c-e7fe0d4b285f",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Biden on a train after a surprise visit to Kyiv, Ukraine, on Monday.",
+        "credit": "Pool photo by Evan Vucci",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-biden-preview-chpt/21ukraine-blog-biden-preview-chpt-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-biden-preview-chpt/21ukraine-blog-biden-preview-chpt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-02-21T11:19:39Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/40d1bc15-8bb7-555e-923c-e7fe0d4b285f",
+      "web_url": "https://www.nytimes.com/live/2023/02/21/world/russia-biden-putin-ukraine-war/biden-will-be-stating-values-not-jousting-with-putin-a-top-adviser-says",
+      "word_count": 513
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Valerie Hopkins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "On Russian state TV, Biden’s visit is cast as a political stunt.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bfdf319c-c4f8-5ec8-81f5-657624d51f5c",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Biden with President Volodymyr Zelensky of Ukraine in Kyiv on Monday.",
+        "credit": "Daniel Berehulak/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20ukraine-briefing-russian-tv/20ukraine-briefing-BIDEN-lchf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20ukraine-briefing-russian-tv/20ukraine-briefing-BIDEN-lchf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-02-20T14:21:25Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/bfdf319c-c4f8-5ec8-81f5-657624d51f5c",
+      "web_url": "https://www.nytimes.com/live/2023/02/20/world/russia-ukraine-war/on-russian-state-tv-bidens-visit-is-cast-as-a-political-stunt",
+      "word_count": 325
+    },
+    {
+      "abstract": "Attributed in Syria to Israel, the strike appeared to be the latest episode of a long-running conflict between Israel and Iranian proxies.",
+      "byline": {
+        "original": "By Patrick Kingsley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Syrian State Media Reports a Deadly Strike in Damascus",
+        "kicker": "",
+        "print_headline": "Syrian State Media Reports Deadly Strike in Damascus"
+      },
+      "_id": "nyt://article/e79800f5-e08d-5db5-be9b-7ed35404ae49",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Damascus (Syria)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Turkey Earthquake (Feb 6, 2023)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Syrian Observatory for Human Rights",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Syrian security forces members inspecting a building damaged in a missile strike on Sunday in Damascus, Syria.",
+        "credit": "Louai Beshara/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19syria-airstrikes3-zpkq/19syria-airstrikes3-zpkq-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19syria-airstrikes3-zpkq/19syria-airstrikes3-zpkq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2023-02-19T02:29:39Z",
+      "section_name": "World",
+      "snippet": "Attributed in Syria to Israel, the strike appeared to be the latest episode of a long-running conflict between Israel and Iranian proxies.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/e79800f5-e08d-5db5-be9b-7ed35404ae49",
+      "web_url": "https://www.nytimes.com/2023/02/18/world/middleeast/damascus-syria-airstrikes.html",
+      "word_count": 630
+    },
+    {
+      "abstract": "The cyclone, which caused severe flooding and cut power to 225,000 residents, was “the most significant weather event New Zealand has seen this century,” Prime Minister Chris Hipkins said.",
+      "byline": {
+        "original": "By Michael Levenson and Judson Jones"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New Zealand, Battered by Cyclone Gabrielle, Declares State of Emergency",
+        "kicker": "",
+        "print_headline": "New Zealand  Declares A Rare State Of Emergency"
+      },
+      "_id": "nyt://article/9d9bb4b1-8bd3-58a4-b0f7-1ec32d7abfeb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Power Failures and Blackouts",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Rain",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Floods",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Cyclones",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Weather",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Hipkins, Chris",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Auckland (New Zealand)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Christchurch (New Zealand)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "New Zealand",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Flooding in Napier, on the North Island of New Zealand, after Cyclone Gabrielle.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16nz-cyclone-01-jtzp/16nz-cyclone-01-jtzp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16nz-cyclone-01-jtzp/16nz-cyclone-01-jtzp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2023-02-14T22:01:23Z",
+      "section_name": "World",
+      "snippet": "The cyclone, which caused severe flooding and cut power to 225,000 residents, was “the most significant weather event New Zealand has seen this century,” Prime Minister Chris Hipkins said.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/9d9bb4b1-8bd3-58a4-b0f7-1ec32d7abfeb",
+      "web_url": "https://www.nytimes.com/2023/02/14/world/australia/new-zealand-cyclone-gabrielle.html",
+      "word_count": 620
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Gulsin Harman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A state of emergency goes into effect for 10 Turkish provinces affected by the quake, Erdogan says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a141146c-6d6c-5624-b6ad-aa3576efbf1a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Search and rescue operations in Hatay Province, Turkey, on Wednesday.",
+        "credit": "Sergey Ponomarev for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/02/09/multimedia/09turkey-quake-turkey-emergency-01-jtbz/09turkey-quake-turkey-emergency-01-jtbz-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/02/09/multimedia/09turkey-quake-turkey-emergency-01-jtbz/09turkey-quake-turkey-emergency-01-jtbz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-02-09T11:08:31Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/a141146c-6d6c-5624-b6ad-aa3576efbf1a",
+      "web_url": "https://www.nytimes.com/live/2023/02/09/world/turkey-syria-earthquake/a-state-of-emergency-goes-into-effect-for-10-turkish-provinces-affected-by-the-quake",
+      "word_count": 222
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Gulsin Harman and Cora Engelbrecht"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Erdogan declares a state of emergency in 10 provinces affected by the quake.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4a6a83ae-a270-5bbd-a5f3-6c7be6b665ab",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Recep Tayyip Erdogan of Turkey in Ankara on Monday, in a photo released by the presidential press office.",
+        "credit": "Presidential Press Office, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/02/07/multimedia/07turkey-quake-erdogan-state-of-emergency-qpcv/07turkey-quake-erdogan-state-of-emergency-qpcv-articleLarge.jpg",
+          "height": 392,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/02/07/multimedia/07turkey-quake-erdogan-state-of-emergency-qpcv/07turkey-quake-erdogan-state-of-emergency-qpcv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-02-07T13:16:17Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/4a6a83ae-a270-5bbd-a5f3-6c7be6b665ab",
+      "web_url": "https://www.nytimes.com/live/2023/02/08/world/turkey-syria-earthquake/erdogan-declares-a-state-of-emergency-in-10-provinces-affected-by-the-quake",
+      "word_count": 279
+    },
+    {
+      "abstract": "Recent efforts by Beijing to mend ties with Washington were showing progress, but the balloon’s appearance over the United States illustrates lingering mistrust and growing tensions.",
+      "byline": {
+        "original": "By David Pierson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Balloon Incident Highlights Fragile State of U.S.-China Relationship",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ee5b664b-6aa1-5360-a4a4-5aaab70b7c5b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Asia Society",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Brookings Institution",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Fudan University",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Blinken, Antony J",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Liu He (1952- )",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Wang Yi",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Qin Gang (1966- )",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Montana",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Antony J. Blinken, right, in July with China’s foreign minister at the time, Wang Yi, in Bali, Indonesia.",
+        "credit": "Pool photo by Stefani Reynolds",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/02/04/multimedia/04china-balloon-01-blzp/04china-balloon-01-blzp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/02/04/multimedia/04china-balloon-01-blzp/04china-balloon-01-blzp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-02-04T07:04:49Z",
+      "section_name": "World",
+      "snippet": "Recent efforts by Beijing to mend ties with Washington were showing progress, but the balloon’s appearance over the United States illustrates lingering mistrust and growing tensions.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/ee5b664b-6aa1-5360-a4a4-5aaab70b7c5b",
+      "web_url": "https://www.nytimes.com/2023/02/04/world/asia/balloon-china-united-states.html",
+      "word_count": 1152
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Crowley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The State Department says corruption cases in Ukraine don’t appear to involve U.S. aid.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/aed24107-91e7-5c45-bc53-05ed62bd47e5",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Equipment and defensive munitions provided by the United States at an airport in Boryspil, Ukraine, last January.",
+        "credit": "Brendan Hoffman for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24ukraine-briefing-corruption-us-zpqf/24ukraine-briefing-corruption-us-zpqf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24ukraine-briefing-corruption-us-zpqf/24ukraine-briefing-corruption-us-zpqf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-01-24T20:58:31Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/aed24107-91e7-5c45-bc53-05ed62bd47e5",
+      "web_url": "https://www.nytimes.com/live/2023/01/24/world/russia-ukraine-news/state-department-says-corruption-cases-in-ukraine-do-not-appear-to-involve-us-aid",
+      "word_count": 341
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Matthew Mpoke Bigg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine urges the U.N.’s atomic watchdog to impose sanctions on Russia’s state nuclear firm.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ef997541-7458-5fc8-b5d5-80258b8fb5b4",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Rafael Mariano Grossi, the director of the International Atomic Energy Agency, right, at a nuclear power plant near the city of Yuzhnoukrainsk, Ukraine, on Monday.",
+        "credit": "Nacho Doce/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18ukraine-briefing-nuclear-kjfz/18ukraine-briefing-nuclear-kjfz-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18ukraine-briefing-nuclear-kjfz/18ukraine-briefing-nuclear-kjfz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-01-19T10:00:18Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/ef997541-7458-5fc8-b5d5-80258b8fb5b4",
+      "web_url": "https://www.nytimes.com/live/2023/01/19/world/russia-ukraine-news/ukraine-urges-the-uns-atomic-watchdog-to-impose-sanctions-on-russias-state-nuclear-firm",
+      "word_count": 440
+    },
+    {
+      "abstract": "The department will use the Turkish-language spelling in “most formal, diplomatic, and bilateral contexts” after a request from the country’s embassy, a spokesman said.",
+      "byline": {
+        "original": "By Christine Chung"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "For the State Department, Now It’s Türkiye, Not Turkey",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b9bfa528-3985-5154-93d0-f6a8a2c66720",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Names, Geographical",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Spelling",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Language and Languages",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "President Recep Tayyip Erdogan of Turkey has publicly opposed the use of the Anglicized spelling for his country and has pushed for the rest of the world to use its Turkish-language name.",
+        "credit": "Murat Kula/Anadolu Agency, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/01/05/multimedia/05xp-Turkiye/05xp-Turkiye-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/01/05/multimedia/05xp-Turkiye/05xp-Turkiye-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-01-05T21:42:50Z",
+      "section_name": "World",
+      "snippet": "The department will use the Turkish-language spelling in “most formal, diplomatic, and bilateral contexts” after a request from the country’s embassy, a spokesman said.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/b9bfa528-3985-5154-93d0-f6a8a2c66720",
+      "web_url": "https://www.nytimes.com/2023/01/05/world/middleeast/turkey-spelling-change.html",
+      "word_count": 428
+    },
+    {
+      "abstract": "Yevgeny Prigozhin, the head of the Wagner paramilitary group, is seen in a video congratulating men for completing their military contracts.",
+      "byline": {
+        "original": "By Anatoly Kurmanaev and Alina Lobzina"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia issues the first pardons to prisoners who fought in Ukraine, state media reports.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b58d6d60-8f7d-54ee-936f-286acfe2d129",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Prigozhin, Yevgeny V",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Wagner Group",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Mercenaries and Private Military Contractors",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A pro-military poster near the Wagner Group’s headquarters in St. Petersburg, Russia, in November.",
+        "credit": "Olga Maltseva/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/01/05/multimedia/05ukraine-briefing-wagner-1-7507/05ukraine-briefing-wagner-1-7507-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/01/05/multimedia/05ukraine-briefing-wagner-1-7507/05ukraine-briefing-wagner-1-7507-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-01-05T14:05:14Z",
+      "section_name": "World",
+      "snippet": "Yevgeny Prigozhin, the head of the Wagner paramilitary group, is seen in a video congratulating men for completing their military contracts.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b58d6d60-8f7d-54ee-936f-286acfe2d129",
+      "web_url": "https://www.nytimes.com/2023/01/05/world/europe/russia-pardon-prisoners-ukraine-wagner.html",
+      "word_count": 498
+    }
+  ]
+}

@@ -1,0 +1,3649 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20170101",
+    "end_date": "20171231",
+    "fq": "(headline.default:(\"report\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 54,
+  "docs": [
+    {
+      "abstract": "Canada’s ethics commissioner found that Prime Minister Justin Trudeau should not have accepted a vacation on a private island owned by the billionaire.",
+      "byline": {
+        "original": "By Ian Austen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trudeau Holiday on Aga Khan’s Island Broke Ethics Law, Report Says",
+        "kicker": "",
+        "print_headline": "Trudeau Vacation Broke Ethics Law, Report Says"
+      },
+      "_id": "nyt://article/7ca1fd24-207b-56b1-8abb-e7b5a945ec75",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Gifts to Public Officials",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Liberal Party (Canada)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Aga Khan, Karim",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trudeau, Justin",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Justin Trudeau with the Aga Khan last year in Ottawa. Whether they were personal friends was a pivotal question in an ethics inquiry.",
+        "credit": "Sean Kilpatrick/The Canadian Press, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/12/21/world/21trudeau/21trudeau-articleLarge.jpg",
+          "height": 452,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/12/21/world/21trudeau/21trudeau-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-12-20T23:18:40Z",
+      "section_name": "World",
+      "snippet": "Canada’s ethics commissioner found that Prime Minister Justin Trudeau should not have accepted a vacation on a private island owned by the billionaire.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/7ca1fd24-207b-56b1-8abb-e7b5a945ec75",
+      "web_url": "https://www.nytimes.com/2017/12/20/world/canada/trudeau-aga-khan.html",
+      "word_count": 866
+    },
+    {
+      "abstract": "Nguyen Van Hoa was convicted of spreading information about the discharge that killed marine life and sickened people along a 120-mile stretch of coastline.",
+      "byline": {
+        "original": "By Richard C. Paddock"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Vietnamese Blogger Gets 7 Years in Jail for Reporting on Toxic Spill",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9d061fd7-5075-5cee-b271-8bb2fd5975ef",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Vietnam",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Hazardous and Toxic Substances",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Water Pollution",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Blogs and Blogging (Internet)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Fish and Other Marine Life",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Formosa Ha Tinh Steel Corp",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Formosa Plastics",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Nguyen Van Hoa at his trial in Ha Tinh, Vietnam, on Monday. He was convicted of spreading anti-state propaganda for producing videos and writing about protests over an environmental disaster.",
+        "credit": "Cong Tuong/Vietnam News Agency, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/28/world/28Vietnam/28Vietnam-articleLarge.jpg",
+          "height": 390,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/28/world/28Vietnam/28Vietnam-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-11-27T15:29:23Z",
+      "section_name": "World",
+      "snippet": "Nguyen Van Hoa was convicted of spreading information about the discharge that killed marine life and sickened people along a 120-mile stretch of coastline.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9d061fd7-5075-5cee-b271-8bb2fd5975ef",
+      "web_url": "https://www.nytimes.com/2017/11/27/world/asia/vietnam-nguyen-van-hoa-blogger.html",
+      "word_count": 377
+    },
+    {
+      "abstract": "After CNN reported that migrants had been sold at auction, Secretary General António Guterres said the acts depicted “may amount to crimes against humanity.”",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Chief ‘Horrified’ by Report of Libya Slave Auction",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4533586b-a01b-5b87-8cbc-53c0686264ab",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Guterres, Antonio",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Middle East and Africa Migrant Crisis",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Libya",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Refugees in the courtyard of a United Nations refugee agency building in Niamey, Niger, on Friday, after they were evacuated from Libya.",
+        "credit": "Sia Kambou/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/21/world/21Libya/21Libya-articleLarge.jpg",
+          "height": 410,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/21/world/21Libya/21Libya-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-11-20T17:42:10Z",
+      "section_name": "World",
+      "snippet": "After CNN reported that migrants had been sold at auction, Secretary General António Guterres said the acts depicted “may amount to crimes against humanity.”",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/4533586b-a01b-5b87-8cbc-53c0686264ab",
+      "web_url": "https://www.nytimes.com/2017/11/20/world/middleeast/libya-slave-auction-un.html",
+      "word_count": 340
+    },
+    {
+      "abstract": "Human Rights Watch found that the raping of Rohingya Muslim women and girls was even more widespread than earlier suspected.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Rohingya Were Raped Systematically by Myanmar’s Military, Report Says",
+        "kicker": "",
+        "print_headline": "Epidemic Of Rapes On Rohingya"
+      },
+      "_id": "nyt://article/e10817e4-3f74-5762-9ce4-1f1f8f821063",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Human Rights Watch",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Myanmar",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Rohingya (Ethnic Group)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Rakhine State (Myanmar)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Rohingya Muslims in Bangladesh in September, after fleeing Myanmar. Human Rights Watch, which interviewed Rohingya women and girls in refugee camps, said almost all of the rapes they reported were gang rapes.",
+        "credit": "Adam Dean for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/17/world/17rohingya-1/17rohingya-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/17/world/17rohingya-1/17rohingya-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-11-16T05:01:19Z",
+      "section_name": "World",
+      "snippet": "Human Rights Watch found that the raping of Rohingya Muslim women and girls was even more widespread than earlier suspected.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e10817e4-3f74-5762-9ce4-1f1f8f821063",
+      "web_url": "https://www.nytimes.com/2017/11/16/world/asia/myanmar-rohingya-rapes.html",
+      "word_count": 592
+    },
+    {
+      "abstract": "A judge had issued international warrants for the five members of Mr. Puigdemont’s now-deposed government, all of whom were in Belgium.",
+      "byline": {
+        "original": "By Milan Schreuer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Puigdemont and Other Catalonia Separatists Report to Belgian Police",
+        "kicker": "",
+        "print_headline": "Facing Warrant, Ex-Leader of Catalonia Is Cooperating With the Belgian Police"
+      },
+      "_id": "nyt://article/3a6611cb-819b-5886-8fe2-baba33d61c4b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Secession and Independence Movements",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Puigdemont, Carles (1962- )",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Belgium",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Catalonia (Spain)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Spain",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The deposed Catalan leader, Carles Puigdemont, and other former officials at a news conference in Brussels last month.",
+        "credit": "Aurore Belot/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/06/world/06puigdemont-1/06puigdemont-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/06/world/06puigdemont-1/06puigdemont-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-11-05T14:05:21Z",
+      "section_name": "World",
+      "snippet": "A judge issued international warrants for Carles Puigdemont and four members of his now-deposed government, all of whom were in Belgium.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3a6611cb-819b-5886-8fe2-baba33d61c4b",
+      "web_url": "https://www.nytimes.com/2017/11/05/world/europe/carles-puigdemont-brussels-arrest.html",
+      "word_count": 411
+    },
+    {
+      "abstract": "The American military command in Afghanistan has redacted key figures about the growth and progress of local security forces from this report by the special inspector general for Afghanistan reconstruction.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "Read the Latest Report by the Watchdog for Afghanistan Reconstruction",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/c2ab92a9-569f-5864-bd79-1e38e7d1f49d",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/30/world/asia/image-sigar-october-2017-report/image-sigar-october-2017-report-articleLarge.gif",
+          "height": 782,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/30/world/asia/image-sigar-october-2017-report/image-sigar-october-2017-report-thumbStandard.gif",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-10-31T00:08:01Z",
+      "section_name": "World",
+      "snippet": "The American military command in Afghanistan has redacted key figures about the growth and progress of local security forces from this report by the special inspector general for Afghanistan reconstruction.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/c2ab92a9-569f-5864-bd79-1e38e7d1f49d",
+      "web_url": "https://www.nytimes.com/interactive/2017/10/30/world/asia/document-sigar-october-2017-report.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "Key figures on the progress of local security forces, compiled by the government’s spending watchdog, were classified only once before in nine years.",
+      "byline": {
+        "original": "By Thomas Gibbons-Neff"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Afghan War Data, Once Public, Is Censored in U.S. Military Report",
+        "kicker": "",
+        "print_headline": "U.S. Military  To Conceal Afghan War Statistics"
+      },
+      "_id": "nyt://article/24b9c378-9ca5-5b43-a771-c157fcb8e5ba",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Afghan National Security Forces",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Sopko, John F",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Defense Department",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Special Inspector General for Afghanistan Reconstruction",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Afghan commandos training on the outskirts of Kabul. Among the details redacted are the number of people in the Afghan National Army and police force, and how many have been wounded or killed.",
+        "credit": "Shah Marai/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/31/us/31dc-military/31dc-military-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/31/us/31dc-military/31dc-military-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-10-31T00:01:22Z",
+      "section_name": "World",
+      "snippet": "Key figures on the progress of local security forces, compiled by the government’s spending watchdog, were classified only once before in nine years.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/24b9c378-9ca5-5b43-a771-c157fcb8e5ba",
+      "web_url": "https://www.nytimes.com/2017/10/30/world/asia/afghanistan-war-redacted-report.html",
+      "word_count": 674
+    },
+    {
+      "abstract": "The report said the Syrian government was behind a chemical attack in April on the opposition-held town of Khan Sheikhoun.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Syria Rejects U.N. Report Blaming It for Sarin Attack",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a6f351f3-9eef-530f-96f2-8084c0036beb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Biological and Chemical Warfare",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Security Council (UN)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-10-27T20:52:13Z",
+      "section_name": "World",
+      "snippet": "The report said the Syrian government was behind a chemical attack in April on the opposition-held town of Khan Sheikhoun.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a6f351f3-9eef-530f-96f2-8084c0036beb",
+      "web_url": "https://www.nytimes.com/2017/10/27/world/middleeast/syria-rejects-un-report-blaming-it-for-sarin-attack.html",
+      "word_count": 175
+    },
+    {
+      "abstract": "An Interior Ministry inquiry began after the release of a critical Human Rights Watch survey on the treatment of migrants in Calais.",
+      "byline": {
+        "original": "By Elian Peltier"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "French Government Report Hints at Police Misconduct in Calais",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fba70cea-e6a5-52ff-95aa-8ab857e0a4d5",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Calais (France)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Macron, Emmanuel (1977- )",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Human Rights Watch",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Middle East and Africa Migrant Crisis",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Young migrants waited in Calais, France, in August. A 70-page report published Monday by France’s Interior Ministry hints at the disproportionate use of force against migrants.",
+        "credit": "Philippe Huguen/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/26/world/26france1/26france1-articleLarge.jpg",
+          "height": 407,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/26/world/26france1/26france1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-10-25T23:11:20Z",
+      "section_name": "World",
+      "snippet": "An Interior Ministry inquiry began after the release of a critical Human Rights Watch survey on the treatment of migrants in Calais.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fba70cea-e6a5-52ff-95aa-8ab857e0a4d5",
+      "web_url": "https://www.nytimes.com/2017/10/25/world/europe/france-migrants-calais-police.html",
+      "word_count": 782
+    },
+    {
+      "abstract": "A finding gave weight to theories of skulduggery tied to the 1961 crash of the plane carrying the United Nations chief Dag Hammarskjold.",
+      "byline": {
+        "original": "By Alan Cowell and Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Theory That Hammarskjold Plane Was Downed Is Bolstered by U.N. Report",
+        "kicker": "",
+        "print_headline": "U.N. Report Backs Theory ’61 Plane Crash Was an Attack"
+      },
+      "_id": "nyt://article/d689010d-6522-5688-8d22-0df42403444f",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Hammarskjold, Dag",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Classified Information and State Secrets",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Aviation Accidents, Safety and Disasters",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Congo, Democratic Republic of (Congo-Kinshasa)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Dag Hammarskjold, secretary general of the United Nations, in 1953. The cause of the 1961 plane crash in which he died remains one of the 20th century’s most enduring mysteries.",
+        "credit": "Sam Falk/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/26/world/26nations-1sub/26nations-1sub-articleLarge.jpg",
+          "height": 685,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/26/world/26nations-1sub/26nations-1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-10-25T14:08:05Z",
+      "section_name": "World",
+      "snippet": "A finding gave weight to theories of skulduggery tied to the 1961 crash of the plane carrying the United Nations chief Dag Hammarskjold.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/d689010d-6522-5688-8d22-0df42403444f",
+      "web_url": "https://www.nytimes.com/2017/10/25/world/africa/un-hammarskjold-crash.html",
+      "word_count": 964
+    },
+    {
+      "abstract": "The number of such violations climbed by about 30 percent, although part of the rise was attributed to increased awareness and changes in the law.",
+      "byline": {
+        "original": "By Kimiko de Freytas-Tamura"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.K. Reports Big Rise in Hate Crime, Citing Brexit and Terrorist Attacks",
+        "kicker": "",
+        "print_headline": "U.K. Reports  Big Increase In Hate Crime In Past Year"
+      },
+      "_id": "nyt://article/db7762a1-210c-5cf5-a136-04adf31bbbde",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Hate Crimes",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Manchester Arena Bombing (May, 2017)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "London Attacks (June, 2017)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Great Britain Withdrawal from EU (Brexit)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A candlelight memorial to victims of the terrorist attack in Manchester, England, in May.",
+        "credit": "Andrew Testa for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/18/world/18britain/18britain-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/18/world/18britain/18britain-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2017-10-17T16:21:16Z",
+      "section_name": "World",
+      "snippet": "The rise has been fueled by terrorism and by the referendum on British membership in the E.U., officials said, though it was also partly attributed to increased awareness and changes in the law.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/db7762a1-210c-5cf5-a136-04adf31bbbde",
+      "web_url": "https://www.nytimes.com/2017/10/17/world/europe/uk-hate-crime-brexit-attacks.html",
+      "word_count": 679
+    },
+    {
+      "abstract": "The government revealed that one of its national security contractors was extensively hacked last year.",
+      "byline": {
+        "original": "By Adam Baidawi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Australian Cybersecurity Report Shows Gaps in Private Companies’ Defenses",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3a37ee11-e915-5ecd-9a4f-430b52ea9f80",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Cyberwarfare and Defense",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Computers and the Internet",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Cyberattacks and Hackers",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Computer Security",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Extortion and Blackmail",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A security operation center at Telstra, the Australian telecommunications company. A report on Tuesday detailed the prevalence of cyberattacks against private companies in Australia.",
+        "credit": "Tom Westbrook/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/11/world/11oz-cyber-1sub/11oz-cyber-1sub-articleLarge.jpg",
+          "height": 406,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/11/world/11oz-cyber-1sub/11oz-cyber-1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-10-10T10:32:13Z",
+      "section_name": "World",
+      "snippet": "The government revealed that one of its national security contractors was extensively hacked last year.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/3a37ee11-e915-5ecd-9a4f-430b52ea9f80",
+      "web_url": "https://www.nytimes.com/2017/10/10/world/australia/cybersecurity-data-breach.html",
+      "word_count": 756
+    },
+    {
+      "abstract": "Investigators are looking into reports that around 10 tribe members died when they were set upon by gold miners.",
+      "byline": {
+        "original": "By Shasta Darlington"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘Uncontacted’ Amazon Tribe Members Reported Killed in Brazil",
+        "kicker": "",
+        "print_headline": "Remote Tribe Members Reported Killed in Brazil"
+      },
+      "_id": "nyt://article/5d69bc1f-d39f-502f-ae1c-45dcf0aa1a28",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Amazon Jungle",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Brazil",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Temer, Michel (1940- )",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Javari Valley (Brazil)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Land Use Policies",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Indigenous People",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Members of an uncontacted tribe in Brazil in 2008. Indigenous groups in the Amazon are under increasing threat.",
+        "credit": "Funai/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/09/17/insider/11brazil/11brazil-articleLarge.jpg",
+          "height": 370,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/09/17/insider/11brazil/11brazil-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-09-10T22:51:45Z",
+      "section_name": "World",
+      "snippet": "Around 10 tribe members died when they were set upon by gold miners.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/5d69bc1f-d39f-502f-ae1c-45dcf0aa1a28",
+      "web_url": "https://www.nytimes.com/2017/09/10/world/americas/brazil-amazon-tribe-killings.html",
+      "word_count": 847
+    },
+    {
+      "abstract": "Although inspectors are expected to certify Iranian compliance, President Trump wants out of the nuclear deal, making his allies and advisers uneasy.",
+      "byline": {
+        "original": "By Gardiner Harris"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "If Report Says Iran Is Abiding by Nuclear Deal, Will Trump Heed It?",
+        "kicker": "",
+        "print_headline": "Trump’s Vow to Scrap Nuclear Deal May Have a Hitch: A Compliant Iran"
+      },
+      "_id": "nyt://article/b4276441-343a-5eb9-9e35-3b015c57fa19",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "International Atomic Energy Agency",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "President Hassan Rouhani of Iran, center, said that his country’s nuclear program could be restarted in a matter of hours if the American government imposed further sanctions on Tehran.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/28/world/28dc-iran/merlin-to-scoop-126183329-255659-articleLarge.jpg",
+          "height": 407,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/28/world/28dc-iran/28dc-iran-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-08-27T20:16:29Z",
+      "section_name": "World",
+      "snippet": "Although inspectors are expected to certify Iranian compliance, President Trump wants out of the nuclear deal, making his allies and advisers uneasy.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/b4276441-343a-5eb9-9e35-3b015c57fa19",
+      "web_url": "https://www.nytimes.com/2017/08/27/world/middleeast/if-report-says-iran-is-abiding-by-nuclear-deal-will-trump-heed-it.html",
+      "word_count": 1130
+    },
+    {
+      "abstract": "A Russian television station said two cybersecurity officials had been accused of helping the United States, but not of meddling in the 2016 election, as suspected.",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russians Arrested on Treason Charges Helped U.S. Catch Hacker, Report Says",
+        "kicker": "",
+        "print_headline": "Two Russians, One Hacker And a Riddle For the U.S."
+      },
+      "_id": "nyt://article/a9b00df9-0402-5faf-b888-9324fff10b83",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Federal Security Service",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-08-25T18:46:43Z",
+      "section_name": "World",
+      "snippet": "A Russian television station said two cybersecurity officials had been accused of helping the United States, but not of meddling in the 2016 election, as suspected.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/a9b00df9-0402-5faf-b888-9324fff10b83",
+      "web_url": "https://www.nytimes.com/2017/08/25/world/europe/russians-arrested-on-treason-charges-helped-us-catch-hacker-report-says.html",
+      "word_count": 498
+    },
+    {
+      "abstract": "The Navy on Tuesday released a partially redacted report on the investigation of the collision in June between the American destroyer Fitzgerald and the ACX Crystal that resulted in the death of seven sailors.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "Read the Report on the U.S.S. Fitzgerald Collision",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/8d9f3a22-8f24-5c72-880d-52ae563d7694",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/17/us/navy-doc-viewer/navy-doc-viewer-articleLarge.png",
+          "height": 727,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/17/us/navy-doc-viewer/navy-doc-viewer-thumbStandard.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-08-17T21:52:41Z",
+      "section_name": "World",
+      "snippet": "The Navy on Tuesday released a partially redacted report on the investigation of the collision in June between the American destroyer Fitzgerald and the ACX Crystal that resulted in the death of seven sailors.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/8d9f3a22-8f24-5c72-880d-52ae563d7694",
+      "web_url": "https://www.nytimes.com/interactive/2017/08/17/world/asia/document-navy-report-on-uss-fitzgerald.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "The vote over the weekend was part of a government plan to consolidate power. But the turnout was altered by at least one million votes, the company says.",
+      "byline": {
+        "original": "By Nicholas Casey"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Venezuela Reported False Election Turnout, Voting Company Says",
+        "kicker": "",
+        "print_headline": "Venezuelan Officials Reported  False Tally in Vote, Firm Says"
+      },
+      "_id": "nyt://article/ba72ae0e-01dc-5933-96e5-a385ea14218c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Voting and Voters",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Maduro, Nicolas",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Voter Fraud (Election Fraud)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A polling station in Caracas, Venezuela, on Sunday. The company that provided the voting software accused the government of manipulating the turnout figures.",
+        "credit": "Meridith Kohut for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/03/world/03Venezuela/03Venezuela-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/03/world/03Venezuela/03Venezuela-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-08-02T15:49:42Z",
+      "section_name": "World",
+      "snippet": "The election over the weekend was part of an ambitious plan by the government to consolidate power.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/ba72ae0e-01dc-5933-96e5-a385ea14218c",
+      "web_url": "https://www.nytimes.com/2017/08/02/world/americas/venezuela-election-turnout.html",
+      "word_count": 797
+    },
+    {
+      "abstract": "Prime Minister Hun Sen accused the group, Agape International Missions, of exaggerating the extent of sex trafficking in a report featured by CNN.",
+      "byline": {
+        "original": "By Julia Wallace"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Cambodian Leader Orders U.S. Charity Shut Down Over Sex Trade Report",
+        "kicker": "",
+        "print_headline": "Cambodian Leader Orders U.S. Charity Out Over CNN Report on Sex Trade"
+      },
+      "_id": "nyt://article/2e1ff49e-17c9-5b0f-a37f-e6107e33ef44",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Human Trafficking",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Agape International Missions",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Svay Pak (Cambodia)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Hun Sen",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Cambodia",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "CNN",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Hun Sen in Phnom Penh, Cambodia, in June. On Tuesday, he ordered Agape International Missions, which works to rescue women and children sold into the sex trade, to leave the country.",
+        "credit": "Samrang Pring/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/02/world/02Cambodia/02Cambodia-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/02/world/02Cambodia/02Cambodia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-08-01T16:21:55Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Hun Sen accused the group, Agape International Missions, of exaggerating the extent of sex trafficking in a report featured by CNN.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/2e1ff49e-17c9-5b0f-a37f-e6107e33ef44",
+      "web_url": "https://www.nytimes.com/2017/08/01/world/asia/cambodia-sex-cnn-ngo.html",
+      "word_count": 764
+    },
+    {
+      "abstract": "A report released by Australia’s Human Rights Commission found that half of university students had been sexually harassed recently and that 7 percent were assaulted.",
+      "byline": {
+        "original": "By Jacqueline Williams"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Alarming Levels of Sexual Violence Found on Australian Campuses, Report Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ea216275-506c-568d-b9c2-e424120ec823",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Colleges and Universities",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "From left, Margaret Gardner, the chairwoman of Universities Australia; Sophie Johnston, the president of the National Union of Students; and Kate Jenkins, Australia’s sex discrimination commissioner, at a news conference on Tuesday.",
+        "credit": "David Moir/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/02/world/02ozassault-1/02ozassault-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/02/world/02ozassault-1/02ozassault-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-08-01T02:52:43Z",
+      "section_name": "World",
+      "snippet": "Australia’s Human Rights Commission found that half of university students had been sexually harassed recently.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/ea216275-506c-568d-b9c2-e424120ec823",
+      "web_url": "https://www.nytimes.com/2017/07/31/world/australia/shocking-levels-of-sexual-violence-found-on-australian-campuses-report-says.html",
+      "word_count": 1064
+    },
+    {
+      "abstract": "Two men were arrested in connection with two attacks on a 14-year-old in Birmingham, but one was released after being questioned, the police said.",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Man Is Charged After Girl Reports Being Raped Twice in One Night",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cc8d9e8a-00d7-52bb-ae0d-ff1f18d6d6a2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Birmingham (England)",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-07-29T20:03:20Z",
+      "section_name": "World",
+      "snippet": "Two men were arrested in connection with two attacks on a 14-year-old in Birmingham, but one was released after being questioned, the police said.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/cc8d9e8a-00d7-52bb-ae0d-ff1f18d6d6a2",
+      "web_url": "https://www.nytimes.com/2017/07/29/world/europe/uk-girl-raped-twice-birmingham.html",
+      "word_count": 290
+    },
+    {
+      "abstract": "The missile test is likely to infuriate President Trump but is not prohibited under the 2015 nuclear agreement between Iran and a group of six nations led by the United States.",
+      "byline": {
+        "original": "By Thomas Erdbrink"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran Reports Successful Launch of Missile as U.S. Considers New Sanctions",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8f98b92b-f792-5dca-a509-a3c1d6d60468",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "House of Representatives",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A Simorgh satellite-carrying missile being launched from an undisclosed site in Iran on Thursday, according to the Iranian Defense Ministry.",
+        "credit": "Iranian Defense Ministry, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/07/28/world/28Iran-sub/28Iran-sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/07/28/world/28Iran-sub/28Iran-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-07-27T18:55:26Z",
+      "section_name": "World",
+      "snippet": "The missile test is likely to infuriate President Trump.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/8f98b92b-f792-5dca-a509-a3c1d6d60468",
+      "web_url": "https://www.nytimes.com/2017/07/27/world/middleeast/iran-reports-successful-launch-of-missile-as-us-considers-new-sanctions.html",
+      "word_count": 489
+    },
+    {
+      "abstract": "The attack in March killed more than 40 people when a helicopter fired on a boat of migrants fleeing the fighting in Yemen.",
+      "byline": {
+        "original": "By Somini Sengupta"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Report Says Saudi-Led Coalition Attacked Migrant Boat Off Yemen",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/de8fea89-49b3-5cb8-b5b5-2f323c1f1789",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Yemen",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "United Arab Emirates",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Somalia",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-07-27T01:52:08Z",
+      "section_name": "World",
+      "snippet": "The attack in March killed more than 40 people when a helicopter fired on a boat of migrants fleeing the fighting in Yemen.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/de8fea89-49b3-5cb8-b5b5-2f323c1f1789",
+      "web_url": "https://www.nytimes.com/2017/07/26/world/middleeast/saudi-arabia-yemen-somalia-united-nations-migrants-boat.html",
+      "word_count": 586
+    },
+    {
+      "abstract": "The severe dry spell has raised fears of worsening food shortages in the North, where malnutrition has been a problem for years.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Agency Reports Worst Drought in 16 Years in North Korea",
+        "kicker": "",
+        "print_headline": "U.N. Agency Reports the Worst Drought in 16 Years in North Korea"
+      },
+      "_id": "nyt://article/7762551b-ccd2-58d7-befc-fe11a1cfe0a3",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Drought",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Famine",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Food and Agriculture Organization of the United Nations",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Moon Jae-in",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Farmers in Sangwon, North Korea, on Thursday. The production of staple crops for this year has been severely damaged by prolonged dry spells, a United Nations agency said.",
+        "credit": "Wong Maye-E/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/07/22/world/22nkorea-1/22nkorea-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/07/22/world/22nkorea-1/22nkorea-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-07-21T11:04:31Z",
+      "section_name": "World",
+      "snippet": "The severe dry spell has raised fears of worsening food shortages.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/7762551b-ccd2-58d7-befc-fe11a1cfe0a3",
+      "web_url": "https://www.nytimes.com/2017/07/21/world/asia/north-korea-drought-food-shortages-grain.html",
+      "word_count": 806
+    },
+    {
+      "abstract": "The Islamic State’s central command in Syria has sent tens of thousands of dollars to groups that seized a southern Philippine city, a research group said.",
+      "byline": {
+        "original": "By Jon Emont and Felipe Villamor"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS’ Core Helps Fund Militants in Philippines, Report Says",
+        "kicker": "",
+        "print_headline": "Report Shows Reach of ISIS In Philippines"
+      },
+      "_id": "nyt://article/8357f189-fb12-50ae-b4be-d263aacb4c2a",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Marawi (Philippines)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Indonesia",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Maute Group",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Institute for Policy Analysis of Conflict",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Philippine troops evacuating civilians this month from Marawi, a southern city that was seized by militants aligned with the Islamic State.",
+        "credit": "Jorge Silva/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/07/22/world/21philippines-1/21philippines-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/07/22/world/21philippines-1/21philippines-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-07-21T03:40:02Z",
+      "section_name": "World",
+      "snippet": "The Islamic State’s central command in Syria has sent tens of thousands of dollars to groups that seized a southern Philippine city, a research group said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/8357f189-fb12-50ae-b4be-d263aacb4c2a",
+      "web_url": "https://www.nytimes.com/2017/07/20/world/asia/philippines-isis-marawi-duterte.html",
+      "word_count": 916
+    },
+    {
+      "abstract": "The Organization for the Prohibition of Chemical Weapons concluded that the nerve agent sarin or a similar poison had been used in the April 4 attack.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Report Confirms That Chemical Arms Were Used on Syrian Villagers",
+        "kicker": "",
+        "print_headline": "Study Affirms Use of Gas In Syria Town"
+      },
+      "_id": "nyt://article/6903f418-b297-560b-99f3-833e07c0a3dd",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Biological and Chemical Warfare",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Haley, Nikki R",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Victims of the chemical attack on the rebel-held Syrian village of Khan Sheikhoun in April. The monitoring group that polices the chemical arms ban treaty concluded Thursday that sarin nerve agent or a similar poison was used in the attack.",
+        "credit": "Edlib Media Center, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/06/30/world/30SYRIACHEMICAL/30SYRIACHEMICAL-articleLarge.jpg",
+          "height": 448,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/06/30/world/30SYRIACHEMICAL/30SYRIACHEMICAL-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2017-06-30T00:22:45Z",
+      "section_name": "World",
+      "snippet": "A watchdog group concluded that the nerve agent sarin or a similar poison had been used in the April attack.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/6903f418-b297-560b-99f3-833e07c0a3dd",
+      "web_url": "https://www.nytimes.com/2017/06/29/world/middleeast/syria-sarin-chemical-weapons-united-nations.html",
+      "word_count": 483
+    },
+    {
+      "abstract": "The United Nations’ human rights chief, Zeid Ra’ad al-Hussein, said even babies had been mutilated by a government-linked militia and insurgents.",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. to Investigate Reports of Government-Backed Slaughter in Congo",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9d715af1-c883-58c0-a4fb-18864379e0ec",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Congo, Democratic Republic of (Congo-Kinshasa)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations Human Rights Council",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-06-23T21:44:08Z",
+      "section_name": "World",
+      "snippet": "The United Nations’ human rights chief, Zeid Ra’ad al-Hussein, said even babies had been mutilated by a government-linked militia and insurgents.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/9d715af1-c883-58c0-a4fb-18864379e0ec",
+      "web_url": "https://www.nytimes.com/2017/06/23/world/africa/congo-united-nations-human-rights-council.html",
+      "word_count": 656
+    },
+    {
+      "abstract": "A new report accuses a former archbishop of Canterbury of helping a former bishop, Peter Ball, cover up his assaults on young men and boys over a 15-year period.",
+      "byline": {
+        "original": "By Dan Bilefsky"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Church of England ‘Colluded’ With Bishop to Hide Sex Abuse, Report Says",
+        "kicker": "",
+        "print_headline": "Report Says Church Hid Serial Abuse By Bishop"
+      },
+      "_id": "nyt://article/23b01673-8609-5f77-9a87-f8bc42648b7c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Child Abuse and Neglect",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Church of England",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "The Most. Rev. Justin Welby, the archbishop of Canterbury, asked Lord Carey to resign from his position with the Diocese of Oxford after a report on sexual abuse within the Church of England.",
+        "credit": "Chris Ratcliffe/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/06/23/world/23abuse1/23abuse1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/06/23/world/23abuse1/23abuse1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-06-22T17:01:07Z",
+      "section_name": "World",
+      "snippet": "A new report accuses a former archbishop of Canterbury of helping a former bishop, Peter Ball, cover up his assaults on young men and boys over a 15-year period.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/23b01673-8609-5f77-9a87-f8bc42648b7c",
+      "web_url": "https://www.nytimes.com/2017/06/22/world/europe/church-of-england-colluded-with-bishop-to-hide-sex-abuse-report-says.html",
+      "word_count": 723
+    },
+    {
+      "abstract": "The report by Brazil’s equivalent to the F.B.I. has intensified pressure on President Temer as he struggles to push austerity measures through Congress.",
+      "byline": {
+        "original": "By Dom Phillips"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Report by Brazilian Police Ties Michel Temer to Bribery Scheme",
+        "kicker": "",
+        "print_headline": "Police Report Says Brazil’s President Probably Benefited From Bribery Scheme"
+      },
+      "_id": "nyt://article/6543b761-d018-5200-9b2b-1c7d6ad02d1b",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Brazil",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Temer, Michel (1940- )",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Bribery and Kickbacks",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "President Michel Temer of Brazil in Moscow on Tuesday. He has repeatedly and vociferously denied all allegations against him.",
+        "credit": "Sergei Chirikov/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/06/21/world/21brazil1-web/21brazil1-web-articleLarge.jpg",
+          "height": 434,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/06/21/world/21brazil1-web/21brazil1-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-06-21T03:11:35Z",
+      "section_name": "World",
+      "snippet": "The report by Brazil’s equivalent to the F.B.I. has intensified pressure on President Temer as he struggles to push austerity measures through Congress.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/6543b761-d018-5200-9b2b-1c7d6ad02d1b",
+      "web_url": "https://www.nytimes.com/2017/06/20/world/americas/brazil-temer-bribery-accusation-graft-scandals.html",
+      "word_count": 672
+    },
+    {
+      "abstract": "Japan’s Coast Guard is now investigating an inaccuracy in the timeline of the crash, in which seven United States sailors were killed.",
+      "byline": {
+        "original": "By Makiko Inoue"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Japan Says Deadly Ship Collision Happened Earlier Than Reported",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a26523ab-a505-5d4c-b96d-7df242460547",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "USS Fitzgerald (DDG-62) (Ship)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Maritime Accidents and Safety",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "United States Navy",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The damaged U.S.S. Fitzgerald being towed by a tugboat in the waters near the United States naval base in Yokosuka, southwest of Tokyo, after it collided with a Philippine-registered container ship, ACX Crystal, in the waters off the Izu Peninsula.",
+        "credit": "Eugene Hoshiko/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/06/20/world/20Ship/20Ship-articleLarge.jpg",
+          "height": 425,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/06/20/world/20Ship/20Ship-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-06-19T12:36:40Z",
+      "section_name": "World",
+      "snippet": "Japan’s Coast Guard is now investigating the inaccuracy in the timeline of the crash, in which seven United States sailors were killed.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/a26523ab-a505-5d4c-b96d-7df242460547",
+      "web_url": "https://www.nytimes.com/2017/06/19/world/asia/ship-navy-collision-uss-fitzgerald-japan.html",
+      "word_count": 266
+    },
+    {
+      "abstract": "Video taken by Ali Arkady and shared with the news network appears to show uniformed Iraqi soldiers beating Iraqi civilians.",
+      "byline": {
+        "original": "By Liam Stack"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Journalist’s Footage Shows Iraqi Forces Torturing Civilians, ABC Report Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/15a96489-9d33-5d7d-869e-d4dabd855fd4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Torture",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "ABC News",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A screenshot from the investigation from the ABC News website.",
+        "credit": "ABC News",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/26/world/00xp-iraqvideos/00xp-iraqvideos-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/26/world/00xp-iraqvideos/00xp-iraqvideos-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-05-26T16:16:47Z",
+      "section_name": "World",
+      "snippet": "Video taken by Ali Arkady and shared with the news network appears to show uniformed Iraqi forces beating Iraqi civilians.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/15a96489-9d33-5d7d-869e-d4dabd855fd4",
+      "web_url": "https://www.nytimes.com/2017/05/26/world/middleeast/iraqi-special-forces-execution.html",
+      "word_count": 807
+    },
+    {
+      "abstract": "A Foreign Ministry spokeswoman would not confirm or deny a New York Times report that more than a dozen C.I.A. informants were killed or imprisoned.",
+      "byline": {
+        "original": "By Austin Ramzy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "After Report on Killings of C.I.A. Sources, China Asserts Right to Defend Itself",
+        "kicker": "",
+        "print_headline": "Accused of Crippling C.I.A., China Cites Right to Defense"
+      },
+      "_id": "nyt://article/83a79463-3cd5-5407-9027-0f47ebe34678",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "New York Times",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Global Times",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Central Intelligence Agency",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The Great Hall of the People in Beijing. A Foreign Ministry spokeswoman would not confirm or deny a New York Times report that for two years starting in 2010, China killed or imprisoned more than a dozen C.I.A. sources, crippling United States intelligence gathering there.",
+        "credit": "Aly Song/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/23/world/23chinaspy1/23chinaspy1-articleLarge.jpg",
+          "height": 393,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/23/world/23chinaspy1/23chinaspy1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-05-22T20:43:52Z",
+      "section_name": "World",
+      "snippet": "A Foreign Ministry spokeswoman would not confirm or deny a New York Times report that more than a dozen C.I.A. informants were killed or imprisoned.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/83a79463-3cd5-5407-9027-0f47ebe34678",
+      "web_url": "https://www.nytimes.com/2017/05/22/world/asia/china-cia-espionage-response.html",
+      "word_count": 420
+    },
+    {
+      "abstract": "The White House released a declassified four-page report that details United States intelligence on the chemical weapons attack, asserting that the Syrian and Russian governments have sought to confuse the world community about the assault through disinformation and “false narratives.”",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "interactive",
+      "headline": {
+        "main": "Declassified U.S. Report on Chemical Weapons Attack",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://interactive/0200a493-da75-52e5-a50c-4938a73295b4",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/11/world/middleeast/image-Syria-Chemical-Weapons-Report-White-House/image-Syria-Chemical-Weapons-Report-White-House-articleLarge.gif",
+          "height": 776,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/11/world/middleeast/image-Syria-Chemical-Weapons-Report-White-House/image-Syria-Chemical-Weapons-Report-White-House-thumbStandard.gif",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-04-11T17:35:05Z",
+      "section_name": "World",
+      "snippet": "The White House released a declassified four-page report that details United States intelligence on the chemical weapons attack, asserting that the Syrian and Russian governments have sought to confuse the world community about the assault through disinformation and “false narratives.”",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Interactive Feature",
+      "uri": "nyt://interactive/0200a493-da75-52e5-a50c-4938a73295b4",
+      "web_url": "https://www.nytimes.com/interactive/2017/04/11/world/middleeast/document-Syria-Chemical-Weapons-Report-White-House.html",
+      "word_count": 0
+    },
+    {
+      "abstract": "After President Xi Jinping went to Mar-a-Lago, Chinese state-controlled news outlets offered some hints about how the visit was perceived back home.",
+      "byline": {
+        "original": "By Javier C. Hernández"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "What Chinese News Reports Tell Us About Beijing’s View of Trump",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ea5f0de0-4769-5601-a81e-cdc3b6a2e2fa",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "vis-multimedia",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A photo of Mr. Trump slouching and Mr. Xi sitting upright at a meeting in Florida ricocheted across Chinese news media.",
+        "credit": "People’s Daily",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/08/world/asia/xxchina_media1/xxchina_media1-articleLarge.png",
+          "height": 475,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/08/world/asia/xxchina_media1/xxchina_media1-thumbStandard.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-04-08T17:07:28Z",
+      "section_name": "World",
+      "snippet": "After President Xi Jinping went to Mar-a-Lago, Chinese state-controlled news outlets offered some hints about how the visit was perceived back home.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/ea5f0de0-4769-5601-a81e-cdc3b6a2e2fa",
+      "web_url": "https://www.nytimes.com/2017/04/08/world/asia/china-trump-xi-jinping.html",
+      "word_count": 578
+    },
+    {
+      "abstract": "The turnaround will be driven in part by the fact that the world’s Christian population is relatively old, while the Muslim population is younger and concentrated in regions with high fertility rates.",
+      "byline": {
+        "original": "By Niraj Chokshi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Muslim Babies Likely to Outnumber Others by 2035, Report Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/648036a1-14ff-5308-abaf-234ba8fcef10",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Population",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Religion and Belief",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Christians and Christianity",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Pew Research Center",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Eritrean Orthodox Christian pilgrims baptized a baby in the West Bank in January.",
+        "credit": "Abir Sultan/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/06/us/06xp-pew/06xp-pew-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/06/us/06xp-pew/06xp-pew-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-04-05T14:24:42Z",
+      "section_name": "World",
+      "snippet": "The turnaround will be driven in part by the fact that the world’s Christian population is relatively old, while the Muslim population is younger and concentrated in regions with high fertility rates.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/648036a1-14ff-5308-abaf-234ba8fcef10",
+      "web_url": "https://www.nytimes.com/2017/04/05/world/muslim-christian-babies-pew-report.html",
+      "word_count": 644
+    },
+    {
+      "abstract": "The group will send a fact-finding mission to investigate claims of killings, rapes and other abuses perpetrated against Rohingya Muslims by Myanmar’s army.",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Rights Council to Investigate Reports of Atrocities in Myanmar",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8d501f66-5694-5db0-8a9b-4bc46ccb40bb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Rohingya (Ethnic Group)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations Human Rights Council",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Myanmar",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "The ruins of a house in Rakhine State in western Myanmar in December.",
+        "credit": "Nyien Chan Naing/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/25/world/25Myanmar2/25Myanmar2-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/25/world/25Myanmar2/25Myanmar2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-03-24T16:02:53Z",
+      "section_name": "World",
+      "snippet": "The group will send a fact-finding mission to investigate claims of killings, rapes and other abuses perpetrated against Rohingya Muslims by Myanmar’s army.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/8d501f66-5694-5db0-8a9b-4bc46ccb40bb",
+      "web_url": "https://www.nytimes.com/2017/03/24/world/asia/myanmar-rakhine-rohingya-un-rights-council.html",
+      "word_count": 742
+    },
+    {
+      "abstract": "The diplomat, Rima Khalaf of Jordan, defended the report in the face of outrage from Israel and the United States.",
+      "byline": {
+        "original": "By Rick Gladstone and Somini Sengupta"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Diplomat Behind Report Accusing Israel of Apartheid Quits",
+        "kicker": "",
+        "print_headline": "Official Quits U.N. Post Over Report"
+      },
+      "_id": "nyt://article/0d4d7e0d-ad3e-599f-a848-3bd2ce21a04d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Guterres, Antonio",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Haley, Nikki R",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Khalaf, Rima",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The Palestinian ambassador to Lebanon, Ashraf Dabbour, left, helped Rima Khalaf put on a traditional Palestinian scarf after she announced her resignation from the United Nations in Beirut.",
+        "credit": "Jamal Saidi/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/18/world/18nations/18nations-articleLarge.jpg",
+          "height": 451,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/18/world/18nations/18nations-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-03-18T00:19:11Z",
+      "section_name": "World",
+      "snippet": "The diplomat, Rima Khalaf of Jordan, defended the report in the face of outrage from Israel and the United States.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/0d4d7e0d-ad3e-599f-a848-3bd2ce21a04d",
+      "web_url": "https://www.nytimes.com/2017/03/17/world/middleeast/un-rima-khalaf-quits-israel-apartheid.html",
+      "word_count": 840
+    },
+    {
+      "abstract": "The military said that it had carried out an airstrike against Qaeda militants, killing a number of them, and that a nearby mosque was still standing.",
+      "byline": {
+        "original": "By Michael R. Gordon and Hwaida Saad"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Military Denies Reports It Bombed Mosque in Syria",
+        "kicker": "",
+        "print_headline": "U.S. Says It Struck Qaeda Extremists in Syria, Not a Mosque"
+      },
+      "_id": "nyt://article/6830e958-4b14-518b-ae5f-534e8f42c4fc",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Mosques",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Al Qaeda",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "United States Central Command",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Volunteers digging through the rubble of a mosque in the village of Al-Jinah in Syria’s Aleppo Province late Thursday.",
+        "credit": "Omar Haj Kadour/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/18/world/17Military/17Military-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/18/world/17Military/17Military-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-03-17T03:30:03Z",
+      "section_name": "World",
+      "snippet": "The military said it had carried out an airstrike against Qaeda militants, killing a number of them, and that a nearby mosque was still standing.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/6830e958-4b14-518b-ae5f-534e8f42c4fc",
+      "web_url": "https://www.nytimes.com/2017/03/16/world/middleeast/us-military-denies-reports-it-bombed-mosque-in-syria.html",
+      "word_count": 585
+    },
+    {
+      "abstract": "A United Nations commission’s report led to furious denunciations by Israel and the United States, and the secretary general distanced himself from it.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Tempest at U.N. Over Report Saying Israel Practices Apartheid",
+        "kicker": "",
+        "print_headline": "Tempest at U.N. Over Report Accusing Israel of Apartheid Against Palestinians"
+      },
+      "_id": "nyt://article/dafa8f0c-812e-5893-a666-a9047614cabb",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Haley, Nikki R",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Discrimination",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A Palestinian boy herds his sheep on a field near the West Bank city of Jenin.",
+        "credit": "Alaa Badarneh/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/16/world/16apartheid-1489618736993/16apartheid-1489618736993-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/16/world/16apartheid-1489618736993/16apartheid-1489618736993-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-03-15T23:38:54Z",
+      "section_name": "World",
+      "snippet": "A United Nations commission’s report led to furious denunciations by Israel and the United States, and the secretary general distanced himself from it.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/dafa8f0c-812e-5893-a666-a9047614cabb",
+      "web_url": "https://www.nytimes.com/2017/03/15/world/middleeast/un-israel-palestine-apartheid.html",
+      "word_count": 872
+    },
+    {
+      "abstract": "The rush to place children in new facilities after a fire killed 40 girls at a children’s home put them at risk of more abuse because the new centers were unprepared, an advocacy group says.",
+      "byline": {
+        "original": "By Elisabeth Malkin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Children Who Survived Fire in Guatemala Are Still Not Safe, Report Says",
+        "kicker": "",
+        "print_headline": "Child Survivors of Fire Still Unsafe, Group Says"
+      },
+      "_id": "nyt://article/4056fe30-2d96-5a6d-9124-6eb9ebb43155",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Child Abuse and Neglect",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Intellectual Disabilities",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Abuse of the Disabled",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Disability Rights International",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Guatemala",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "People carried the coffin containing the remains of Madelyn Patricia Hernandez Hernandez, 14, who died in a fire at the Virgen de la Asunción children’s home near Guatemala City.",
+        "credit": "Moises Castillo/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/15/world/15Guatemala1/15Guatemala1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/15/world/15Guatemala1/15Guatemala1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-03-15T07:00:18Z",
+      "section_name": "World",
+      "snippet": "The rush to place children in new facilities after a fire killed 40 girls at a children’s home put them at risk of more abuse because the new centers were unprepared, an advocacy group says.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/4056fe30-2d96-5a6d-9124-6eb9ebb43155",
+      "web_url": "https://www.nytimes.com/2017/03/15/world/americas/guatemala-fire-home-children-disabilities-report.html",
+      "word_count": 684
+    },
+    {
+      "abstract": "Bilal Abdul Kareem, an African-American from Mount Vernon, N.Y., has interviewed jihadists and covered the siege of Aleppo from inside the city.",
+      "byline": {
+        "original": "By Ben Hubbard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Reporting From Syria, an American With a Point of View and a Message",
+        "kicker": "The Saturday Profile",
+        "print_headline": "An American in Syria, Offering a Window on Jihad"
+      },
+      "_id": "nyt://article/c1c79047-ccb3-56a5-a111-6c5283cea39e",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Abdul Kareem, Bilal",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Al Nusra Front",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Al Qaeda",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Mr. Abdul Kareem reporting in Aleppo, Syria.",
+        "credit": "On the Ground News ",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/10/world/jihadijournalist2/jihadijournalist2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/10/world/jihadijournalist2/jihadijournalist2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-03-10T14:30:15Z",
+      "section_name": "World",
+      "snippet": "Bilal Abdul Kareem, an African-American from Mount Vernon, N.Y., has interviewed jihadists and covered the siege of Aleppo from inside the city.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/c1c79047-ccb3-56a5-a111-6c5283cea39e",
+      "web_url": "https://www.nytimes.com/2017/03/10/world/middleeast/reporting-from-syria-an-american-with-a-point-of-view-and-a-message.html",
+      "word_count": 1367
+    },
+    {
+      "abstract": "Staffan de Mistura, the United Nations envoy, said talks in Geneva had produced a “clear agenda” for the first time to resolve the six-year-old war.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Syria Mediator Reports Some Progress in Peace Talks",
+        "kicker": "",
+        "print_headline": "Progress Is Reported in Talks on Syria"
+      },
+      "_id": "nyt://article/1bbefbc0-197a-51f6-8f09-7d921eb7ce8a",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "de Mistura, Staffan",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Syrians in the rebel-held town of Douma, on the eastern outskirts of the capital, Damascus, last week.",
+        "credit": "Abd Doumany/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/04/world/04Syria/04Syria-articleLarge.jpg",
+          "height": 396,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/04/world/04Syria/04Syria-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-03-04T00:35:23Z",
+      "section_name": "World",
+      "snippet": "Staffan de Mistura, the United Nations envoy, said talks in Geneva had produced a “clear agenda” for the first time to resolve the six-year-old war.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/1bbefbc0-197a-51f6-8f09-7d921eb7ce8a",
+      "web_url": "https://www.nytimes.com/2017/03/03/world/middleeast/syria-civil-war-un-talks-mediator-assad.html",
+      "word_count": 616
+    },
+    {
+      "abstract": "The government has long denounced articles by Western news organizations as biased and dishonest, but Beijing has now adopted a very Western term to describe them.",
+      "byline": {
+        "original": "By Javier C. Hernández"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China’s Response to Reports of Torture: ‘Fake News’",
+        "kicker": "",
+        "print_headline": "China’s Response to Reports of Man’s Torture: ‘Fake News’"
+      },
+      "_id": "nyt://article/242bfea7-d02a-5fdb-9ed0-077e3faa2730",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Rumors and Misinformation",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Torture",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "People's Daily",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Xinhua",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Xie Yang",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-03-03T13:28:58Z",
+      "section_name": "World",
+      "snippet": "The government has long denounced articles by Western news organizations as biased and dishonest, but Beijing has now adopted a very Western term to describe them.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/242bfea7-d02a-5fdb-9ed0-077e3faa2730",
+      "web_url": "https://www.nytimes.com/2017/03/03/world/asia/china-fake-news-xie.html",
+      "word_count": 604
+    },
+    {
+      "abstract": "Documents indicate that Germany spied on the phones, faxes or emails of several foreign news organizations, Der Spiegel reported.",
+      "byline": {
+        "original": "By Alison Smale"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Germany’s Intelligence Service Spied on Journalists, Report Says",
+        "kicker": "",
+        "print_headline": "Report Says Germany Monitored Journalists"
+      },
+      "_id": "nyt://article/cd5dfef5-e0da-56f1-972c-7de94f436b71",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Surveillance of Citizens by Government",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Federal Intelligence Service (Germany)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Der Spiegel",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2017-02-25T19:57:41Z",
+      "section_name": "World",
+      "snippet": "Documents indicate that Germany spied on the phones, faxes or emails of several foreign news organizations, Der Spiegel reported.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/cd5dfef5-e0da-56f1-972c-7de94f436b71",
+      "web_url": "https://www.nytimes.com/2017/02/25/world/europe/germany-bnd-surveillance-der-spiegel.html",
+      "word_count": 522
+    },
+    {
+      "abstract": "The CNN channel had broadcast a report linking the country’s vice president and others to a passport scheme at its embassy in Iraq.",
+      "byline": {
+        "original": "By Nicholas Casey"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Venezuela Blocks CNN en Español Over Report on Passport Fraud",
+        "kicker": "",
+        "print_headline": "Venezuela Blocks CNN After Report"
+      },
+      "_id": "nyt://article/05faae8d-8947-5968-8fdc-0dfaa8141688",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "CNN en Espanol",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "CNN",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Frauds and Swindling",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "University students marching on Wednesday in Caracas against President Nicolás Maduro, demanding early elections and protesting the country’s economic and political crisis.",
+        "credit": "Federico Parra/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/16/world/16Venez/16Venez-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/16/world/16Venez/16Venez-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "17",
+      "print_section": "A",
+      "pub_date": "2017-02-16T01:10:08Z",
+      "section_name": "World",
+      "snippet": "The CNN channel had broadcast a report linking the country’s vice president and others to a passport scheme at its embassy in Iraq.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/05faae8d-8947-5968-8fdc-0dfaa8141688",
+      "web_url": "https://www.nytimes.com/2017/02/15/world/americas/venezuela-cnn-tareck-el-aissami-maduro-sanctions.html",
+      "word_count": 550
+    },
+    {
+      "abstract": "Soon after, President Trump said on Twitter that Crimea had been taken by Russia during the Obama administration, asking if his predecessor had been too soft.",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia Dismisses Reports That Trump Aides Had Contact With Intelligence Agents",
+        "kicker": "",
+        "print_headline": "Russia Dismisses Report of Ties to Trump’s Aides"
+      },
+      "_id": "nyt://article/a05dc617-c0d2-5c61-99b5-a36eac26848d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "The Kremlin’s spokesman, Dmitri S. Peskov, in New York in November. He denied outright that Michael T. Flynn had discussed sanctions with the Russian ambassador to Washington.",
+        "credit": "Misha Friedman for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/16/world/16Russia/16Russia-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/16/world/16Russia/16Russia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "18",
+      "print_section": "A",
+      "pub_date": "2017-02-15T14:17:35Z",
+      "section_name": "World",
+      "snippet": "Soon after, President Trump said on Twitter that Crimea had been taken by Russia during the Obama administration, asking if his predecessor had been too soft.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/a05dc617-c0d2-5c61-99b5-a36eac26848d",
+      "web_url": "https://www.nytimes.com/2017/02/15/world/europe/russia-intelligence-trump.html",
+      "word_count": 1006
+    },
+    {
+      "abstract": "The North Korean leader’s estranged half brother, Kim Jong-nam, was said to have been poisoned by two women.",
+      "byline": {
+        "original": "By Choe Sang-Hun and Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kim Jong-un’s Half Brother Is Reported Assassinated in Malaysia",
+        "kicker": "",
+        "print_headline": "New Victim of Palace Intrigue: Kim Jong-un’s Half Brother"
+      },
+      "_id": "nyt://article/6afef5c2-f71b-5255-b93e-6c8bc9a1fda1",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Kim Jong-nam",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Malaysia",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Kim Jong-nam in 2001. He was the eldest son of the deceased North Korean dictator Kim Jong-il and estranged from his half brother, Kim Jong-un.",
+        "credit": "Toshifumi Kitamura/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/15/world/15Kim/15Kim-articleLarge.jpg",
+          "height": 899,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/15/world/15Kim/15Kim-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-02-14T12:15:44Z",
+      "section_name": "World",
+      "snippet": "A South Korean news channel quoted an unidentified government source as saying that the estranged half brother, Kim Jong-nam, was killed by poison needles.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/6afef5c2-f71b-5255-b93e-6c8bc9a1fda1",
+      "web_url": "https://www.nytimes.com/2017/02/14/world/asia/kim-jong-un-brother-killed-malaysia.html",
+      "word_count": 1451
+    },
+    {
+      "abstract": "Human Rights Watch said Syrian forces dropped chlorine gas in areas where they planned to advance as part of a coordinated campaign to retake the city.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Syria Used Chlorine Bombs Systematically in Aleppo, Report Says",
+        "kicker": "",
+        "print_headline": "Syria Used Chlorine Bombs Systematically in Effort to Retake Aleppo, Report Says"
+      },
+      "_id": "nyt://article/91490bf9-9db6-5c59-991c-33287311ae87",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Biological and Chemical Warfare",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Aleppo (Syria)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A child being treated for respiratory distress in Aleppo, Syria, in December. Syrian forces used chlorine gas in the city at least eight times from Nov. 17 to Dec. 13, Human Rights Watch reported.",
+        "credit": "Ghirh Sy/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/14/world/14ALEPPO-1/14ALEPPO-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/14/world/14ALEPPO-1/14ALEPPO-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-02-13T16:00:15Z",
+      "section_name": "World",
+      "snippet": "Human Rights Watch said Syrian forces dropped chlorine gas in areas where they planned to advance as part of a coordinated campaign to retake the city.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/91490bf9-9db6-5c59-991c-33287311ae87",
+      "web_url": "https://www.nytimes.com/2017/02/13/world/middleeast/syrian-chlorine-bombs-aleppo-human-rights-watch.html",
+      "word_count": 791
+    },
+    {
+      "abstract": "While dismal prison conditions in Syria have long been known, the report describes a campaign of deliberate extermination.",
+      "byline": {
+        "original": "By Anne Barnard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Amnesty Report Accuses Syria of Executing Thousands Since War Began",
+        "kicker": "",
+        "print_headline": "Amnesty Report Accuses Syria of Mass Executions"
+      },
+      "_id": "nyt://article/43bd1ca5-1d7d-52a0-977c-cb0d6207437a",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Torture",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Prisons and Prisoners",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "President Bashar al-Assad of Syria in Damascus last month. He has denied accusations of abuses in Syrian prisons.",
+        "credit": "Syrian Arab News Agency, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/07/world/07prisoners/07prisoners-articleLarge.jpg",
+          "height": 423,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/07/world/07prisoners/07prisoners-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-02-07T00:15:03Z",
+      "section_name": "World",
+      "snippet": "While dismal prison conditions in Syria have long been known, the report describes a campaign of deliberate extermination.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/43bd1ca5-1d7d-52a0-977c-cb0d6207437a",
+      "web_url": "https://www.nytimes.com/2017/02/06/world/middleeast/syria-prison-amnesty-international.html",
+      "word_count": 449
+    },
+    {
+      "abstract": "An inquiry denounced the decision by the health authorities in Gauteng Province to rely on facilities that were likened in some cases to concentration camps.",
+      "byline": {
+        "original": "By Kimiko de Freytas-Tamura"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "94 Psychiatric Patients in South Africa Died of Negligence, Report Finds",
+        "kicker": "",
+        "print_headline": "Negligence Found in South Africa Patient Deaths"
+      },
+      "_id": "nyt://article/434e4067-e2b6-55b1-b229-6fa7dbf76c79",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Mental Health and Disorders",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Supporters of the opposition Democratic Alliance party held a vigil Thursday in Johannesburg, South Africa, for the 94 mental patients who a report concluded died last year because of negligence.",
+        "credit": "Kim Ludbrook/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/03/world/03Safrica/03Safrica-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/03/world/03Safrica/03Safrica-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "A",
+      "pub_date": "2017-02-02T15:21:42Z",
+      "section_name": "World",
+      "snippet": "An inquiry denounced the decision by the health authorities in Gauteng Province to rely on facilities that were likened in some cases to concentration camps.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/434e4067-e2b6-55b1-b229-6fa7dbf76c79",
+      "web_url": "https://www.nytimes.com/2017/02/02/world/africa/south-africa-mental-health-patients.html",
+      "word_count": 614
+    },
+    {
+      "abstract": "The results of an inquiry ran counter to a widespread view among military analysts that the reports painted a rosy picture of progress against the Islamic State.",
+      "byline": {
+        "original": "By Mark Mazzetti and Michael S. Schmidt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pentagon Clears Officials of Skewing Data in ISIS Reports",
+        "kicker": "",
+        "print_headline": "Officials Are Cleared of Skewing ISIS Data"
+      },
+      "_id": "nyt://article/d6623c68-98c8-579b-a2f6-05d03e6ae181",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "United States Central Command",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Inspectors General",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Hooker, Gregory (1965- )",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Fine, Glenn A",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Schiff, Adam B",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "National",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-02-02T01:02:44Z",
+      "section_name": "World",
+      "snippet": "The results of an inquiry ran counter to a widespread view among military analysts that the reports painted a rosy picture of progress against the Islamic State.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/d6623c68-98c8-579b-a2f6-05d03e6ae181",
+      "web_url": "https://www.nytimes.com/2017/02/01/world/middleeast/pentagon-isis-reports.html",
+      "word_count": 831
+    },
+    {
+      "abstract": "An official report including a handwriting analysis charges that Mr. Walesa, a Nobel laureate, was a paid informer in Poland the 1970s.",
+      "byline": {
+        "original": "By Joanna Berendt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Lech Walesa Denounces Report Labeling Him a Communist Informer",
+        "kicker": "",
+        "print_headline": "Report Says Walesa Was Informer in ’70s Poland"
+      },
+      "_id": "nyt://article/5c2d58e5-ed1e-5d8b-8a19-bda5822acfda",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Poland",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Walesa, Lech",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Solidarity (Poland)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Law and Justice (Poland)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Communism (Theory and Philosophy)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Lech Walesa in Arlamow, Poland, in November. A new report says he was a paid informer in 1970s Communist Poland. He called the findings unreliable and politically motivated.",
+        "credit": "Kacper Pempel/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/01/world/01Poland/02Poland2-articleLarge.jpg",
+          "height": 368,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/01/world/01Poland/01Poland-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "A",
+      "pub_date": "2017-01-31T23:07:44Z",
+      "section_name": "World",
+      "snippet": "An official report including a handwriting analysis charges that Mr. Walesa, a Nobel laureate, was a paid informer in Poland the 1970s.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/5c2d58e5-ed1e-5d8b-8a19-bda5822acfda",
+      "web_url": "https://www.nytimes.com/2017/01/31/world/europe/poland-lech-walesa-communist-report.html",
+      "word_count": 837
+    },
+    {
+      "abstract": "The Chinese-born tycoon Xiao Jianhua, who holds Canadian and Antiguan passports, is in police custody on the mainland, a person close to him said.",
+      "byline": {
+        "original": "By Michael Forsythe"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Billionaire Is Reported Seized From Hong Kong Hotel and Taken Into China",
+        "kicker": "",
+        "print_headline": "Billionaire  Vanishes in Hong Kong"
+      },
+      "_id": "nyt://article/ea7e6e5e-6e0f-57f5-9000-0fbb23272a5a",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Xiao Jianhua",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Missing Persons",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Hong Kong",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Ministry of Public Security of the People's Republic of China",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Xiao Jianhua at a park in Beijing in an undated photograph. He has been missing since Friday.",
+        "credit": "The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/01/world/01HongKong/01HongKong-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/01/world/01HongKong/01HongKong-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-01-31T14:26:22Z",
+      "section_name": "World",
+      "snippet": "The Chinese-born tycoon Xiao Jianhua, who holds Canadian and Antiguan passports, is in police custody on the mainland, a person close to him said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/ea7e6e5e-6e0f-57f5-9000-0fbb23272a5a",
+      "web_url": "https://www.nytimes.com/2017/01/31/world/asia/xiao-jianhua-china-hong-kong-billionaire.html",
+      "word_count": 767
+    },
+    {
+      "abstract": "The Swedish authorities arrested three men on suspicion of rape and urged people with access to images showing the episode to make them available to the police.",
+      "byline": {
+        "original": "By Christina Anderson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Swedish Police Investigate Report of Rape on Facebook Live",
+        "kicker": "",
+        "print_headline": "Swedish Police Investigate Report of Rape on Facebook Live"
+      },
+      "_id": "nyt://article/b37b3ec4-d916-5cfe-a1a4-988ab207c1d7",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Uppsala (Sweden)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Facebook Inc",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Social Media",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-01-24T01:21:36Z",
+      "section_name": "World",
+      "snippet": "The Swedish authorities arrested three men on suspicion of rape and urged people with access to images showing the episode to make them available to the police.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b37b3ec4-d916-5cfe-a1a4-988ab207c1d7",
+      "web_url": "https://www.nytimes.com/2017/01/23/world/europe/sweden-uppsala-facebook-live-rape.html",
+      "word_count": 550
+    },
+    {
+      "abstract": "The police are investigating a meeting in which the Israeli prime minister negotiated for more positive coverage in return for curtailing a competitor, a TV station reported.",
+      "byline": {
+        "original": "By Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Benjamin Netanyahu Sought Deal With Hostile Newspaper, TV Report Says",
+        "kicker": "",
+        "print_headline": "Netanyahu Offered to Curb Competitor for Better Press in Paper, Report Says"
+      },
+      "_id": "nyt://article/e1671cc4-1053-5027-b159-3c9a12ecd4c7",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Yediot Aharonot",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Newspapers",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Israel Hayom",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The police are investigating Prime Minister Benjamin Netanyahu’s meeting with the publisher of a newspaper critical of him, a TV station reported.",
+        "credit": "Abir Sultan/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/09/world/NETANYAHU/NETANYAHU-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/09/world/NETANYAHU/NETANYAHU-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-01-09T00:53:41Z",
+      "section_name": "World",
+      "snippet": "The police are investigating a meeting in which the Israeli prime minister negotiated for more positive coverage in return for curtailing a competitor, a TV station reported.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/e1671cc4-1053-5027-b159-3c9a12ecd4c7",
+      "web_url": "https://www.nytimes.com/2017/01/08/world/middleeast/israel-benjamin-netanyahu-yediot-aharonot-deal.html",
+      "word_count": 813
+    }
+  ]
+}

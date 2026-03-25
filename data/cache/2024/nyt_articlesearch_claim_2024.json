@@ -1,0 +1,2439 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20240101",
+    "end_date": "20241231",
+    "fq": "(headline.default:(\"claim\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 34,
+  "docs": [
+    {
+      "abstract": "As the renewed clashes in the north of the enclave neared the three-month mark, there was no sign of them abating.",
+      "byline": {
+        "original": "By Ephrat Livni"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel and Hamas Each Claim Wins in Fierce Fighting in Northern Gaza",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8ea53bbf-c7a0-528e-9ef0-9be10a0310c9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Kamal Adwan Hospital (Gaza Strip)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Beit Hanoun (Gaza Strip)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Jabaliya Refugee Camp (Gaza Strip)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A funeral for an Israel soldier killed in northern Gaza on Sunday.",
+        "credit": "Amir Levy/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/12/30/multimedia/30northern-gaza-jglm/30northern-gaza-jglm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/12/30/multimedia/30northern-gaza-jglm/30northern-gaza-jglm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-12-30T21:48:54Z",
+      "section_name": "World",
+      "snippet": "As the renewed clashes in the north of the enclave neared the three-month mark, there was no sign of them abating.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/8ea53bbf-c7a0-528e-9ef0-9be10a0310c9",
+      "web_url": "https://www.nytimes.com/2024/12/30/world/middleeast/israel-hamas-northern-gaza.html",
+      "word_count": 825
+    },
+    {
+      "abstract": "For Israel’s leaders, Bashar al-Assad’s downfall was made possible by their recent assaults on Hezbollah, Iran and Syria, all of which weakened the Iran-backed axis.",
+      "byline": {
+        "original": "By Patrick Kingsley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel Claims Credit for al-Assad’s Ouster, but Sees Risk in His Absence",
+        "kicker": "",
+        "print_headline": "Israel Claims Credit for al-Assad’s Ouster, but Sees Risk in His Absence"
+      },
+      "_id": "nyt://article/e690f04e-3c36-54b9-ac58-cbc3b7d42193",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Golan Heights",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Lebanon",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Celebrating the fall of Bashar al-Assad on a road leading to Syria’s Masnaa border crossing in Bar Elias, Lebanon, on Sunday.",
+        "credit": "Daniel Berehulak/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/12/09/multimedia/09Israel-Syria-sub-gltk/09Israel-Syria-sub-gltk-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/12/09/multimedia/09Israel-Syria-sub-gltk/09Israel-Syria-sub-gltk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2024-12-09T11:44:21Z",
+      "section_name": "World",
+      "snippet": "For Israel’s leaders, Bashar al-Assad’s downfall was made possible by their recent assaults on Hezbollah, Iran and Syria, all of which weakened the Iran-backed axis.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/e690f04e-3c36-54b9-ac58-cbc3b7d42193",
+      "web_url": "https://www.nytimes.com/2024/12/09/world/middleeast/israel-assad-syria.html",
+      "word_count": 1057
+    },
+    {
+      "abstract": "Adm. Rob Bauer warned against any peace deal that was too favorable to Russia, arguing that it could undermine American interests.",
+      "byline": {
+        "original": "By Lara Jakes"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Should Not Let Putin Claim Victory in Ukraine, Says NATO Official",
+        "kicker": "",
+        "print_headline": "Trump Shouldn’t Let Putin Claim Win in Ukraine, NATO Officer Says"
+      },
+      "_id": "nyt://article/156fcc70-5977-58e9-b473-1b29a3b6b5f4",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "North Atlantic Treaty Organization",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Bauer, Robert P (1962- )",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Trade",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Aid",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "Admiral Rob Bauer, NATO’s top military official, in September. “It’s important enough to talk about Ukraine on its own, but there is more at stake than just Ukraine,” he said in an interview on Saturday.",
+        "credit": "Lee Jin-Man/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/11/09/multimedia/09nato-europe-01-bthq/09nato-europe-01-bthq-articleLarge.jpg",
+          "height": 408,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/11/09/multimedia/09nato-europe-01-bthq/09nato-europe-01-bthq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2024-11-10T00:03:06Z",
+      "section_name": "World",
+      "snippet": "Adm. Rob Bauer warned against any peace deal that was too favorable to Russia, arguing that it could undermine American interests.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/156fcc70-5977-58e9-b473-1b29a3b6b5f4",
+      "web_url": "https://www.nytimes.com/2024/11/09/world/europe/trump-nato-putin-ukraine.html",
+      "word_count": 1070
+    },
+    {
+      "abstract": "The video shows a room that matches photographs obtained by The Times that show the corpse of a man closely resembling the Hamas leader.",
+      "byline": {
+        "original": "By Aric Toler and Christiaan Triebert"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israeli Military Drone Footage Claims to Show Sinwar Shortly Before He Was Killed",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8c670d32-105a-521e-ba12-8b877db59ef9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Sinwar, Yehya",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Rafah (Gaza Strip)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "vis-video",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A still frame from video filmed by an Israel Defense Forces drone shows a man the Israeli military identified as Yahya Sinwar sitting in a chair.",
+        "credit": "Israel Defense Forces",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/10/17/video/17vid-sinwar-drone/17vid-sinwar-drone-articleLarge.png",
+          "height": 331,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/10/17/video/17vid-sinwar-drone/17vid-sinwar-drone-thumbStandard.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Video",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-10-17T23:19:46Z",
+      "section_name": "World",
+      "snippet": "The video shows a room that matches photographs obtained by The Times that show the corpse of a man closely resembling the Hamas leader.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/8c670d32-105a-521e-ba12-8b877db59ef9",
+      "web_url": "https://www.nytimes.com/2024/10/17/world/middleeast/yahya-sinwar-death-drone-footage.html",
+      "word_count": 288
+    },
+    {
+      "abstract": "Facing a revolt in his own party, Prime Minister Justin Trudeau attacked both the Conservative opposition and India’s government, which he said had made “a horrific mistake” in the killing of a Sikh activist.",
+      "byline": {
+        "original": "By Norimitsu Onishi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trudeau Goes on Offensive Over Foreign Interference Claims",
+        "kicker": "",
+        "print_headline": "Trudeau Goes on Attack Over Foreign Interference Claims"
+      },
+      "_id": "nyt://article/4ee93bf2-8c43-558d-8b3c-2212f5f0830a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Sikhs and Sikhism",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Conservative Party (Canada)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Liberal Party (Canada)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Trudeau, Justin",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Justin Trudeau speaking on Wednesday during a hearing in Ottawa focused on foreign interference into internal Canadian affairs. ",
+        "credit": "Blair Gable/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/10/16/multimedia/16canada-trudeau-interference-bvtg/16canada-trudeau-interference-bvtg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/10/16/multimedia/16canada-trudeau-interference-bvtg/16canada-trudeau-interference-bvtg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2024-10-16T20:48:42Z",
+      "section_name": "World",
+      "snippet": "Facing a revolt in his own party, Prime Minister Justin Trudeau attacked both the Conservative opposition and India’s government, which he said had made “a horrific mistake” in the killing of a Sikh activist.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/4ee93bf2-8c43-558d-8b3c-2212f5f0830a",
+      "web_url": "https://www.nytimes.com/2024/10/16/world/canada/trudeau-india-canada-sovereignty.html",
+      "word_count": 947
+    },
+    {
+      "abstract": "In a rare case of legal action tied to rising prices, the government sued Woolworths and Coles for what it described as a pattern of deceiving consumers.",
+      "byline": {
+        "original": "By Damien Cave"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Supermarkets in Australia Sued Over Claims of Fake Discounts",
+        "kicker": "",
+        "print_headline": "Australia Sues Markets Over Fake Price Claims"
+      },
+      "_id": "nyt://article/98dfd0f6-afd3-565a-938a-4c8b0208c5c7",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Supermarkets and Grocery Stores",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Shopping and Retail",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Regulation and Deregulation of Industry",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Food",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Antitrust Laws and Competition Issues",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Consumer Protection",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Coles Group Ltd",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Albanese, Anthony (1963- )",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Woolworths Supermarkets",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Discount Selling",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "Coles and Woolworths control 65 percent of the grocery store market in Australia.",
+        "credit": "AnnaMaria Antoinette D'Addario for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23oz-supermarkets-hqfp/23oz-supermarkets-hqfp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23oz-supermarkets-hqfp/23oz-supermarkets-hqfp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2024-09-23T11:24:32Z",
+      "section_name": "World",
+      "snippet": "In a rare case of legal action tied to rising prices, the government sued Woolworths and Coles for what it described as a pattern of deceiving consumers.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/98dfd0f6-afd3-565a-938a-4c8b0208c5c7",
+      "web_url": "https://www.nytimes.com/2024/09/23/world/australia/woolworths-coles-fake-discounts.html",
+      "word_count": 541
+    },
+    {
+      "abstract": "An extremist group that claims allegiance to Al Qaeda said it was responsible for assaults on a military police school and an air base in the West African country of Mali.",
+      "byline": {
+        "original": "By Elian Peltier and Ruth Maclean"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "An Al Qaeda Affiliate Claimed Attacks in Mali. What Does It Want?",
+        "kicker": "",
+        "print_headline": "Group Linked  To Al Qaeda  Says It Struck  Mali’s Capital"
+      },
+      "_id": "nyt://article/87fe3e20-52b8-5b20-bbf7-f3464a41f3ca",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Mali",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Military Bases and Installations",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Smoking rising in the distance behind crowds in Bamako, Mali, on Tuesday after an attack. The violence could raise questions about the security strategy of the country’s military leaders.",
+        "credit": "Hadama Diakite/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17mali-flmc/17mali-flmc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17mali-flmc/17mali-flmc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2024-09-17T10:51:56Z",
+      "section_name": "World",
+      "snippet": "An extremist group that claims allegiance to Al Qaeda said it was responsible for assaults on a military police school and an air base in the West African country of Mali.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/87fe3e20-52b8-5b20-bbf7-f3464a41f3ca",
+      "web_url": "https://www.nytimes.com/2024/09/17/world/africa/mali-capital-attack-military.html",
+      "word_count": 1052
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Aaron Boxerman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Criticism was mounting over the operation; Israel’s military claims 20 militants were killed.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7e1e0699-7e4c-58e5-9c29-7122171b1d2a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-08-30T11:44:05Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7e1e0699-7e4c-58e5-9c29-7122171b1d2a",
+      "web_url": "https://www.nytimes.com/live/2024/08/30/world/israel-hamas-gaza-war/israeli-forces-pull-back-from-tulkarm-but-press-on-with-their-raid-of-jenin-officials-say",
+      "word_count": 744
+    },
+    {
+      "abstract": "The two groups described the attack as a suicide bombing, but an Israeli statement did not. If confirmed, it would be the first suicide bombing in Israel in roughly eight years.",
+      "byline": {
+        "original": "By Matthew Mpoke Bigg and Gabby Sobelman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hamas and Islamic Jihad Claim Responsibility for Tel Aviv Bombing",
+        "kicker": "",
+        "print_headline": "Hamas and Islamic Jihad Claim Responsibility for a Bombing in Tel Aviv"
+      },
+      "_id": "nyt://article/26b6eaef-739e-545f-9b9e-e8dafea2b4c1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Israeli Settlements",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Tel Aviv (Israel)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Yemen",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 12
+        },
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 13
+        },
+        {
+          "name": "Organization",
+          "value": "Houthis",
+          "rank": 14
+        },
+        {
+          "name": "Organization",
+          "value": "Palestinian Islamic Jihad",
+          "rank": 15
+        },
+        {
+          "name": "Organization",
+          "value": "Shin Bet",
+          "rank": 16
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 17
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 18
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 19
+        },
+        {
+          "name": "Subject",
+          "value": "Peace Process",
+          "rank": 20
+        }
+      ],
+      "multimedia": {
+        "caption": "The Israeli police at the site of a bombing late Sunday in Tel Aviv.",
+        "credit": "Moti Milrod/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/08/19/multimedia/19mideast-crisis-telaviv-bomb-gktj/19mideast-crisis-telaviv-bomb-gktj-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/08/19/multimedia/19mideast-crisis-telaviv-bomb-gktj/19mideast-crisis-telaviv-bomb-gktj-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2024-08-19T19:34:11Z",
+      "section_name": "World",
+      "snippet": "The two groups described the attack as a suicide bombing, but an Israeli statement did not. If confirmed, it would be the first suicide bombing in Israel in roughly eight years.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/26b6eaef-739e-545f-9b9e-e8dafea2b4c1",
+      "web_url": "https://www.nytimes.com/2024/08/19/world/middleeast/tel-aviv-bomb-hamas.html",
+      "word_count": 586
+    },
+    {
+      "abstract": "The seizure of the military’s northeastern command post gives the resistance control of a city and airport on a crucial trade corridor to China.",
+      "byline": {
+        "original": "By Vivek Shankar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Myanmar Rebels Claim Regional Military Base in Major Victory",
+        "kicker": "",
+        "print_headline": "Rebels in Myanmar Claim Major Victory, Seizing a Military Base on a Vital Trade Route to China"
+      },
+      "_id": "nyt://article/db7ea6c7-3ef8-5fc0-9686-987e3c26a8e4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Military Bases and Installations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Myanmar National Democratic Alliance Army",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Myanmar",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Shan State (Myanmar)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Min Aung Hlaing",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Lashio (Myanmar)",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Soldiers of the Myanmar National Democratic Alliance Army patrolling in the Kokang region in 2015.",
+        "credit": "Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/08/05/multimedia/05myanmar-rebels-jmvg/05myanmar-rebels-jmvg-articleLarge.jpg",
+          "height": 397,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/08/05/multimedia/05myanmar-rebels-jmvg/05myanmar-rebels-jmvg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2024-08-05T12:06:52Z",
+      "section_name": "World",
+      "snippet": "The seizure of the military’s northeastern command post gives the resistance control of a city and airport on a crucial trade corridor to China.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/db7ea6c7-3ef8-5fc0-9686-987e3c26a8e4",
+      "web_url": "https://www.nytimes.com/2024/08/05/world/asia/myanmar-rebels-lashio.html",
+      "word_count": 718
+    },
+    {
+      "abstract": "Noah Lyles came from behind to beat out Kishane Thompson of Jamaica.",
+      "byline": {
+        "original": "By Talya Minsberg, Ben Shpigel, Gabriela Bhaskar and Daniel Berehulak"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "After a photo finish, Noah Lyles waits, and waits, and then claims the title of world’s fastest man.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/05515ed1-218e-596c-b0d5-db117c97361d",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "Daniel Berehulak/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/08/27/multimedia/27olympics-fast-photos-100-meter-men-tmlh/27olympics-fast-photos-100-meter-men-tmlh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/08/27/multimedia/27olympics-fast-photos-100-meter-men-tmlh/27olympics-fast-photos-100-meter-men-tmlh-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-08-04T20:55:55Z",
+      "section_name": "World",
+      "snippet": "Noah Lyles came from behind to beat out Kishane Thompson of Jamaica.",
+      "source": "The New York Times",
+      "subsection_name": "Olympics",
+      "type_of_material": "News",
+      "uri": "nyt://article/05515ed1-218e-596c-b0d5-db117c97361d",
+      "web_url": "https://www.nytimes.com/2024/07/27/world/olympics/noah-lyles-100-meters.html",
+      "word_count": 229
+    },
+    {
+      "abstract": "Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III warned Beijing against engaging in hostilities with U.S. allies in the South and East China Seas.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Pledges $500 Million in New Military Aid to the Philippines, as China Asserts Sea Claims",
+        "kicker": "",
+        "print_headline": "U.S. Giving Manila $500 Million in New Military Aid, as China Looms"
+      },
+      "_id": "nyt://article/84093b59-54a2-55a0-b8e4-bb75c4316940",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Philippines",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Marcos, Ferdinand Jr",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Blinken, Antony J",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Austin, Lloyd J III",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Aid",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III with their Philippine counterparts at Camp Aguinaldo, the headquarters of the Philippine military, on Tuesday.",
+        "credit": "Jam Sta Rosa/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/07/30/multimedia/30blinken-austin-philippines-01-ctvk/30blinken-austin-philippines-01-ctvk-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/07/30/multimedia/30blinken-austin-philippines-01-ctvk/30blinken-austin-philippines-01-ctvk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2024-07-30T11:01:49Z",
+      "section_name": "World",
+      "snippet": "Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III warned Beijing against engaging in hostilities with U.S. allies in the South and East China Seas.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/84093b59-54a2-55a0-b8e4-bb75c4316940",
+      "web_url": "https://www.nytimes.com/2024/07/30/world/asia/us-philippines-military-aid-china.html",
+      "word_count": 1328
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ephrat Livni"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel releases Palestinian Authority funds while claiming more West Bank land.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/69e137fc-d665-5d8c-8eff-35a98b8c446c",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Residents checking their balances last month in Ramallah, in the occupied West Bank. Israel has withheld tax revenue from the Palestinian Authority, contributing to a looming economic crisis there. ",
+        "credit": "Sergey Ponomarev for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/07/03/multimedia/03mideast-crisis-west-bank-htzg/03mideast-crisis-west-bank-htzg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/07/03/multimedia/03mideast-crisis-west-bank-htzg/03mideast-crisis-west-bank-htzg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-07-03T22:20:44Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/69e137fc-d665-5d8c-8eff-35a98b8c446c",
+      "web_url": "https://www.nytimes.com/live/2024/07/03/world/israel-gaza-war-hamas/israel-releases-palestinian-authority-funds-while-claiming-more-west-bank-land",
+      "word_count": 594
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Adam Rasgon"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘Claims that we have agreed to a cease-fire without our conditions being met are incorrect,’ Netanyahu says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b0b2d9ce-383e-5cf3-b5ab-d4fc3dfa075b",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Itamar Ben-Gvir, a far-right member of the Israeli government, at the Israeli Parliament in Jerusalem on Monday.",
+        "credit": "Amir Levy/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/06/03/multimedia/03mideast-crisis-israel-right-02-qgcz/03mideast-crisis-israel-right-02-qgcz-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/06/03/multimedia/03mideast-crisis-israel-right-02-qgcz/03mideast-crisis-israel-right-02-qgcz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-06-03T11:54:28Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/b0b2d9ce-383e-5cf3-b5ab-d4fc3dfa075b",
+      "web_url": "https://www.nytimes.com/live/2024/06/03/world/israel-gaza-war-hamas/netanyahu-will-meet-with-ben-gvir-to-discuss-israels-cease-fire-proposal-an-official-says",
+      "word_count": 744
+    },
+    {
+      "abstract": "People have long claimed sightings of the Virgin Mary or bleeding crucifixes, and some endorsed by the Roman Catholic Church have become hugely popular pilgrimage destinations.",
+      "byline": {
+        "original": "By Elisabetta Povoledo"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As Supernatural Claims Spread Online, Vatican Updates Its Rules on Them",
+        "kicker": "",
+        "print_headline": "As Internet Claims Spread, the Vatican Updates Its Rules on Supernatural Sightings"
+      },
+      "_id": "nyt://article/74ec83a0-944c-51eb-b145-fa7cfe9efb6e",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Social Media",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Mary, Mother of Jesus",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Pilgrimages",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Occult Sciences",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Praying in 2020 at the site where the Virgin Mary is said to have appeared in Medjugorje, Bosnia-Herzegovina.",
+        "credit": "Damir Sagolj/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/05/17/multimedia/17vatican-apparitions-hkpv/17vatican-apparitions-hkpv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/05/17/multimedia/17vatican-apparitions-hkpv/17vatican-apparitions-hkpv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2024-05-17T10:50:56Z",
+      "section_name": "World",
+      "snippet": "People have long claimed sightings of the Virgin Mary or bleeding crucifixes, and some endorsed by the Roman Catholic Church have become hugely popular pilgrimage destinations.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/74ec83a0-944c-51eb-b145-fa7cfe9efb6e",
+      "web_url": "https://www.nytimes.com/2024/05/17/world/europe/vatican-apparitions-supernatural.html",
+      "word_count": 933
+    },
+    {
+      "abstract": "The Israeli military said that about 14 rockets and mortars were fired toward Kerem Shalom, a conduit for aid into Gaza. Three other soldiers were badly wounded.",
+      "byline": {
+        "original": "By Liam Stack"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Three Israeli Soldiers Killed in Rocket Attack Claimed by Hamas",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0299af4b-6bf3-5461-8b56-6c4e7cc5dc8e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Rafah (Gaza Strip)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Israeli soldiers and medics by an ambulance in southern Israel near the border with Gaza on Sunday.",
+        "credit": "Amir Cohen/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05mideast-crisis-gaza-rockets-hljq/05mideast-crisis-gaza-rockets-hljq-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05mideast-crisis-gaza-rockets-hljq/05mideast-crisis-gaza-rockets-hljq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-05-05T14:05:11Z",
+      "section_name": "World",
+      "snippet": "The Israeli military said that about 14 rockets and mortars were fired toward Kerem Shalom, a conduit for aid into Gaza. Three other soldiers were badly wounded.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/0299af4b-6bf3-5461-8b56-6c4e7cc5dc8e",
+      "web_url": "https://www.nytimes.com/2024/05/05/world/middleeast/hamas-rocket-kerem-shalom-israel.html",
+      "word_count": 392
+    },
+    {
+      "abstract": "The West African country said it killed Abu Huzeifa, a commander in an Islamic State affiliate who was involved in a 2017 attack in neighboring Niger that killed American Green Berets and Nigerien forces.",
+      "byline": {
+        "original": "By Ruth Maclean"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mali Claims Death of Terrorist Who Helped Lead Deadly Ambush in Niger",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/69a3d453-aed3-50b2-a7d2-4651a47fafdf",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Mali",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Niger",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Africa",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A photograph released by militants in 2018, purporting to show commander Abu Huzeifa of the Islamic State Greater Sahara.",
+        "credit": "The Movement for the Salvation of Azawad, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/30/multimedia/30mali-isis-2-kmwz/30mali-isis-2-kmwz-articleLarge.jpg",
+          "height": 800,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/30/multimedia/30mali-isis-2-kmwz/30mali-isis-2-kmwz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-04-30T15:12:47Z",
+      "section_name": "World",
+      "snippet": "The West African country said it killed Abu Huzeifa, a commander in an Islamic State affiliate who was involved in a 2017 attack in neighboring Niger that killed American Green Berets and Nigerien forces.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/69a3d453-aed3-50b2-a7d2-4651a47fafdf",
+      "web_url": "https://www.nytimes.com/2024/04/30/world/africa/mali-isis-niger-attack.html",
+      "word_count": 801
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Alissa J. Rubin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Drone attack kills 4 workers in an Iraqi gas field, but no one claims responsibility.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/885d0009-b962-5fc8-b66b-7b9f80388dc5",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Kurdistan",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-04-26T21:44:18Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/885d0009-b962-5fc8-b66b-7b9f80388dc5",
+      "web_url": "https://www.nytimes.com/live/2024/04/26/world/israel-gaza-war-hamas/drone-attack-kills-4-workers-in-an-iraqi-gas-field-but-no-one-claims-responsibility",
+      "word_count": 456
+    },
+    {
+      "abstract": "Prosecutors in Guatemala, which has a history of targeting nonprofit groups, said they were probing claims of child abuse, which the charity denied.",
+      "byline": {
+        "original": "By Jody García, John Yoon and James Wagner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Save the Children Says Its Guatemala Offices Were Searched Over Abuse Claims",
+        "kicker": "",
+        "print_headline": "Guatemala, Historically Against Nonprofits, Searches Charity’s Offices Over Abuse Claims"
+      },
+      "_id": "nyt://article/ca91199d-94ec-5536-af2b-754028b6173f",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Guatemala",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Save the Children",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Child Abuse and Neglect",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Philanthropy",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Curruchiche, Rafael",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Police officers standing guard on the perimeter of a Save the Children office in Guatemala.",
+        "credit": "Moises Castillo/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/26/multimedia/26xp-guatemala-pgfl/26xp-guatemala-pgfl-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/26/multimedia/26xp-guatemala-pgfl/26xp-guatemala-pgfl-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2024-04-26T06:44:42Z",
+      "section_name": "World",
+      "snippet": "Prosecutors in Guatemala, which has a history of targeting nonprofit groups, said they were probing claims of child abuse, which the charity denied.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/ca91199d-94ec-5536-af2b-754028b6173f",
+      "web_url": "https://www.nytimes.com/2024/04/26/world/americas/guatemala-save-the-children-raid.html",
+      "word_count": 642
+    },
+    {
+      "abstract": "The assertion is just “psychological warfare,” says one Lebanese expert on the militant group.",
+      "byline": {
+        "original": "By Euan Ward and Hwaida Saad"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel’s Claim of Killing ‘Half’ of Hezbollah Commanders in Southern Lebanon Draws Skepticism",
+        "kicker": "",
+        "print_headline": "Israeli Claim  On Hezbollah  Is Questioned"
+      },
+      "_id": "nyt://article/41bf7121-f7cb-517e-9999-6966d73363e7",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Lebanon",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Gallant, Yoav",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Drones (Pilotless Planes)",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 13
+        },
+        {
+          "name": "Subject",
+          "value": "Targeted Killings",
+          "rank": 14
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 15
+        }
+      ],
+      "multimedia": {
+        "caption": "Residents of the southern Lebanese village of Aita al-Shaab near debris after the funeral of a Hezbollah fighter this month.",
+        "credit": "Hasan Fneich/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/25/multimedia/25mideast-crisis-hezbollah-czpf/25mideast-crisis-hezbollah-czpf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/25/multimedia/25mideast-crisis-hezbollah-czpf/25mideast-crisis-hezbollah-czpf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2024-04-25T20:03:57Z",
+      "section_name": "World",
+      "snippet": "The assertion is just “psychological warfare,” says one Lebanese expert on the militant group.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/41bf7121-f7cb-517e-9999-6966d73363e7",
+      "web_url": "https://www.nytimes.com/2024/04/25/world/middleeast/hezbollah-commanders-south-lebanon.html",
+      "word_count": 698
+    },
+    {
+      "abstract": "The Israeli military later said that no bases had been hit and no casualties reported.",
+      "byline": {
+        "original": "By Euan Ward"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hezbollah Claims Drone Attack 10 Miles Inside Israel",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ab9e1bde-0970-55f9-8649-35ad36f8bf09",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Lebanon",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Middle East",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Jalaa Marey/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/23/multimedia/23mideast-crisis-hezbollah-promo-khwt/23mideast-crisis-hezbollah-promo-khwt-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/23/multimedia/23mideast-crisis-hezbollah-promo-khwt/23mideast-crisis-hezbollah-promo-khwt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-04-23T15:43:34Z",
+      "section_name": "World",
+      "snippet": "The Israeli military later said that no bases had been hit and no casualties reported.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/ab9e1bde-0970-55f9-8649-35ad36f8bf09",
+      "web_url": "https://www.nytimes.com/2024/04/23/world/middleeast/hezbollah-strike-israel-lebanon.html",
+      "word_count": 311
+    },
+    {
+      "abstract": "Germany argued against the accusation brought by Nicaragua at the International Court of Justice, but Germans are questioning their country’s unwavering support for Israel.",
+      "byline": {
+        "original": "By Marlise Simons, Erika Solomon and Christopher F. Schuetze"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Germany Rebuffs Claim Its Arms Sales to Israel Abet Genocide in Gaza",
+        "kicker": "",
+        "print_headline": "Germany Rebuffs Claim That Its Arms Sales Abet Genocide in Gaza"
+      },
+      "_id": "nyt://article/1419b46f-2919-5d5d-b577-6c071e393f49",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Trade",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Holocaust and the Nazi Era",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "International Court of Justice (UN)",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "General Assembly (UN)",
+          "rank": 12
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 13
+        },
+        {
+          "name": "Person",
+          "value": "Ortega, Daniel",
+          "rank": 14
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 15
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 16
+        }
+      ],
+      "multimedia": {
+        "caption": "The aftermath of an Israeli airstrike in the southern Gazan city of Khan Younis on Tuesday.",
+        "credit": "Ahmad Hasaballah/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/09/multimedia/09mideast-crisis-leadall-01-hgtm/09mideast-crisis-leadall-01-hgtm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/09/multimedia/09mideast-crisis-leadall-01-hgtm/09mideast-crisis-leadall-01-hgtm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2024-04-09T23:28:30Z",
+      "section_name": "World",
+      "snippet": "Germany argued against the accusation brought by Nicaragua at the International Court of Justice, but Germans are questioning their country’s unwavering support for Israel.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1419b46f-2919-5d5d-b577-6c071e393f49",
+      "web_url": "https://www.nytimes.com/2024/04/09/world/europe/germany-israel-genocide-icj.html",
+      "word_count": 988
+    },
+    {
+      "abstract": "Defense Secretary Lloyd J. Austin III made the comments during a hearing that was disrupted several times by protests of U.S. support for Israel’s assault on Hamas.",
+      "byline": {
+        "original": "By John Ismay"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Austin Pushes Back on Claims of Israel Carrying Out Genocide in Gaza",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2d7de7c6-1a14-5bff-89dc-1527566c87d9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Austin, Lloyd J III",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Defense Secretary Lloyd J. Austin III testifying before a Senate committee on Tuesday.",
+        "credit": "Kenny Holston/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/09/multimedia/09mideast-crisis-austin-no-genocide-ljhf/09mideast-crisis-austin-no-genocide-ljhf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/09/multimedia/09mideast-crisis-austin-no-genocide-ljhf/09mideast-crisis-austin-no-genocide-ljhf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-04-09T19:27:31Z",
+      "section_name": "World",
+      "snippet": "Defense Secretary Lloyd J. Austin III made the comments during a hearing that was disrupted several times by protests of U.S. support for Israel’s assault on Hamas.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/2d7de7c6-1a14-5bff-89dc-1527566c87d9",
+      "web_url": "https://www.nytimes.com/2024/04/09/world/middleeast/austin-genocide-gaza-israel.html",
+      "word_count": 484
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Matthew Mpoke Bigg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "UNRWA claims Israel has banned it from bringing aid to northern Gaza.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cb926702-1d88-5b3d-b6ca-e070eace099e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Palestinians gathered to receive aid outside an UNRWA warehouse in Gaza City last week. ",
+        "credit": "Mahmoud Issa/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/03/25/multimedia/25mideast-crisis-unrwa-israel-1-fbht/25mideast-crisis-unrwa-israel-1-fbht-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/03/25/multimedia/25mideast-crisis-unrwa-israel-1-fbht/25mideast-crisis-unrwa-israel-1-fbht-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-03-25T18:30:09Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/cb926702-1d88-5b3d-b6ca-e070eace099e",
+      "web_url": "https://www.nytimes.com/live/2024/03/25/world/israel-hamas-war-gaza-news/unrwa-claims-israel-has-banned-it-from-bringing-aid-to-northern-gaza",
+      "word_count": 619
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Gaya Gupta and Matthew Mpoke Bigg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Houthis claim a deadly attack on a commercial ship off Yemen’s coast.",
+        "kicker": "",
+        "print_headline": "Houthis Say  They Warned  Of an Attack  That Killed 2"
+      },
+      "_id": "nyt://article/d60a7dc3-cd32-5de3-bf91-33d6268c9617",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The True Confidence in Ravenna, Italy, in 2022.",
+        "credit": "Dario Bonazza/UGC, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06mideast-crisis-ship-hit-bklg/06mideast-crisis-ship-hit-bklg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/03/06/multimedia/06mideast-crisis-ship-hit-bklg/06mideast-crisis-ship-hit-bklg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2024-03-06T16:03:05Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/d60a7dc3-cd32-5de3-bf91-33d6268c9617",
+      "web_url": "https://www.nytimes.com/live/2024/03/06/world/israel-hamas-war-gaza-news/a-commercial-vessel-has-been-hit-in-the-red-sea-a-british-naval-organization-says",
+      "word_count": 568
+    },
+    {
+      "abstract": "The Ukrainian military says it has sunk a large Russian landing ship off the coast of Crimea, although Ukrainian troops inland find themselves in a precarious position.",
+      "byline": {
+        "original": "By Maria Varenikova and Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine, Struggling on Land, Claims to Deal Blow to Russia at Sea",
+        "kicker": "",
+        "print_headline": "Ukraine Says Forces Sank Russian Ship"
+      },
+      "_id": "nyt://article/eb1ac312-cb4a-559b-8002-f04ab5e3f1d6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Crimea (Ukraine)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Black Sea",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Members of Ukraine’s 10th Brigade at a frontline position in Ukraine’s eastern Donetsk region in December. On land, Ukraine is desperately trying to maintain the current front lines in a costly war of attrition.",
+        "credit": "Finbarr O'Reilly for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14ukraine-1-chmj/14ukraine-1-chmj-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/02/14/multimedia/14ukraine-1-chmj/14ukraine-1-chmj-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2024-02-14T14:43:22Z",
+      "section_name": "World",
+      "snippet": "The Ukrainian military says it has sunk a large Russian landing ship off the coast of Crimea, although Ukrainian troops inland find themselves in a precarious position.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/eb1ac312-cb4a-559b-8002-f04ab5e3f1d6",
+      "web_url": "https://www.nytimes.com/2024/02/14/world/europe/ukraine-strike-russia-black-sea.html",
+      "word_count": 973
+    },
+    {
+      "abstract": "Russia has not confirmed that a Zircon hypersonic missile was used. The United States says it’s looking into the claim.",
+      "byline": {
+        "original": "By Constant Méheut"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine Claims Russia Used New Hypersonic Missile for First Time",
+        "kicker": "",
+        "print_headline": "Kyiv Says Russia Fired  Formidable New Missile"
+      },
+      "_id": "nyt://article/3718683a-3d98-58de-8e8e-c8d061b05f40",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Missiles and Missile Defense Systems",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        },
+        {
+          "name": "Keyword",
+          "value": "Zircon",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "This image from a 2022 video, released by the Russian Defense Ministry, shows a hypersonic Zircon cruise missile being fired from a frigate during a test in the Barents Sea.",
+        "credit": "Russian Defense Ministry/via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/02/13/multimedia/13ukraine-missile-1-fkmz/13ukraine-missile-1-fkmz-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/02/13/multimedia/13ukraine-missile-1-fkmz/13ukraine-missile-1-fkmz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2024-02-13T22:28:47Z",
+      "section_name": "World",
+      "snippet": "Russia has not confirmed that a Zircon hypersonic missile was used. The United States says it’s looking into the claim.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3718683a-3d98-58de-8e8e-c8d061b05f40",
+      "web_url": "https://www.nytimes.com/2024/02/13/world/europe/russia-hypersonic-missile-ukraine.html",
+      "word_count": 783
+    },
+    {
+      "abstract": "While votes were still being counted, Nayib Bukele easily won a second term, riding enormous support for his crackdown on gangs, even if the price has been restricting civil liberties.",
+      "byline": {
+        "original": "By Gabriel Labrador and Natalie Kitroeff"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "El Salvador’s President Claims Election Victory in a Landslide",
+        "kicker": "",
+        "print_headline": "Salvadorans, Pleased With Gang Crackdown, Expected to Re-elect President"
+      },
+      "_id": "nyt://article/ba8024e8-95ba-50e4-8ab4-c2767b8d7a79",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Bukele, Nayib",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "El Salvador",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Civil Rights and Liberties",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Gangs",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Some legal scholars say President Nayib Bukele of El Salvador violated the Constitution by seeking a second consecutive term.",
+        "credit": "Dave Sanders for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/02/04/multimedia/04salvador-election-top-gkvl/04salvador-election-top-gkvl-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/02/04/multimedia/04salvador-election-top-gkvl/04salvador-election-top-gkvl-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2024-02-04T10:03:24Z",
+      "section_name": "World",
+      "snippet": "While votes were still being counted, Nayib Bukele easily won a second term, riding enormous support for his crackdown on gangs, even if the price has been restricting civil liberties.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/ba8024e8-95ba-50e4-8ab4-c2767b8d7a79",
+      "web_url": "https://www.nytimes.com/2024/02/04/world/americas/election-el-salvador-bukele.html",
+      "word_count": 1211
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Gaya Gupta"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Houthi militants claim a hit on an oil tanker off Yemeni coast that set it on fire.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/38d78e84-61fc-5377-b7dc-3543da92c149",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Houthi supporters attended a rally in Sana, Yemen on Friday.",
+        "credit": "Osamah Abdulrahman/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/01/26/multimedia/26israel-hamas-houthis-gqmw/26israel-hamas-houthis-gqmw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/01/26/multimedia/26israel-hamas-houthis-gqmw/26israel-hamas-houthis-gqmw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-01-26T22:48:53Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/38d78e84-61fc-5377-b7dc-3543da92c149",
+      "web_url": "https://www.nytimes.com/live/2024/01/26/world/israel-hamas-gaza-news/houthis-claim-a-hit-on-an-oil-tanker-off-yemeni-coast-that-set-it-on-fire",
+      "word_count": 433
+    },
+    {
+      "abstract": "The United States temporarily cut off funding to UNRWA, the agency that aids Palestinians, citing allegations that 12 of its workers were involved in the Hamas-led assault on southern Israel.",
+      "byline": {
+        "original": "By Farnaz Fassihi, Edward Wong, Russell Goldman and Ronen Bergman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. to Investigate Claim That Employees Participated in Oct. 7 Attack",
+        "kicker": "",
+        "print_headline": "U.N. to Explore Workers’ Link To Oct. 7 Raid"
+      },
+      "_id": "nyt://article/ef2e7572-4a88-558e-92e8-95c7fe299fc3",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Blinken, Antony J",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Guterres, Antonio",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations Relief and Works Agency",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Palestinians receiving bags of flour at the United Nations Relief and Works Agency for Palestine Refugees (UNRWA) distribution center in Rafah in November.",
+        "credit": "Said Khatib/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/01/26/multimedia/26israel-hamas-unrwa-cbml/26israel-hamas-unrwa-cbml-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/01/26/multimedia/26israel-hamas-unrwa-cbml/26israel-hamas-unrwa-cbml-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2024-01-26T16:10:25Z",
+      "section_name": "World",
+      "snippet": "The United States temporarily cut off funding to UNRWA, the agency that aids Palestinians, citing allegations that 12 of its workers were involved in the Hamas-led assault on southern Israel.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/ef2e7572-4a88-558e-92e8-95c7fe299fc3",
+      "web_url": "https://www.nytimes.com/2024/01/26/world/middleeast/un-aid-israel-oct-7-attacks.html",
+      "word_count": 937
+    },
+    {
+      "abstract": "The prince had been suing Associated Newspapers over a 2022 article suggesting he misled the public over his security arrangements, claiming it was defamatory.",
+      "byline": {
+        "original": "By Mark Landler"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Prince Harry Withdraws Libel Claim Against Mail on Sunday Publisher",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/faf63e77-08e1-51f1-b358-875d85775de4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Royal Families",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Libel and Slander",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Newspapers",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Suits and Litigation (Civil)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Harry, Duke of Sussex",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Mail on Sunday, The (Newspaper)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Daily Mail",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Prince Harry leaving the Royal Courts of Justice, Britain’s High Court, in London in June.",
+        "credit": "Adrian Dennis/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/01/19/multimedia/19uk-harry-1-tvzm/19uk-harry-1-tvzm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/01/19/multimedia/19uk-harry-1-tvzm/19uk-harry-1-tvzm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-01-19T18:42:51Z",
+      "section_name": "World",
+      "snippet": "The prince had been suing Associated Newspapers over a 2022 article suggesting he misled the public over his security arrangements, claiming it was defamatory.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/faf63e77-08e1-51f1-b358-875d85775de4",
+      "web_url": "https://www.nytimes.com/2024/01/19/world/europe/prince-harry-libel-claim.html",
+      "word_count": 626
+    },
+    {
+      "abstract": "A",
+      "byline": {
+        "original": "By Patrick Kingsley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel presents its defense against claims of genocide in Gaza.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/41034152-60a3-5cf7-8b47-5d7be0791e3a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Tal Becker, left, the legal counselor for Israel’s Ministry of Foreign Affairs, and Malcolm Shaw, a lawyer, on Thursday at the International Court of Justice in The Hague.",
+        "credit": "Remko De Waal/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/01/12/multimedia/12israel-hamas-ICJ-hearing-fpmk/12israel-hamas-ICJ-hearing-fpmk-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/01/12/multimedia/12israel-hamas-ICJ-hearing-fpmk/12israel-hamas-ICJ-hearing-fpmk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-01-12T16:20:08Z",
+      "section_name": "World",
+      "snippet": "A",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/41034152-60a3-5cf7-8b47-5d7be0791e3a",
+      "web_url": "https://www.nytimes.com/live/2024/01/11/world/israel-hamas-houthi-yemen-news/israel-presents-its-defense-against-claims-of-genocide-in-gaza",
+      "word_count": 722
+    },
+    {
+      "abstract": "Plus, 52 travel destinations for 2024.",
+      "byline": {
+        "original": "By Amelia Nierenberg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Wednesday Briefing: Trump’s Immunity Claim in Court",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1dee8fc2-6b79-58f1-bfba-ae4015beba09",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Far East, South and Southeast Asia and Pacific Areas",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "Donald Trump after a court hearing yesterday.",
+        "credit": "Susan Walsh/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/01/09/multimedia/011023ambriefing-asia-promo/10ambriefing-asia-trump1-articleLarge.jpg",
+          "height": 480,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/01/09/multimedia/011023ambriefing-asia-promo/011023ambriefing-asia-promo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "NYTNow",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-01-09T21:08:14Z",
+      "section_name": "World",
+      "snippet": "Plus, 52 travel destinations for 2024.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "briefing",
+      "uri": "nyt://article/1dee8fc2-6b79-58f1-bfba-ae4015beba09",
+      "web_url": "https://www.nytimes.com/2024/01/09/world/trump-immunity-claim-asia.html",
+      "word_count": 1151
+    },
+    {
+      "abstract": "The group, which has struck before in Iran, has a long history of division with the country.",
+      "byline": {
+        "original": "By Vivian Yee, Hwaida Saad and Eric Schmitt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Claims Responsibility for Deadly Bombings in Iran",
+        "kicker": "",
+        "print_headline": "Islamic State Takes Responsibility for Deadly Bombings at Memorial in Iran"
+      },
+      "_id": "nyt://article/dfba5526-4436-58c8-807b-96c17df0d426",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State Khorasan",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Suleimani, Qassim",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Funerals and Memorials",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A photo released by Iran’s state-run news media on Wednesday of the site of the explosions in the city of Kerman.",
+        "credit": "Sare Tajalli/ISNA, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/01/04/multimedia/04iran-blasts-wqlh/04iran-blasts-wqlh-articleLarge.jpg",
+          "height": 391,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/01/04/multimedia/04iran-blasts-wqlh/04iran-blasts-wqlh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2024-01-04T11:07:36Z",
+      "section_name": "World",
+      "snippet": "The group, which has struck before in Iran, has a long history of division with the country.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/dfba5526-4436-58c8-807b-96c17df0d426",
+      "web_url": "https://www.nytimes.com/2024/01/04/world/middleeast/us-isis-iran-general-suleimani.html",
+      "word_count": 1155
+    }
+  ]
+}

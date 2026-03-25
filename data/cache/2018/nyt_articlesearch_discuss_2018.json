@@ -1,0 +1,1101 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20180101",
+    "end_date": "20181231",
+    "fq": "(headline.default:(\"discuss\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 13,
+  "docs": [
+    {
+      "abstract": "Upset by President Trump’s order to withdraw troops, and expecting a Turkish attack, the Syrian Democratic Forces are considering freeing fighters, a monitoring group and official said.",
+      "byline": {
+        "original": "By Hwaida Saad and Rod Nordland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kurdish Fighters Discuss Releasing Almost 3,200 ISIS Prisoners",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/15ecb79f-a819-58ca-af58-0ca22a4352d8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Kurds",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Prisons and Prisoners",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "People's Protection Units (YPG)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Kurdistan Workers' Party",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Syrian Democratic Forces",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Troops from the Syrian Democratic Forces at a funeral for fellow fighters in September. The Kurdish group has fought the Islamic State with American support.",
+        "credit": "Delil Souleiman/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/21/world/21syria/merlin_143774256_3aa5fdee-59a4-4218-9ff3-d655ebf50d65-articleLarge.jpg",
+          "height": 398,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/21/world/21syria/21syria-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-12-20T14:13:21Z",
+      "section_name": "World",
+      "snippet": "Upset by Mr. Trump’s order to withdraw troops, and expecting a Turkish attack, the Syrian Democratic Forces are considering freeing fighters, a monitoring group and official said.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/15ecb79f-a819-58ca-af58-0ca22a4352d8",
+      "web_url": "https://www.nytimes.com/2018/12/20/world/middleeast/isis-syria-prisoner-release-trump.html",
+      "word_count": 1315
+    },
+    {
+      "abstract": "Representatives from the group joined diplomats from the United States and several Asian countries in the United Arab Emirates, but resisted meetings with the Afghan delegation.",
+      "byline": {
+        "original": "By Mujib Mashal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Taliban Appear Ready to Discuss Peace Talks, Except With Afghan Officials",
+        "kicker": "",
+        "print_headline": "Path to Talks With Taliban, But Obstacle  Still Remains"
+      },
+      "_id": "nyt://article/d75169ad-747d-56be-bda2-621d3b40bf5f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "United Arab Emirates",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Zalmay Khalilzad, the United States special envoy for Afghanistan, has led an urgent push to begin peace talks.",
+        "credit": "U.S embassy Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/18/world/18Afghanistan-print/merlin_147015714_6a5a04d6-ae04-41ad-8c8f-8cd74b4c20d4-articleLarge.jpg",
+          "height": 329,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/18/world/18Afghanistan-print/18Afghanistan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-12-17T15:47:31Z",
+      "section_name": "World",
+      "snippet": "Representatives from the group joined diplomats from the United States and several Asian countries in the United Arab Emirates, but resisted meetings with the Afghan delegation.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/d75169ad-747d-56be-bda2-621d3b40bf5f",
+      "web_url": "https://www.nytimes.com/2018/12/17/world/asia/taliban-afghanistan-peace-talks.html",
+      "word_count": 593
+    },
+    {
+      "abstract": "During discussions in Riyadh in 2017, Saudi intelligence officials discussed hiring private companies to kill the head of Iran’s Quds force and other Iranian operatives.",
+      "byline": {
+        "original": "By Mark Mazzetti, Ronen Bergman and David D. Kirkpatrick"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Saudis Close to Crown Prince Discussed Killing Other Enemies a Year Before Khashoggi’s Death",
+        "kicker": "",
+        "print_headline": "Saudis Discussed  Hiring Assassins  To Kill Iranians"
+      },
+      "_id": "nyt://article/3f2d3c7f-124b-57fe-bd8b-207c398baa08",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Mohammed bin Salman (1985- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Assiri, Ahmed al-",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Zamel, Joel",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Nader, George A (1959- )",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Khashoggi, Jamal",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Suleimani, Qassim",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Sabotage (Crime)",
+          "rank": 12
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic Revolutionary Guards Corps",
+          "rank": 13
+        },
+        {
+          "name": "Person",
+          "value": "Prince, Erik D",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "Top Saudi officials considered using private companies to assassinate political enemies at a time when Crown Prince Mohammed bin Salman was consolidating power.",
+        "credit": "Giuseppe Cacace/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/12/us/politics/12dc-assassinate-p1/merlin_145774026_383343e5-5463-40d4-a41b-c67d279f639b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/12/us/politics/12dc-assassinate-p1/10dc-assassinate1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2018-11-11T18:24:52Z",
+      "section_name": "World",
+      "snippet": "During discussions in Riyadh in 2017, Saudi intelligence officials discussed hiring private companies to kill the head of Iran’s Quds force and other Iranian operatives.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/3f2d3c7f-124b-57fe-bd8b-207c398baa08",
+      "web_url": "https://www.nytimes.com/2018/11/11/world/middleeast/saudi-iran-assassinations-mohammed-bin-salman.html",
+      "word_count": 1446
+    },
+    {
+      "abstract": "President Trump said the United States had asked Turkish officials for what they say are recordings of the gruesome killing of Jamal Khashoggi by Saudi agents.",
+      "byline": {
+        "original": "By Carlotta Gall"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mike Pompeo Meets Turkish President to Discuss Saudi Journalist’s Fate",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/088d613f-14ef-5628-b04c-db248fb43960",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Torture",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Khashoggi, Jamal",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Mohammed bin Salman (1985- )",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Salman, King of Saudi Arabia",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Ankara (Turkey)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Istanbul (Turkey)",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Riyadh (Saudi Arabia)",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "U.S. Secretary of State Mike Pompeo arrives in Ankara, Turkey, on October 17.",
+        "credit": "Leah Millis/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/17/us/politics/pompeo/pompeo-articleLarge-v2.jpg",
+          "height": 404,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/17/us/politics/pompeo/pompeo-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-10-17T11:09:20Z",
+      "section_name": "World",
+      "snippet": "News outlets in Turkey released gruesome accounts from what they say are recordings of Jamal Khashoggi’s death. Mr. Pompeo said Saudi officials promised accountability.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/088d613f-14ef-5628-b04c-db248fb43960",
+      "web_url": "https://www.nytimes.com/2018/10/17/world/europe/mike-pompeo-turkey-saudi-arabia.html",
+      "word_count": 1329
+    },
+    {
+      "abstract": "Venezuelan military officers seeking to overthrow President Nicolás Maduro sought help from the Trump administration, which met with them several times.",
+      "byline": {
+        "original": "By Ernesto Londoño and Nicholas Casey"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Administration Discussed Coup Plans With Rebel Venezuelan Officers",
+        "kicker": "",
+        "print_headline": "U.S. Met Rebels  From Venezuela  About Coup Plot"
+      },
+      "_id": "nyt://article/e1606097-e9d3-525f-9c93-138df00d22ce",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Maduro, Nicolas",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Coups D'Etat and Attempted Coups D'Etat",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Latin America",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A military ceremony in Caracas, Venezuela, this month. The White House declined to answer detailed questions about talks with rebellious officers.",
+        "credit": "Juan Barreto/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/00venezuelamilitary1/merlin_142029489_4985abe2-ffd6-45c1-a530-2139d52b3592-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/00venezuelamilitary1/00venezuelamilitary1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2018-09-08T09:00:08Z",
+      "section_name": "World",
+      "snippet": "Venezuelan military officers seeking to overthrow President Nicolás Maduro sought help from the Trump administration, which met with them several times.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/e1606097-e9d3-525f-9c93-138df00d22ce",
+      "web_url": "https://www.nytimes.com/2018/09/08/world/americas/donald-trump-venezuela-military-coup.html",
+      "word_count": 2118
+    },
+    {
+      "abstract": "The countries’ leaders have already met twice this year, but Seoul hopes that another meeting could break an impasse over the dismantling of Pyongyang’s nuclear arms program.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North and South Korea to Discuss Plans for a 3rd Summit",
+        "kicker": "",
+        "print_headline": "Two Koreas May Return To the Table"
+      },
+      "_id": "nyt://article/9e4ca7bc-29fb-513f-a627-5116565c8b47",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Moon Jae-in",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Panmunjom (South Korea)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Control and Limitation and Disarmament",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "North Korea’s leader Kim Jong-un, left, and President Moon Jae-in of South Korea on their countries’ border in April. The South hopes another such meeting will help break the impasse in talks between the North and the Trump administration.",
+        "credit": "Pool photo by Korea Summit Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/08/10/world/10korea/merlin_137406981_bb5ee60e-7e8d-403d-bff8-3c6f94a240ab-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/08/10/world/10korea/10korea-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-08-09T12:25:06Z",
+      "section_name": "World",
+      "snippet": "The countries’ leaders have already met twice this year, but Seoul hopes that another meeting could break an impasse over the dismantling of Pyongyang’s nuclear arms program.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9e4ca7bc-29fb-513f-a627-5116565c8b47",
+      "web_url": "https://www.nytimes.com/2018/08/09/world/asia/north-korea-south-summit.html",
+      "word_count": 590
+    },
+    {
+      "abstract": "Talks on returning American troops killed in the Korean War did not take place as planned. But it was unclear whether U.S. officials had been deliberately stood up.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Koreans Are No-Shows at Meeting to Discuss U.S. Soldiers’ Remains",
+        "kicker": "",
+        "print_headline": "North Korea Misses Talks With U.S. On Remains"
+      },
+      "_id": "nyt://article/857bd3dd-5c41-5c19-9d77-aa5659da5af4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Panmunjom (South Korea)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Korean War",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Mike Pompeo said last week, after meeting with North Korean officials, that working-level talks would be held on or about Thursday to discuss returning the remains of American soldiers killed in the Korean War.",
+        "credit": "Pool photo by Andrew Harnik",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/13/world/13nkorea-remains/merlin_140902542_9f718a8a-2f51-4349-b1fc-63f8e97d5995-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/13/world/13nkorea-remains/13nkorea-remains-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-07-12T13:36:53Z",
+      "section_name": "World",
+      "snippet": "Talks on returning American troops killed in the Korean War did not take place as planned. But it was unclear whether U.S. officials had been deliberately stood up.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/857bd3dd-5c41-5c19-9d77-aa5659da5af4",
+      "web_url": "https://www.nytimes.com/2018/07/12/world/asia/north-korea-remains-soldiers.html",
+      "word_count": 642
+    },
+    {
+      "abstract": "Moon Jae-in, the South Korean leader, is to meet President Trump at the White House next week to discuss possible incentives for Pyongyang to denuclearize.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. and South Korea to Discuss North’s ‘Bright Future’",
+        "kicker": "",
+        "print_headline": "U.S. and South Korea Will Discuss the North’s ‘Bright Future’ at the White House"
+      },
+      "_id": "nyt://article/918e739c-c251-5180-ba3e-43cf2c29ed7f",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Moon Jae-in",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Control and Limitation and Disarmament",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A picture released by North Korea&rsquo;s state news agency on Friday showing Kim Jong-un at a military commission meeting. The North has become increasingly disagreeable toward the South and the United States in recent days.",
+        "credit": "Korean Central News Agency, via Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/19/world/19korea-1-print/19korea-1sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/19/world/19korea-1-print/19korea-1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2018-05-18T11:40:20Z",
+      "section_name": "World",
+      "snippet": "Moon Jae-in, the South Korean leader, is to meet President Trump at the White House next week to discuss possible incentives for Pyongyang to denuclearize.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/918e739c-c251-5180-ba3e-43cf2c29ed7f",
+      "web_url": "https://www.nytimes.com/2018/05/18/world/asia/trump-moon-jae-in-south-korea-north-.html",
+      "word_count": 1049
+    },
+    {
+      "abstract": "Secretary of State Mike Pompeo came to Israel in the midst of escalating protests in Gaza, but he did not meet with Palestinian leaders and kept the policy focus on Iran.",
+      "byline": {
+        "original": "By Gardiner Harris and Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pompeo and Palestinians Have ‘Nothing to Discuss’ Amid Gaza Crisis",
+        "kicker": "",
+        "print_headline": "Pompeo, in Israel, Bypasses Palestinians"
+      },
+      "_id": "nyt://article/5a1a38a1-2403-5fec-a4e3-61e58976f2a1",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Jerusalem (Israel)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Mike Pompeo, left, met with Prime Minister Benjamin Netanyahu on Sunday. Iran was the focus of their remarks to reporters.",
+        "credit": "Pool photo by Thomas Coex",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/04/30/world/30diplo/merlin_137497254_45941e7f-106a-410a-8d5e-557e5d00e773-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/04/30/world/30diplo/30diplo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-04-29T23:01:46Z",
+      "section_name": "World",
+      "snippet": "Secretary of State Mike Pompeo came to Israel in the midst of protests in Gaza, but he did not meet with Palestinian leaders and kept the focus on Iran.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/5a1a38a1-2403-5fec-a4e3-61e58976f2a1",
+      "web_url": "https://www.nytimes.com/2018/04/29/world/middleeast/mike-pompeo-israel-palestinians.html",
+      "word_count": 1018
+    },
+    {
+      "abstract": "South Korea said it had been in talks with both American and North Korean officials about replacing the 1953 armistice with a full peace agreement.",
+      "byline": {
+        "original": "By Choe Sang-Hun and Jane Perlez"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Treaty to Formally End Korean War Is Being Discussed, South Confirms",
+        "kicker": "",
+        "print_headline": "Seoul Confirms Talks on Treaty to End War"
+      },
+      "_id": "nyt://article/c6ed476e-556a-58ec-b02f-e8275b365fc3",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Korean War",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Treaties",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Control and Limitation and Disarmament",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Moon Jae-in",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Chung Eui-yong, second from left, the South Korean president&rsquo;s national security adviser, visiting Washington last week.",
+        "credit": "Susan Walsh/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/04/19/world/19korea-3-print-sub/19korea-3-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/04/19/world/19korea-3-print-sub/19korea-3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-04-18T13:47:16Z",
+      "section_name": "World",
+      "snippet": "South Korea said it had been in talks with both American and North Korean officials about replacing the 1953 armistice with a full peace agreement.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/c6ed476e-556a-58ec-b02f-e8275b365fc3",
+      "web_url": "https://www.nytimes.com/2018/04/18/world/asia/north-korea-south-treaty.html",
+      "word_count": 1287
+    },
+    {
+      "abstract": "This week’s Australia Letter features key takeaways from a discussion about democracy and populism with George Megalogenis and A.C. Grayling, plus what’s on Netflix in Australia this month.",
+      "byline": {
+        "original": "By Damien Cave"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Too Much Tech and Secrecy, Not Enough Leadership. Discuss.",
+        "kicker": "Letter 48",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e682f633-7c98-5b65-a00e-32c96520a8fb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Social Media",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Freedom House",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Parwana Afghan Kitchen (Adelaide, Australia, Restaurant)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Grayling, A C",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Pell, George (1941- )",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Wu, Susan (Technology Executive)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Adelaide (Australia)",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Courtesy of Adelaide Writers' Week",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/03/08/world/australia/08australialetter48-festival/08australialetter48-festival-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/03/08/world/australia/08australialetter48-festival/08australialetter48-festival-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-03-08T00:58:52Z",
+      "section_name": "World",
+      "snippet": "This week’s Australia Letter features key takeaways from a discussion about democracy and populism with George Megalogenis and A.C. Grayling, plus what’s on Netflix in Australia this month.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "Newsletter",
+      "uri": "nyt://article/e682f633-7c98-5b65-a00e-32c96520a8fb",
+      "web_url": "https://www.nytimes.com/2018/03/07/world/australia/adelaide-writers-grayling-megalogenis-democracy-letter48.html",
+      "word_count": 1396
+    },
+    {
+      "abstract": "South Korea proposed that the two Koreas field a joint women’s hockey team at the Pyeongchang Games next month. North Korea wouldn’t say whether it supported the idea.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Olympics Officials Discuss a Potential First: A Unified Korean Hockey Team",
+        "kicker": "",
+        "print_headline": "Koreas May Unite, on the Ice Rink"
+      },
+      "_id": "nyt://article/1ad38cf7-f8c8-5140-a5f5-94cadfa16492",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Olympic Games (2018)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Hockey, Ice",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "International Olympic Committee",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Pyeongchang (South Korea)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "South Korea and North Korea competing at the women’s hockey world championships in Gangneung, South Korea, in April.",
+        "credit": "Ahn Young-joon/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/14/world/asia/14korea/14korea-articleLarge.jpg",
+          "height": 374,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/14/world/asia/14korea/14korea-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-01-13T10:23:37Z",
+      "section_name": "World",
+      "snippet": "South Korea proposed that the two Koreas field a joint women’s hockey team at the Pyeongchang Games next month. North Korea wouldn’t say whether it supported the idea.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/1ad38cf7-f8c8-5140-a5f5-94cadfa16492",
+      "web_url": "https://www.nytimes.com/2018/01/13/world/asia/korea-olympics-pyeongchang-hockey.html",
+      "word_count": 851
+    },
+    {
+      "abstract": "The United Nations Security Council discussed the recent protests in Iran over economic conditions there.",
+      "byline": {
+        "original": "By Michael Schwirtz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.S. Wanted to Discuss Iran. Russia Brought Up Black Lives Matter.",
+        "kicker": "",
+        "print_headline": "Russia and U.S. Joust at U.N. Over Iran Protests"
+      },
+      "_id": "nyt://article/10627118-d8f0-5d9b-aafb-a12407af9f55",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Haley, Nikki R",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Security Council (UN)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Javad Safaei of the Iranian delegation and the American ambassador to the United Nations, Nikki R. Haley, during a Security Council meeting on Friday.",
+        "credit": "Drew Angerer/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/06/world/06nations/06nations-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/06/world/06nations/06nations-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2018-01-06T00:34:28Z",
+      "section_name": "World",
+      "snippet": "The United Nations Security Council discussed the recent protests in Iran over economic conditions there.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/10627118-d8f0-5d9b-aafb-a12407af9f55",
+      "web_url": "https://www.nytimes.com/2018/01/05/world/middleeast/un-iran-protests-debate.html",
+      "word_count": 861
+    }
+  ]
+}

@@ -1,0 +1,1642 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20240101",
+    "end_date": "20241231",
+    "fq": "(headline.default:(\"discuss\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 22,
+  "docs": [
+    {
+      "abstract": "President-elect Donald J. Trump has threatened to impose tariffs on Canadian exports unless the country stops the flow of migrants and fentanyl to the U.S.",
+      "byline": {
+        "original": "By Ian Austen and Lisa Friedman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Canadian Ministers Meet Trump Aides at Mar-a-Lago to Discuss Border, and Tariffs",
+        "kicker": "",
+        "print_headline": "Two Ministers From Canada Meeting Aides At Mar-a-Lago"
+      },
+      "_id": "nyt://article/057efa19-09d5-5377-a996-48e669c07379",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trudeau, Justin",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Customs (Tariff)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Protectionism (Trade)",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Illegal Immigration",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Fentanyl",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Mélanie Joly, Canada’s foreign minister, and Dominic LeBlanc, who recently became finance minister, last year in Ottawa.",
+        "credit": "Justin Tang/The Canadian Press, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/12/27/multimedia/27dc-trump-lhpf/27dc-trump-lhpf-articleLarge.jpg",
+          "height": 415,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/12/27/multimedia/27dc-trump-lhpf/27dc-trump-lhpf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "3",
+      "print_section": "B",
+      "pub_date": "2024-12-27T17:40:59Z",
+      "section_name": "World",
+      "snippet": "President-elect Donald J. Trump has threatened to impose tariffs on Canadian exports unless the country stops the flow of migrants and fentanyl to the U.S.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/057efa19-09d5-5377-a996-48e669c07379",
+      "web_url": "https://www.nytimes.com/2024/12/27/world/canada/canada-ministers-trump-border-tariffs.html",
+      "word_count": 837
+    },
+    {
+      "abstract": "As Donald J. Trump prepares to take office in the United States, President Volodymyr Zelensky attended a meeting hosted by the NATO chief to plot the path forward in the war with Russia.",
+      "byline": {
+        "original": "By Jenny Gross and Steven Erlanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Zelensky Meets With European Leaders to Discuss Ukraine’s Future",
+        "kicker": "",
+        "print_headline": "E.U. Leaders And Zelensky Discussing Kyiv’s Future"
+      },
+      "_id": "nyt://article/5b2ae543-8135-5f2f-8a46-caf1be5c5729",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Peace Process",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Zelensky, Volodymyr",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "North Atlantic Treaty Organization",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Rutte, Mark",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "President Volodymyr Zelensky of Ukraine, left, with Mark Rutte, the head of NATO, in Brussels, in October.",
+        "credit": "Olivier Matthys/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/12/18/multimedia/18eu-ukraine-zkhb/18eu-ukraine-zkhb-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/12/18/multimedia/18eu-ukraine-zkhb/18eu-ukraine-zkhb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2024-12-18T14:48:33Z",
+      "section_name": "World",
+      "snippet": "As Donald J. Trump prepares to take office in the United States, President Volodymyr Zelensky attended a meeting hosted by the NATO chief to plot the path forward in the war with Russia.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/5b2ae543-8135-5f2f-8a46-caf1be5c5729",
+      "web_url": "https://www.nytimes.com/2024/12/18/world/europe/zelensky-eu-ukraine.html",
+      "word_count": 713
+    },
+    {
+      "abstract": "Defense Secretary Lloyd J. Austin III spoke with his Israeli counterpart, Yoav Gallant, on Thursday, the Pentagon said.",
+      "byline": {
+        "original": "By Eric Schmitt"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israeli and U.S. Defense Ministers Discuss Israel’s Expanding Conflicts in Mideast",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9ae01d40-79c0-5505-aa93-12f793a0e633",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Iran-Israel Proxy Conflict",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Austin, Lloyd J III",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Gallant, Yoav",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Lebanon",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Defense Minister Yoav Gallant of Israel at the Pentagon in June. Mr. Gallant and Defense Secretary Lloyd J. Austin III had been scheduled to meet in Washington this week, but the visit was postponed.",
+        "credit": "Kevin Lamarque/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/10/11/multimedia/11mideast-crisis-austin-gallant-twkh/11mideast-crisis-austin-gallant-twkh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/10/11/multimedia/11mideast-crisis-austin-gallant-twkh/11mideast-crisis-austin-gallant-twkh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-10-11T18:00:52Z",
+      "section_name": "World",
+      "snippet": "Defense Secretary Lloyd J. Austin III spoke with his Israeli counterpart, Yoav Gallant, on Thursday, the Pentagon said.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/9ae01d40-79c0-5505-aa93-12f793a0e633",
+      "web_url": "https://www.nytimes.com/2024/10/11/world/middleeast/gallant-austin-israel-war.html",
+      "word_count": 415
+    },
+    {
+      "abstract": "The cabinet was expected to authorize initiating a retaliatory attack, officials said. They didn’t make their decision public.",
+      "byline": {
+        "original": "By Aaron Boxerman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel’s Security Cabinet Met to Discuss Response to Iran Attack",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/32341277-c267-5ee8-82b3-7fb1252deebd",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Iran-Israel Proxy Conflict",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "An Israeli soldier inspects the remains of an Iranian ballistic missile in southern Israel on Wednesday.",
+        "credit": "Amir Cohen/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/10/09/multimedia/10mideast-israel-security-cabinet/09mideast-crisis-carousel-vmlq-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/10/09/multimedia/10mideast-israel-security-cabinet/09mideast-crisis-carousel-vmlq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-10-10T14:38:00Z",
+      "section_name": "World",
+      "snippet": "The cabinet was expected to authorize initiating a retaliatory attack, officials said. They didn’t make their decision public.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/32341277-c267-5ee8-82b3-7fb1252deebd",
+      "web_url": "https://www.nytimes.com/2024/10/10/world/middleeast/israel-iran-attack-response-security-cabinet-meeting.html",
+      "word_count": 364
+    },
+    {
+      "abstract": "The president was asked about a potential strike on the oil infrastructure of Iran, which accounts for about 2 percent of the world’s supply.",
+      "byline": {
+        "original": "By Jason Karaian and Stanley Reed"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Oil Prices Jump After Biden Says ‘Discussing’ Israeli Strike on Iranian Facilities",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/97a461d2-7d56-5d3f-b37a-707428c54989",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Iran-Israel Proxy Conflict",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Prices (Fares, Fees and Rates)",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 11
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "Missiles and Missile Defense Systems",
+          "rank": 13
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "President Biden spoke to the news media as he prepared to board Marine One from the White House on Thursday. ",
+        "credit": "Tierney L. Cross for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/10/03/multimedia/03mideast-crisis-oil-biden-zhck/03mideast-crisis-oil-biden-zhck-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/10/03/multimedia/03mideast-crisis-oil-biden-zhck/03mideast-crisis-oil-biden-zhck-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-10-03T17:37:56Z",
+      "section_name": "World",
+      "snippet": "The president was asked about a potential strike on the oil infrastructure of Iran, which accounts for about 2 percent of the world’s supply.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/97a461d2-7d56-5d3f-b37a-707428c54989",
+      "web_url": "https://www.nytimes.com/2024/10/03/world/middleeast/oil-price-biden-iran-strike.html",
+      "word_count": 391
+    },
+    {
+      "abstract": "On the agenda for Prime Minister Keir Starmer in New York: private talks with the U.S. over whether to allow Ukraine to use long range weapons in Russia, and Middle East tensions.",
+      "byline": {
+        "original": "By Stephen Castle"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "For the second time in two weeks, U.K.’s Starmer will discuss the Ukraine weapons dilemma.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e89ce15e-0291-5e98-ba52-009f6e04e937",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Labour Party (Great Britain)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "General Assembly (UN)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Lammy, David",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Starmer, Keir",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "Britain’s prime minister, Keir Starmer, in Liverpool, Britain, on Tuesday.",
+        "credit": "Temilade Adelaja/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25uk-unga-lwpk/25uk-unga-lwpk-articleLarge.jpg",
+          "height": 374,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25uk-unga-lwpk/25uk-unga-lwpk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-09-25T19:44:51Z",
+      "section_name": "World",
+      "snippet": "On the agenda for Prime Minister Keir Starmer in New York: private talks with the U.S. over whether to allow Ukraine to use long range weapons in Russia, and Middle East tensions.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/e89ce15e-0291-5e98-ba52-009f6e04e937",
+      "web_url": "https://www.nytimes.com/live/2024/09/25/world/united-nations-zelensky-speeches/for-the-second-time-in-two-weeks-uks-starmer-will-discuss-the-ukraine-weapons-dilemma",
+      "word_count": 552
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Matthew Mpoke Bigg"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "An Israeli man is charged with meeting with Iranian agents and discussing a plot to kill Netanyahu.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9cd3b60f-3249-5acc-88cb-efab2e3aaf42",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Motti Maman, 73, appears in Beersheba District Court in southern Israel on Thursday where he was accused of being involved in an Iranian plot to assassinate the Israeli prime minister, Benjamin Netanyahu.",
+        "credit": "Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19mideast-crisis-iran-indictment-khbg/19mideast-crisis-iran-indictment-khbg-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19mideast-crisis-iran-indictment-khbg/19mideast-crisis-iran-indictment-khbg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-09-19T17:42:36Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/9cd3b60f-3249-5acc-88cb-efab2e3aaf42",
+      "web_url": "https://www.nytimes.com/live/2024/09/19/world/israel-hezbollah-gaza-hamas/an-israeli-man-is-charged-with-meeting-with-iranian-agents-and-discussing-a-plot-to-kill-netanyahu",
+      "word_count": 326
+    },
+    {
+      "abstract": "Secretary of State Antony J. Blinken and his British counterpart, David Lammy, made a rare joint trip to Ukraine to show allied solidarity as the American presidential election looms.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Kyiv, Blinken Discusses Ukraine’s Push for Deep Missile Strikes into Russia",
+        "kicker": "",
+        "print_headline": "Blinken Discusses Strikes on Kyiv Trip"
+      },
+      "_id": "nyt://article/4b5b8d54-60a6-5047-b3a6-2a45206a6539",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Blinken, Antony J",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Kyiv (Ukraine)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Aid",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Antony J. Blinken, center, walking beside his British counterpart, David Lammy, as they arrived via train in Kyiv, Ukraine, on Wednesday.",
+        "credit": "Mark Schiefelbein/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11ukraine-blinken-hlck/11ukraine-blinken-hlck-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11ukraine-blinken-hlck/11ukraine-blinken-hlck-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2024-09-11T08:31:42Z",
+      "section_name": "World",
+      "snippet": "Secretary of State Antony J. Blinken and his British counterpart, David Lammy, made a rare joint trip to Ukraine to show allied solidarity as the American presidential election looms.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/4b5b8d54-60a6-5047-b3a6-2a45206a6539",
+      "web_url": "https://www.nytimes.com/2024/09/11/world/europe/ukraine-war-blinken-visit-kyiv.html",
+      "word_count": 1258
+    },
+    {
+      "abstract": "In discussions in Beijing, the two sides made clear that many differences remain over Taiwan, technology export controls and trade disputes.",
+      "byline": {
+        "original": "By Keith Bradsher and David Pierson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. and Chinese Officials Discuss Future Talks Between Biden and Xi",
+        "kicker": "",
+        "print_headline": "U.S. and Chinese Officials Weigh Next Talks Between Leaders and Militaries"
+      },
+      "_id": "nyt://article/275ed32b-45a7-558b-b062-2f7a88f065a6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Austin, Lloyd J III",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Sullivan, Jacob J (1976- )",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Jake Sullivan, President Biden’s national security adviser, and Wang Yi, China’s top foreign policy official, in Beijing on Wednesday.",
+        "credit": "Pool photo by Ng Han Guan",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/08/29/multimedia/29china-us-photo-jqfh/29china-us-photo-jqfh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/08/29/multimedia/29china-us-photo-jqfh/29china-us-photo-jqfh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2024-08-28T15:36:59Z",
+      "section_name": "World",
+      "snippet": "In discussions in Beijing, the two sides made clear that many differences remain over Taiwan, technology export controls and trade disputes.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/275ed32b-45a7-558b-b062-2f7a88f065a6",
+      "web_url": "https://www.nytimes.com/2024/08/28/world/asia/us-china-biden-xi.html",
+      "word_count": 848
+    },
+    {
+      "abstract": "Aides to the two men, who met last month at Mar-a-Lago, had denied that such a call had taken place.",
+      "byline": {
+        "original": "By Maggie Haberman, Jonathan Swan and Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "PBS’s Woodruff Calls Comments Suggesting Trump and Netanyahu Discussed Cease-Fire a ‘Mistake’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0aff542c-f417-58bc-919f-3b31cb1cdfa6",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Woodruff, Judy",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Public Broadcasting Service",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Axios Media Inc",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Thomson Reuters Corporation",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Former President Donald J. Trump greeting Prime Minister Benjamin Netanyahu of Israel and his wife, Sara Netanyahu, at Mar-a-Lago in West Palm Beach on July 26. ",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/08/21/multimedia/21mideast-crisis-trump-denial-tfzk/21mideast-crisis-trump-denial-tfzk-articleLarge.jpg",
+          "height": 390,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/08/21/multimedia/21mideast-crisis-trump-denial-tfzk/21mideast-crisis-trump-denial-tfzk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-08-21T21:04:44Z",
+      "section_name": "World",
+      "snippet": "Aides to the two men, who met last month at Mar-a-Lago, had denied that such a call had taken place.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/0aff542c-f417-58bc-919f-3b31cb1cdfa6",
+      "web_url": "https://www.nytimes.com/2024/08/22/world/middleeast/trump-netanyahu-cease-fire-talks-israel-woodruff-pbs.html",
+      "word_count": 394
+    },
+    {
+      "abstract": "The Group of 7 gathers major industrialized countries, but its leaders are politically weak and Ukraine and Gaza remain unsolved.",
+      "byline": {
+        "original": "By Mark Landler and Steven Erlanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Weakened Leaders of the West Gather in Italy to Discuss an Unruly World",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/937d629e-5c21-5863-9358-9b93767b194d",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Group of Seven",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Protectionism (Trade)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Right-Wing Extremism and Alt-Right",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Meloni, Giorgia (1977- )",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Macron, Emmanuel (1977- )",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Scholz, Olaf (1958- )",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Trudeau, Justin",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Italy",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 14
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 15
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 16
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 17
+        },
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 18
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 19
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 20
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 21
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 22
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 23
+        }
+      ],
+      "multimedia": {
+        "caption": "World leaders at this year’s G7 meeting, in Savelletri, Italy on June 13, 2024.",
+        "credit": "Erin Schaff/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/06/13/multimedia/13g7-leaders-home-fvgm/13g7-leaders-home-fvgm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/06/13/multimedia/13g7-leaders-home-fvgm/13g7-leaders-home-fvgm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-06-13T04:01:18Z",
+      "section_name": "World",
+      "snippet": "The Group of 7 gathers major industrialized countries, but its leaders are politically weak and Ukraine and Gaza remain unsolved.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/937d629e-5c21-5863-9358-9b93767b194d",
+      "web_url": "https://www.nytimes.com/2024/06/13/world/europe/g7-leaders-weakened.html",
+      "word_count": 1302
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel’s defense minister discusses a ‘governing alternative’ to Hamas, and other news.",
+        "kicker": "Key Developments",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/648516c1-bf9d-53cd-96b8-bc8e8f160477",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-06-02T08:45:11Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/648516c1-bf9d-53cd-96b8-bc8e8f160477",
+      "web_url": "https://www.nytimes.com/live/2024/06/02/world/israel-gaza-war-hamas-rafah/two-of-netanyahus-coalition-partners-push-back-on-a-cease-fire-proposal-and-other-news",
+      "word_count": 395
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israeli, Egyptian and U.S. officials will discuss reopening Rafah, and other news.",
+        "kicker": "Key Developments",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cc44ff3e-2ae3-5358-bb3f-3dd181bff640",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-06-01T11:50:00Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/cc44ff3e-2ae3-5358-bb3f-3dd181bff640",
+      "web_url": "https://www.nytimes.com/live/2024/06/01/world/israel-gaza-war-hamas-rafah/world-leaders-and-officials-welcome-the-cease-fire-proposal-and-other-news",
+      "word_count": 194
+    },
+    {
+      "abstract": "“The only thing standing between the people of Gaza and a cease-fire is Hamas,” said Secretary of State Antony J. Blinken.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Blinken Meets With Arab Officials to Discuss Gaza and Postwar Plans",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a8acf88b-c2e4-5b69-af41-98e691cdc332",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Blinken, Antony J",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Antony J. Blinken, right, attended a joint ministerial meeting of the Gulf Cooperation Council in Riyadh, Saudi Arabia, on Monday.",
+        "credit": "Pool photo by Evelyn Hockstein",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/29/multimedia/29mideast-crisis-blinken-new-qhzf/29mideast-crisis-blinken-new-qhzf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/29/multimedia/29mideast-crisis-blinken-new-qhzf/29mideast-crisis-blinken-new-qhzf-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-04-29T05:14:47Z",
+      "section_name": "World",
+      "snippet": "“The only thing standing between the people of Gaza and a cease-fire is Hamas,” said Secretary of State Antony J. Blinken.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a8acf88b-c2e4-5b69-af41-98e691cdc332",
+      "web_url": "https://www.nytimes.com/2024/04/29/world/middleeast/us-antony-blinken-saudi-arabia.html",
+      "word_count": 874
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Vivek Shankar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "France’s foreign minister is in Lebanon to discuss tensions between Hezbollah and Israel.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f07f0b5b-2321-5cf8-8501-47ebd894f5e4",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Stéphane Séjourné, left, the French foreign minister, with Nabih Berri, Lebanon’s parliamentary speaker, in Beirut, Lebanon, on Sunday.",
+        "credit": "Hassan Ammar/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/28/multimedia/28mideast-crisis-diplo-bpqw/28mideast-crisis-diplo-bpqw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/28/multimedia/28mideast-crisis-diplo-bpqw/28mideast-crisis-diplo-bpqw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-04-28T09:18:58Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/f07f0b5b-2321-5cf8-8501-47ebd894f5e4",
+      "web_url": "https://www.nytimes.com/live/2024/04/28/world/israel-gaza-war-hamas/frances-foreign-minister-is-in-lebanon-first-to-discuss-tensions-between-hezbollah-and-israel",
+      "word_count": 430
+    },
+    {
+      "abstract": "The visit next week will come as talks on a cease-fire deal have stalled and tensions have risen over the treatment of civilians in the war.",
+      "byline": {
+        "original": "By Patrick Kingsley, Peter Baker and Euan Ward"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Blinken to Return to Israel to Discuss Hostages and Planned Rafah Incursion",
+        "kicker": "",
+        "print_headline": "Blinken Plans Return to Israel to Discuss Rafah"
+      },
+      "_id": "nyt://article/d6f67917-c518-5972-8f14-b4cf6293ca5c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Blinken, Antony J",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Rafah (Gaza Strip)",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Kidnapping and Hostages",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Egypt",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Qatar",
+          "rank": 13
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 14
+        },
+        {
+          "name": "Subject",
+          "value": "Peace Process",
+          "rank": 15
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 16
+        }
+      ],
+      "multimedia": {
+        "caption": "A damaged house in Rafah, in the southern Gaza Strip, on Thursday.",
+        "credit": "Hatem Khaled/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/26/multimedia/26mideast-crisis-leadall-01-gtql/26mideast-crisis-leadall-01-gtql-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/26/multimedia/26mideast-crisis-leadall-01-gtql/26mideast-crisis-leadall-01-gtql-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2024-04-26T19:10:27Z",
+      "section_name": "World",
+      "snippet": "The visit next week will come as talks on a cease-fire deal have stalled and tensions have risen over the treatment of civilians in the war.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/d6f67917-c518-5972-8f14-b4cf6293ca5c",
+      "web_url": "https://www.nytimes.com/2024/04/26/world/middleeast/israel-gaza-blinken-rafah.html",
+      "word_count": 895
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Liam Stack and Safak Timur"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "At a meeting in Turkey, Hamas’s political leader and Erdogan discussed how to achieve a ‘fair and permanent peace in the region.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f57b0a9b-c38f-5aed-89ff-3755bea58a93",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Ismail Haniyeh, the political leader of Hamas, visiting Tehran in March.",
+        "credit": "Vahid Salemi/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/20/multimedia/20mideast-crisis-erdogan-haniyeh-tqfv/20mideast-crisis-erdogan-haniyeh-tqfv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/20/multimedia/20mideast-crisis-erdogan-haniyeh-tqfv/20mideast-crisis-erdogan-haniyeh-tqfv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-04-20T11:05:01Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/f57b0a9b-c38f-5aed-89ff-3755bea58a93",
+      "web_url": "https://www.nytimes.com/live/2024/04/20/world/israel-iran-gaza-war-news/hamass-political-leader-is-in-turkey-for-a-meeting-with-erdogan",
+      "word_count": 535
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Lara Jakes"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "E.U. ministers discuss expanding sanctions against Iran’s weapons program.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9ae5c28a-5aea-5a75-a461-010927399448",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Josep Borrell Fontelles, the foreign policy chief of the European Union, said on Tuesday that economic sanctions could be broadened to include Iran’s missile program, as well as the delivery of those weapons systems to its proxy militias.",
+        "credit": "John Thys/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/16/multimedia/16mideast-crisis-eu-ministers-gjzq/16mideast-crisis-eu-ministers-gjzq-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/16/multimedia/16mideast-crisis-eu-ministers-gjzq/16mideast-crisis-eu-ministers-gjzq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-04-16T20:02:06Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/9ae5c28a-5aea-5a75-a461-010927399448",
+      "web_url": "https://www.nytimes.com/live/2024/04/16/world/iran-israel-gaza-war-news/eu-ministers-discuss-expanding-sanctions-against-irans-weapons-program",
+      "word_count": 432
+    },
+    {
+      "abstract": "The Biden administration has expressed concern about Israel’s planned ground invasion in the city, where nearly half of Gaza’s population has sheltered.",
+      "byline": {
+        "original": "By Zach Montague"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Netanyahu to Send Israeli Team to Washington to Discuss Rafah Plans",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3269c1d0-f1a6-5e79-922a-bfabf766dd27",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Rafah (Gaza Strip)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Debris-filled streets in Rafah, Gaza, this month.",
+        "credit": "Fatima Shbair/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/04/18/multimedia/18mideast-crisis-biden-netanyahu-tcwp/18mideast-crisis-biden-netanyahu-tcwp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/04/18/multimedia/18mideast-crisis-biden-netanyahu-tcwp/18mideast-crisis-biden-netanyahu-tcwp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-03-18T21:15:34Z",
+      "section_name": "World",
+      "snippet": "The Biden administration has expressed concern about Israel’s planned ground invasion in the city, where nearly half of Gaza’s population has sheltered.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/3269c1d0-f1a6-5e79-922a-bfabf766dd27",
+      "web_url": "https://www.nytimes.com/2024/03/19/world/middleeast/rafah-netanyahu-biden.html",
+      "word_count": 660
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Farnaz Fassihi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.N. Security Council discusses sexual violence against Israeli women.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/18435e2b-13ee-5d1f-acd7-d70b114c8a23",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Pramila Patten, Special Representative of the Secretary-General on Sexual Violence in Conflict, briefed the United Nations Security Council during an emergency session on Monday.",
+        "credit": "David Dee Delgado/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/03/11/multimedia/11mideast-crisis-un-sexual-violence01-qkmc/11mideast-crisis-un-sexual-violence01-qkmc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/03/11/multimedia/11mideast-crisis-un-sexual-violence01-qkmc/11mideast-crisis-un-sexual-violence01-qkmc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-03-11T23:38:36Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/18435e2b-13ee-5d1f-acd7-d70b114c8a23",
+      "web_url": "https://www.nytimes.com/live/2024/03/12/world/israel-hamas-war-gaza-news/the-un-security-council-discusses-sexual-violence-against-israeli-women",
+      "word_count": 518
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Patrick Kingsley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israel is discussing new limits on access to an important mosque in Jerusalem.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a24b3906-1806-51f2-8ac5-49123d8acc6d",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Israeli security forces look on as Palestinians pray near the Aqsa Mosque in Jerusalem in October.",
+        "credit": "Afif Amireh for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/20/multimedia/19mideast-crisis-aqsa/20israel-palestinians-psychology-top-tvfh-articleLarge.jpg",
+          "height": 391,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/20/multimedia/19mideast-crisis-aqsa/20israel-palestinians-psychology-top-tvfh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2024-02-19T15:16:15Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/a24b3906-1806-51f2-8ac5-49123d8acc6d",
+      "web_url": "https://www.nytimes.com/live/2024/02/19/world/israel-hamas-war-gaza-news/israel-is-discussing-new-limits-on-access-to-an-important-mosque-in-jerusalem",
+      "word_count": 478
+    },
+    {
+      "abstract": "The U.S. secretary of state also planned to talk about how to prevent the violence in the Mideast from escalating further, as Iran-backed militias ramp up attacks.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Blinken Meets With el-Sisi in Egypt to Discuss Plight of Palestinians in Gaza",
+        "kicker": "",
+        "print_headline": "Blinken and el-Sisi Discuss Palestinians in Gaza"
+      },
+      "_id": "nyt://article/adb8bd1e-34f9-51bb-8a0f-9520a13d82df",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Blinken, Antony J",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Sisi, Abdel Fattah el-",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Cairo (Egypt)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Antony J. Blinken, the U.S. secretary of state, left, met with President Abdel Fattah el-Sisi of Egypt in Cairo on Thursday.",
+        "credit": "Pool photo by Evelyn Hockstein",
+        "default": {
+          "url": "https://static01.nyt.com/images/2024/01/11/multimedia/11israel-hamas-blinken-egypt-bchv/11israel-hamas-blinken-egypt-bchv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2024/01/11/multimedia/11israel-hamas-blinken-egypt-bchv/11israel-hamas-blinken-egypt-bchv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2024-01-11T11:03:13Z",
+      "section_name": "World",
+      "snippet": "The U.S. secretary of state also planned to talk about how to prevent the violence in the Mideast from escalating further, as Iran-backed militias ramp up attacks.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/adb8bd1e-34f9-51bb-8a0f-9520a13d82df",
+      "web_url": "https://www.nytimes.com/2024/01/11/world/middleeast/blinken-gaza-egypt-sisi.html",
+      "word_count": 499
+    }
+  ]
+}

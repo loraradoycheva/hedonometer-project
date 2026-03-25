@@ -1,0 +1,636 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20210101",
+    "end_date": "20211231",
+    "fq": "(headline.default:(\"discuss\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 12,
+  "docs": [
+    {
+      "abstract": "Officials are meeting on Monday on a range of issues about Afghanistan.",
+      "byline": {
+        "original": "By Lara Jakes"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Turkey, Qatar and G7 to discuss the future of Kabul airport.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1258a66e-335b-5885-9837-efec6f944416",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A member of the Taliban’s Badri 313 Battalion guarding a gate at the Kabul airport on Saturday.",
+        "credit": "Jim Huylebroek for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/08/28/world/28afghanistan-briefing-airport/merlin_193804980_afe1cc8a-0350-4218-bf61-c24587c1bfc4-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/08/28/world/28afghanistan-briefing-airport/28afghanistan-briefing-airport-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-08-28T22:32:08Z",
+      "section_name": "World",
+      "snippet": "Officials are meeting on Monday on a range of issues about Afghanistan.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/1258a66e-335b-5885-9837-efec6f944416",
+      "web_url": "https://www.nytimes.com/live/2021/08/28/world/afghanistan-taliban-biden-isis-news/turkey-qatar-and-g7-to-discuss-the-future-of-kabul-airport",
+      "word_count": 246
+    },
+    {
+      "abstract": "Russian political prisoners today are subjected to “psychological” pressure, said the opposition leader Aleksei A. Navalny, who is forced to watch state TV for more than eight hours a day.",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In First Interview From Jail, an Upbeat Navalny Discusses Prison Life",
+        "kicker": "",
+        "print_headline": "Navalny is Given Propoganda Diet"
+      },
+      "_id": "nyt://article/278d3981-207e-581c-80b6-1e3e42cd01c0",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Navalny, Aleksei A",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Political Prisoners",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Aleksei A. Navalny in May. “Imagine something like a Chinese labor camp,” he said of his prison experience, adding, “There is constant control and a culture of snitching.”",
+        "credit": "Dimitar Dilkoff/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/08/24/world/00navalny1/00navalny1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/08/24/world/00navalny1/00navalny1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2021-08-25T15:58:33Z",
+      "section_name": "World",
+      "snippet": "Russian political prisoners today are subjected to “psychological” pressure, said the opposition leader Aleksei A. Navalny, who is forced to watch state TV for more than eight hours a day.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/278d3981-207e-581c-80b6-1e3e42cd01c0",
+      "web_url": "https://www.nytimes.com/2021/08/25/world/europe/navalny-jail-prison.html",
+      "word_count": 1447
+    },
+    {
+      "abstract": "The militants have engaged the former officials Hamid Karzai and Abdullah Abdullah, as well as Moscow, to seek help in building an “inclusive” government while cementing their rule.",
+      "byline": {
+        "original": "By Roger Cohen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chaos Persists at Kabul Airport as Taliban Discuss New Government",
+        "kicker": "",
+        "print_headline": "Chaos at Airport as Taliban Work on Creating State"
+      },
+      "_id": "nyt://article/39d5c676-2f79-578c-8e6a-f5ccd00ae772",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Karzai, Hamid",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Airlifts",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Panjshir Valley (Afghanistan)",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Abdullah, Abdullah",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Baradar, Abdul Ghani",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Haqqani, Khalil Ahmed",
+          "rank": 13
+        },
+        {
+          "name": "Person",
+          "value": "Saleh, Amrullah",
+          "rank": 14
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 15
+        },
+        {
+          "name": "Subject",
+          "value": "Evacuations and Evacuees",
+          "rank": 16
+        }
+      ],
+      "multimedia": {
+        "caption": "Afghans waving their documents at U.S. Marines standing guard atop the blast walls at the Kabul airport on Sunday.",
+        "credit": "Jim Huylebroek for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/08/22/world/22-Afghan-Ledeall1/merlin_193550511_cb95adbb-3657-478d-83b6-6446270e300b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/08/22/world/22-Afghan-Ledeall1/22-Afghan-Ledeall1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2021-08-22T23:05:52Z",
+      "section_name": "World",
+      "snippet": "The militants have engaged the former officials Hamid Karzai and Abdullah Abdullah, as well as Moscow, to seek help in building an “inclusive” government while cementing their rule.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/39d5c676-2f79-578c-8e6a-f5ccd00ae772",
+      "web_url": "https://www.nytimes.com/2021/08/22/world/asia/afghanistan-taliban-biden-karzai.html",
+      "word_count": 1465
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Thomas Kaplan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "G7 leaders will meet virtually on Tuesday to discuss Afghanistan.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/742198da-5ab4-5d32-bb1e-de737d904342",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A gathering of the Group of 7 leaders in Cornwall, England, in June. Britain holds the group presidency this year.",
+        "credit": "Pool photo by Leon Neal",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/08/22/world/22afghanistan-briefing-g7/merlin_189052851_c5bcd99f-e43e-4834-a273-8daf272590a0-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/08/22/world/22afghanistan-briefing-g7/22afghanistan-briefing-g7-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-08-22T16:03:45Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/742198da-5ab4-5d32-bb1e-de737d904342",
+      "web_url": "https://www.nytimes.com/live/2021/08/22/world/taliban-afghanistan-biden-news/g7-leaders-will-meet-virtually-on-tuesday-to-discuss-afghanistan",
+      "word_count": 260
+    },
+    {
+      "abstract": "Exhibits at the house where the writer lived in the early 1800s are being updated to add historical context. Not everyone is thrilled.",
+      "byline": {
+        "original": "By Jenny Gross"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Jane Austen Museum Wants to Discuss Slavery. Will Her Fans Listen?",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c84a86da-2f8d-503b-a87d-21e28d26aa94",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Museums",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Slavery (Historical)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Austen, Jane",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Colonization",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Hampshire (England)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Black Lives Matter Movement",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The house in Chawton, England, where the author Jane Austen lived for eight years is now a museum dedicated to her life. She died in 1817.",
+        "credit": "Luke Wolagiewicz for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/04/21/multimedia/00xp-jane-austen-1/merlin_90406354_3e65ecb7-7f9c-4b6a-80be-332d5fb878d7-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/04/21/multimedia/00xp-jane-austen-1/merlin_90406354_3e65ecb7-7f9c-4b6a-80be-332d5fb878d7-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-04-27T13:35:18Z",
+      "section_name": "World",
+      "snippet": "Exhibits at the house where the writer lived in the early 1800s are being updated to add historical context. Not everyone is thrilled.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/c84a86da-2f8d-503b-a87d-21e28d26aa94",
+      "web_url": "https://www.nytimes.com/2021/04/27/world/europe/jane-austen-slavery-museum.html",
+      "word_count": 1076
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "President Biden is expected to discuss the pandemic today at his first news conference.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8114590a-4887-5f37-9d9b-6c4a482ada76",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Biden will face reporters on Thursday afternoon.",
+        "credit": "Anna Moneymaker for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/03/25/world/25virus-briefing-biden-1/merlin_185459385_d21fc68b-b693-4a06-b0cb-74d8697ece63-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/03/25/world/25virus-briefing-biden-1/25virus-briefing-biden-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-03-25T12:30:23Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/8114590a-4887-5f37-9d9b-6c4a482ada76",
+      "web_url": "https://www.nytimes.com/2021/03/25/world/president-biden-is-expected-to-discuss-the-pandemic-today-at-his-first-news-conference.html",
+      "word_count": 152
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Marie Fazio"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Harry and Meghan discuss the financial strain of independence.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/09dfc7d9-04ca-57c6-9290-2ad6b909b8a1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Prince Harry and Meghan, the Duke and Duchess of Sussex, leave after visiting Canada House on Jan. 7, 2020, in London.",
+        "credit": "Frank Augstein/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/03/08/multimedia/08royals-briefing-cost/merlin_181781652_c96790ea-cb6e-4720-892e-b669b519e004-articleLarge.jpg",
+          "height": 482,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/03/08/multimedia/08royals-briefing-cost/08royals-briefing-cost-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-03-08T22:14:17Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/09dfc7d9-04ca-57c6-9290-2ad6b909b8a1",
+      "web_url": "https://www.nytimes.com/live/2021/03/08/world/meghan-harry-oprah-interview/harry-and-meghan-discuss-the-financial-strain-of-independence",
+      "word_count": 604
+    },
+    {
+      "abstract": "Two religious leaders with much in common held a historic meeting in the Shiite holy city of Najaf.",
+      "byline": {
+        "original": "By Jane Arraf and Jason Horowitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A revered Shiite cleric and the pope discuss injustice and oppression.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1bfb0f1a-4634-59d8-8c6f-cf2b6d869484",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Pope Francis, right, meeting with Grand Ayatollah Ali al-Sistani in Najaf, Iraq, on Saturday.",
+        "credit": "Vatican Media, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/03/06/world/06pope-iraq-briefing-sistani/merlin_184646391_db35d4f6-ea9b-4457-b8ee-01651b7435f4-articleLarge.jpg",
+          "height": 439,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/03/06/world/06pope-iraq-briefing-sistani/06pope-iraq-briefing-sistani-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-03-06T09:22:58Z",
+      "section_name": "World",
+      "snippet": "Two religious leaders with much in common held a historic meeting in the Shiite holy city of Najaf.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/1bfb0f1a-4634-59d8-8c6f-cf2b6d869484",
+      "web_url": "https://www.nytimes.com/live/2021/03/06/world/pope-francis-iraq-visit/a-revered-shiite-cleric-and-the-pope-discuss-injustice-and-oppression",
+      "word_count": 446
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Katie Rogers"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The first lady and the second gentleman called nurses to discuss their Covid-19 concerns.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/dcb8747f-57d4-5f4b-b5a3-1cc80df85f2f",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Jill Biden and Doug Emhoff hosted a series of phone calls on Wednesday with nurses’ unions.",
+        "credit": "Chandler West/White House Photo Office",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/02/10/world/10virus-briefing-first-lady/10virus-briefing-first-lady-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/02/10/world/10virus-briefing-first-lady/10virus-briefing-first-lady-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Politics",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-02-11T02:41:32Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/dcb8747f-57d4-5f4b-b5a3-1cc80df85f2f",
+      "web_url": "https://www.nytimes.com/live/2021/02/10/world/covid-19-coronavirus/the-first-lady-and-the-second-gentleman-called-nurses-to-discuss-their-covid-19-concerns",
+      "word_count": 364
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Emily Cochrane"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A bipartisan group of lawmakers met with Biden administration officials to discuss $1.9 trillion stimulus plan.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9c397633-8f61-509d-ac84-55f3422dc1ed",
+      "keywords": [],
+      "multimedia": {
+        "caption": "From left, Senators Mark Warner, Democrat of Virginia; Susan Collins, Republican of Maine; and Joe Manchin III, Democrat of West Virginia, speaking to reporters after a news conference to introduce a Covid relief bill at the Capitol on Dec. 14.",
+        "credit": "Anna Moneymaker for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/01/24/us/politics/24virus-briefing-stimulus1/24virus-briefing-stimulus1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/01/24/us/politics/24virus-briefing-stimulus1/24virus-briefing-stimulus1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-01-24T18:12:14Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/9c397633-8f61-509d-ac84-55f3422dc1ed",
+      "web_url": "https://www.nytimes.com/live/2021/01/24/world/covid-19-coronavirus/a-bipartisan-group-of-lawmakers-met-with-biden-administration-officials-to-discuss-1-9-trillion-stimulus-plan",
+      "word_count": 767
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Aurelien Breeden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "French university students meet with Macron to discuss their struggles during the pandemic.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cace73b1-fb40-57a3-abef-d514862f091e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Emmanuel Macron of France met with students at the University of Paris-Saclay on Thursday. Students are frustrated with restrictions on in-person classes.",
+        "credit": "Pool photo by Yoan Valat",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/01/21/us/21virus-briefing-FRANCE/merlin_182656464_20b74887-622c-4720-a9ae-b87fd21842fa-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/01/21/us/21virus-briefing-FRANCE/21virus-briefing-FRANCE-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-01-21T18:05:17Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/cace73b1-fb40-57a3-abef-d514862f091e",
+      "web_url": "https://www.nytimes.com/live/2021/01/21/world/covid-19-coronavirus/french-university-students-meet-with-macron-to-discuss-their-struggles-during-the-pandemic",
+      "word_count": 416
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Sheila Kaplan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The departing C.D.C. director discusses his time at the agency.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/235a4a47-6101-53bc-97e6-c923d5f6683d",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Dr. Robert Redfield, director of the Centers for Disease Control and Prevention, is leaving his post on Wednesday.",
+        "credit": "Pool photo by Patrick Semansky",
+        "default": {
+          "url": "https://static01.nyt.com/images/2021/01/20/world/20virus-briefing-refield/merlin_182255364_45ca1cf4-f47f-419e-bca4-cb5227ff67a1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2021/01/20/world/20virus-briefing-refield/20virus-briefing-refield-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2021-01-20T10:43:30Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/235a4a47-6101-53bc-97e6-c923d5f6683d",
+      "web_url": "https://www.nytimes.com/2021/01/20/world/the-departing-cdc-director-discusses-his-time-at-the-agency.html",
+      "word_count": 537
+    }
+  ]
+}

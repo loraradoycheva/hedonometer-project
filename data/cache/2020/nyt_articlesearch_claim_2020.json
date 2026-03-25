@@ -1,0 +1,2238 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20200101",
+    "end_date": "20201231",
+    "fq": "(headline.default:(\"claim\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 36,
+  "docs": [
+    {
+      "abstract": "A parliamentary adviser told a state-run news outlet that some people he accused of involvement in the assassination last month of the scientist, Mohsen Fakhrizadeh, had been arrested.",
+      "byline": {
+        "original": "By Megan Specia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran Claims Arrests in Killing of Top Nuclear Scientist",
+        "kicker": "",
+        "print_headline": "Iran Claims Arrests in Killing of Its Top Nuclear Scientist"
+      },
+      "_id": "nyt://article/b5efb3f9-df75-5f0d-835e-7e8f4799d80e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Fakhrizadeh, Mohsen",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Members of Iranian forces carrying the coffin of the country’s top nuclear scientist, Mohsen Fakhrizadeh, during his funeral in Tehran last month.",
+        "credit": "Iranian Defense Ministry, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/09/world/09iran-arrests/merlin_180669636_3041da30-6a05-43fa-8924-bb09b3883e41-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/09/world/09iran-arrests/merlin_180669636_3041da30-6a05-43fa-8924-bb09b3883e41-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "18",
+      "print_section": "A",
+      "pub_date": "2020-12-09T13:13:01Z",
+      "section_name": "World",
+      "snippet": "A parliamentary adviser told a state-run news outlet that some people he accused of involvement in the assassination last month of the scientist, Mohsen Fakhrizadeh, had been arrested.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/b5efb3f9-df75-5f0d-835e-7e8f4799d80e",
+      "web_url": "https://www.nytimes.com/2020/12/09/world/middleeast/iran-mohsen-fakhrizadeh-arrests.html",
+      "word_count": 340
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Benjamin Mueller"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "As the U.K. claims bragging rights for the best vaccine regulators (yes, really), U.S. officials beg to differ.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/50994d46-ad2d-53fd-9e91-61525c393bf1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Dr. Anthony S. Fauci said the F.D.A.’s vaccine approval process was the “gold standard.”",
+        "credit": "Stefani Reynolds for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/03/world/03VIRUS-BRIEFING-UK1/merlin_180220632_d2e7bc96-8f29-489e-b773-40e65699a2b6-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/03/world/03VIRUS-BRIEFING-UK1/03VIRUS-BRIEFING-UK1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-03T16:26:32Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/50994d46-ad2d-53fd-9e91-61525c393bf1",
+      "web_url": "https://www.nytimes.com/live/2020/12/03/world/covid-19-coronavirus/as-the-uk-claims-bragging-rights-for-the-best-vaccine-regulators-yes-really-us-officials-beg-to-differ",
+      "word_count": 436
+    },
+    {
+      "abstract": "When a state tabloid suggested that China had set a global standard for kimchi, social media users accused Beijing of misappropriating a Korean culinary staple.",
+      "byline": {
+        "original": "By Youmi Kim and Mike Ives"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Is China Laying Claim to Kimchi, Too? Some South Koreans Think So",
+        "kicker": "",
+        "print_headline": "South Korea and China Wage Turf War Online Over Preparing Kimchi"
+      },
+      "_id": "nyt://article/dbcfb039-75fd-5a00-aa8e-66fa5a396706",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Kimchi (South Korean Food)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South Korea",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Global Times",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "International Organization for Standardization",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Standards and Standardization",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Making kimchi at a Seoul market. Much of the factory-made kimchi eaten in South Korea now comes from China.",
+        "credit": "Jean Chung for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/01/world/01KIMCHI-WAR01/01KIMCHI-WAR01-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/01/world/01KIMCHI-WAR01/01KIMCHI-WAR01-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2020-12-02T03:00:40Z",
+      "section_name": "World",
+      "snippet": "When a state tabloid suggested that China had set a global standard for kimchi, social media users accused Beijing of misappropriating a Korean culinary staple.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/dbcfb039-75fd-5a00-aa8e-66fa5a396706",
+      "web_url": "https://www.nytimes.com/2020/12/01/world/asia/south-korea-china-kimchi-paocai.html",
+      "word_count": 949
+    },
+    {
+      "abstract": "After heavy artillery strikes on Saturday, the federal government claimed the city of Mekelle was now under its control, but there was no way to independently confirm the assertion.",
+      "byline": {
+        "original": "By Simon Marks"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ethiopia Claims Victory in Tigray Conflict After Shelling Restive Region’s Capital",
+        "kicker": "",
+        "print_headline": "Ethiopia Says It Controls Tigray City After Shelling"
+      },
+      "_id": "nyt://article/c935b38c-c9ea-5cc2-9d07-1a98508b7f66",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Ethiopia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Tigray (Ethiopia)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Ahmed, Abiy",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "African Union",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Tigray People's Liberation Front",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Tigrayans (Ethnic Group)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Africa",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Eritrea",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "People who fled the conflict in Ethiopia&rsquo;s Tigray region arriving at a refugee camp in Sudan on Thursday.",
+        "credit": "Nariman El-Mofty/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/29/world/29Ethiopia-print1/merlin_180493014_62da744f-d502-4457-b138-f563f773b388-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/29/world/29Ethiopia-print1/28Ethiopia1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "19",
+      "print_section": "A",
+      "pub_date": "2020-11-28T19:00:50Z",
+      "section_name": "World",
+      "snippet": "After heavy artillery strikes on Saturday, the federal government claimed the city of Mekelle was now under its control, but there was no way to independently confirm the assertion.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/c935b38c-c9ea-5cc2-9d07-1a98508b7f66",
+      "web_url": "https://www.nytimes.com/2020/11/28/world/africa/ethiopia-tigray-Mekelle-assault.html",
+      "word_count": 1073
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Jennifer Steinhauer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The military’s role in a vaccine will be strictly behind the scenes, despite Trump’s claims.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e6607590-b3ae-524c-acc1-ebaadccaf209",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Members of the National Guard at the Texas Division of Emergency Management’s warehouse in San Antonio. The military has worked behind the scenes to bring a virus vaccine to the public.",
+        "credit": "Eric Gay/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/25/us/politics/26virus-brief-military-vaccine/merlin_175301421_c54129b3-571d-41a3-9dfb-4668b276b269-articleLarge.jpg",
+          "height": 378,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/25/us/politics/26virus-brief-military-vaccine/26virus-brief-military-vaccine-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-27T11:43:01Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/e6607590-b3ae-524c-acc1-ebaadccaf209",
+      "web_url": "https://www.nytimes.com/2020/11/27/world/the-militarys-role-in-a-vaccine-will-be-strictly-behind-the-scenes-despite-trumps-claims.html",
+      "word_count": 302
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Jennifer Steinhauer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The military’s role in a vaccine will be strictly behind the scenes, despite Trump’s claims.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a391f751-7547-58ce-bf24-e6bb809766b7",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Members of the National Guard at the Texas Division of Emergency Management’s warehouse in San Antonio. The military has worked behind the scenes to bring a virus vaccine to the public.",
+        "credit": "Eric Gay/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/25/us/politics/26virus-brief-military-vaccine/merlin_175301421_c54129b3-571d-41a3-9dfb-4668b276b269-articleLarge.jpg",
+          "height": 378,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/25/us/politics/26virus-brief-military-vaccine/26virus-brief-military-vaccine-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-26T21:28:41Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/a391f751-7547-58ce-bf24-e6bb809766b7",
+      "web_url": "https://www.nytimes.com/live/2020/11/26/world/covid-19-coronavirus/the-militarys-role-in-a-vaccine-will-be-strictly-behind-the-scenes-despite-trumps-claims",
+      "word_count": 302
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ben Casselman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Unemployment claims in the U.S. jumped last week as virus cases surged.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/329643c7-ce9d-55cc-905d-6d40314779ea",
+      "keywords": [],
+      "multimedia": {
+        "caption": "In Orchard Park, N.Y., demonstrators on Monday protested business shutdowns ordered by Gov. Andrew Cuomo.",
+        "credit": "Libby March for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/25/us/25economy-briefing-jobless/25economy-briefing-jobless-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/25/us/25economy-briefing-jobless/25economy-briefing-jobless-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-25T12:58:37Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/329643c7-ce9d-55cc-905d-6d40314779ea",
+      "web_url": "https://www.nytimes.com/live/2020/11/25/world/covid-19-coronavirus/unemployment-claims-in-the-us-jumped-last-week-as-virus-cases-surged",
+      "word_count": 260
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Nelson D. Schwartz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "There were 743,000 new state claims for unemployment insurance filed in the U.S. last week.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3895034d-c0bf-55ac-a6c8-41bd77c9310e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A closed theater in Albuquerque, where a statewide stay-at-home order is in effect. Jobless claims have been drifting lower lately, despite new restrictions on business activity in some states.",
+        "credit": "Adria Malcolm for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/19/us/19economy-briefing-jobless/19economy-briefing-jobless-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/19/us/19economy-briefing-jobless/19economy-briefing-jobless-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-19T12:16:39Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/3895034d-c0bf-55ac-a6c8-41bd77c9310e",
+      "web_url": "https://www.nytimes.com/live/2020/11/19/world/covid-19-coronavirus/there-were-743000-new-state-claims-for-unemployment-insurance-filed-in-the-us-last-week",
+      "word_count": 291
+    },
+    {
+      "abstract": "A quarter-century after the princess admitted infidelity in a landmark interview with Martin Bashir, the journalist is facing renewed accusations of behaving unethically to secure the scoop.",
+      "byline": {
+        "original": "By Isabella Kwai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "BBC Orders Inquiry Into Diana Interview After Claim Princess Was Misled",
+        "kicker": "",
+        "print_headline": "BBC Orders Inquiry Into Diana Interview Over New Claims She Was Misled"
+      },
+      "_id": "nyt://article/0827dcb0-17d4-58cf-8ff7-958e56cc9d16",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Bashir, Martin",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Diana, Princess of Wales",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "British Broadcasting Corp",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "ITV (TV Network)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Royal Families",
+          "rank": 8
+        },
+        {
+          "name": "Title",
+          "value": "Panorama (TV Program)",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Documentary Films and Programs",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Martin Bashir’s 1995 interview with Diana, Princess of Wales, attracted an audience of 23 million, according to the BBC.",
+        "credit": "Tim Graham/Corbis, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/10/world/10bbc-diana/10bbc-diana-articleLarge.jpg",
+          "height": 427,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/10/world/10bbc-diana/10bbc-diana-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "12",
+      "print_section": "A",
+      "pub_date": "2020-11-11T09:21:37Z",
+      "section_name": "World",
+      "snippet": "A quarter-century after the princess admitted infidelity in a landmark interview with Martin Bashir, the journalist is facing renewed accusations of behaving unethically to secure the scoop.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/0827dcb0-17d4-58cf-8ff7-958e56cc9d16",
+      "web_url": "https://www.nytimes.com/2020/11/11/world/europe/bbc-martin-bashir-diana-interview.html",
+      "word_count": 943
+    },
+    {
+      "abstract": "The country asserted on Sunday that its military had gained control of a strategically important site that overlooks the regional capital, Stepanakert. Armenian officials said fighting continued.",
+      "byline": {
+        "original": "By Andrew E. Kramer"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Azerbaijan Claims Capture of Key Town in Nagorno-Karabakh",
+        "kicker": "",
+        "print_headline": "Armenia Disputes Azerbaijan’s Claim of Seizing Key Town in Nagorno-Karabakh"
+      },
+      "_id": "nyt://article/28a02b92-83b6-599f-ba4f-79c1d4b25fd9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Armenia",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Azerbaijan",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Nagorno-Karabakh",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Fighting between Armenian and Azerbaijani forces raged on Sunday near a hilltop town in Nagorno-Karabakh known as Shusha to Azerbaijanis and Shushi to Armenians.",
+        "credit": "Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/08/world/08nagorno-karabakh/merlin_179677500_7ce5fa32-92df-42da-86f2-99f727a7b603-articleLarge.jpg",
+          "height": 376,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/08/world/08nagorno-karabakh/merlin_179677500_7ce5fa32-92df-42da-86f2-99f727a7b603-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2020-11-08T16:35:25Z",
+      "section_name": "World",
+      "snippet": "The country asserted on Sunday that its military had gained control of a strategically important site that overlooks the regional capital, Stepanakert. Armenian officials said fighting continued.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/28a02b92-83b6-599f-ba4f-79c1d4b25fd9",
+      "web_url": "https://www.nytimes.com/2020/11/08/world/europe/nagorno-karabakh-azerbaijan-shusha.html",
+      "word_count": 469
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Patricia Cohen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New state unemployment claims in the U.S. fell below 800,000 last week.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b044da3f-1e92-5c80-a8ab-aca0fe7f18d6",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Families at a food bank in Vallejo, Calif., on Wednesday. Every week, more Americans join the ranks of the long-term unemployed — those out of work for more than 27 weeks.",
+        "credit": "Sarahbeth Maney for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/22/us/22markets-briefing-jobless-main/22markets-briefing-jobless-main-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/22/us/22markets-briefing-jobless-main/22markets-briefing-jobless-main-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-22T12:47:43Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/b044da3f-1e92-5c80-a8ab-aca0fe7f18d6",
+      "web_url": "https://www.nytimes.com/2020/10/22/world/new-state-unemployment-claims-in-the-us-fell-below-800000-last-week.html",
+      "word_count": 249
+    },
+    {
+      "abstract": "Local officials blamed an Islamist militant group for the assault on the prison and a nearby military camp in the northeastern part of the country.",
+      "byline": {
+        "original": "By Mike Ives and Isabella Kwai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "1,300 Prisoners Escape From Congo Jail After an Attack Claimed by ISIS",
+        "kicker": "",
+        "print_headline": "ISIS Claims Prison Attack That Freed 1,300 in Congo"
+      },
+      "_id": "nyt://article/396658e6-61a5-5ba3-91bc-e7d9fd5d2b80",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Congo, Democratic Republic of (Congo-Kinshasa)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Prison Escapes",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Allied Democratic Forces",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The entrance of the Kangbayi prison was breached during the attack in Beni, Democratic Republic of Congo, on Tuesday.",
+        "credit": "EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/20/world/20congo/merlin_178785246_e0512e0c-cdb4-407d-9eb5-d2db04feb359-articleLarge.jpg",
+          "height": 416,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/20/world/20congo/merlin_178785246_e0512e0c-cdb4-407d-9eb5-d2db04feb359-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2020-10-20T07:20:13Z",
+      "section_name": "World",
+      "snippet": "Local officials blamed an Islamist militant group for the assault on the prison and a nearby military camp in the northeastern part of the country.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/396658e6-61a5-5ba3-91bc-e7d9fd5d2b80",
+      "web_url": "https://www.nytimes.com/2020/10/20/world/africa/congo-jail-attack-prisoners-freed.html",
+      "word_count": 651
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Nelson D. Schwartz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Nearly 900,000 people in the U.S. filed new state unemployment claims last week.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/884a773d-5e5c-5c50-9242-1e4bbb461e86",
+      "keywords": [],
+      "multimedia": {
+        "caption": "People waiting to speak with representatives from the Oklahoma Employment Security Commission about unemployment claims.",
+        "credit": "Sue Ogrocki/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/15/multimedia/15virus-briefing-unemployment/merlin_175935678_5a7eedcc-a603-43a3-aaa9-55d99cbf6dfc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/15/multimedia/15virus-briefing-unemployment/15virus-briefing-unemployment-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-15T13:04:07Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/884a773d-5e5c-5c50-9242-1e4bbb461e86",
+      "web_url": "https://www.nytimes.com/2020/10/15/world/nearly-900000-people-in-the-us-filed-new-state-unemployment-claims-last-week.html",
+      "word_count": 277
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Sheila Kaplan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fauci takes issue with Trump’s end-of-year vaccine claims.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3f2cff4a-eb99-5edd-a36f-4524486f5866",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Dr. Anthony S. Fauci, the nation’s top epidemiologist, said he expected there would be widespread distribution of a vaccine by the end of April.",
+        "credit": "Alex Edelman/Reuters-Pool Photo",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/14/us/politics/14virus-briefinging-fauci2/merlin_178437912_6339f07e-60c8-4f72-b006-60e365f67626-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/14/us/politics/14virus-briefinging-fauci2/14virus-briefinging-fauci2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-14T22:31:45Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/3f2cff4a-eb99-5edd-a36f-4524486f5866",
+      "web_url": "https://www.nytimes.com/live/2020/10/14/world/covid-coronavirus/fauci-takes-issue-with-trumps-end-of-year-vaccine-claims",
+      "word_count": 344
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Maggie Haberman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump claims he is now immune to the coronavirus and unable to spread it. Twitter labels his post misleading.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/71834bb7-969c-51d5-a357-fa122862935d",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Trump delivering remarks to supporters from a balcony of the White House overlooking the South Lawn on Saturday.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/11/multimedia/11elections-briefingDtrump/merlin_178326978_77524d5f-f0bc-466f-abe0-0cb21e1f7ca4-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/11/multimedia/11elections-briefingDtrump/11elections-briefingDtrump-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-11T16:39:12Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/71834bb7-969c-51d5-a357-fa122862935d",
+      "web_url": "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus/trump-claims-he-is-now-immune-to-the-coronavirus-and-unable-to-spread-it-twitter-labels-his-post-misleading",
+      "word_count": 404
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Ben Casselman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Jobless claims in the U.S. remain well above pre-pandemic levels.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0e7d05cc-5bbb-52a5-b747-1b5882e5ef91",
+      "keywords": [],
+      "multimedia": {
+        "caption": "An empty retail space on Madison Avenue in New York. Economists warn that without more aid, layoffs will rise again.",
+        "credit": "Vincent Tullo for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/10/business/08markets-brf-jobless/merlin_176318538_e60aef70-30ed-4b2c-9898-0bc659de14de-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/10/business/08markets-brf-jobless/10markets-brf-jobless1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-08T12:42:03Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/0e7d05cc-5bbb-52a5-b747-1b5882e5ef91",
+      "web_url": "https://www.nytimes.com/2020/10/08/world/jobless-claims-in-the-us-remain-well-above-pre-pandemic-levels.html",
+      "word_count": 283
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Nelson D. Schwartz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Unemployment claims in the U.S. show little relief from pandemic layoffs.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/25fb006e-5b5e-5d28-8491-c5d7319b69fd",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The travel, entertainment, and leisure and hospitality industries have been hit hard by the pandemic. A Las Vegas bar this week had seats aplenty.",
+        "credit": "Bridget Bennett for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-jobless2/merlin_177755772_cec54199-a9e5-4ac5-8202-a701c46717ee-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-jobless2/01markets-brf-jobless2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-10-01T12:47:54Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/25fb006e-5b5e-5d28-8491-c5d7319b69fd",
+      "web_url": "https://www.nytimes.com/2020/10/01/world/unemployment-claims-in-the-us-show-little-relief-from-pandemic-layoffs.html",
+      "word_count": 219
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Donald G. McNeil Jr."
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The pandemic is far from over, experts say, despite Trump allies’ claims.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ad49324c-7505-572b-b2ab-a9e1c91caaf0",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Disease Rates",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "The Borough Park neighborhood of Brooklyn was hit hard by the coronavirus, reaching thousands of cases and hundreds of deaths by April.",
+        "credit": "Jonah Markowitz for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29virus-briefing-herd/merlin_172081950_75165cf1-1c76-42b1-8eb0-12fadf6ad6c1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/29/world/29virus-briefing-herd/merlin_172081950_75165cf1-1c76-42b1-8eb0-12fadf6ad6c1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-09-29T10:52:52Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/ad49324c-7505-572b-b2ab-a9e1c91caaf0",
+      "web_url": "https://www.nytimes.com/2020/09/29/world/the-pandemic-is-far-from-over-experts-say-despite-trump-allies-claims.html",
+      "word_count": 377
+    },
+    {
+      "abstract": "Violent clashes between the police and protesters erupted across Belarus on Monday after President Aleksandr G. Lukashenko declared victory in a vote widely dismissed as fraudulent.",
+      "byline": {
+        "original": "By Ivan Nechepurenko and Andrew Higgins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Belarus’s Leader Vows to Crush Protests After Claiming Landslide Election Win",
+        "kicker": "",
+        "print_headline": "Clashes Convulse Belarus’s Capital After President Claims Landslide"
+      },
+      "_id": "nyt://article/fc1da729-2610-5292-a96e-0a74d5d00b37",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Lukashenko, Aleksandr G",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Tikhanovskaya, Svetlana",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Voter Fraud (Election Fraud)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Police officers detained demonstrators in Minsk, Belarus, on Monday during a protest the day after the country’s presidential election.",
+        "credit": "Yauhen Yerchak/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/08/10/multimedia/10belarus-update/merlin_175562391_8e1c1057-e974-4fe8-8919-bace3a8652d9-articleLarge.jpg",
+          "height": 405,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/08/10/multimedia/10belarus-update/10belarus-update-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2020-08-10T12:11:42Z",
+      "section_name": "World",
+      "snippet": "Violent clashes between the police and protesters erupted across Belarus on Monday after President Aleksandr G. Lukashenko declared victory in a vote widely dismissed as fraudulent.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fc1da729-2610-5292-a96e-0a74d5d00b37",
+      "web_url": "https://www.nytimes.com/2020/08/10/world/europe/belarus-election.html",
+      "word_count": 1350
+    },
+    {
+      "abstract": "A national teachers’ union said teachers might strike as a “last resort” if they didn’t feel safe. Pilgrims to Mecca are finding a reconfigured hajj.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Falsely Claims Much of U.S. Is ‘Corona-Free’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c3ab03ee-237a-5d12-b663-1dd625dfd590",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28a2_rail/us-briefing-promo-image-articleLarge.jpg",
+          "height": 338,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/28a2_rail/us-briefing-promo-image-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-07-28T09:23:13Z",
+      "section_name": "World",
+      "snippet": "Republicans included $1.75 billion in the relief proposal for a new headquarters. Democrats say it could benefit President Trump’s hotel. Here’s the latest.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "briefing",
+      "uri": "nyt://article/c3ab03ee-237a-5d12-b663-1dd625dfd590",
+      "web_url": "https://www.nytimes.com/2020/07/28/world/coronavirus-covid-19.html",
+      "word_count": 5551
+    },
+    {
+      "abstract": "The announcement by Secretary of State Mike Pompeo portends more American military operations to push back Chinese maritime activity and sanctions on Chinese companies.",
+      "byline": {
+        "original": "By Edward Wong and Michael Crowley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Says Most of China’s Claims in South China Sea Are Illegal",
+        "kicker": "",
+        "print_headline": "U.S. Says Most of Beijing’s Claims in South China Sea Are Illegal"
+      },
+      "_id": "nyt://article/9afc760e-ca82-59d7-bb89-ca7bf0b95da2",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Law of the Sea (UN Convention)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Defense Department",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "State Department",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "United States Navy",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Far East, South and Southeast Asia and Pacific Areas",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Mischief Reef",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Spratly Islands",
+          "rank": 14
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 15
+        }
+      ],
+      "multimedia": {
+        "caption": "Secretary of State Mike Pompeo denounced China on Monday, saying its maritime claims in the South China Sea were “completely unlawful.”",
+        "credit": "T.J. Kirkpatrick for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/07/13/us/politics/13DIPLO-CHINA1/merlin_169706916_924732ee-9cc0-44b4-a8c6-2405bdc8301f-articleLarge.jpg",
+          "height": 402,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/07/13/us/politics/13DIPLO-CHINA1/13DIPLO-CHINA1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "13",
+      "print_section": "A",
+      "pub_date": "2020-07-13T22:23:18Z",
+      "section_name": "World",
+      "snippet": "The announcement by Secretary of State Mike Pompeo portends more American military operations to push back Chinese maritime activity and sanctions on Chinese companies.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9afc760e-ca82-59d7-bb89-ca7bf0b95da2",
+      "web_url": "https://www.nytimes.com/2020/07/13/world/asia/south-china-sea-pompeo.html",
+      "word_count": 1172
+    },
+    {
+      "abstract": "Cash-starved states are forced to make massive job cuts. Reopenings for some restaurants and bars are short-lived amid new infections.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b1bacce6-ce08-5208-be6a-5675d6008b10",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "Vice President Mike Pence at the White House on Monday.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/06/15/us/15virus-briefing-pence/merlin_173565630_e164446f-4d7e-4897-9aa4-741b5c66b60b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/06/15/us/15virus-briefing-pence/15virus-briefing-pence-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "National",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-06-15T09:20:14Z",
+      "section_name": "World",
+      "snippet": "In New York and Texas, there has been frustration as people flout restrictions related to the virus, which experts say is not going anywhere fast. Stores are reopening in England.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/b1bacce6-ce08-5208-be6a-5675d6008b10",
+      "web_url": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html",
+      "word_count": 5763
+    },
+    {
+      "abstract": "The U.S. is still confirming more than 20,000 new cases every day. Mexico is slowly reopening, but some people fear it’s moving too fast.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Coronavirus Claims Some of World War II’s Last Witnesses",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1f148021-7a69-5295-8abd-248934ef83ee",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        }
+      ],
+      "multimedia": {
+        "caption": "On Italy’s Liberation Day in April, residents of Milan placed flowers in memory of the partisans who died during World War II. The ranks of those who remember the war have been diminished by the coronavirus.",
+        "credit": "Alessandro Grassani for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/06/03/world/05virus-briefing-memory/merlin_171923898_5f5e0bdd-4a86-4da8-a37e-37d78e0fded6-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/06/03/world/05virus-briefing-memory/Virus-Italy-Memory01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-06-05T09:33:36Z",
+      "section_name": "World",
+      "snippet": "The U.S. is confirming more than 20,000 new cases a day. Mexico is reopening slowly, but some fear it’s moving too fast. Here’s the latest.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/1f148021-7a69-5295-8abd-248934ef83ee",
+      "web_url": "https://www.nytimes.com/2020/06/05/world/coronavirus-updates.html",
+      "word_count": 5859
+    },
+    {
+      "abstract": "President Nicolás Maduro said the Americans were among 13 “terrorists” involved in an armed incursion on Sunday.",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Venezuela Claims 2 Americans Were Captured in Failed Invasion",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e5208ef4-00a5-5e55-b7eb-005230583626",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "United States Army Special Forces (Green Berets)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Maduro, Nicolas",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Caracas (Venezuela)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A screengrab from a Venezuelan government video, televised Monday, purportedly showing soldiers with a man said to have been involved in a “mercenary incursion.” ",
+        "credit": "Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/05/05/world/05venezuela-1/05venezuela-1-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/05/05/world/05venezuela-1/05venezuela-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-05-05T04:01:15Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/e5208ef4-00a5-5e55-b7eb-005230583626",
+      "web_url": "https://www.nytimes.com/2020/05/05/world/americas/venezuela-invasion-americans-captured.html",
+      "word_count": 281
+    },
+    {
+      "abstract": "The government said eight men had been killed and two captured in a foiled coup attempt, which officials attributed to Colombia and the United States.",
+      "byline": {
+        "original": "By Anatoly Kurmanaev"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Venezuelan Officials Claim to Have Stopped an Armed Incursion",
+        "kicker": "",
+        "print_headline": "Venezuela Claims to Foil An Armed Invasion by Sea"
+      },
+      "_id": "nyt://article/f7a9c6f8-ff20-55f4-afe1-0164af68bf13",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coups D'Etat and Attempted Coups D'Etat",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Cabello, Diosdado",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Caracas (Venezuela)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Venezuelan security forces on Sunday in La Guaira guarded the shore and a boat in which the authorities say armed men landed with plans for a coup.",
+        "credit": "Matias Delacroix/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/05/03/world/03venezuela-sub/merlin_172151094_82970ef4-e459-4e72-aa9c-839c3927e03e-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/05/03/world/03venezuela-sub/merlin_172151094_82970ef4-e459-4e72-aa9c-839c3927e03e-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "16",
+      "print_section": "A",
+      "pub_date": "2020-05-03T20:23:11Z",
+      "section_name": "World",
+      "snippet": "The government said eight men had been killed and two captured in the foiled attempt, which officials attributed to Colombia and the United States.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/f7a9c6f8-ff20-55f4-afe1-0164af68bf13",
+      "web_url": "https://www.nytimes.com/2020/05/03/world/americas/venezuela-coup.html",
+      "word_count": 613
+    },
+    {
+      "abstract": "About 50 Afghan migrants crossing into Iran illegally were beaten and thrown into a river, local news media and witnesses say. As many as half did not survive, they said.",
+      "byline": {
+        "original": "By Mujib Mashal and Asadullah Timory"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Afghanistan Investigating Claims Migrants Were Killed by Iranian Guards",
+        "kicker": "",
+        "print_headline": "Afghans Say Iran Killed Dozens of Migrants"
+      },
+      "_id": "nyt://article/f64caae1-ec05-54d6-8409-f1c83cc21a91",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Illegal Immigration",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Afghans returning from Iran at the Islam Qala border crossing in March. Though the coronavirus had caused many migrants to return home, the flow of job-seekers coming into Iran has started anew.",
+        "credit": "Jim Huylebroek for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/05/02/world/02afghan-iran/merlin_170836734_a23fc15c-b786-41e6-aad9-e46581c6823b-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/05/02/world/02afghan-iran/merlin_170836734_a23fc15c-b786-41e6-aad9-e46581c6823b-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "21",
+      "print_section": "A",
+      "pub_date": "2020-05-02T17:30:31Z",
+      "section_name": "World",
+      "snippet": "About 50 Afghan migrants crossing into Iran illegally were beaten and thrown into a river, local news media and witnesses say. As many as half did not survive, they said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/f64caae1-ec05-54d6-8409-f1c83cc21a91",
+      "web_url": "https://www.nytimes.com/2020/05/02/world/asia/afghanistan-iran-migrants-drown.html",
+      "word_count": 537
+    },
+    {
+      "abstract": "Decades of isolation and international sanctions have ravaged North Korea’s public health system, raising fears about its ability to confront an outbreak.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea Claims No Coronavirus Cases. Can It Be Trusted?",
+        "kicker": "",
+        "print_headline": "Skepticism Abounds Over Claim From North Korea of Having No Cases"
+      },
+      "_id": "nyt://article/440fcb87-f409-5147-91c7-d279ec653fa8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Humanitarian Aid",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "American Red Cross",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Daily NK",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Kim Seung-eun",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Disease Rates",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A soap factory making disinfectants in Pyongyang, North Korea, this month.",
+        "credit": "Cha Song Ho/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/03/30/world/00virus-nkorea-1/merlin_170716689_bd8cb2ed-7ef9-40c8-8609-daa33829a9d7-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/03/30/world/00virus-nkorea-1/00virus-nkorea-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2020-03-31T07:17:30Z",
+      "section_name": "World",
+      "snippet": "Decades of isolation and international sanctions have ravaged North Korea’s public health system, raising fears about its ability to confront an outbreak.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/440fcb87-f409-5147-91c7-d279ec653fa8",
+      "web_url": "https://www.nytimes.com/2020/03/31/world/asia/north-korea-coronavirus.html",
+      "word_count": 1243
+    },
+    {
+      "abstract": "The Indonesian government appears to have backed away from confronting China, its largest trading partner. “Our fishermen feel scared,” one official said.",
+      "byline": {
+        "original": "By Hannah Beech, Muktita Suhartono and Adam Dean"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China Chases Indonesia’s Fishing Fleets, Staking Claim to Sea’s Riches",
+        "kicker": "",
+        "print_headline": "China Stakes Claim to Indonesia’s Rich Fishing Waterways"
+      },
+      "_id": "nyt://article/ba9fa89f-f58b-5cc7-bdd1-0d66bfcbc7e3",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Fishing, Commercial",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Center for Strategic and International Studies",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Joko Widodo",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Pudjiastuti, Susi",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Indonesia",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Natuna Islands (Indonesia)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "An Indonesian fishing boat heads out to sea in domestic waters, where they have seen their catches dwindle since Chinese fishing boats have been fishing closer to Indonesian water, near Natuna, Indonesia, in January.",
+        "credit": "",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-1alt/merlin_168588111_beb3ed42-6c2a-44e1-9be3-fcdeef2d9635-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/03/28/world/00indonesia-sea-1alt/00indonesia-sea-1alt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "17",
+      "print_section": "A",
+      "pub_date": "2020-03-31T07:00:11Z",
+      "section_name": "World",
+      "snippet": "The Indonesian government appears to have backed away from confronting China, its largest trading partner. “Our fishermen feel scared,” one official said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/ba9fa89f-f58b-5cc7-bdd1-0d66bfcbc7e3",
+      "web_url": "https://www.nytimes.com/2020/03/31/world/asia/Indonesia-south-china-sea-fishing.html",
+      "word_count": 1215
+    },
+    {
+      "abstract": "After a five-month dispute over the vote, President Ashraf Ghani won a second term. But a parallel declaration by a main rival threatens a crisis ahead of a U.S.-Taliban peace deal.",
+      "byline": {
+        "original": "By Mujib Mashal, Najim Rahim and Fatima Faizi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ghani Named Afghan Election Winner. His Opponent Claims Victory, Too.",
+        "kicker": "",
+        "print_headline": "Afghan Incumbent Is Named Vote Victor, 5 Months Later"
+      },
+      "_id": "nyt://article/c0f74c60-4d4d-5a91-906b-25afd9f253ee",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Ghani, Ashraf",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Abdullah, Abdullah",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "President Ashraf Ghani, center, at a campaign rally in Kabul, the Afghan capital, in September.",
+        "credit": "Jim Huylebroek for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/02/18/world/00Afghan-elexHFO/merlin_160552596_c96addfe-7725-4427-b3b2-96eec6ebfa89-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/02/18/world/00Afghan-elexHFO/00Afghan-elexHFO-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2020-02-18T13:01:23Z",
+      "section_name": "World",
+      "snippet": "After a five-month dispute, President Ashraf Ghani was declared as the winner. But an opponent’s parallel declaration threatens another political crisis.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/c0f74c60-4d4d-5a91-906b-25afd9f253ee",
+      "web_url": "https://www.nytimes.com/2020/02/18/world/asia/afghanistan-election-ashraf-ghani.html",
+      "word_count": 878
+    },
+    {
+      "abstract": "His claims of a secret deal come at a sensitive time for the government, which is under international pressure to cut ties with terror groups.",
+      "byline": {
+        "original": "By Ihsanullah Tipu Mehsud and Maria Abi-Habib"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Taliban Militant Flees Prison, Claiming Deal With Pakistani Security Forces",
+        "kicker": "",
+        "print_headline": "Top Official For Taliban Flees Prison In Pakistan"
+      },
+      "_id": "nyt://article/62551c0f-c1b0-51c5-80b0-e3502f43aa0a",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Mohmand, Sajjid",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Yousafzai, Malala",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Detainees",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Malala Yousafzai, center, survived after being shot by a Taliban militant in 2012 and went on to become a globally recognized activist and a Nobel laureate.",
+        "credit": "Jeff J Mitchell/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/02/07/world/07pakistan1/merlin_152004069_50b397f9-9065-4f7c-a022-171c6a6bb7cd-articleLarge.jpg",
+          "height": 423,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/02/07/world/07pakistan1/merlin_152004069_50b397f9-9065-4f7c-a022-171c6a6bb7cd-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2020-02-07T16:22:18Z",
+      "section_name": "World",
+      "snippet": "His claims of a secret deal come at a sensitive time for the government, which is under international pressure to cut ties with terror groups.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/62551c0f-c1b0-51c5-80b0-e3502f43aa0a",
+      "web_url": "https://www.nytimes.com/2020/02/07/world/asia/taliban-malala-yousafzai-pakistan.html",
+      "word_count": 701
+    },
+    {
+      "abstract": "In an audiotape message, Al Qaeda’s leader in Yemen claimed responsibility for the December attack that killed three U.S. sailors. The militant himself was most likely killed in a drone strike after he made the tape.",
+      "byline": {
+        "original": "By Declan Walsh"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Al Qaeda Claims It Directed Florida Naval Base Shooting",
+        "kicker": "",
+        "print_headline": "Al Qaeda Claims Role In Shooting At U.S. Base"
+      },
+      "_id": "nyt://article/3c141c99-4807-5572-bd08-a9dbaf9e1f99",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Naval Air Station Pensacola Shooting (2019)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Targeted Killings",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Drones (Pilotless Planes)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Military Bases and Installations",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Al Qaeda in the Arabian Peninsula",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Alshamrani, Mohammed Saeed",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Pensacola (Fla)",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Yemen",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Raymi, Qassim al- (1978-2020)",
+          "rank": 12
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "A Saudi military officer shot 11 people at Naval Air Station Pensacola  in December.",
+        "credit": "Josh Brasted/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/02/02/world/02qaeda/merlin_165534777_85e258b2-57a0-4e35-934e-c8728cdbe3a1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/02/02/world/02qaeda/02qaeda-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2020-02-02T22:15:34Z",
+      "section_name": "World",
+      "snippet": "In an audiotape message, Al Qaeda’s leader in Yemen claimed responsibility for the December attack that killed three U.S. sailors. The militant himself was most likely killed in a drone strike after he made the tape.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/3c141c99-4807-5572-bd08-a9dbaf9e1f99",
+      "web_url": "https://www.nytimes.com/2020/02/02/world/middleeast/al-qaeda-claims-it-directed-florida-naval-base-shooting.html",
+      "word_count": 694
+    },
+    {
+      "abstract": "Prime Minister Narendra Modi says the national icon would have supported his contentious citizenship law. Demonstrators say it goes against everything Gandhi stood for.",
+      "byline": {
+        "original": "By Maria Abi-Habib"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In India, Protesters and Modi Tussle Over Who Can Claim Gandhi",
+        "kicker": "",
+        "print_headline": "In India, Protesters and Modi Tussle Over Who Can Claim Gandhi"
+      },
+      "_id": "nyt://article/51f8071e-43d2-5507-92b2-8e73e571a88d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Gandhi, Mohandas K",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Shah, Amit (1964- )",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Rashtriya Swayamsevak Sangh (India)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A silent protest on Thursday at the Jama Masjid, a mosque in New Delhi, on the anniversary of the assassination of Mohandas K. Gandhi.",
+        "credit": "Saumya Khandelwal for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/02/29/world/29india-gandhi-sub/merlin_168094221_9fe417db-80a4-494c-b793-fd5cf5874a93-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/02/29/world/29india-gandhi-sub/29india-gandhi-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2020-01-30T05:10:10Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Narendra Modi of India says the national icon would have supported his citizenship law. Demonstrators disagree.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/51f8071e-43d2-5507-92b2-8e73e571a88d",
+      "web_url": "https://www.nytimes.com/2020/01/30/world/asia/india-gandhi-modi-citizenship.html",
+      "word_count": 1308
+    },
+    {
+      "abstract": "Prime Minister Benjamin Netanyahu said his government would effectively annex nearly a third of the occupied West Bank, with U.S. approval.",
+      "byline": {
+        "original": "By David M. Halbfinger and Isabel Kershner"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Plan’s First Result: Israel Will Claim Sovereignty Over Part of West Bank",
+        "kicker": "",
+        "print_headline": "Israel Plans to Claim Sovereignty Over Part of West Bank"
+      },
+      "_id": "nyt://article/0350673e-bf06-5169-a0b1-34efb46a4349",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Jerusalem (Israel)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Jordan",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/01/28/multimedia/mideast-plan-map-promo/mideast-plan-map-promo-articleLarge-v2.png",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/01/28/multimedia/mideast-plan-map-promo/mideast-plan-map-promo-thumbStandard-v3.png",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2020-01-28T21:18:37Z",
+      "section_name": "World",
+      "snippet": "The first result of the peace plan: Mr. Trump gave Israel a green light to effectively annex nearly a third of the occupied territory.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News Analysis",
+      "uri": "nyt://article/0350673e-bf06-5169-a0b1-34efb46a4349",
+      "web_url": "https://www.nytimes.com/2020/01/28/world/middleeast/israel-west-bank-annex-sovereignty.html",
+      "word_count": 1322
+    },
+    {
+      "abstract": "The bomb, which tore through Friday evening prayers at a mosque in Quetta, Pakistan, also injured at least 18 more, with many in critical condition.",
+      "byline": {
+        "original": "By Salman Masood and Zia ur-Rehman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Bomb Blast Claimed by ISIS Kills at Least 15 in Pakistan Mosque Used by Taliban",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/550e2465-a432-5173-af0f-c90b03e2cb33",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Baluchistan (Pakistan)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Mosques",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Security officials investigating after a bomb blast in a mosque on Friday in Quetta, Pakistan.",
+        "credit": "Banaras Khan/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/01/10/world/10pakistan/merlin_166929903_1b4e4731-9cc9-42a7-b775-04d2926f1b1e-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/01/10/world/10pakistan/10pakistan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-01-10T20:25:18Z",
+      "section_name": "World",
+      "snippet": "The bomb, which tore through Friday evening prayers at a mosque in Quetta, Pakistan, also injured at least 18 more, with many in critical condition.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/550e2465-a432-5173-af0f-c90b03e2cb33",
+      "web_url": "https://www.nytimes.com/2020/01/10/world/asia/pakistan-mosque-bombing-isis-taliban.html",
+      "word_count": 378
+    },
+    {
+      "abstract": "It was the last political institution in opposition hands. Now President Nicolás Maduro’s has moved closer to total control of the state.",
+      "byline": {
+        "original": "By Julie Turkewitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Venezuela’s Maduro Claims Control of National Assembly, Tightening Grip on Power",
+        "kicker": "",
+        "print_headline": "Maduro Seizes Control of the Legislature, a Venezuelan Holdout"
+      },
+      "_id": "nyt://article/f86e3d11-c500-5835-93b5-357df6cf65b3",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Guaido, Juan",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Maduro, Nicolas",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Venezuela’s opposition leader, Juan Guaidó, outside the National Assembly building in Caracas on Sunday.",
+        "credit": "Adriana Loureiro Fernandez for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/01/05/world/05venezuela/05venezuela-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/01/05/world/05venezuela/05venezuela-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2020-01-05T21:40:25Z",
+      "section_name": "World",
+      "snippet": "Lawmakers backing Nicolás Maduro blocked the re-election of Juan Guaidó as National Assembly president in what critics called a power grab.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/f86e3d11-c500-5835-93b5-357df6cf65b3",
+      "web_url": "https://www.nytimes.com/2020/01/05/world/americas/venezuela-noticias-maduro-guaido.html",
+      "word_count": 999
+    },
+    {
+      "abstract": "The National Assembly was the last political institution still in the opposition’s hands, and by seizing its leadership, President Nicolás Maduro’s supporters move closer to total control of the state.",
+      "byline": {
+        "original": "By Julie Turkewitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Venezuela’s Maduro Claims Control of National Assembly, Consolidating Grip on Power",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c02e49f6-e45a-5864-a7fc-57af5b2cfefb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Guaido, Juan",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Caracas (Venezuela)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Venezuela’s opposition leader, Juan Guaidó, outside the National Assembly building in Caracas on Sunday.",
+        "credit": "Adriana Loureiro Fernandez for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/01/05/world/05venezuela/05venezuela-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/01/05/world/05venezuela/05venezuela-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-01-05T19:54:38Z",
+      "section_name": "World",
+      "snippet": "Lawmakers backing Nicolás Maduro blocked the re-election of Juan Guaidó as National Assembly president in what critics called a power grab.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/c02e49f6-e45a-5864-a7fc-57af5b2cfefb",
+      "web_url": "https://www.nytimes.com/2020/01/05/world/americas/venezuela-noticias-guaido-maduro.html",
+      "word_count": 740
+    }
+  ]
+}

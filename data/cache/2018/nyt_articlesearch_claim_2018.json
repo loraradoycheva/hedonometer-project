@@ -1,0 +1,3312 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20180101",
+    "end_date": "20181231",
+    "fq": "(headline.default:(\"claim\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 44,
+  "docs": [
+    {
+      "abstract": "He Jiankui, who was last seen in public in November soon after his stunning announcement, is sequestered in a guesthouse in the city of Shenzhen.",
+      "byline": {
+        "original": "By Elsie Chen and Paul Mozur"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese Scientist Who Claimed to Make Genetically Edited Babies Is Kept Under Guard",
+        "kicker": "",
+        "print_headline": "Chinese Guard Scientist at Center of Ethical Debate"
+      },
+      "_id": "nyt://article/21f98257-8000-5d61-ad1f-17ad37bd7eb9",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "He Jiankui",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Genetics and Heredity",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Science and Technology",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Southern University of Science and Technology",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Shenzhen (China)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Genetic Engineering",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "He Jiankui, the scientist who says he created the world’s first genetically edited babies, on an apartment balcony in Shenzhen, China. A colleague confirmed his identity when shown video.",
+        "credit": "Elsie Chen",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/29/world/asia/29chinababy-he/29chinababy-he-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/29/world/asia/29chinababy-he/29chinababy-he-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-12-29T02:11:44Z",
+      "section_name": "World",
+      "snippet": "He Jiankui, who was last seen in public in November soon after his stunning announcement, is sequestered in a guesthouse in the city of Shenzhen.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/21f98257-8000-5d61-ad1f-17ad37bd7eb9",
+      "web_url": "https://www.nytimes.com/2018/12/28/world/asia/he-jiankui-china-scientist-gene-editing.html",
+      "word_count": 912
+    },
+    {
+      "abstract": "Mary Robinson, a former United Nations human rights commissioner, has been accused of covering for Dubai’s mistreatment of a daughter of the ruling sheikh.",
+      "byline": {
+        "original": "By Richard Pérez-Peña"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Human Rights Advocate Under Fire in Case of Arab Princess Who Claimed Abduction",
+        "kicker": "",
+        "print_headline": "Rights Advocate Is Under Fire in Case of Arab Princess Who Claimed Abduction"
+      },
+      "_id": "nyt://article/2f9d739f-be6d-51aa-8040-0e4dcb8ffd2d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Dubai (United Arab Emirates)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Robinson, Mary (1944- )",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Royal Families",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Maktoum, Mohammed Bin Rashid Al-",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Maktoum, Latifa bint Mohammed al-",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "The daughter of Dubai’s ruler, Latifa bint Mohammed al-Makhtoum, with Mary Robinson, a well-known human rights advocate, in a photo released by Dubai.",
+        "credit": "United Arab Emirates News Agency, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/29/world/29dubai/merlin_148480365_ef630c0f-8138-4892-89ff-58dc9e9afbda-articleLarge.jpg",
+          "height": 427,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/29/world/29dubai/29dubai-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2018-12-28T20:32:27Z",
+      "section_name": "World",
+      "snippet": "Mary Robinson has been accused of covering for Dubai’s mistreatment of a daughter of the ruling sheikh.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/2f9d739f-be6d-51aa-8040-0e4dcb8ffd2d",
+      "web_url": "https://www.nytimes.com/2018/12/28/world/middleeast/human-rights-robinson-dubai-princess.html",
+      "word_count": 729
+    },
+    {
+      "abstract": "The police are investigating whether Ville Vahamaki cheated Parliament out of 13,000 euros after claiming allowances for a second home that turned out to be a Helsinki sauna.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Finnish Lawmaker Accused of Claiming Sauna as His 2nd Home",
+        "kicker": "",
+        "print_headline": "Finnish Official Faces Inquiry Over Housing"
+      },
+      "_id": "nyt://article/1b47b573-d161-5d8a-9f5a-79d084884c79",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Finland",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Saunas and Sweat Lodges",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Frauds and Swindling",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Vahamaki, Ville",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Hakkarainen, Teuvo",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Finns Party (Finland)",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "The Helsinki building where Ville Vahamaki, of the nationalist Finns Party, rented a sauna for which he is accused of claiming housing expense. He has said he did “laundry and so forth” there.",
+        "credit": "Antti Aimo-Koivisto/Lehtikuva, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/23/world/23finland/merlin_148382508_c3628f7b-c14b-4863-bd59-43b04bd90f30-articleLarge.jpg",
+          "height": 385,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/23/world/23finland/23finland-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "16",
+      "print_section": "A",
+      "pub_date": "2018-12-22T13:08:49Z",
+      "section_name": "World",
+      "snippet": "The police are investigating whether Ville Vahamaki cheated Parliament out of 13,000 euros after claiming allowances for a second home that turned out to be a Helsinki sauna.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1b47b573-d161-5d8a-9f5a-79d084884c79",
+      "web_url": "https://www.nytimes.com/2018/12/22/world/europe/finland-mp-sauna.html",
+      "word_count": 338
+    },
+    {
+      "abstract": "Mexico has essentially agreed to accept the decision, and will be forced to house thousands from other countries, particularly from Central America, as they await their decisions.",
+      "byline": {
+        "original": "By Azam Ahmed and Michael Tackett"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Will Send Migrants Back to Mexico as They Wait on Asylum Claims",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/817a27f7-5e1c-58b2-95a5-163ba98149d1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A migrant family being taken by a Mexican migration official, right, to a crossing into the United States from Tijuana last month.",
+        "credit": "Mauricio Lima for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/21/world/21mexico/merlin_147497259_5b459f8d-d2a3-4a2b-aa17-6c8d62a74ef4-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/21/world/21mexico/21mexico-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-12-20T16:09:31Z",
+      "section_name": "World",
+      "snippet": "Mexico has essentially agreed to accept the decision, and will be forced to house thousands from other countries, particularly from Central America, as they await their decisions.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/817a27f7-5e1c-58b2-95a5-163ba98149d1",
+      "web_url": "https://www.nytimes.com/2018/12/20/world/americas/us-mexico-asylum-migrants.html",
+      "word_count": 958
+    },
+    {
+      "abstract": "Leung Chun-ying, who stepped down last year, came under fire for receiving millions of dollars from a company that had a contract for the city’s subway system.",
+      "byline": {
+        "original": "By Austin Ramzy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hong Kong Won’t Prosecute Ex-Leader Over Claims of Conflict of Interest",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/505962a4-72be-5e8a-97ca-fd808988f42f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Government Contracts and Procurement",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Conflicts of Interest",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "MTR Corp",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "UGL Ltd",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Occupy Central",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Leung Chun-ying",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Hong Kong",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Leung Chun-ying, center, who was Hong Kong’s chief executive from 2012 to 2017, will not be charged for receiving millions of dollars from a company.",
+        "credit": "Greg Baker/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/13/world/13HongKong/merlin_135019419_cbcad7f6-9985-4066-8874-ca78400ec493-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/13/world/13HongKong/13HongKong-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-12-12T12:06:37Z",
+      "section_name": "World",
+      "snippet": "Leung Chun-ying, who stepped down last year, came under fire for receiving millions of dollars from a company that had a contract for the city’s subway system.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/505962a4-72be-5e8a-97ca-fd808988f42f",
+      "web_url": "https://www.nytimes.com/2018/12/12/world/asia/hong-kong-leung-chun-ying.html",
+      "word_count": 411
+    },
+    {
+      "abstract": "More than 1,000 migrants held in offshore detention centers said the government had abrogated its “duty of care,” as required by international law.",
+      "byline": {
+        "original": "By Livia Albeck-Ripka"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Australia’s Migrant Camps Are ‘Crime Against Humanity,’ Lawsuit Claims",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/46b914fb-658f-5b18-be6a-315edbc255ff",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Asylum, Right of",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Detainees",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Torture",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration Detention",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Suits and Litigation (Civil)",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "International Criminal Court",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Morrison, Scott (1968- )",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Nauru",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Manus Island (Papua New Guinea)",
+          "rank": 12
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "Protesters in Canberra, Australia, last month demanded the resettlement of minors held in detention on Nauru.",
+        "credit": "Lukas Coch/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/11/world/11oz-refugees-1/merlin_147373236_61279952-ae56-4ce2-aa51-921eec93a8f4-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/11/world/11oz-refugees-1/11oz-refugees-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-12-10T08:20:19Z",
+      "section_name": "World",
+      "snippet": "More than 1,000 migrants held in offshore detention centers said the government had abrogated its “duty of care,” as required by international law.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/46b914fb-658f-5b18-be6a-315edbc255ff",
+      "web_url": "https://www.nytimes.com/2018/12/10/world/australia/asylum-seekers-lawsuit-migrant-camps-.html",
+      "word_count": 545
+    },
+    {
+      "abstract": "The trial of Nikola Gruevski on corruption charges had been viewed as a step forward in a region plagued by corruption and ethnic divisions.",
+      "byline": {
+        "original": "By Aleksandar Dimishkovski and Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Macedonian Ex-Leader, Facing Prison, Claims to Receive Asylum in Hungary",
+        "kicker": "",
+        "print_headline": "Ex-Strongman Claims to Get Asylum"
+      },
+      "_id": "nyt://article/fc27579e-beb2-56b4-b073-4429c49187a3",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Gruevski, Nikola (1970- )",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Macedonia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Hungary",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Asylum, Right of",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A protest against Mr. Gruevski in 2015.",
+        "credit": "Dimitar Dilkoff/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/21/world/21macedonia2/merlin_147116016_c3441181-292c-4d69-ac18-523222eef568-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/21/world/21macedonia2/21macedonia2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2018-11-20T21:47:42Z",
+      "section_name": "World",
+      "snippet": "The trial of Nikola Gruevski on corruption charges had been viewed as a step forward in a region plagued by corruption and ethnic divisions.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/fc27579e-beb2-56b4-b073-4429c49187a3",
+      "web_url": "https://www.nytimes.com/2018/11/20/world/europe/macedonia-nikola-gruevski-hungary.html",
+      "word_count": 790
+    },
+    {
+      "abstract": "President Trump and Prime Minister Imran Khan of Pakistan traded criticism on Twitter after Mr. Trump defended his decision to withdraw hundreds of millions in aid.",
+      "byline": {
+        "original": "By Salman Masood"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pakistan Angered by Trump’s Claim That It Does ‘Nothing’ for U.S.",
+        "kicker": "",
+        "print_headline": "Trump Fuels War of Words With Leaders Of Pakistan"
+      },
+      "_id": "nyt://article/1322c10d-55ea-5dd9-969c-6a51831376e3",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Khan, Imran",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "In an interview with Fox News, President Trump defended his decision to withdraw hundreds of millions in aid to Pakistan.",
+        "credit": "Al Drago for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/20/world/20Pakistan1/merlin_146972640_b939b911-ceb9-4735-bb4e-500992e4d54e-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/20/world/20Pakistan1/20Pakistan1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2018-11-19T17:45:18Z",
+      "section_name": "World",
+      "snippet": "President Trump and Prime Minister Imran Khan of Pakistan traded criticism on Twitter after Mr. Trump defended his decision to withdraw hundreds of millions in aid.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/1322c10d-55ea-5dd9-969c-6a51831376e3",
+      "web_url": "https://www.nytimes.com/2018/11/19/world/asia/pakistan-trump-imran-khan.html",
+      "word_count": 678
+    },
+    {
+      "abstract": "The city-state is bidding for Unesco recognition for dishes like chicken rice, nasi lemak and curry laksa that are also served in Malaysia.",
+      "byline": {
+        "original": "By Mike Ives"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Singapore’s Claim as a Street-Food Hub Riles Malaysians",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/cccd568e-3dfc-5b30-8549-20724524e1a0",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Food",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations Educational, Scientific and Cultural Organization",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Singapore",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Malaysia",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Malaysians say that Singapore’s hawker food centers, like the one above, are too sterile to be representative of the region’s street cuisine.",
+        "credit": "Rebecca Toh for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/06/world/06singapore-food-1/merlin_142945044_e7542a3c-f207-472a-bda1-874deb488313-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/06/world/06singapore-food-1/06singapore-food-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-11-05T11:51:39Z",
+      "section_name": "World",
+      "snippet": "The city-state is bidding for Unesco recognition for dishes like chicken rice, nasi lemak and curry laksa that are also served in Malaysia.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/cccd568e-3dfc-5b30-8549-20724524e1a0",
+      "web_url": "https://www.nytimes.com/2018/11/05/world/asia/singapore-malaysia-street-food-unesco.html",
+      "word_count": 805
+    },
+    {
+      "abstract": "President Trump, echoing the assertions of a Republican lawmaker, said that “a lot of money” was given to migrants traveling toward the United States. There is no evidence of that. ",
+      "byline": {
+        "original": "By Linda Qiu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Did Democrats, or George Soros, Fund Migrant Caravan? Despite Republican Claims, No ",
+        "kicker": "Fact Check",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fbbe4d54-7486-5256-8d12-60cf6a14e1ba",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Guatemala",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Honduras",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Migrants, most of them Honduran, are walking north toward Mexico, the United States and Canada. Here they are crossing Guatemala.",
+        "credit": "Esteban Biba/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/20/world/20caravan-factcheck1/merlin_145429305_d7aa19cf-4767-48a6-8043-c8d535a7c60e-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/20/world/20caravan-factcheck1/merlin_145429305_d7aa19cf-4767-48a6-8043-c8d535a7c60e-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-10-20T17:07:55Z",
+      "section_name": "World",
+      "snippet": "President Trump, echoing the claims of a Republican lawmaker, said that “a lot of money” was given to migrants traveling toward the United States. There is no evidence of that. ",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/fbbe4d54-7486-5256-8d12-60cf6a14e1ba",
+      "web_url": "https://www.nytimes.com/2018/10/20/world/americas/migrant-caravan-video-trump.html",
+      "word_count": 614
+    },
+    {
+      "abstract": "A victory for Milorad Dodik, a pro-Russia Bosnian Serb strongman, could exacerbate ethnic rivalries in the Balkan nation and stall the country’s bid for European Union membership.",
+      "byline": {
+        "original": "By Barbara Surk"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Serb Nationalist Claims Victory in Bosnia in Early Vote Count",
+        "kicker": "",
+        "print_headline": "Serb Nationalist Claims Victory in Bosnia"
+      },
+      "_id": "nyt://article/ac8745c0-a517-5526-9286-58d0c1a5df48",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Bosnia and Herzegovina",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Dodik, Milorad",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "The victory of Milorad Dodik, a pro-Russia Bosnian Serb strongman, could exacerbate ethnic rivalries in Bosnia and stall the country’s bid for European Union membership.",
+        "credit": "Darko Vojinovic/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/09/world/09dodik/merlin_144998403_4edf1070-60a9-480c-aea0-d59df57be0d1-articleLarge.jpg",
+          "height": 413,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/09/world/09dodik/09dodik-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2018-10-08T00:51:27Z",
+      "section_name": "World",
+      "snippet": "A victory for Milorad Dodik, a pro-Russia Bosnian Serb strongman, could exacerbate ethnic rivalries in the Balkan nation and stall the country’s bid for European Union membership.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/ac8745c0-a517-5526-9286-58d0c1a5df48",
+      "web_url": "https://www.nytimes.com/2018/10/07/world/europe/bosnia-elections-dodik.html",
+      "word_count": 565
+    },
+    {
+      "abstract": "Rasool Landay lured Afghan women into having sex with him to treat their infertility. He then filmed the encounters and extorted money. Officials fear some of the women may been killed by relatives.",
+      "byline": {
+        "original": "By Najim Rahim and Mujib Mashal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Con Man Claimed to ‘Cure’ Childless Women. Blackmail Followed, Then Bodies.",
+        "kicker": "",
+        "print_headline": "Con Man Claims to Cure Childless Women. Blackmail and Bodies Follow."
+      },
+      "_id": "nyt://article/a70f0e45-bbe6-5d54-93c3-5b744e6236d1",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Honor Killings",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Extortion and Blackmail",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Frauds and Swindling",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Faryab Province (Afghanistan)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Superstitions",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Women gathered at a shrine in Mazar-i-Sharif, Afghanistan, in 2013. A man called Rasool Landay has been passing himself off as an Islamic cleric, Mullah Landay, and ran extortion ring targeting women, in the northern part of the country.",
+        "credit": "Bryan Denton for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/07/world/07afghan-conman-1/merlin_66688243_95bfa712-e785-4b44-bc9f-fa2f4fe6fdf1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/07/world/07afghan-conman-1/00afghan-conman-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-10-06T19:00:03Z",
+      "section_name": "World",
+      "snippet": "Rasool Landay lured Afghan women into having sex with him to treat their infertility. He then filmed the encounters and extorted money.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/a70f0e45-bbe6-5d54-93c3-5b744e6236d1",
+      "web_url": "https://www.nytimes.com/2018/10/06/world/asia/afghanistan-rasool-landay-childless-women-scam.html",
+      "word_count": 1160
+    },
+    {
+      "abstract": "Months before he was poisoned by a nerve agent, Sergei Skripal spoke with a journalist, cautiously. “You see, we are afraid of Putin,” he said.",
+      "byline": {
+        "original": "By Ellen Barry"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Spy Poisoned in Britain Fed MI6 Agents Secrets on a Putin Ally, New Book Claims",
+        "kicker": "",
+        "print_headline": "Spy Poisoned in Britain Fed MI6 Agents  Secrets on Putin Ally, New Book Claims"
+      },
+      "_id": "nyt://article/a10c8951-1539-5851-898d-c89d2f74209f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Poisoning and Poisons",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "British Secret Intelligence Service",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Federal Security Service",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Skripal, Sergei V",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Russian President Vladimir Putin with Nikolai P. Patrushev, left, in Moscow last year.",
+        "credit": "Maksim Blinov/Sputnik, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/02/world/02skripal-print/merlin_144672741_b613cd9e-0e95-4416-bbd7-389b7970714c-articleLarge.jpg",
+          "height": 394,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/02/world/02skripal-print/02skripal1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2018-10-01T23:01:24Z",
+      "section_name": "World",
+      "snippet": "Months before he was poisoned by a nerve agent, Sergei Skripal spoke with a journalist, cautiously. “You see, we are afraid of Putin,” he said.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/a10c8951-1539-5851-898d-c89d2f74209f",
+      "web_url": "https://www.nytimes.com/2018/10/01/world/europe/spy-russia-britain-putin.html",
+      "word_count": 815
+    },
+    {
+      "abstract": "Over 90 percent of ballots cast were in favor of the name change. But more than half of eligible voters stayed home from the polls.",
+      "byline": {
+        "original": "By Marc Santora"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Both Sides Claim Victory in Macedonia’s Vote on Changing Its Name",
+        "kicker": "",
+        "print_headline": "Little Solved in Macedonia After Vote to Change Name"
+      },
+      "_id": "nyt://article/838d892d-6343-5b71-8b2b-7c2032bd443c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "North Atlantic Treaty Organization",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Gruevski, Nikola (1970- )",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Zaev, Zoran (1974- )",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Greece",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Macedonia",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Voting on Sunday in Skopje, Macedonia, in a referendum on renaming the country in a bid to unlock its path to joining NATO and the European Union and settle a long-running dispute with Greece.",
+        "credit": "Robert Atanasovski/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/01/world/01macedonia-1/merlin_144584439_99441625-1fb8-4c27-bd8e-31ebc1125abf-articleLarge.jpg",
+          "height": 394,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/01/world/01macedonia-1/01macedonia-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-09-30T22:21:25Z",
+      "section_name": "World",
+      "snippet": "Over 90 percent of ballots cast were in favor of the name change. But more than half of eligible voters stayed home from the polls.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/838d892d-6343-5b71-8b2b-7c2032bd443c",
+      "web_url": "https://www.nytimes.com/2018/09/30/world/europe/macedonia-greece-referendum.html",
+      "word_count": 1133
+    },
+    {
+      "abstract": "Critics say that Elephants Without Borders made exaggerated claims to try to influence the government, which is considering rolling back a hunting ban.",
+      "byline": {
+        "original": "By Kimon de Greef"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Doubts Mount in Botswana Over Charity’s Claim of Elephant ‘Poaching Frenzy’",
+        "kicker": "",
+        "print_headline": "Doubts Mount in Botswana Over Claim of Elephant Poaching"
+      },
+      "_id": "nyt://article/e2275ae9-71bf-5968-8974-d27b7dda87e6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elephants",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Poaching (Wildlife)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Ivory",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Convention on International Trade in Endangered Species",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Botswana",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Hunting and Trapping",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Elephants in northern Botswana this month. The charity Elephants Without Borders has been accused of exaggerating the poaching problem to try to influence the country&rsquo;s government.",
+        "credit": "Monirul Bhuiyan/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/29/world/29botswana-1-print-sub/29botswana-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/29/world/29botswana-1-print-sub/29botswana-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-09-28T16:24:27Z",
+      "section_name": "World",
+      "snippet": "It was a shocking story: 87 elephants slaughtered for their tusks. But critics say Elephants Without Borders exaggerated the claims.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/e2275ae9-71bf-5968-8974-d27b7dda87e6",
+      "web_url": "https://www.nytimes.com/2018/09/28/world/africa/botswana-elephants-poaching.html",
+      "word_count": 1289
+    },
+    {
+      "abstract": "Benjamin Netanyahu said intelligence agents had found the facility in Tehran, setting up a challenge to Iran to prove it’s not violating the nuclear deal.",
+      "byline": {
+        "original": "By David E. Sanger and Megan Specia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Israeli Leader Claims Iran Has ‘Secret Atomic Warehouse’",
+        "kicker": "",
+        "print_headline": "Israeli Leader Says Iran Has ‘Secret Atomic’ Site"
+      },
+      "_id": "nyt://article/7581b56f-fd8c-5b49-9900-2b1f7285b95d",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Control and Limitation and Disarmament",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "General Assembly (UN)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "International Atomic Energy Agency",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Benjamin Netanyahu of Israel speaking at the United Nations General Assembly on Thursday in New York.",
+        "credit": "Chang W. Lee/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/28/world/28iran/merlin_144430221_97bfaee8-5257-4174-a3e2-65dd1533824f-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/28/world/28iran/28iran-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-09-27T22:51:58Z",
+      "section_name": "World",
+      "snippet": "Benjamin Netanyahu said intelligence agents had found the facility in Tehran, setting up a challenge to Iran to prove it’s not violating the nuclear deal.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/7581b56f-fd8c-5b49-9900-2b1f7285b95d",
+      "web_url": "https://www.nytimes.com/2018/09/27/world/middleeast/israel-iran-nuclear-agreement.html",
+      "word_count": 803
+    },
+    {
+      "abstract": "Facing trial in Thailand, the Belarusian escort Anastasia Vashukevich has begun backtracking on her claim to have evidence of election interference.",
+      "byline": {
+        "original": "By Richard C. Paddock"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "She Gambled on Her Claim to Link Russians and Trump. She Is Losing.",
+        "kicker": "",
+        "print_headline": "She Gambled on Her Claim to Link Russians and Trump. She Is Losing."
+      },
+      "_id": "nyt://article/3a4a48b7-e57e-51dc-8e6c-7b69de3ed08d",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Vashukevich, Anastasia",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kirillov, Alexander",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Deripaska, Oleg V",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Thailand",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Manafort, Paul J",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Navalny, Aleksei A",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Anastasia Vashukevich &mdash; the Belarusian escort who goes by Nastya Rybka and once claimed to be able to link Russian oligarchs to American election interference &mdash; now could face up to 10 years in a Thai prison.",
+        "credit": "Gemunu Amarasinghe/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/02/world/02thailand-escort1/merlin_136966839_168bb1ac-ae1c-487d-a9d8-5b2ce7cee299-articleLarge.jpg",
+          "height": 392,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/02/world/02thailand-escort1/01thailand-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-08-31T08:51:39Z",
+      "section_name": "World",
+      "snippet": "Facing trial in Thailand, the Belarusian escort Anastasia Vashukevich has begun backtracking on her claim to have evidence of election interference.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3a4a48b7-e57e-51dc-8e6c-7b69de3ed08d",
+      "web_url": "https://www.nytimes.com/2018/08/31/world/asia/escort-anastasia-vashukevich-nastya-rybka-trump.html",
+      "word_count": 1156
+    },
+    {
+      "abstract": "Citing “large scale killing of farmers” and land seizures, President Trump tweeted that he had asked Secretary of State Mike Pompeo to investigate.",
+      "byline": {
+        "original": "By Kimon de Greef and Palko Karasz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Cites False Claims of Widespread Attacks on White Farmers in South Africa",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8db696a8-1911-517b-b2c2-4cd3ee64e07c",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Agriculture and Farming",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Land Use Policies",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Ramaphosa, Cyril",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Carlson, Tucker",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Fox News Channel",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Pompeo, Mike",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "South Africans erecting a shack during illegal land occupations in a township near Cape Town. A proposed change in a land ownership law has become a highly divisive issue.",
+        "credit": "Mike Hutchings/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/08/23/world/23trump-safrica1/merlin_142688049_335b0794-a6d1-4478-8948-f2e2462bb280-articleLarge.jpg",
+          "height": 398,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/08/23/world/23trump-safrica1/23trump-safrica1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-08-23T10:12:54Z",
+      "section_name": "World",
+      "snippet": "President Trump commented on South African plans to seize some land without compensation, coming to the defense of “white farmers” and claiming without evidence that there had been “large scale killings.”",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/8db696a8-1911-517b-b2c2-4cd3ee64e07c",
+      "web_url": "https://www.nytimes.com/2018/08/23/world/africa/trump-south-africa-white-farmers.html",
+      "word_count": 1363
+    },
+    {
+      "abstract": "Ramzan A. Kadyrov, the Chechen strongman appointed by President Vladimir V. Putin of Russia, said the attacks had aimed to create “an illusion” of disorder.",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Police Are Attacked in Chechnya; ISIS Claims Responsibility",
+        "kicker": "",
+        "print_headline": "Militants Attack Police in Chechnya;  Islamic State Claims Responsibility"
+      },
+      "_id": "nyt://article/1fd29ee2-3c90-52b4-b035-d17a929f7327",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Attacks on Police",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Investigative Committee (Russia)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Kadyrov, Ramzan",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Chechnya (Russia)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Grozny (Russia)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Chechen police officers at the site of an attack in Grozny, the regional capital, on Monday. At least four police officers were hurt in three attacks for which ISIS claimed responsibility.",
+        "credit": "Investigative Committee of Russia, via Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/08/21/world/21Russia-print/merlin_142571055_8dadb391-0193-46d0-8817-f170e5f7c2c6-articleLarge.jpg",
+          "height": 526,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/08/21/world/21Russia-print/21Russia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-08-20T17:15:53Z",
+      "section_name": "World",
+      "snippet": "Ramzan A. Kadyrov, the Chechen strongman appointed by President Vladimir V. Putin of Russia, said the attacks had aimed to create “an illusion” of disorder.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1fd29ee2-3c90-52b4-b035-d17a929f7327",
+      "web_url": "https://www.nytimes.com/2018/08/20/world/europe/militants-attack-police-chechnya-isis-kadyrov.html",
+      "word_count": 576
+    },
+    {
+      "abstract": "After their meeting in Finland, the two presidents lauded the close cooperation between their two militaries in Syria, but the record is actually more mixed.",
+      "byline": {
+        "original": "By Eric Schmitt and Thomas Gibbons-Neff"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "American-Russian Relations in Syria? Less Rosy Than Trump and Putin Claim",
+        "kicker": "",
+        "print_headline": "U.S.-Russian Relations in Syria Are Less Rosy Than Leaders Implied"
+      },
+      "_id": "nyt://article/f6dfb4d9-d9f5-5cfe-8a34-8d8afbe6d877",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Military Aircraft",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Mercenaries and Private Military Contractors",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Military Bases and Installations",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Defense Department",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Syrian Democratic Forces",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Syrian Army",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Syrian protesters waving Iranian, Russian and Syrian flags during a demonstration against American-led air strikes in Damascus in April.",
+        "credit": "Omar Sanadiki/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/18/us/politics/18dc-syria-print/merlin_136823247_66c294d2-672d-464d-968a-f326e497e382-articleLarge.jpg",
+          "height": 421,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/18/us/politics/18dc-syria-print/17dc-syria1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2018-07-17T09:00:11Z",
+      "section_name": "World",
+      "snippet": "After their meeting in Finland, the two presidents lauded the close cooperation between their two militaries in Syria, but the record is actually more mixed.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/f6dfb4d9-d9f5-5cfe-8a34-8d8afbe6d877",
+      "web_url": "https://www.nytimes.com/2018/07/17/world/middleeast/american-russian-military-syria.html",
+      "word_count": 1377
+    },
+    {
+      "abstract": "President Trump says North Korea’s dismantling of its nuclear program “is already starting.” Here are the facts.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fact Check: Is There Truth to Trump’s Bold Claims About North Korean Denuclearization?",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9ce0b843-71d9-5fd2-a20c-0ec3bff6e116",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump has made bold claims about what his June 12 summit meeting with Kim Jong-un, North Korea’s leader, achieved.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/06/23/world/23nkorea-fact-1/23nkorea-fact-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/23/world/23nkorea-fact-1/23nkorea-fact-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-06-22T10:18:51Z",
+      "section_name": "World",
+      "snippet": "President Trump says North Korea’s dismantling of its nuclear program “is already starting.” Here are the facts.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9ce0b843-71d9-5fd2-a20c-0ec3bff6e116",
+      "web_url": "https://www.nytimes.com/2018/06/22/world/asia/trump-north-korea-kim-jong-un.html",
+      "word_count": 1119
+    },
+    {
+      "abstract": "The president suggested Chancellor Angela Merkel’s migration policy was responsible for rising crime and causing Germans to turn against their leaders.",
+      "byline": {
+        "original": "By Christopher F. Schuetze and Michael Wolgelenter"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Fact Check: Trump’s False and Misleading Claims About Germany’s Crime and Immigration",
+        "kicker": "",
+        "print_headline": "Fact Check"
+      },
+      "_id": "nyt://article/60cf0871-ac96-5bfd-bbd2-af211a998d79",
+      "keywords": [
+        {
+          "name": "Keyword",
+          "value": "Fact Check",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Christian Democratic Union (Germany)",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Christian Social Union (Germany)",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "Alternative for Germany",
+          "rank": 12
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 13
+        },
+        {
+          "name": "Location",
+          "value": "Bavaria (Germany)",
+          "rank": 14
+        }
+      ],
+      "multimedia": {
+        "caption": "The arrivals hall for refugees in the State Office for Refugee Affairs, in Berlin last month.",
+        "credit": "Kay Nietfeld/Picture Alliance, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/06/19/world/19trump-fact-check1/merlin_139795356_5f62cbc6-cc38-4722-88da-2d3c302ecc83-articleLarge.jpg",
+          "height": 403,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/19/world/19trump-fact-check1/19trump-fact-check1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-06-18T17:41:01Z",
+      "section_name": "World",
+      "snippet": "The president said Chancellor Angela Merkel’s migration policy was responsible for rising crime and threatened the government’s hold on power.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/60cf0871-ac96-5bfd-bbd2-af211a998d79",
+      "web_url": "https://www.nytimes.com/2018/06/18/world/europe/fact-check-trump-germany.html",
+      "word_count": 703
+    },
+    {
+      "abstract": "The governing party has worked for more than a year to reshape a judicial system that has aggressively indicted ministers, senators and others. It warns of a “deep state” that could target anyone.",
+      "byline": {
+        "original": "By Marc Santora and Kit Gillet"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Claiming ‘Parallel State’ Cabal, Romania’s Leaders Target Anti-Corruption Prosecutor",
+        "kicker": "",
+        "print_headline": "Romania’s Governing Party Moves to Unseat Anti-Corruption Prosecutor"
+      },
+      "_id": "nyt://article/06ae3c58-ee55-5caf-9706-7dac5d98cb85",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Romania",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "National Anticorruption Directorate (Romania)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Dragnea, Liviu",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Iohannis, Klaus W",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Kovesi, Laura Codruta",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Mueller, Robert S III",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Rumors and Misinformation",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Supporters of the ruling Social Democratic Party at a rally outside the government headquarters in Bucharest, Romania, on June 9, to protest abuses they blamed on anti-corruption prosecutors.",
+        "credit": "Vadim Ghirda/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/06/18/world/16romania1/merlin_139323447_a7d67365-414b-45f5-b108-08fb1832d84b-articleLarge.jpg",
+          "height": 420,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/18/world/16romania1/16romania1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-06-17T14:45:33Z",
+      "section_name": "World",
+      "snippet": "The governing party has worked for more than a year to reshape a judicial system that has aggressively indicted ministers, senators and others. It warns of a “deep state” that could target anyone.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/06ae3c58-ee55-5caf-9706-7dac5d98cb85",
+      "web_url": "https://www.nytimes.com/2018/06/17/world/europe/romania-corruption-prosecutors.html",
+      "word_count": 1450
+    },
+    {
+      "abstract": "Cables recently been made available to The New York Times discuss possible ties between drug traffickers and former Colombian President Álvaro Uribe.",
+      "byline": {
+        "original": "By Nicholas Casey"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Cables Contain Claims Former Colombian Leader Is Tied to Drug Traffickers",
+        "kicker": "",
+        "print_headline": "Declassified Cables Discuss Ex-Leader’s Ties to Colombian Drug Cartel"
+      },
+      "_id": "nyt://article/2708dbaa-1bfa-5f78-861a-18e8f212e048",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Colombia",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Uribe, Alvaro",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Medellin Cartel",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Drug Abuse and Traffic",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "&Aacute;lvaro Uribe, a former president of Colombia, spoke during a rally for the presidential candidate Iv&aacute;n Duque in Bogot&aacute; last week.",
+        "credit": "Nacho Doce/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/26/world/26colombia-print/merlin_138459960_2946ec6e-c5e7-4c4a-830c-1f4c88ea96b3-articleLarge.jpg",
+          "height": 382,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/26/world/26colombia-print/26colombia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-05-25T19:38:11Z",
+      "section_name": "World",
+      "snippet": "Cables recently been made available to The New York Times discuss possible ties between drug traffickers and former Colombian President Álvaro Uribe.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/2708dbaa-1bfa-5f78-861a-18e8f212e048",
+      "web_url": "https://www.nytimes.com/2018/05/25/world/americas/colombia-uribe-drugs.html",
+      "word_count": 1023
+    },
+    {
+      "abstract": "North Korean denuclearization is off the table, at least in the short term. But there are other outcomes from the planned summit talks that President Trump might accept.",
+      "byline": {
+        "original": "By Motoko Rich"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Can Trump Still Claim Victory if Kim Jong-un Keeps His Nuclear Arms?",
+        "kicker": "",
+        "print_headline": "If the North Keeps Nuclear Arms, Could Trump Still Claim Success?"
+      },
+      "_id": "nyt://article/ce294f69-ed25-55f1-a910-c89243273be6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Control and Limitation and Disarmament",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Embargoes and Sanctions",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "With North Korean denuclearization apparently off the table — at least in the short term — the question is how President Trump will redefine success, if his talks with the North’s leader, Kim Jong-un, take place next month as planned.",
+        "credit": "Jung Yeon-Je/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/23/world/23Korea/merlin_138213102_90216dd2-a981-4d02-83e7-6d83af2cce34-articleLarge.jpg",
+          "height": 379,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/23/world/23Korea/merlin_138213102_90216dd2-a981-4d02-83e7-6d83af2cce34-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-05-22T12:31:14Z",
+      "section_name": "World",
+      "snippet": "North Korean denuclearization is off the table, at least in the short term. But there are other outcomes from the planned summit talks that Mr. Trump might accept.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/ce294f69-ed25-55f1-a910-c89243273be6",
+      "web_url": "https://www.nytimes.com/2018/05/22/world/asia/trump-kim-north-korea-summit.html",
+      "word_count": 1363
+    },
+    {
+      "abstract": "Mr. Conte, a civil law professor with a long résumé, must still be approved. But his main qualification may be his willingness to do the bidding of his backers.",
+      "byline": {
+        "original": "By Jason Horowitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Italy’s Populists Offer Giuseppe Conte for Prime Minister; N.Y.U. Claim in Question",
+        "kicker": "",
+        "print_headline": "Italy’s Populists Offer Professor as Choice for Prime Minister"
+      },
+      "_id": "nyt://article/bb3d46e0-6197-549b-8425-fb12fba91a4a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Five Star Movement (Italy)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "League (Italian Political Party)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Salvini, Matteo",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Italy",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Di Maio, Luigi",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Mattarella, Sergio",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Conte, Giuseppe",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Giuseppe Conte in Rome, before the Italian elections this spring.",
+        "credit": "Silvia Lore/NurPhoto, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/22/world/22italy-1/merlin_138494025_61dd79e3-48a8-4bfc-8664-cf4bd345eb2a-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/22/world/22italy-1/22italy-1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2018-05-21T21:11:09Z",
+      "section_name": "World",
+      "snippet": "Giuseppe Conte, a civil law professor with a long résumé, must still be approved. But his main qualification may be his willingness to do the bidding of his backers.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/bb3d46e0-6197-549b-8425-fb12fba91a4a",
+      "web_url": "https://www.nytimes.com/2018/05/21/world/europe/italy-government-giuseppe-conte-di-maio.html",
+      "word_count": 1300
+    },
+    {
+      "abstract": "China and Taiwan share claims to the South China Sea, but a visit to Taiwan’s “island” shows how they diverge in exercising control.",
+      "byline": {
+        "original": "By Steven Lee Myers"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Island or Rock? Taiwan Defends Its Claim in South China Sea",
+        "kicker": "Itu Aba Journal",
+        "print_headline": "Coconuts, Wells, Gardens and Beaches, Yet Still Just a ‘Rock’"
+      },
+      "_id": "nyt://article/0fd310fa-cc9c-5e75-9846-f506081bc765",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Spratly Islands",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Taiwan",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Law of the Sea (UN Convention)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "World War II (1939-45)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Chiang Kai-shek",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Itu Aba is a small strip of land in the South China Sea occupied by Taiwan. Its name in Chinese is Taiping, which means peaceful or tranquil.",
+        "credit": "Johnson Lai/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/21/world/21taiwan-island-jnl-1sub/21taiwan-island-jnl-1sub-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/21/world/21taiwan-island-jnl-1sub/21taiwan-island-jnl-1sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-05-20T14:13:57Z",
+      "section_name": "World",
+      "snippet": "A visit to Taiwan’s “island” shows how China and Taiwan diverge in exercising control over the South China Sea.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/0fd310fa-cc9c-5e75-9846-f506081bc765",
+      "web_url": "https://www.nytimes.com/2018/05/20/world/asia/china-taiwan-island-south-sea.html",
+      "word_count": 1305
+    },
+    {
+      "abstract": "Government officials and their American military backers vowed that they would quickly oust the insurgents from the city.",
+      "byline": {
+        "original": "By Jawad Sukhanyar and Rod Nordland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Taliban Claim They’ve Taken Control of Western Afghan City, Farah",
+        "kicker": "",
+        "print_headline": "Afghan Officials Vow to Retake a City Claimed by Taliban Insurgents"
+      },
+      "_id": "nyt://article/00bcf552-8d3f-562f-931b-aa42f25ea7b7",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Farah Province (Afghanistan)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A police outpost north of Farah, Afghanistan, in 2017. The provincial governor fled the city after insurgents attacked early Tuesday, an official said.",
+        "credit": "Bryan Denton for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/23/world/16afghanistan-1/23Afghanstrategy2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/23/world/16afghanistan-1/16afghanistan-1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2018-05-15T09:59:16Z",
+      "section_name": "World",
+      "snippet": "Government officials and their American military backers vowed that they would quickly oust the insurgents from the city.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/00bcf552-8d3f-562f-931b-aa42f25ea7b7",
+      "web_url": "https://www.nytimes.com/2018/05/15/world/asia/afghanistan-taliban-farah-.html",
+      "word_count": 1238
+    },
+    {
+      "abstract": "Fifteen Australian politicians, revealed to have dual citizenship, have been forced to resign in the past year.",
+      "byline": {
+        "original": "By Adam Baidawi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Australia’s Dual-Citizenship Contagion Claims 5 More Politicians",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/13f4465a-c196-5afc-b464-2fec9d43d243",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Citizenship and Naturalization",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Constitutions",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Labor Party (Australia)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Joyce, Barnaby (1967- )",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Susan Lamb, center, a member of Australia’s Parliament, resigned on Wednesday along with three other members, all of whom hold dual citizenship.",
+        "credit": "Mick Tsikas/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/09/world/09oz-citizenship-1/merlin_137878710_177ac267-0bf4-44af-8e1a-4eb673e5331a-articleLarge.jpg",
+          "height": 382,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/09/world/09oz-citizenship-1/09oz-citizenship-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-05-09T07:30:31Z",
+      "section_name": "World",
+      "snippet": "Fifteen Australian politicians, revealed to have dual citizenship, have been forced to resign in the past year.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/13f4465a-c196-5afc-b464-2fec9d43d243",
+      "web_url": "https://www.nytimes.com/2018/05/09/world/australia/australia-dual-citizenship-politician-resign-crisis.html",
+      "word_count": 397
+    },
+    {
+      "abstract": "Three members of the Swedish Academy, which selects the winner of the Nobel Prize for Literature, have withdrawn over the handling of misconduct allegations involving a member’s spouse.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Sexual Misconduct Claim Spurs Nobel Members to Step Aside in Protest",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1fe27a84-36bd-5d15-90f3-3b3af82fc410",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Nobel Prizes",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Swedish Academy",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "Peter Englund in 2014. Mr. Englund was one of three members to withdraw from the Swedish Academy on Friday.",
+        "credit": "Jonathan Nackstrand/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/04/07/world/07nobel/merlin_88208605_bcbc619c-e82e-4441-b0cb-3c571d186753-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/04/07/world/07nobel/07nobel-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-04-06T20:48:07Z",
+      "section_name": "World",
+      "snippet": "Three members of the Swedish Academy, which selects the winner of the Nobel Prize for Literature, have withdrawn over the handling of misconduct allegations involving a member’s spouse.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1fe27a84-36bd-5d15-90f3-3b3af82fc410",
+      "web_url": "https://www.nytimes.com/2018/04/06/world/europe/sexual-misconduct-claim-spurs-nobel-members-to-step-aside-in-protest.html",
+      "word_count": 334
+    },
+    {
+      "abstract": "Anastasia Vashukevich is still in Thai custody, hoping to trade what she says is evidence that Russia meddled in the American presidential election.",
+      "byline": {
+        "original": "By Ryn Jirenuwat and Richard C. Paddock"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Escort Who Claims to Have Russian Secrets Faces New Charges in Thailand",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/13e466b7-6818-5b8f-8355-3281b03ecef6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Vashukevich, Anastasia",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kirillov, Alexander",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Thailand",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Belarus",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Anastasia Vashukevich, left, and her associate Alexander Kirillov, far right, after their arrest in Pattaya, Thailand, in February.",
+        "credit": "Gemunu Amarasinghe/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/04/07/world/07thailand-1/merlin_134724528_f58bb0f7-d49f-4ae8-adbf-a75b00f42848-articleLarge.jpg",
+          "height": 415,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/04/07/world/07thailand-1/07thailand-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-04-06T05:41:00Z",
+      "section_name": "World",
+      "snippet": "Anastasia Vashukevich is still in Thai custody, hoping to trade what she says is evidence that Russia meddled in the American presidential election.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/13e466b7-6818-5b8f-8355-3281b03ecef6",
+      "web_url": "https://www.nytimes.com/2018/04/06/world/asia/nastya-rybka-thailand-charges.html",
+      "word_count": 452
+    },
+    {
+      "abstract": "Australia has disavowed its home minister’s view that white farmers needed refuge in a “civilized country,” South Africa’s top diplomat says.",
+      "byline": {
+        "original": "By Adam Baidawi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "South Africa Says Australia Retracted Claim of ‘Persecuted’ White Farmers",
+        "kicker": "",
+        "print_headline": "Australia Said to Retract Claim on White Farmers"
+      },
+      "_id": "nyt://article/f5ea8e71-ea16-578d-8917-a771e78aa84d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Dutton, Peter C",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration Detention",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "African National Congress",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Peter Dutton, Australia’s home affairs minister, in Canberra in February. In March, Mr. Dutton said that “persecuted” white South African farmers deserved the protection of a “civilized country” and said he would explore the possibility of fast-tracking refugee visas.",
+        "credit": "Michael Masters/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/04/04/world/04oz-southafrica-1/merlin_136317279_fcdb751c-454b-4416-afbf-ff01b4061c0f-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/04/04/world/04oz-southafrica-1/04oz-southafrica-1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-04-03T07:39:46Z",
+      "section_name": "World",
+      "snippet": "Australia has disavowed its home minister’s view that white farmers needed refuge in a “civilized country,” South Africa’s top diplomat says.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/f5ea8e71-ea16-578d-8917-a771e78aa84d",
+      "web_url": "https://www.nytimes.com/2018/04/03/world/australia/south-africa-white-farmers.html",
+      "word_count": 752
+    },
+    {
+      "abstract": "The apparent attack by Houthi rebels came as the Saudi crown prince was visiting the United States, which has aided the three-year Saudi intervention.",
+      "byline": {
+        "original": "By Saeed Al-Batati and Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Saudis Claim to Intercept 7 Missiles Fired at Cities From Yemen",
+        "kicker": "",
+        "print_headline": "7 Houthi Missiles Targeting Cities Are Blocked, Saudis Say"
+      },
+      "_id": "nyt://article/79caec31-5186-5da6-8dbd-7184bc870943",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Yemen",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Mohammed bin Salman (1985- )",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Third World and Developing Countries",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A damaged house in Riyadh, Saudi Arabia, on Monday, after it was hit by fragments of a destroyed missile said to have been fired by Houthi rebels from Yemen.",
+        "credit": "Fayez Nureldine/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/03/26/world/26yemen/merlin_136034292_ab48c498-0ebd-4ba2-bf41-229418fd145f-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/03/26/world/26yemen/26yemen-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-03-25T23:46:44Z",
+      "section_name": "World",
+      "snippet": "The missile attack came as the Saudi crown prince, the architect of the military intervention in Yemen, is visiting the United States, which has aided the Saudi military.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/79caec31-5186-5da6-8dbd-7184bc870943",
+      "web_url": "https://www.nytimes.com/2018/03/25/world/middleeast/saudi-arabia-yemen-missile-houthi.html",
+      "word_count": 573
+    },
+    {
+      "abstract": "The court ruled that Constantin Reliu, 63, who was officially registered as dead after going to Turkey for work, had appealed his case too late.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Romanian Court Rejects Man’s Claim That He’s Alive",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/0a7805a4-0057-5170-9b4f-7dec12e02a87",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Romania",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Reliu, Constantin",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-03-16T11:22:26Z",
+      "section_name": "World",
+      "snippet": "The court ruled that Constantin Reliu, 63, who was officially registered as dead after going to Turkey for work, had appealed his case too late.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "List",
+      "uri": "nyt://article/0a7805a4-0057-5170-9b4f-7dec12e02a87",
+      "web_url": "https://www.nytimes.com/2018/03/16/world/europe/romania-dead-man.html",
+      "word_count": 173
+    },
+    {
+      "abstract": "The president boasted that he was just improvising when he insisted to Prime Minister Justin Trudeau that the U.S. had a trade deficit with Canada.",
+      "byline": {
+        "original": "By Ian Austen and Dan Bilefsky"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Says He Made Up Deficit Claim in Talk with Trudeau, Baffling Canadians",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3631fd20-e255-555a-81c2-7d3b26ea7744",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trudeau, Justin",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "North American Free Trade Agreement",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump boasted at a fund-raising event on Wednesday that he fabricated a trade deficit between Canada and the United States during a meeting with Prime Minister Justin Trudeau.",
+        "credit": "Tom Brenner/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/03/16/world/16CANADA-01/merlin_135432441_814f321d-8e00-4cba-b840-921c20517241-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/03/16/world/16CANADA-01/16CANADA-01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-03-15T16:33:32Z",
+      "section_name": "World",
+      "snippet": "The president boasted that he was just improvising when he insisted to Prime Minister Justin Trudeau that the U.S. had a trade deficit with Canada.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/3631fd20-e255-555a-81c2-7d3b26ea7744",
+      "web_url": "https://www.nytimes.com/2018/03/15/world/canada/trump-trudeau-trade.html",
+      "word_count": 752
+    },
+    {
+      "abstract": "A man who said he once worked for Russian intelligence claims he was poisoned in Auckland more than a decade ago.",
+      "byline": {
+        "original": "By Charlotte Graham-McLay"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New Zealand to Investigate Decade-Old Poisoning Claim",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8bb655fd-c82d-5661-aec7-e4b013c8c096",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Poisoning and Poisons",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Auckland (New Zealand)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "New Zealand",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "KGB",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Skripal, Sergei V",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Boris Karpichkov appearing on “Good Morning Britain” this week.",
+        "credit": "Good Morning Britain/ITV",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/03/14/briefing/nz-spy/nz-spy-articleLarge.jpg",
+          "height": 373,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/03/14/briefing/nz-spy/nz-spy-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-03-14T23:40:29Z",
+      "section_name": "World",
+      "snippet": "A man who said he once worked for Russian intelligence claims he was poisoned in Auckland more than a decade ago.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/8bb655fd-c82d-5661-aec7-e4b013c8c096",
+      "web_url": "https://www.nytimes.com/2018/03/14/world/australia/new-zealand-spy-poisoning.html",
+      "word_count": 280
+    },
+    {
+      "abstract": "The Labour Party of Prime Minister Jacinda Ardern is under fire for not calling the police after four 16-year-olds reported abuse at a party event.",
+      "byline": {
+        "original": "By Charlotte Graham-McLay"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "New Zealand Party Is Faulted After Sex-Assault Claims at Youth Camp",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fdf4d889-5f78-5c88-9962-709dc914ca6e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Ardern, Jacinda",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "New Zealand",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Jacinda Ardern, New Zealand’s leader, in Auckland in 2017. She said her governing Labour Party erred in not immediately involving professionals after four 16-year-olds reported being assaulted at a party youth camp.",
+        "credit": "Matthew Abbott for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/03/14/world/14newzealand/14newzealand-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/03/14/world/14newzealand/14newzealand-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-03-13T08:25:04Z",
+      "section_name": "World",
+      "snippet": "The Labour Party of Prime Minister Jacinda Ardern is under fire for not calling the police after four 16-year-olds reported abuse at a party event.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/fdf4d889-5f78-5c88-9962-709dc914ca6e",
+      "web_url": "https://www.nytimes.com/2018/03/13/world/asia/new-zealand-jacinda-ardern-labour-party-sexual-assault-.html",
+      "word_count": 741
+    },
+    {
+      "abstract": "The government continues to clamp down on media in the wake of a 2016 coup attempt. It already had more journalists in prison than any other country.",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Turkey Sentences 24 Journalists to Prison, Claiming Terrorism Ties",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f3d9bdb8-bf59-5c41-ac17-6e58d689e49f",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Gulen, Fethullah",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Coups D'Etat and Attempted Coups D'Etat",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of the Press",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A rally in support of the Turkish newspaper Zaman in Istanbul in 2016. Turkey has more journalists in prisons than any other country.",
+        "credit": "Emrah Gurel/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/03/08/opinion/10turkey/08tue2web-articleLarge.jpg",
+          "height": 407,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/03/08/opinion/10turkey/08tue2web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-03-09T16:32:40Z",
+      "section_name": "World",
+      "snippet": "The government continues to clamp down on media in the wake of a 2016 coup attempt. It already had more journalists in prison than any other country.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/f3d9bdb8-bf59-5c41-ac17-6e58d689e49f",
+      "web_url": "https://www.nytimes.com/2018/03/09/world/europe/turkey-journalists-prison-terrorism.html",
+      "word_count": 466
+    },
+    {
+      "abstract": "The gunman killed at least five people and wounded several others. ISIS described the assailant as a “soldier of the caliphate,” and members shared a video said to be of him.",
+      "byline": {
+        "original": "By Andrew E. Kramer and Rukmini Callimachi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Deadly Attack on Church in Russian Region of Dagestan",
+        "kicker": "",
+        "print_headline": "ISIS Claims Deadly Attack on a Church in Dagestan"
+      },
+      "_id": "nyt://article/20004a8e-5867-5993-ad08-e75c3da57eaf",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Dagestan (Russia)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Churches (Buildings)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2018-02-18T17:06:05Z",
+      "section_name": "World",
+      "snippet": "The gunman killed at least five people and wounded several others. ISIS described the assailant as a “soldier of the caliphate,” and members shared a video said to be of him.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/20004a8e-5867-5993-ad08-e75c3da57eaf",
+      "web_url": "https://www.nytimes.com/2018/02/18/world/europe/russia-dagestan-attack.html",
+      "word_count": 602
+    },
+    {
+      "abstract": "The Islamic State said its fighters struck a market in Iraq this week, killing at least 27 people in the first major attack since the country declared victory over the terrorist group.",
+      "byline": {
+        "original": "By Rukmini Callimachi and Margaret Coker"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Responsibility for Baghdad Bombings",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fc40a4be-e470-54a9-b497-82f49d966bb0",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Baghdad (Iraq)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Mourners gathered Tuesday in Baghdad at the site of bombings the day before. The Islamic State on Wednesday claimed responsibility for the attack.",
+        "credit": "Karim Kadim/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/18/world/18baghdad/18baghdad-articleLarge.jpg",
+          "height": 435,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/18/world/18baghdad/18baghdad-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-01-18T01:03:48Z",
+      "section_name": "World",
+      "snippet": "The Islamic State said its fighters struck a market in Iraq this week, killing at least 27 people in the first major attack since the country declared victory over the terrorist group.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/fc40a4be-e470-54a9-b497-82f49d966bb0",
+      "web_url": "https://www.nytimes.com/2018/01/17/world/middleeast/iraq-baghdad-isis-bombing.html",
+      "word_count": 435
+    },
+    {
+      "abstract": "The group offered no explanation for the delay in claiming responsibility for the Oct. 4 attack, which killed four Americans and five Nigeriens.",
+      "byline": {
+        "original": "By Rukmini Callimachi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Affiliate Claims October Attack on U.S. Troops in Niger",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/26e737ed-d6ad-54c3-ba37-9ca9c884199c",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Niger",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "United States Army Special Forces (Green Berets)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Sahraoui, Adnan Abu Walid al-",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "An image released by the United States Army showed the body of Staff Sgt. Dustin Wright, one of the American soldiers killed in an attack in Niger in October, being returned to the United States. On Friday, a group in northwestern Africa that is loyal to the Islamic State claimed responsibility for the attack.",
+        "credit": "Pfc. Lane Hiser/U.S. Army, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/14/world/africa/14Niger/merlin_129001877_6f0730cf-c9a6-440b-af45-e45eef85c71f-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/14/world/africa/14Niger/14Niger-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-01-13T15:45:16Z",
+      "section_name": "World",
+      "snippet": "The group offered no explanation for the delay in claiming responsibility for the Oct. 4 attack, which killed four Americans and five Nigeriens.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/26e737ed-d6ad-54c3-ba37-9ca9c884199c",
+      "web_url": "https://www.nytimes.com/2018/01/13/world/africa/niger-isis-green-berets-attack.html",
+      "word_count": 955
+    },
+    {
+      "abstract": "In an exchange with Dutch journalists, Peter Hoekstra declined to clarify his prior remarks. “This is the Netherlands, you have to answer questions,” one reporter said.",
+      "byline": {
+        "original": "By Christine Hauser"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pressed on False Claims About Muslims, U.S. Ambassador Goes Silent",
+        "kicker": "",
+        "print_headline": "Pressed, U.S. Envoy  Goes Silent"
+      },
+      "_id": "nyt://article/eef190bd-88ee-5ca0-bb79-fb5469a24f19",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Hoekstra, Peter",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Netherlands",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "John Thys/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/11/world/12xp-ambassador/12xp-ambassador-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/11/world/12xp-ambassador/12xp-ambassador-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-01-11T19:46:39Z",
+      "section_name": "World",
+      "snippet": "In an exchange with Dutch journalists, Peter Hoekstra declined to clarify his prior remarks. “This is the Netherlands, you have to answer questions,” one reporter said.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/eef190bd-88ee-5ca0-bb79-fb5469a24f19",
+      "web_url": "https://www.nytimes.com/2018/01/11/world/europe/dutch-muslims-ambassador-trump.html",
+      "word_count": 468
+    },
+    {
+      "abstract": "Many women in rural Nepal sleep outdoors when they are menstruating, because of a belief that they are impure. This week, one such woman died in the cold.",
+      "byline": {
+        "original": "By Bhadra Sharma and Jeffrey Gettleman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "In Rural Nepal, Menstruation Taboo Claims Another Victim",
+        "kicker": "",
+        "print_headline": "In Nepal, a Taboo Claims Another Victim"
+      },
+      "_id": "nyt://article/01de1354-65a2-5d0e-a008-04c0383b71b5",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Nepal",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Women's Rights",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Menstruation",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Hinduism",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Women and their children in a chhaupadi hut in western Nepal in September. Nepal&rsquo;s government has been trying to discourage the chhaupadi tradition, in which menstruating women are banished from the home.",
+        "credit": "Narendra Shrestha/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/11/world/11nepal-1/11nepal-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/11/world/11nepal-1/11nepal-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2018-01-10T12:17:33Z",
+      "section_name": "World",
+      "snippet": "Many women in rural Nepal sleep outdoors when they are menstruating, because of a belief that they are impure. This week, one such woman died in the cold.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/01de1354-65a2-5d0e-a008-04c0383b71b5",
+      "web_url": "https://www.nytimes.com/2018/01/10/world/asia/nepal-woman-menstruation.html",
+      "word_count": 558
+    },
+    {
+      "abstract": "The Arakan Rohingya Salvation Army said it was behind an ambush that left three people wounded, saying it had no choice but to defend the Rohingya from “state-sponsored terrorism.”",
+      "byline": {
+        "original": "By Richard C. Paddock"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Rohingya Militants in Myanmar Claim Responsibility for Attack",
+        "kicker": "",
+        "print_headline": "Rohingya Militants in Myanmar Claim Credit for Attack"
+      },
+      "_id": "nyt://article/bd02d992-74c2-5dd6-8433-160b078f29df",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Rohingya (Ethnic Group)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Arakan Rohingya Salvation Army",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Myanmar",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Min Aung Hlaing",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A camp for Rohingya refugees in Balukhali, Bangladesh. More than 650,000 Rohingya have taken refuge in camps across the border in Bangladesh since August, joining 87,000 who had fled earlier.",
+        "credit": "Tomas Munita for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/08/world/08Myanmar/merlin_128828618_574d18f8-c79a-4d99-8720-9291b8804e9a-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/08/world/08Myanmar/08Myanmar-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-01-07T12:22:13Z",
+      "section_name": "World",
+      "snippet": "The Arakan Rohingya Salvation Army said it was behind an ambush that left three people wounded, saying it had no choice but to defend the Rohingya from “state-sponsored terrorism.”",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/bd02d992-74c2-5dd6-8433-160b078f29df",
+      "web_url": "https://www.nytimes.com/2018/01/07/world/asia/myanmar-rohingya-militants.html",
+      "word_count": 821
+    }
+  ]
+}

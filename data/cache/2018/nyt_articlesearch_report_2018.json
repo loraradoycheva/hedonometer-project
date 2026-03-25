@@ -1,0 +1,3398 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20180101",
+    "end_date": "20181231",
+    "fq": "(headline.default:(\"report\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 45,
+  "docs": [
+    {
+      "abstract": "South Africa’s corruption scandals have upended the country’s view of their governing party, the African National Congress, threatening decades of power.",
+      "byline": {
+        "original": "By Aodhan Beirne"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Corruption in South Africa: A Guide to Our Recent Reporting",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e7c8babb-778e-5906-a823-5dc514b609fe",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "African National Congress",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "KPMG",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "McKinsey & Co",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Eskom",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Gupta Family",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Cyril Ramaphosa of South Africa, fourth from the left, at African National Congress celebrations in January. Mr. Ramaphosa’s deputy, David Mabuza, second from right, faces allegations of siphoning millions of dollars from public funds.",
+        "credit": "Mujahid Safodien/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/23/world/23safrica-guide/merlin_132213872_ce76a0be-dab4-4966-9cad-3b4572080666-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/23/world/23safrica-guide/23safrica-guide-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2018-12-22T18:11:03Z",
+      "section_name": "World",
+      "snippet": "South Africa’s corruption scandals have upended the country’s view of their governing party, the African National Congress, threatening decades of power.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/e7c8babb-778e-5906-a823-5dc514b609fe",
+      "web_url": "https://www.nytimes.com/2018/12/22/world/africa/corruption-south-africa-guide.html",
+      "word_count": 627
+    },
+    {
+      "abstract": "Experts accused Michel Sidibé, the agency’s chief, of having an autocratic style leading to “ethical blindness” on harassment and the abuse of power.",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. AIDS Agency Is in ‘State of Crisis’ and Needs New Leader, Report Says",
+        "kicker": "",
+        "print_headline": "U.N. AIDS Agency Is in ‘State of Crisis’ and Needs New Leader, Report Says"
+      },
+      "_id": "nyt://article/f2db522b-ce7f-5215-ab20-a6e7ccbb5690",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Acquired Immune Deficiency Syndrome",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "UNAIDS",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Sidibe, Michel",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "#MeToo Movement",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Ethics and Official Misconduct",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A report accused Michel Sidibé, the executive director of U.N.AIDS, of a management style that “enabled a culture of harassment, including sexual harassment, bullying and abuse of power.”",
+        "credit": "Thibault Camus/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/12/08/world/08nations/merlin_147849231_f2e9a078-859f-4b4d-95fc-b2ac767082bf-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/12/08/world/08nations/08nations-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-12-07T21:18:52Z",
+      "section_name": "World",
+      "snippet": "Experts accused Michel Sidibé, the agency’s chief, of having an autocratic style leading to “ethical blindness” on harassment and the abuse of power.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/f2db522b-ce7f-5215-ab20-a6e7ccbb5690",
+      "web_url": "https://www.nytimes.com/2018/12/07/world/europe/unaids-abuse.html",
+      "word_count": 592
+    },
+    {
+      "abstract": "More than half of female homicide victims last year were killed by intimate partners or relatives, says a report on homicides around the world by the U.N. Office on Drugs and Crime.",
+      "byline": {
+        "original": "By Karen Zraick"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Most Dangerous Place for Women Is the Home, U.N. Report Finds",
+        "kicker": "",
+        "print_headline": "Home Is Perilous to Women, U.N. Says"
+      },
+      "_id": "nyt://article/57502251-2bdc-5b0c-a7df-eda823f2f1ca",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Domestic Violence",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations Office on Drugs and Crime",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Gender",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Commemorating the International Day for the Elimination of Violence Against Women in El Salvador on Monday.",
+        "credit": "Marvin Recinos/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/27/world/27xp-women/merlin_147358833_55bb300d-ccd4-4a8f-9808-d341c910bfc8-articleLarge.jpg",
+          "height": 421,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/27/world/27xp-women/27xp-women-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Express",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2018-11-27T22:30:23Z",
+      "section_name": "World",
+      "snippet": "More than half of female homicide victims last year were killed by intimate partners or relatives, says a report on homicides around the world by the U.N. Office on Drugs and Crime.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/57502251-2bdc-5b0c-a7df-eda823f2f1ca",
+      "web_url": "https://www.nytimes.com/2018/11/27/world/female-homicide-gender-violence.html",
+      "word_count": 879
+    },
+    {
+      "abstract": "Statistics released by a nonprofit group say that 320,000 people are homeless and that the phenomenon is increasing most rapidly in the provinces.",
+      "byline": {
+        "original": "By Alan Cowell"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.K.’s Homelessness Problem Is Growing, and Spreading, Report Finds",
+        "kicker": "",
+        "print_headline": "Rise Is Seen in Number of Homeless in Britain, as Rents Soar and Benefits Shrink"
+      },
+      "_id": "nyt://article/7e99713b-f04f-5558-9a86-1ba47925adf6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Homeless Persons",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Poverty",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Shelter (National Campaign for Homeless People Ltd)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Sleeping outside an underground station in London. The greatest concentration of homelessness was found to be in the capital, but the sharpest increases were in the English Midlands and Yorkshire.",
+        "credit": "Facundo Arrizabalaga/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/23/world/23homeless/merlin_141875769_a5514e59-2c7a-4c16-89de-a96fd25e7c7e-articleLarge.jpg",
+          "height": 341,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/23/world/23homeless/23homeless-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-11-22T12:21:41Z",
+      "section_name": "World",
+      "snippet": "Statistics released by a nonprofit group say that 320,000 people are homeless, as rents soar and benefits shrink.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/7e99713b-f04f-5558-9a86-1ba47925adf6",
+      "web_url": "https://www.nytimes.com/2018/11/22/world/europe/uk-homelessness.html",
+      "word_count": 732
+    },
+    {
+      "abstract": "The school is in a part of Cameroon where separatists have been fighting the government to form their own country. Students have been caught in the middle.",
+      "byline": {
+        "original": "By Dionne Searcey"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Cameroon School Kidnappings Are Reported Amid Secession Battle",
+        "kicker": "",
+        "print_headline": "Children Are Kidnapped From School In Cameroon Amid Secession Battle"
+      },
+      "_id": "nyt://article/78fb75cd-153f-5dd0-9f79-388e076393e8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Kidnapping and Hostages",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Education (K-12)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Cameroon",
+          "rank": 3
+        }
+      ],
+      "multimedia": {
+        "caption": "President Paul Biya of Cameroon and his wife at an election rally at the Maroua Stadium, in northern Cameroon, in September.",
+        "credit": "Alexis Huguet/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/06/world/06cameroon1-print/merlin_145669362_cc128f0b-68cb-402a-a168-dd8eaac8dfc2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/06/world/06cameroon1-print/06cameroon1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-11-05T18:24:50Z",
+      "section_name": "World",
+      "snippet": "The school is in a part of Cameroon where separatists have been fighting the government to form their own country. Students have been caught in the middle.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/78fb75cd-153f-5dd0-9f79-388e076393e8",
+      "web_url": "https://www.nytimes.com/2018/11/05/world/africa/cameroon-school-kidnap.html",
+      "word_count": 607
+    },
+    {
+      "abstract": "New York Times journalists traveled to Yemen in October to provide a deeper look at the war, the latest in a series of in-depth reports.",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "War in Yemen: New York Times Reports Driving the Conversation",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/6c4b94d2-2b4f-5f35-9dce-fa23047b1570",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Houthis",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Yemen",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "An injured Yemeni fighter with the Saudi-led Arab coalition that is battling Iran-allied Houthis for control of Yemen arriving at a field hospital in Durayhimi, 13 miles south of the port city of Hudaydah.",
+        "credit": "Tyler Hicks/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/11/01/world/01yemen-guide/merlin_145104669_f5ef3078-cb05-4a29-a093-4bc5683e3c40-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/11/01/world/01yemen-guide/01yemen-guide-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-10-31T18:21:45Z",
+      "section_name": "World",
+      "snippet": "New York Times journalists traveled to Yemen in October to provide a deeper look at the war, the latest in a series of in-depth reports.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/6c4b94d2-2b4f-5f35-9dce-fa23047b1570",
+      "web_url": "https://www.nytimes.com/2018/10/31/world/middleeast/war-yemen-new-york-times.html",
+      "word_count": 341
+    },
+    {
+      "abstract": "A new report from Australia says the West is taking risks by collaborating with researchers tied to the Chinese military.",
+      "byline": {
+        "original": "By Jamie Tarabay"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Chinese Military May Gain From Western University Ties, Report Warns",
+        "kicker": "",
+        "print_headline": "Chinese Military May Gain From Ties to Western Universities, Report Warns"
+      },
+      "_id": "nyt://article/b36f3ae6-b1cf-5739-a010-4a7d9da2e50d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Colleges and Universities",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Cyberwarfare and Defense",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Research",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Academic and Scientific Journals",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Cryptography, Codes and Ciphers",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Artificial Intelligence",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Australian National University",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Australian Signals Directorate",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Huawei Technologies Co Ltd",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "People's Liberation Army (China)",
+          "rank": 12
+        },
+        {
+          "name": "Organization",
+          "value": "Temple University",
+          "rank": 13
+        },
+        {
+          "name": "Organization",
+          "value": "University of Agder",
+          "rank": 14
+        },
+        {
+          "name": "Organization",
+          "value": "University of California, Los Angeles",
+          "rank": 15
+        },
+        {
+          "name": "Organization",
+          "value": "University of Illinois, Urbana-Champaign",
+          "rank": 16
+        },
+        {
+          "name": "Organization",
+          "value": "University of New South Wales",
+          "rank": 17
+        },
+        {
+          "name": "Organization",
+          "value": "ZTE Corp",
+          "rank": 18
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 19
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 20
+        },
+        {
+          "name": "Location",
+          "value": "Canberra (Australia)",
+          "rank": 21
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 22
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 23
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 24
+        },
+        {
+          "name": "Location",
+          "value": "New Zealand",
+          "rank": 25
+        },
+        {
+          "name": "Location",
+          "value": "Singapore",
+          "rank": 26
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 27
+        }
+      ],
+      "multimedia": {
+        "caption": "President Xi Jinping of China, second from right, touring the National Graphene Institute at the University of Manchester in England in 2015. A Chinese student there who studied graphene, described as a wonder material, now works at a military university in China, an Australian researcher said.",
+        "credit": "Richard Stonehouse/WPA Pool, via Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/31/world/31oz-china-print/31oz-china-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/31/world/31oz-china-print/31oz-china-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-10-30T11:46:25Z",
+      "section_name": "World",
+      "snippet": "A new report from Australia says the West is taking risks by collaborating with researchers tied to the Chinese military.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/b36f3ae6-b1cf-5739-a010-4a7d9da2e50d",
+      "web_url": "https://www.nytimes.com/2018/10/30/world/australia/china-scientists-military-research.html",
+      "word_count": 1293
+    },
+    {
+      "abstract": "China ridiculed but did not explicitly deny reports by intelligence officials that the Chinese tapped President Trump’s phone calls with old friends.",
+      "byline": {
+        "original": "By Steven Lee Myers"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China Mocks Report It Tapped Trump’s iPhone (and Plugs Its Own Competitor)",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d0d97ed0-0598-5892-bae6-fcbda1ad9bb6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Cellular Telephones",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Wiretapping and Other Eavesdropping Devices and Methods",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "iPhone",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Huawei Technologies Co Ltd",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "New York Times",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Peskov, Dmitri S",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "According to current and former administration officials, President Trump has continued to use his personal cellphone to make calls.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/25/world/25china-trump1/merlin_145795890_2666e66d-d962-4bdf-829a-8155ee653772-articleLarge.jpg",
+          "height": 410,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/25/world/25china-trump1/25china-trump1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-10-25T10:45:06Z",
+      "section_name": "World",
+      "snippet": "China ridiculed but did not explicitly deny reports by intelligence officials that the Chinese tapped President Trump’s phone calls with old friends.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/d0d97ed0-0598-5892-bae6-fcbda1ad9bb6",
+      "web_url": "https://www.nytimes.com/2018/10/25/world/asia/trump-iphone-china-eavesdrop.html",
+      "word_count": 455
+    },
+    {
+      "abstract": "An inquiry into sexual harassment in the House of Commons describes a “master and servant” culture, with lawmakers accorded an “almost godlike status.”",
+      "byline": {
+        "original": "By Ellen Barry"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘Shocking and Abhorrent’ Abuse Rampant in U.K. Parliament, Report Says",
+        "kicker": "",
+        "print_headline": "Britain Finds Harassment Widespread In Parliament"
+      },
+      "_id": "nyt://article/1126e6c2-0c43-5973-ba83-99053bd3f18d",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "House of Commons (Great Britain)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Bercow, John",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Cox, Laura Mary (1951- )",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "John Bercow, center, the speaker of the House of Commons, in Parliament last year. “I find it difficult to envisage how the necessary changes can be successfully delivered, and the confidence of the staff restored, under the current senior House administration,” a new report says.",
+        "credit": "Pool photo by Niklas Halle'n",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/16/world/16uk-commons1/merlin_145345077_604e87c4-6264-43a1-bba0-931e1835f3a4-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/16/world/16uk-commons1/16uk-commons1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-10-15T17:20:33Z",
+      "section_name": "World",
+      "snippet": "An inquiry into sexual harassment in the House of Commons describes a “master and servant” culture, with lawmakers accorded an “almost godlike status.”",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1126e6c2-0c43-5973-ba83-99053bd3f18d",
+      "web_url": "https://www.nytimes.com/2018/10/15/world/europe/uk-parliament-abuse-harassment-report.html",
+      "word_count": 749
+    },
+    {
+      "abstract": "Politicians and teachers say an effort by the Alternative for Germany party, urging people to report teachers for violating a neutrality law, resembles the work of East Germany’s secret police.",
+      "byline": {
+        "original": "By Melissa Eddy"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Germany’s Far-Right AfD Urges Students to Report Biased Teachers",
+        "kicker": "",
+        "print_headline": "Far-Right Party In Germany Urges Reporting Of Teachers"
+      },
+      "_id": "nyt://article/1f0645c9-63a7-5648-b97c-2376ff4b8942",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Teachers and School Employees",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Alternative for Germany",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Germany",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Education (K-12)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Hamburg (Germany)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Bavaria (Germany)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Stasi (East Germany)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A school in Rostock, Germany. The Alternative for Germany party is encouraging students and their parents to report teachers who promote their political views in the classroom.",
+        "credit": "Bernd W'stneck/Picture-Alliance, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/12/world/12germany1/merlin_145160964_dd26bad6-1d0a-4b42-9d5c-4d1e197225ed-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/12/world/12germany1/merlin_145160964_dd26bad6-1d0a-4b42-9d5c-4d1e197225ed-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2018-10-11T18:09:15Z",
+      "section_name": "World",
+      "snippet": "Politicians and teachers say an effort by the Alternative for Germany party, urging people to report teachers for violating a neutrality law, resembles the work of East Germany’s secret police.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1f0645c9-63a7-5648-b97c-2376ff4b8942",
+      "web_url": "https://www.nytimes.com/2018/10/11/world/europe/afd-germany-teachers-neutrality-law.html",
+      "word_count": 725
+    },
+    {
+      "abstract": "At least three people died when a 6.0-magnitude earthquake shook the East Java and Bali regions of Indonesia.",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Quake Hits Indonesia, and Deaths Are Reported",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/3d69576e-8f61-5dcc-9fdc-dcd253bd7619",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Earthquakes",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Indonesia",
+          "rank": 2
+        }
+      ],
+      "multimedia": {
+        "caption": "The rubble of building in Sumenep, Indonesia, on Thursday after an earthquake struck East Java and Bali.",
+        "credit": "National Agency for Disaster Management, via EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/11/world/11quake-1/11quake-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/11/world/11quake-1/11quake-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-10-11T00:46:06Z",
+      "section_name": "World",
+      "snippet": "At least three people died when a 6.0-magnitude earthquake shook the East Java and Bali regions of Indonesia.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3d69576e-8f61-5dcc-9fdc-dcd253bd7619",
+      "web_url": "https://www.nytimes.com/2018/10/10/world/asia/earthquake-indonesia-deaths.html",
+      "word_count": 160
+    },
+    {
+      "abstract": "Two weeks after identifying one man accused of trying to kill a former Russian spy on British soil, a group of reporters and researchers has named the other.",
+      "byline": {
+        "original": "By Michael Schwirtz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Skripal Poisoning Suspect Is a Russian Military Doctor, Report Says",
+        "kicker": "",
+        "print_headline": "Report Names 2nd Suspect In Poisoning Of Russian"
+      },
+      "_id": "nyt://article/0548f249-1bf7-578b-bdf7-e213f826be4b",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Petrov, Alexander",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Skripal, Sergei V",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Poisoning and Poisons",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Boshirov, Ruslan",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "GRU (Russia)",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "A passport said to be held by Dr. Alexander Mishkin.",
+        "credit": "Bellingcat, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/09/world/09skripal1/09skripal1-articleLarge.jpg",
+          "height": 753,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/09/world/09skripal1/09skripal1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-10-08T22:59:08Z",
+      "section_name": "World",
+      "snippet": "Two weeks after identifying one man accused of trying to kill a former Russian spy on British soil, a group of reporters and researchers has named the other.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/0548f249-1bf7-578b-bdf7-e213f826be4b",
+      "web_url": "https://www.nytimes.com/2018/10/08/world/europe/skripal-russia-alexander-mishkin.html",
+      "word_count": 750
+    },
+    {
+      "abstract": "The Saudi journalist has not been seen since he entered the Saudi consulate in Istanbul on Tuesday afternoon. Friends fear he has been detained or worse.",
+      "byline": {
+        "original": "By Carlotta Gall"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "What Happened to Jamal Khashoggi? Conflicting Reports Deepen a Mystery",
+        "kicker": "",
+        "print_headline": "Saudi Critic Of Prince Disappears At Consulate"
+      },
+      "_id": "nyt://article/a2ed35f8-fc1c-5ca5-8ba9-d52376b84ea8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Diplomatic Service, Embassies and Consulates",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Missing Persons",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Istanbul (Turkey)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Khashoggi, Jamal",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Jamal Khashoggi.",
+        "credit": "Mohammed Al-Shaikh/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/10/04/world/04turkey3/merlin_144751245_b6ee5f4a-7157-4b93-b4e8-12bbf5941b86-articleLarge.jpg",
+          "height": 803,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/10/04/world/04turkey3/04turkey3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2018-10-03T19:27:43Z",
+      "section_name": "World",
+      "snippet": "The Saudi journalist has not been seen since he entered the Saudi consulate in Istanbul on Tuesday afternoon. Friends fear he has been detained or worse.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a2ed35f8-fc1c-5ca5-8ba9-d52376b84ea8",
+      "web_url": "https://www.nytimes.com/2018/10/03/world/middleeast/khashoggi-saudi-journalist-istanbul.html",
+      "word_count": 692
+    },
+    {
+      "abstract": "The attack punctuated a week of deadly violence in the capital and struck at the core of the country’s deteriorating economy.",
+      "byline": {
+        "original": "By David D. Kirkpatrick and Suliman Ali Zway"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Several Reported Killed in Libya as Gunmen Storm National Oil Company",
+        "kicker": "",
+        "print_headline": "Gunmen Storm Oil Headquarters in Libya"
+      },
+      "_id": "nyt://article/78c79f78-4235-5f37-a521-f02cd6f4c013",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "National Oil Corp of Libya",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Fringe Groups and Movements",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Hifter, Khalifa",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Tripoli (Libya)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Libya",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Smoke rising from the headquarters of Libya’s national oil company in Tripoli on Monday.",
+        "credit": "Hani Amara/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/11/world/11Libya-print/merlin_143538732_fc35f966-810e-4b45-806d-e128c9fee6b3-articleLarge.jpg",
+          "height": 418,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/11/world/11Libya-print/11Libya-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2018-09-10T12:05:42Z",
+      "section_name": "World",
+      "snippet": "The attack punctuated a week of deadly violence in the capital and struck at the core of the country’s deteriorating economy.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/78c79f78-4235-5f37-a521-f02cd6f4c013",
+      "web_url": "https://www.nytimes.com/2018/09/10/world/middleeast/libya-national-oil-company-attack.html",
+      "word_count": 843
+    },
+    {
+      "abstract": "A report by the archbishop of Canterbury and others calls for transformational changes to redress the feelings of inequality and injustice that led to Brexit.",
+      "byline": {
+        "original": "By Stephen Castle"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.K. Economy Needs Stronger Unions and Higher Taxes on Rich, Report Says",
+        "kicker": "",
+        "print_headline": "Britain Urged to Tax Rich And Lift Wages in Report"
+      },
+      "_id": "nyt://article/1e718d5e-864d-58d3-8654-d9d1b1d2791a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Income Inequality",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Great Britain Withdrawal from EU (Brexit)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Inheritance and Estate Taxes",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Wages and Salaries",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Conservative Party (Great Britain)",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Labour Party (Great Britain)",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "May, Theresa M",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Welby, Justin",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "London (England)",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "Justin Welby, the archbishop of Canterbury, at Westminster Abbey earlier this year. “For decades the U.K. economy has not worked as it should,” he said recently.",
+        "credit": "Simon Dawson/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05ukbishop/merlin_141033435_5e38acba-f62d-47a4-9ccc-c1e5bb2304bf-articleLarge.jpg",
+          "height": 415,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05ukbishop/05ukbishop-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-09-04T23:01:04Z",
+      "section_name": "World",
+      "snippet": "A report by the archbishop of Canterbury and others calls for transformational changes to redress the feelings of inequality and injustice that led to Brexit.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1e718d5e-864d-58d3-8654-d9d1b1d2791a",
+      "web_url": "https://www.nytimes.com/2018/09/04/world/europe/uk-economy-prosperity-justice-inequality-fairness-welby.html",
+      "word_count": 693
+    },
+    {
+      "abstract": "Catholic officials in Australia said the proposal would violate a sacred rite, infringe on religious freedom and do little to protect children from predatory priests.",
+      "byline": {
+        "original": "By Rick Rojas"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Australia’s Catholic Leaders Reject Call to Report Sex Abuse Heard in Confessions",
+        "kicker": "",
+        "print_headline": "Catholic Leaders in Australia Hold Onto Confession’s Seal"
+      },
+      "_id": "nyt://article/dab4794f-158f-5ca3-b1db-b82831d8a899",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Freedom of Religion",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "At a news conference Friday, Archbishop Mark Coleridge spoke out against a government recommendation that priests tell authorities when they hear about sexual abuse during confessionals.",
+        "credit": "Peter Rae/Australian Associated Press, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/09/01/world/01oz-catholic-print/01oz-catholic-2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/09/01/world/01oz-catholic-print/01oz-catholic-2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2018-08-31T07:03:38Z",
+      "section_name": "World",
+      "snippet": "Catholic officials in Australia said the proposal would violate a sacred rite, infringe on religious freedom and do little to protect children from predatory priests.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/dab4794f-158f-5ca3-b1db-b82831d8a899",
+      "web_url": "https://www.nytimes.com/2018/08/31/world/australia/catholic-church-sex-abuse-confessions.html",
+      "word_count": 1063
+    },
+    {
+      "abstract": "A U.N. panel found evidence of torture, rape and mass civilian casualties, placing blame on both Houthi rebels and the Saudi-led coalition.",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "War Crimes Report on Yemen Accuses Saudi Arabia and U.A.E.",
+        "kicker": "",
+        "print_headline": "U.N. Report on War Crimes Faults Saudi Arabia and U.A.E. in Yemen"
+      },
+      "_id": "nyt://article/cca0bc0a-5367-52e1-a66b-9234736c3dcd",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Houthis",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Yemen",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The old quarter of Sana, Yemen, in August. The house in the foreground was destroyed by an airstrike.",
+        "credit": "Khaled Abdullah/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/08/29/world/29yemen-print/merlin_142352112_bc1fc43d-880e-40f0-ad14-f84651dfa1c5-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/08/29/world/29yemen-print/29yemen-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-08-28T14:28:08Z",
+      "section_name": "World",
+      "snippet": "A U.N. panel found evidence of torture, rape and recklessness over mass civilian casualties, placing blame on Houthi rebels as well as the Saudi-led coalition.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/cca0bc0a-5367-52e1-a66b-9234736c3dcd",
+      "web_url": "https://www.nytimes.com/2018/08/28/world/middleeast/un-yemen-war-crimes.html",
+      "word_count": 1032
+    },
+    {
+      "abstract": "President Ashraf Ghani was said to be dissatisfied by a rocket attack on the presidential palace and a Taliban siege in Ghazni.",
+      "byline": {
+        "original": "By Fatima Faizi and Rod Nordland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Afghan Security Adviser Quits Amid Reports of Cabinet Shakeup",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/9d95b685-ebac-5254-9d67-37c9be4735ed",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Ghani, Ashraf",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Atmar, Muhammad Hanif",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Ghazni Province (Afghanistan)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "President Ashraf Ghani, left, with his national security adviser, Hanif Atmar, in Kabul last year.",
+        "credit": "Jawad Jalali/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/08/26/world/26afghanistan/26afghanistan-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/08/26/world/26afghanistan/26afghanistan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-08-25T18:44:46Z",
+      "section_name": "World",
+      "snippet": "President Ashraf Ghani was said to be dissatisfied by a rocket attack on the presidential palace and a Taliban siege in Ghazni.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/9d95b685-ebac-5254-9d67-37c9be4735ed",
+      "web_url": "https://www.nytimes.com/2018/08/25/world/asia/ghani-cabinet-security.html",
+      "word_count": 294
+    },
+    {
+      "abstract": "Confronted with accusations of mass internment in the Xinjiang region, Chinese officials refused to answer “questions which are not factual.”",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "‘No Such Thing’: China Denies U.N. Reports of Uighur Detention Camps",
+        "kicker": "",
+        "print_headline": "China Denies Reports of Uighur Camps"
+      },
+      "_id": "nyt://article/97f1ea62-6cfa-5ff6-86aa-b0ebc6fe4cc6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Uighurs (Chinese Ethnic Group)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Xinjiang (China)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Forced Assimilation",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Chinese military police at a rally in Hotan, Xinjiang, last year. Beijing has progressively tightened security in the region.",
+        "credit": "Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/08/14/world/14xinjiang1/merlin_118855850_12d0a968-21f7-46c1-a796-77e4f154eb91-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/08/14/world/14xinjiang1/14xinjiang1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-08-13T15:56:38Z",
+      "section_name": "World",
+      "snippet": "Confronted with accusations of mass internment in the Xinjiang region, Chinese officials refused to answer “questions which are not factual.”",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/97f1ea62-6cfa-5ff6-86aa-b0ebc6fe4cc6",
+      "web_url": "https://www.nytimes.com/2018/08/13/world/asia/china-xinjiang-un.html",
+      "word_count": 606
+    },
+    {
+      "abstract": "Accounts from the Xinjiang region of western China point to Muslims there being treated as “enemies of the state” based on their ethnic and religious identity, a human rights expert said.",
+      "byline": {
+        "original": "By Nick Cumming-Bruce"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Panel Confronts China Over Reports That It Holds a Million Uighurs in Camps",
+        "kicker": "",
+        "print_headline": "U.N. Presses Beijing On Uighurs"
+      },
+      "_id": "nyt://article/93b049f3-d828-52ef-9b84-d086f4b7ca87",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Xinjiang (China)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Uighurs (Chinese Ethnic Group)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Discrimination",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Surveillance of Citizens by Government",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Police officers patrolling in Kashgar, in the Xinjiang region of China, last year. A United Nations panel said Friday that it had credible reports that a million ethnic Uighurs in Xinjiang were being held in internment camps.",
+        "credit": "Johannes Eisele/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/08/11/world/11xinjiang/merlin_140340282_5ab6d84b-e1ac-4654-be34-7ed145181c04-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/08/11/world/11xinjiang/11xinjiang-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2018-08-10T23:29:23Z",
+      "section_name": "World",
+      "snippet": "Accounts from the Xinjiang region of western China point to Muslims there being treated as “enemies of the state” based on their ethnic and religious identity, a human rights expert said.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/93b049f3-d828-52ef-9b84-d086f4b7ca87",
+      "web_url": "https://www.nytimes.com/2018/08/10/world/asia/china-xinjiang-un-uighurs.html",
+      "word_count": 867
+    },
+    {
+      "abstract": "North Korea has started dismantling a missile-engine test site, as President Trump said the North’s leader, Kim Jong-un, had promised during their historic summit meeting.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea Starts Dismantling Key Missile Facilities, Report Says",
+        "kicker": "",
+        "print_headline": "North Korea Reportedly Dismantling Sites"
+      },
+      "_id": "nyt://article/3f5703c3-9bcf-5588-9e19-100af6ba8bbc",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Control and Limitation and Disarmament",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Missiles and Missile Defense Systems",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Bermudez, Joseph S Jr",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "38 North",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Satellite imagery appears to show efforts by North Korea to dismantle facilities at its Sohae Satellite Launching Station.",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/24/world/24NKorea1_for/merlin_141633456_eb2ed8e6-9096-4363-b846-47d63eb89339-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/24/world/24NKorea1_for/24NKorea1_for-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2018-07-24T02:16:33Z",
+      "section_name": "World",
+      "snippet": "North Korea has started to take apart a missile-engine test site, a report found, as Mr. Trump said the North’s leader, Kim Jong-un, had promised during their summit meeting.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3f5703c3-9bcf-5588-9e19-100af6ba8bbc",
+      "web_url": "https://www.nytimes.com/2018/07/23/world/asia/north-korea-dismantling-missile-facilities.html",
+      "word_count": 645
+    },
+    {
+      "abstract": "The practice has raised concerns among rights groups, which say that the decision should not be left solely to police and intelligence officials.",
+      "byline": {
+        "original": "By Ceylan Yeginsu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.K. Is Using Children as Undercover Spies, Report Says",
+        "kicker": "",
+        "print_headline": "U.K. Is Using Children as Spies, Report Says"
+      },
+      "_id": "nyt://article/b375bbc9-277b-5e10-a412-866353dc523e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Law and Legislation",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Informers",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Police",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Crime and Criminals",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "House of Lords (Great Britain)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A former counterterrorism detective for the Metropolitan Police said that child informants were used as a last resort in Britain.",
+        "credit": "Carl Court/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/21/world/21Child-spies/merlin_86871964_864fce1d-9bcc-4afb-a5b2-fcd3a7d92be5-articleLarge.jpg",
+          "height": 411,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/21/world/21Child-spies/merlin_86871964_864fce1d-9bcc-4afb-a5b2-fcd3a7d92be5-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2018-07-20T17:34:36Z",
+      "section_name": "World",
+      "snippet": "The practice has raised concerns among rights groups, which say that the decision should not be left solely to police and intelligence officials.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b375bbc9-277b-5e10-a412-866353dc523e",
+      "web_url": "https://www.nytimes.com/2018/07/20/world/europe/uk-undercover-child-spies.html",
+      "word_count": 601
+    },
+    {
+      "abstract": "A human rights group found that more than 40 million people worldwide are trapped in forced labor and sexual exploitation.",
+      "byline": {
+        "original": "By Satoshi Sugiyama"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Report Finds Surprisingly High Rate of Slavery in Developed Countries",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c10d20f5-a5a9-5f4f-99eb-94d11778dce4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Forced Labor",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Walk Free Foundation",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Park, Yeonmi",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Yeonmi Park in April. The scariest thing, she recalled of her captivity, was being forgotten.",
+        "credit": "Nicholas Hunt/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/20/world/20slavery1/merlin_141484923_95722c80-c72a-4819-bf10-8c9eb2b0ae59-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/20/world/20slavery1/20slavery1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-07-20T00:26:21Z",
+      "section_name": "World",
+      "snippet": "A human rights group found that more than 40 million people worldwide are trapped in forced labor and sexual exploitation.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/c10d20f5-a5a9-5f4f-99eb-94d11778dce4",
+      "web_url": "https://www.nytimes.com/2018/07/19/world/modern-slavery-report.html",
+      "word_count": 602
+    },
+    {
+      "abstract": "The world’s largest emitter of greenhouses gases is making significant progress, a former U.S. energy official has found, but not yet fast enough to meet global targets.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China Is a Climate Leader but Still Isn’t Doing Enough on Emissions, Report Says",
+        "kicker": "",
+        "print_headline": "Report Faults China’s Pace In Curbing Its Emissions"
+      },
+      "_id": "nyt://article/a2f55ac5-e142-59a7-8371-f48d8182fd3e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Greenhouse Gas Emissions",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United Nations Framework Convention on Climate Change",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Coal",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Global Warming",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Carbon Dioxide",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A layer of smog in January over Taiyuan, the provincial capital of Shanxi, China’s biggest coal-producing region.",
+        "credit": "Gilles Sabrié for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/20/world/20china-climate/merlin_133204692_3af23349-580e-4c6a-968c-05410ba4a3b6-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/20/world/20china-climate/20china-climate-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2018-07-19T14:22:15Z",
+      "section_name": "World",
+      "snippet": "The world’s largest emitter of greenhouses gases is making significant progress, a former U.S. energy official has found, but not yet fast enough to meet global targets.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/a2f55ac5-e142-59a7-8371-f48d8182fd3e",
+      "web_url": "https://www.nytimes.com/2018/07/19/world/asia/china-climate-change-report.html",
+      "word_count": 607
+    },
+    {
+      "abstract": "The Iranians were responding to what Israel has described as documents it said Mossad agents stole from a Tehran warehouse that showed work on bombs.",
+      "byline": {
+        "original": "By The New York Times"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran Calls Israel’s Reported Theft of Nuclear Trove ‘Laughably Absurd’",
+        "kicker": "",
+        "print_headline": "Iran Denies Israeli Claim Of Data Theft"
+      },
+      "_id": "nyt://article/7e462a55-d301-5e8f-a5a5-32241abbb36a",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Mossad",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Benjamin Netanyahu of Israel presenting the Iranian documents in Tel Aviv in April.",
+        "credit": "Amir Cohen/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/19/world/19iran-documents/19iran-documents-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/19/world/19iran-documents/19iran-documents-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2018-07-18T19:17:03Z",
+      "section_name": "World",
+      "snippet": "The Iranians were responding to what Israel has described as documents it said Mossad agents stole from a Tehran warehouse that showed work on bombs.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/7e462a55-d301-5e8f-a5a5-32241abbb36a",
+      "web_url": "https://www.nytimes.com/2018/07/18/world/middleeast/iran-israel-nuclear-denial.html",
+      "word_count": 421
+    },
+    {
+      "abstract": "After days of heavy rain, rescuers made their way farther into the flooded cave complex where a dozen boys and their soccer coach were trapped.",
+      "byline": {
+        "original": "By Ryn Jirenuwat and Richard C. Paddock"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Thailand Cave Rescuers Report Progress in Search for Soccer Team",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4580d89b-2ef0-5d8c-859c-a2dccfdbefed",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Chiang Rai Province (Thailand)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Thailand",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Rescues",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Caves and Caverns",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Soldiers and rescue workers in the Tham Luang cave complex in northern Thailand on Sunday. A dozen boys and their soccer coach have been missing in the caverns for more than a week.",
+        "credit": "Soe Zeya Tun/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/07/02/world/02thailand-1/merlin_140567124_da2355b2-5a33-4540-982e-34c1a4d7a4fc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/07/02/world/02thailand-1/02thailand-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-07-01T09:24:20Z",
+      "section_name": "World",
+      "snippet": "After days of heavy rain, rescuers made their way further into the flooded cave complex where a dozen boys and their soccer coach were trapped.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/4580d89b-2ef0-5d8c-859c-a2dccfdbefed",
+      "web_url": "https://www.nytimes.com/2018/07/01/world/asia/thailand-cave-soccer-boys.html",
+      "word_count": 755
+    },
+    {
+      "abstract": "The United Nations annual report says more than 10,000 children were killed or maimed in armed conflicts in 2017.",
+      "byline": {
+        "original": "By Satoshi Sugiyama"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Reports Sharp Increase in Children Killed or Maimed in Conflicts",
+        "kicker": "",
+        "print_headline": "U.N. Sees Rise In Toll of War On Children"
+      },
+      "_id": "nyt://article/6ad2a26c-376d-5845-ac57-26b6f22a555d",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Children and Childhood",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-06-27T23:20:37Z",
+      "section_name": "World",
+      "snippet": "The United Nations annual report says more than 10,000 children were killed or maimed in armed conflicts in 2017.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/6ad2a26c-376d-5845-ac57-26b6f22a555d",
+      "web_url": "https://www.nytimes.com/2018/06/27/world/un-children-armed-conflict.html",
+      "word_count": 929
+    },
+    {
+      "abstract": "Noura Hussein had her sentence reduced to five years in jail for stabbing and killing her husband, whom she was forced to marry when she was 16.",
+      "byline": {
+        "original": "By Ceylan Yeginsu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Sudan Won’t Execute Woman Who Killed Husband After Reported Rape, Lawyer Says",
+        "kicker": "",
+        "print_headline": "Sudan Court Spares Wife  Who Killed Her Husband"
+      },
+      "_id": "nyt://article/38ba94a3-7350-5870-a986-aff975f41cec",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Hussein, Noura",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Sudan",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Murders, Attempted Murders and Homicides",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Capital Punishment",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Self-Defense",
+          "rank": 8
+        },
+        {
+          "name": "Person",
+          "value": "Hammad, Abdulrahman Mohamed",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Noura Hussein",
+        "credit": "via Amnesty",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/28/world/28Sudan/28Sudan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-06-27T15:04:39Z",
+      "section_name": "World",
+      "snippet": "Noura Hussein had her sentence reduced to five years in jail for stabbing and killing her husband, whom she was forced to marry when she was 16.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/38ba94a3-7350-5870-a986-aff975f41cec",
+      "web_url": "https://www.nytimes.com/2018/06/27/world/africa/sudan-marital-rape-teenager.html",
+      "word_count": 427
+    },
+    {
+      "abstract": "An early draft of a report on the recapture of rebel-held Damascus suburbs contained information about chemical attacks omitted from the final version.",
+      "byline": {
+        "original": "By Rick Gladstone and Maggie Haberman"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Horrific Details on Syria Chemical Attacks Left Out, for Now, From U.N. Report",
+        "kicker": "",
+        "print_headline": " U.N. Report Left Out Horrific Details on Syria Chemical Attacks"
+      },
+      "_id": "nyt://article/e7225d23-c963-56b0-8e5a-d53fb77cadbc",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Biological and Chemical Warfare",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "War Crimes, Genocide and Crimes Against Humanity",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Ghouta (Syria)",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Douma (Syria)",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "A destroyed neighborhood in eastern Ghouta in March, days after Syrian government forces took it from rebels. Intense bombardment &mdash; mainly airstrikes by Russian and Syrian government planes &mdash; killed 1,100 people in the area in less than a month, a United Nations panel found.",
+        "credit": "Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/06/21/world/21Syria/merlin_136190997_32e6f757-89b0-4039-af2f-01f0ee3a305c-articleLarge.jpg",
+          "height": 406,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/21/world/21Syria/21Syria1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2018-06-20T14:53:27Z",
+      "section_name": "World",
+      "snippet": "An early draft of a report on the recapture of Damascus suburbs had information about chemical attacks omitted from the final version, which said that Syrian government forces had committed war crimes.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/e7225d23-c963-56b0-8e5a-d53fb77cadbc",
+      "web_url": "https://www.nytimes.com/2018/06/20/world/middleeast/un-syria-eastern-ghouta.html",
+      "word_count": 1574
+    },
+    {
+      "abstract": "The judge also may widen the inquiry net to more countries and seek access to corporate archives from the time of the crash 57 years ago.",
+      "byline": {
+        "original": "By Alan Cowell"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Judge Reports Progress in Hammarskjold Crash Inquiry",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d7bd792e-b14c-56c2-ae88-af7fbcc055f0",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Hammarskjold, Dag",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Rhodesia",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Zambia",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "United Nations Secretary General Dag Hammarskjold, an iconic Swedish diplomat, died in a plane crash in 1961 during a mission to resolve a crisis caused by the secession of the southern province of Katanga in newly independent Congo.",
+        "credit": "Sam Falk/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/06/02/world/02Hammarskjold/02Hammarskjold-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/06/02/world/02Hammarskjold/02Hammarskjold-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-06-01T18:17:27Z",
+      "section_name": "World",
+      "snippet": "The judge also may widen the inquiry net to more countries and seek access to corporate archives from the time of the crash 57 years ago.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/d7bd792e-b14c-56c2-ae88-af7fbcc055f0",
+      "web_url": "https://www.nytimes.com/2018/06/01/world/africa/hammarskjold-crash-inquiry.html",
+      "word_count": 645
+    },
+    {
+      "abstract": "The source disputed by President Trump was in fact a senior administration official speaking to a large group of reporters in the White House briefing room.",
+      "byline": {
+        "original": "By Michael D. Shear"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Falsely Says Times Made Up Source in Report on Korea Summit Meeting",
+        "kicker": "",
+        "print_headline": "Trump Says Times Used Fake Source; It Did Not"
+      },
+      "_id": "nyt://article/c40220c1-d0b3-5714-9fba-0c993a850966",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "New York Times",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump on Friday at the White House. Mr. Trump’s attack on The New York Times on Saturday on Twitter was only the latest of many efforts by the president to discredit reporting by news organizations.",
+        "credit": "Eric Thayer for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/27/us/27dc-trump1/27dc-trump1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/27/us/27dc-trump1/27dc-trump1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-05-26T19:54:18Z",
+      "section_name": "World",
+      "snippet": "The source disputed by President Trump was in fact a senior administration official speaking to a large group of reporters in the White House briefing room.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/c40220c1-d0b3-5714-9fba-0c993a850966",
+      "web_url": "https://www.nytimes.com/2018/05/26/world/asia/trump-korea-summit-twitter.html",
+      "word_count": 664
+    },
+    {
+      "abstract": "The number of Indigenous Australian juveniles in detention or on parole is increasing, even as the total number of children accused of crimes is decreasing.",
+      "byline": {
+        "original": "By Adella Beaini"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Aboriginal Youth Are Disproportionately Jailed, Report Finds",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fd8811ce-0bbd-5c20-a4f0-82c126e5b3b9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Indigenous Australians",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Juvenile Delinquency",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Northern Territory (Australia)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Crime and Criminals",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The Don Dale Youth Detention Center in Darwin, Northern Territory, in 2016. The original Don Dale facility nearby was closed in 2014 after a tear-gassing incident.",
+        "credit": "Neda Vanovac/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/26/world/26oz-juvenile-1/merlin_138641973_ea12d793-aec0-40f2-9590-9a26c50b8f91-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/26/world/26oz-juvenile-1/26oz-juvenile-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-05-25T07:03:07Z",
+      "section_name": "World",
+      "snippet": "The number of Indigenous Australian juveniles in detention or on parole is increasing, even as the total number of children accused of crimes is decreasing.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/fd8811ce-0bbd-5c20-a4f0-82c126e5b3b9",
+      "web_url": "https://www.nytimes.com/2018/05/25/world/australia/aboriginal-youth-juveniles-jail-report.html",
+      "word_count": 549
+    },
+    {
+      "abstract": "Palestinian officials and doctors gave conflicting accounts of the condition of Mr. Abbas, who is 82.",
+      "byline": {
+        "original": "By Reuters"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Palestinian President, Mahmoud Abbas, Is Reported Hospitalized",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8df095f6-60d7-5f4f-a12b-088cc7189546",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Palestinians",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Palestine Liberation Organization",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Abbas, Mahmoud",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Erekat, Saeb",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Ramallah (West Bank)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "West Bank",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The Palestinian president, Mahmoud Abbas, speaking at his headquarters in the West Bank town of Ramallah last week.",
+        "credit": "Alaa Badarneh/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/22/world/22abbas1/22abbas1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/22/world/22abbas1/22abbas1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-05-21T01:20:53Z",
+      "section_name": "World",
+      "snippet": "Palestinian officials and doctors gave conflicting accounts of the condition of Mr. Abbas, who is 82.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/8df095f6-60d7-5f4f-a12b-088cc7189546",
+      "web_url": "https://www.nytimes.com/2018/05/20/world/middleeast/palestinian-president-mahmoud-abbas-reported-hospitalized.html",
+      "word_count": 314
+    },
+    {
+      "abstract": "David Beasley of the World Food Program, who visited the North last week, said its officials promised more openness and seemed to hope for “a new chapter in history.”",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Aid Agency Chief Reports ‘Tremendous Sense of Optimism’ in North Korea",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/a7ed5f2d-d2eb-55c2-b0b6-09a4117b65d9",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "World Food Program",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Malnutrition",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "North Korean farm workers last month. David Beasley, head of the World Food Program, who visited the North last week, said officials in the impoverished country had promised to work more openly with aid organizations.",
+        "credit": "Ed Jones/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/16/world/16nkorea-1/merlin_136731369_4ce14178-e497-4057-a848-a7c3912c7c76-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/16/world/16nkorea-1/16nkorea-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-05-15T11:21:25Z",
+      "section_name": "World",
+      "snippet": "David Beasley of the World Food Program, who visited the North last week, said its officials promised more openness and seemed to hope for “a new chapter in history.”",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/a7ed5f2d-d2eb-55c2-b0b6-09a4117b65d9",
+      "web_url": "https://www.nytimes.com/2018/05/15/world/asia/north-korea-world-food-program.html",
+      "word_count": 622
+    },
+    {
+      "abstract": "Thomas Markle will not walk his daughter down the aisle, TMZ reported on Monday. A Kensington Palace spokesman has asked for “understanding and respect.”",
+      "byline": {
+        "original": "By Matt Stevens"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Meghan Markle’s Father Will Skip Royal Wedding, Report Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/d603d9cd-4eb6-5e64-ada9-0cfcc38f44c3",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Markle, Meghan",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Markle, Thomas",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Weddings and Engagements",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Royal Families",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "TMZ.com",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Harry, Prince of Wales",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Ragland, Doria",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Meghan Markle and Prince Harry in London last month.",
+        "credit": "Pool photo by Toby Melville",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/05/15/world/15xp-royal1/15xp-royal1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/05/15/world/15xp-royal1/15xp-royal1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-05-14T23:48:30Z",
+      "section_name": "World",
+      "snippet": "Thomas Markle will not walk his daughter down the aisle, TMZ reported on Monday. A Kensington Palace spokesman has asked for “understanding and respect.”",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/d603d9cd-4eb6-5e64-ada9-0cfcc38f44c3",
+      "web_url": "https://www.nytimes.com/2018/05/14/world/europe/meghan-markle-father-royal-wedding.html",
+      "word_count": 513
+    },
+    {
+      "abstract": "Investigators identified the suspects by scanning flight manifests for passengers entering and exiting Britain, The Daily Telegraph reported. The police would not confirm the report.",
+      "byline": {
+        "original": "By Ellen Barry"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Suspects in Attack on Ex-Spy Are in Russia, U.K. Newspaper Reports",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b97020f0-9b6f-5d76-b87b-740664e68590",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Poisoning and Poisons",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Assassinations and Attempted Assassinations",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Skripal, Sergei V",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Skripal, Yulia S",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Litvinenko, Alexander V",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Lugovoi, Andrei K",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The former Russian spy Sergei V. Skripal during his trial in Russia in 2006. He and his daughter were the victims of a nerve agent attack in Britain last month.",
+        "credit": "Yury Senatorov/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/04/21/world/21Skripal/merlin_135082962_c2ad0a51-179d-4786-8d09-1f0ae589fb68-articleLarge.jpg",
+          "height": 451,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/04/21/world/21Skripal/21Skripal-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-04-20T23:57:09Z",
+      "section_name": "World",
+      "snippet": "Investigators identified the suspects by scanning flight manifests for passengers entering and exiting Britain, The Daily Telegraph reported. The police would not confirm the report.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b97020f0-9b6f-5d76-b87b-740664e68590",
+      "web_url": "https://www.nytimes.com/2018/04/20/world/europe/britain-russia-skripal-attack.html",
+      "word_count": 366
+    },
+    {
+      "abstract": "The head of the organization investigating the reported chemical attack in Douma, Syria, said it was unclear when investigators would visit the site.",
+      "byline": {
+        "original": "By Ben Hubbard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Gunmen Shot at U.N. Team Near Site of Reported Chemical Attack, Official Says",
+        "kicker": "",
+        "print_headline": "Shots Fired at U.N. Team  In Chemical Raid Inquiry "
+      },
+      "_id": "nyt://article/2d0250b4-1be5-5367-84f6-72638f528405",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Biological and Chemical Warfare",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Organization for the Prohibition of Chemical Weapons",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Douma (Syria)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A team of international experts is trying to determine whether chemical weapons were used in an attack on the Syrian town of Douma that killed at least 43 people this month.",
+        "credit": "Hassan Ammar/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/04/19/world/19syria/merlin_136948023_a70f0f9a-729b-49f2-bdd4-d4a164407fe1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/04/19/world/19syria/19syria-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2018-04-18T19:56:55Z",
+      "section_name": "World",
+      "snippet": "The head of the organization investigating the reported chemical attack in Douma, Syria, said it was unclear when investigators would visit the site.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/2d0250b4-1be5-5367-84f6-72638f528405",
+      "web_url": "https://www.nytimes.com/2018/04/18/world/middleeast/syria-chemical-attack-investigation.html",
+      "word_count": 628
+    },
+    {
+      "abstract": "Maksim Borodin, 32, who had been reporting on a secretive Russian paramilitary, died after a fall, the latest suspicious death of a Russian reporter.",
+      "byline": {
+        "original": "By Matthew Luxmoore"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russian Journalist Who Reported on Secretive Paramilitary Dies",
+        "kicker": "",
+        "print_headline": "Doubts Over Russian Muckraker’s Death"
+      },
+      "_id": "nyt://article/60c022ea-4a69-53fd-a3c4-ee1cc4b3c6b4",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Borodin, Maksim",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Prigozhin, Yevgeny V",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Yekaterinburg (Russia)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The city of Yekaterinburg, Russia, last week.",
+        "credit": "Sergei Karpukhin/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/04/17/world/17yekaterinburg1/merlin_136840695_5ff03d21-0ef5-4130-8967-459a0e2c3c7b-articleLarge.jpg",
+          "height": 387,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/04/17/world/17yekaterinburg1/17yekaterinburg1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-04-16T16:25:08Z",
+      "section_name": "World",
+      "snippet": "Maksim Borodin, 32, who had been reporting on a secretive Russian paramilitary, died after a fall, the latest suspicious death of a Russian reporter.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/60c022ea-4a69-53fd-a3c4-ee1cc4b3c6b4",
+      "web_url": "https://www.nytimes.com/2018/04/16/world/europe/maksim-borodin-journalist-dead-russia.html",
+      "word_count": 544
+    },
+    {
+      "abstract": "Anti-government activists accused the Syrian government of attacking a rebel-held suburb of Damascus with poison gas, estimating that dozens were killed.",
+      "byline": {
+        "original": "By Ben Hubbard and Hwaida Saad"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Poison Gas Attack Reported by Syrian Anti-Government Activists",
+        "kicker": "",
+        "print_headline": "Poison Gas Attack in Syria Is Reported by Activists"
+      },
+      "_id": "nyt://article/8a7c4440-1458-5046-9026-fbc50254c4d4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Biological and Chemical Warfare",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Douma (Syria)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Damascus (Syria)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Smoke rose from Douma, the last rebel holdout in the suburbs around Damascus, on Saturday, after an attack by government forces. Activists reported that poison gas was used in the assault. <br /><br />",
+        "credit": "Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/04/08/world/08damascus1/08damascus1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/04/08/world/08damascus1/08damascus1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-04-07T23:52:40Z",
+      "section_name": "World",
+      "snippet": "Anti-government activists accused the Syrian government of attacking a rebel-held suburb of Damascus with poison gas, estimating that dozens were killed.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/8a7c4440-1458-5046-9026-fbc50254c4d4",
+      "web_url": "https://www.nytimes.com/2018/04/07/world/middleeast/syria-poison-gas.html",
+      "word_count": 479
+    },
+    {
+      "abstract": "Amnesty International accused security forces of doing nothing despite warnings that the militants were nearby. The military denounced the group’s findings.",
+      "byline": {
+        "original": "By Dionne Searcey and Emmanuel Akinwotu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Nigeria Failed to Act in Schoolgirl Kidnappings by Boko Haram, Report Says",
+        "kicker": "",
+        "print_headline": "Nigeria Failed to Act in Schoolgirl Kidnappings by Boko Haram, Report Says"
+      },
+      "_id": "nyt://article/d53ace81-6462-52cb-a56f-225fe8f72b80",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Nigeria",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Boko Haram",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Kidnapping and Hostages",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Amnesty International",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Dapchi (Nigeria)",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "A classroom at the school in Dapchi, Nigeria, where dozens of school girls were kidnapped by Boko Haram militants last month.",
+        "credit": "Afolabi Sotunde/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/03/21/world/21Amnesty1/merlin_134480963_f5861a9a-a2b0-40d9-aaa3-5fcdba0657ce-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/03/21/world/21Amnesty1/21Amnesty1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2018-03-20T12:19:40Z",
+      "section_name": "World",
+      "snippet": "Amnesty International accused security forces of doing nothing despite warnings that the militants were nearby. The military said the findings were flawed.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/d53ace81-6462-52cb-a56f-225fe8f72b80",
+      "web_url": "https://www.nytimes.com/2018/03/20/world/africa/nigeria-boko-haram-schoolgirls.html",
+      "word_count": 950
+    },
+    {
+      "abstract": "The American inquiries were rejected, an official in Tehran said. “They have shown themselves as dishonest,” he added, “so what is the use of new talks?”",
+      "byline": {
+        "original": "By Thomas Erdbrink"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran Plays Down Report That U.S. Secretly Asked for Talks on Prisoners",
+        "kicker": "",
+        "print_headline": "Iran Plays Down Report  Of U.S. Asking for Talks"
+      },
+      "_id": "nyt://article/5d3d0663-8f6f-51d5-beaa-d53515224bd0",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Iranian-Americans",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Wall Street Journal",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Namazi, Baquer",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Khamenei, Ali",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Tehran (Iran)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Babak Namazi spoke at a news conference in Vienna in April. His father, Baquer Namazi, pictured left, and his brother Siamak, right, were convicted by an Iranian court in 2016 of collaborating with a hostile power.",
+        "credit": "Leonhard Foeger/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/02/09/world/09Iran/merlin_121233104_8e05d34c-5178-4134-9bb3-44bac8633677-articleLarge.jpg",
+          "height": 368,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/02/09/world/09Iran/09Iran-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2018-02-08T14:06:22Z",
+      "section_name": "World",
+      "snippet": "The American inquiries were rejected, an official in Tehran said. “They have shown themselves as dishonest,” he added, “so what is the use of new talks?”",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/5d3d0663-8f6f-51d5-beaa-d53515224bd0",
+      "web_url": "https://www.nytimes.com/2018/02/08/world/middleeast/us-iran-secret-deal.html",
+      "word_count": 403
+    },
+    {
+      "abstract": "Fuel thieves in Mexico drilled 10,363 illegal taps into state-owned pipelines in 2017, or an average of about 28 every day.",
+      "byline": {
+        "original": "By The Associated Press"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Mexico Reports Record Number of Illegal Taps Into Fuel Pipelines",
+        "kicker": "",
+        "print_headline": "Mexico Says  Illegal Taps  Into Pipelines Set a Record"
+      },
+      "_id": "nyt://article/e0733ea9-eed8-541f-9d14-4f9d34216b82",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Robberies and Thefts",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Pemex",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Mexico",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-02-08T00:14:27Z",
+      "section_name": "World",
+      "snippet": "Fuel thieves in Mexico drilled 10,363 illegal taps into state-owned pipelines in 2017, or an average of about 28 every day.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/e0733ea9-eed8-541f-9d14-4f9d34216b82",
+      "web_url": "https://www.nytimes.com/2018/02/07/world/americas/mexico-illegal-fuel-taps.html",
+      "word_count": 315
+    },
+    {
+      "abstract": "The #MeToo movement appears to be helping more men gain the confidence to report abuse to British authorities and seek help, experts say.",
+      "byline": {
+        "original": "By Ceylan Yeginsu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Reported Cases of Sexual Abuse Against Men Triple in England and Wales",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8ce7bce6-99ec-51b1-b889-888f59e770f1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Men and Boys",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "England",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Wales",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Former footballers and survivors of abuse held a news conference in Manchester, England, in 2016 to help victims of abuse.",
+        "credit": "Paul Ellis/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/02/04/world/europe/04britain/merlin_133221347_beff16a8-8a60-4853-a3e0-cfa9dd989bac-articleLarge.jpg",
+          "height": 352,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/02/04/world/europe/04britain/04britain-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2018-02-02T17:50:28Z",
+      "section_name": "World",
+      "snippet": "The #MeToo movement appears to be helping more men gain the confidence to report abuse to British authorities and seek help, experts say.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/8ce7bce6-99ec-51b1-b889-888f59e770f1",
+      "web_url": "https://www.nytimes.com/2018/02/02/world/europe/uk-sexual-assault-male.html",
+      "word_count": 637
+    },
+    {
+      "abstract": "A special inspector says the American military uses loopholes to exempt Afghan security forces from punishment for enslaving and raping children, and other gross human rights violations.",
+      "byline": {
+        "original": "By Rod Nordland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Afghan Pedophiles Get Free Pass From U.S. Military, Report Says",
+        "kicker": "",
+        "print_headline": "Afghan Pedophiles Get Pass From U.S. Military, Report Says"
+      },
+      "_id": "nyt://article/fc5bf284-22c0-528f-8825-c5833d772ae2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Child Abuse and Neglect",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Human Rights and Human Rights Violations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Defense Department",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Special Inspector General for Afghanistan Reconstruction",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Afghan National Security Forces",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Buckley, Gregory T Jr",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Martland, Charles (1982- )",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Quinn, Dan (1981- )",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Adam Ferguson for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/25/world/24afghan-childabuse-promo/24afghan-childabuse-promo-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/25/world/24afghan-childabuse-promo/24afghan-childabuse-promo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2018-01-23T20:21:18Z",
+      "section_name": "World",
+      "snippet": "A special inspector says the American military uses loopholes to exempt Afghan security forces from punishment for enslaving and raping children, and other gross human rights violations.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/fc5bf284-22c0-528f-8825-c5833d772ae2",
+      "web_url": "https://www.nytimes.com/2018/01/23/world/asia/afghanistan-military-abuse.html",
+      "word_count": 950
+    },
+    {
+      "abstract": "The report, prepared for the secretary general, blames a lack of leadership and a reluctance to use force for an alarming rise in casualties.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.N. Peacekeepers Must ‘Not Fear to Use Force’ to Foil Attacks, Report Says",
+        "kicker": "",
+        "print_headline": "U.N. Peacekeepers Must ‘Not Fear to Use Force,’ Report Recommends"
+      },
+      "_id": "nyt://article/ee35f009-a929-5375-b7f3-8d0ee1fd4ccb",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "dos Santos Cruz, Carlos Alberto",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Africa",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A United Nations military official greeted Tanzanian peacekeepers wounded in a deadly assault against their mission last month in the Democratic Republic of Congo.<br /><br />",
+        "credit": "John Wessels/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2018/01/23/world/23nations1/merlin_132717902_3e971c65-66bb-4a68-aa30-0e957d7d6e63-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2018/01/23/world/23nations1/23nations1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2018-01-22T22:03:02Z",
+      "section_name": "World",
+      "snippet": "The report, prepared for the secretary general, blames a lack of leadership and a reluctance to use force for an alarming rise in casualties.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/ee35f009-a929-5375-b7f3-8d0ee1fd4ccb",
+      "web_url": "https://www.nytimes.com/2018/01/22/world/africa/un-peacekeepers-fatalities.html",
+      "word_count": 886
+    }
+  ]
+}

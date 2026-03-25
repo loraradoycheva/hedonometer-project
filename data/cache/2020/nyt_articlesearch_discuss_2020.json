@@ -1,0 +1,605 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20200101",
+    "end_date": "20201231",
+    "fq": "(headline.default:(\"discuss\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 8,
+  "docs": [
+    {
+      "abstract": "The government has deployed extensive resources to address the spike in depression and anxiety. But social stigmas and long-term challenges remain.",
+      "byline": {
+        "original": "By Vivian Wang and Javier C. Hernández"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China Long Avoided Discussing Mental Health. The Pandemic Changed That.",
+        "kicker": "",
+        "print_headline": "In China, a Fresh Look at Managing Mental Health"
+      },
+      "_id": "nyt://article/8edc1d95-4f38-5ebe-bc87-3d3141bfcd89",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Anxiety and Stress",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Psychology and Psychologists",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Depression (Mental)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Insomnia",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A man walking along the Yangtze River in Wuhan, China, where the coronavirus pandemic began. The crisis has forced the country to confront the issue of mental health.",
+        "credit": "Aly Song/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/18/world/00china-mentalhealth01/merlin_173426838_d75af1f1-d48c-4883-a1a3-52e63fe92f9f-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/18/world/00china-mentalhealth01/00china-mentalhealth01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2020-12-21T10:00:39Z",
+      "section_name": "World",
+      "snippet": "The government has deployed extensive resources to address the spike in depression and anxiety. But social stigmas and long-term challenges remain.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/8edc1d95-4f38-5ebe-bc87-3d3141bfcd89",
+      "web_url": "https://www.nytimes.com/2020/12/21/world/asia/china-covid-mental-health.html",
+      "word_count": 1362
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Abby Goodnough"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A C.D.C. advisory group discussed which Americans should get vaccines first.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/07b307ed-3e43-5a9e-b04b-9df6af8e8d46",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The Advisory Committee on Immunization Practices of the C.D.C. indicated in a meeting on Monday that health care workers should be the first recipients of coronavirus vaccines.",
+        "credit": "Go Nakamura/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/11/23/science/23virus-brief-cdc2/merlin_180337557_6b5f8f8e-4fa8-4218-884f-0dc0afb111ad-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/11/23/science/23virus-brief-cdc2/merlin_180337557_6b5f8f8e-4fa8-4218-884f-0dc0afb111ad-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-11-23T22:52:01Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/07b307ed-3e43-5a9e-b04b-9df6af8e8d46",
+      "web_url": "https://www.nytimes.com/live/2020/11/23/world/covid-19-coronavirus/a-cdc-advisory-group-discussed-which-americans-should-get-vaccines-first",
+      "word_count": 325
+    },
+    {
+      "abstract": "Domestic political pressures and longstanding cultural differences are putting a brake on Angela Merkel’s push for swift agreement.",
+      "byline": {
+        "original": "By Matina Stevis-Gridneff"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "E.U. Leaders Meet to Discuss Virus Rescue Plan, With Obstacles Ahead",
+        "kicker": "",
+        "print_headline": "Wealthy E.U. Members Demand Restrictions on Aid Packages for Rogue Countries  "
+      },
+      "_id": "nyt://article/0beab0a7-c443-55a7-ad9b-809033733cc6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Stimulus (Economic)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Budgets and Budgeting",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Recession and Depression",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Credit and Debt",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus Reopenings",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Morawiecki, Mateusz",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Orban, Viktor",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Rutte, Mark",
+          "rank": 13
+        }
+      ],
+      "multimedia": {
+        "caption": "In Venice last month. Italy, Spain and France will suffer the most of the recession predicted by the economists, clocking in contractions around 10 percent each this year.",
+        "credit": "Alessandro Grassani for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/07/17/world/17eu-summit01/merlin_173102304_7c12d7d7-6dc0-419f-8f03-228131c95c26-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/07/17/world/17eu-summit01/17eu-summit01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2020-07-17T11:28:56Z",
+      "section_name": "World",
+      "snippet": "Domestic political pressures and longstanding cultural differences are putting a brake on Angela Merkel’s push for swift agreement.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/0beab0a7-c443-55a7-ad9b-809033733cc6",
+      "web_url": "https://www.nytimes.com/2020/07/17/world/europe/eu-coronavirus-summit.html",
+      "word_count": 1401
+    },
+    {
+      "abstract": "The pilots ignored repeated warnings that they were flying too high approaching Karachi’s airport, and failed to lower the landing gear, according to a preliminary report.",
+      "byline": {
+        "original": "By Salman Masood"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pilots Discussed Coronavirus, Ignoring Alerts Before Pakistan Crash, Officials Say",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5d97fbe0-d1aa-5639-af16-7a6ee196ee8c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Aviation Accidents, Safety and Disasters",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Air Traffic Control",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Pakistan International Airlines",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Karachi (Pakistan)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Workers examining the wreckage of a plane crash in Karachi, Pakistan in late March.",
+        "credit": "Fareed Khan/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/06/24/world/24pakistan-plane/merlin_172745628_b93fc0bd-877e-4ebd-8b06-810791d1d3b8-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/06/24/world/24pakistan-plane/merlin_172745628_b93fc0bd-877e-4ebd-8b06-810791d1d3b8-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-06-24T16:32:20Z",
+      "section_name": "World",
+      "snippet": "The pilots ignored repeated warnings that they were flying too high approaching Karachi’s airport, and failed to lower the landing gear, according to a preliminary report.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/5d97fbe0-d1aa-5639-af16-7a6ee196ee8c",
+      "web_url": "https://www.nytimes.com/2020/06/24/world/asia/pakistan-plane-crash-coronavirus.html",
+      "word_count": 672
+    },
+    {
+      "abstract": "What can be learned as the outrage over the killing of George Floyd by the police in Minneapolis goes global?",
+      "byline": {
+        "original": "By Damien Cave and Isabella Kwai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Discussing Race and America’s Protests From Abroad",
+        "kicker": "Letter 160",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b43d0739-ef4c-5912-90b9-4250a62c9897",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "George Floyd Protests (2020)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Black Lives Matter Movement",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Police Brutality, Misconduct and Shootings",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A protest in Los Angeles on Wednesday.",
+        "credit": "Bryan Denton for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/06/05/world/05australia-newsletter-top/merlin_173182683_239bd382-d3c7-4327-8cfe-ae7b5d843c9c-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/06/05/world/05australia-newsletter-top/05australia-newsletter-top-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-06-05T05:04:39Z",
+      "section_name": "World",
+      "snippet": "What can be learned as the outrage over the killing of George Floyd by the police in Minneapolis goes global?",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "briefing",
+      "uri": "nyt://article/b43d0739-ef4c-5912-90b9-4250a62c9897",
+      "web_url": "https://www.nytimes.com/2020/06/05/world/australia/race-protests-discussion.html",
+      "word_count": 1821
+    },
+    {
+      "abstract": "In Italy, restrictions on movement were extended to cover the whole country. In the United States, where the death toll hit 26, President Trump said he would discuss tax cuts and aid for idled hourly workers with Congress.",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump to Discuss Economic Steps; Italy Halts Most Travel; Stocks and Oil Prices Plunge",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/84de560c-2407-51dd-931b-29f62b8302a6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Coronavirus (2019-nCoV)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Quarantines",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "California",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Italy",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A cruise ship docked on Monday in Oakland, Calif., with at least 21 people aboard who had tested positive for the coronavirus.",
+        "credit": "Justin Sullivan/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/03/10/reader-center/09virus-briefing-ship-promo2/09virus-briefing-ship-promo2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/03/10/reader-center/09virus-briefing-ship-promo2/09virus-briefing-ship-promo2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-03-09T04:01:43Z",
+      "section_name": "World",
+      "snippet": "All of Italy’s 60 million people are coming under restrictions that had applied to the northern part of the country. The death toll in the United States hit 26.",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/84de560c-2407-51dd-931b-29f62b8302a6",
+      "web_url": "https://www.nytimes.com/2020/03/09/world/coronavirus-news.html",
+      "word_count": 2894
+    },
+    {
+      "abstract": "The invitation could provide a welcome distraction for President Trump, facing an impeachment trial, and for Prime Minister Benjamin Netanyahu, who is facing corruption charges.",
+      "byline": {
+        "original": "By David M. Halbfinger, Isabel Kershner and Katie Rogers"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Invites Netanyahu to White House to Discuss Middle East Peace Plan",
+        "kicker": "",
+        "print_headline": "Trump to Release Peace Plan and Discuss It With Rival Israelis"
+      },
+      "_id": "nyt://article/57b6431a-61d9-59ee-8def-66564f0306f6",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Netanyahu, Benjamin",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Pence, Mike",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Gantz, Benny",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kushner, Jared",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Israel",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Middle East",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Vice President Mike Pence with Prime Minister Benjamin Netanyahu during a visit to the Western Wall in Jerusalem on Thursday.",
+        "credit": "Ammar Awad/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/01/23/world/23peaceplan/merlin_167654595_89b4af77-d914-4a9d-9405-41ab7820838f-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/01/23/world/23peaceplan/23peaceplan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2020-01-23T18:34:57Z",
+      "section_name": "World",
+      "snippet": "The visit by Prime Minister Benjamin Netanyahu and his rival, Benny Gantz, may do little to advance the cause of peace.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/57b6431a-61d9-59ee-8def-66564f0306f6",
+      "web_url": "https://www.nytimes.com/2020/01/23/world/middleeast/israel-peace-plan-kushner.html",
+      "word_count": 1248
+    },
+    {
+      "abstract": "Prime Minister Adel Abdul Mahdi said he had asked Secretary of State Mike Pompeo to send a delegation to Baghdad to prepare for the withdrawal of American troops.",
+      "byline": {
+        "original": "By Edward Wong and Megan Specia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Says It Won’t Discuss Withdrawing Troops From Iraq, Defying Baghdad’s Request",
+        "kicker": "",
+        "print_headline": "U.S. Says It Won’t Discuss Withdrawing Troops, Defying Iraq’s Request"
+      },
+      "_id": "nyt://article/ff16ebf6-b257-5620-a883-18d20e5bac7f",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Drones (Pilotless Planes)",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Baghdad (Iraq)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Mahdi, Adel Abdul",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Suleimani, Qassim",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "United States",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "There are currently around 5,200 United States troops in Iraq.",
+        "credit": "Jonathan Ernst/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/01/10/us/politics/10dc-diplo1-promo/10dc-diplo1-promo-articleLarge-v3.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/01/10/us/politics/10dc-diplo1-promo/10dc-diplo1-promo-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2020-01-10T13:00:22Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Adel Abdul Mahdi of Iraq said he had asked Secretary of State Mike Pompeo to send a delegation to prepare for the withdrawal of American troops.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/ff16ebf6-b257-5620-a883-18d20e5bac7f",
+      "web_url": "https://www.nytimes.com/2020/01/10/world/middleeast/us-troops.html",
+      "word_count": 1122
+    }
+  ]
+}

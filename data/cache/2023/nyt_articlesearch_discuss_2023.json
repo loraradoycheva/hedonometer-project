@@ -1,0 +1,1803 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20230101",
+    "end_date": "20231231",
+    "fq": "(headline.default:(\"discuss\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 34,
+  "docs": [
+    {
+      "abstract": "William J. Burns was in Warsaw on Monday, where he met with the head of Mossad, Israel’s spy agency, and the prime minister of Qatar, which has helped broker talks with Hamas.",
+      "byline": {
+        "original": "By Julian E. Barnes"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "C.I.A. Director Discusses Resuming Hostage and Prisoner Exchanges Between Israel and Hamas",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bdb8e8d7-a45a-5402-98a9-b42941e305c7",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Burns, William J",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Central Intelligence Agency",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Mossad",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Kidnapping and Hostages",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Qatar",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "The C.I.A. director, William J. Burns, on Capitol Hill in Washington in September.",
+        "credit": "Michael Reynolds/EPA, via Shutterstock",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/12/18/multimedia/18israel-hamas-hostage-talks-1-zjhk/18israel-hamas-hostage-talks-1-zjhk-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/12/18/multimedia/18israel-hamas-hostage-talks-1-zjhk/18israel-hamas-hostage-talks-1-zjhk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-12-18T13:42:17Z",
+      "section_name": "World",
+      "snippet": "William J. Burns was in Warsaw on Monday, where he met with the head of Mossad, Israel’s spy agency, and the prime minister of Qatar, which has helped broker talks with Hamas.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/bdb8e8d7-a45a-5402-98a9-b42941e305c7",
+      "web_url": "https://www.nytimes.com/2023/12/18/world/middleeast/cia-director-burns-israel-hostages-hamas-gaza-prisoners.html",
+      "word_count": 493
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Vivian Nereim and Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China’s foreign minister meets with a Middle East delegation to discuss Gaza.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/fe3ada62-7b8a-508e-885e-03276d0c62e9",
+      "keywords": [],
+      "multimedia": {
+        "caption": "China’s foreign minister, Wang Yi, center with officials from Saudi Arabia, Jordan, Egypt, Indonesia and the Palestinian Authority, in Beijing on Monday.",
+        "credit": "Pedro Pardo/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/20/multimedia/20israel-hamas-china-peace-talks-lvpg/20israel-hamas-china-peace-talks-lvpg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/20/multimedia/20israel-hamas-china-peace-talks-lvpg/20israel-hamas-china-peace-talks-lvpg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-11-20T07:21:28Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/fe3ada62-7b8a-508e-885e-03276d0c62e9",
+      "web_url": "https://www.nytimes.com/live/2023/11/20/world/israel-hamas-gaza-war-news/israel-hamas-china-peace-talks",
+      "word_count": 446
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Julian E. Barnes and Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The C.I.A. director and the Israeli intelligence chief met with Qatari officials to discuss a possible Hamas hostage deal.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ac321508-329f-5d3d-bfe1-aafa8dd8ddf4",
+      "keywords": [],
+      "multimedia": {
+        "caption": "William Burns, the C.I.A. director, during a congressional hearing last year. Mr. Burns met with Qatari officials on Thursday to discuss a deal to release American hostages being held by Hamas in Gaza.",
+        "credit": "Michael A. McCoy for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/09/multimedia/09israel-hamas-cia-hostage-egypt-topart-chgj/09israel-hamas-cia-hostage-egypt-topart-chgj-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/09/multimedia/09israel-hamas-cia-hostage-egypt-topart-chgj/09israel-hamas-cia-hostage-egypt-topart-chgj-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-11-09T16:36:48Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/ac321508-329f-5d3d-bfe1-aafa8dd8ddf4",
+      "web_url": "https://www.nytimes.com/live/2023/11/09/world/israel-hamas-war-gaza/the-cia-director-and-the-israeli-intelligence-chief-met-with-qatari-officials-to-discuss-a-possible-hamas-hostage-deal",
+      "word_count": 429
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Julian E. Barnes and Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hamas is discussing conditions for freeing a few hostages, officials say.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/88bfa905-10ad-53f4-a893-82103429a704",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Israel-Gaza War (2023- )",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Hamas",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Gaza Strip",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Burns, William J",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Around 240 hostages are believed to be held by Hamas and other Palestinian groups in Gaza.",
+        "credit": "Sergey Ponomarev for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/08/multimedia/08israel-hamas-pause-kmgj/08israel-hamas-pause-kmgj-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/08/multimedia/08israel-hamas-pause-kmgj/08israel-hamas-pause-kmgj-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-11-08T23:17:27Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/88bfa905-10ad-53f4-a893-82103429a704",
+      "web_url": "https://www.nytimes.com/live/2023/11/08/world/israel-hamas-war-gaza/hamas-is-discussing-the-possible-release-of-a-group-of-hostages-in-exchange-for-a-brief-pause-in-fighting-officials-say",
+      "word_count": 541
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Adam Entous"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Blinken and Abbas discussed efforts to restore calm in the West Bank, the U.S. says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/545daeef-ab66-5a40-94aa-ca0013df4cb2",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Secretary of State Antony J. Blinken meeting with Mahmoud Abbas, the president of the internationally backed Palestinian Authority, on Sunday in Ramallah, in the Israeli-occupied West Bank.",
+        "credit": "Pool photo by Jonathan Ernst",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/05/multimedia/05israel-hamas-west-bank-swap-hqcg/05israel-hamas-west-bank-swap-hqcg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/05/multimedia/05israel-hamas-west-bank-swap-hqcg/05israel-hamas-west-bank-swap-hqcg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-11-05T10:19:15Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/545daeef-ab66-5a40-94aa-ca0013df4cb2",
+      "web_url": "https://www.nytimes.com/live/2023/11/05/world/israel-hamas-war-gaza-news/blinken-makes-an-unannounced-stop-in-the-west-bank",
+      "word_count": 560
+    },
+    {
+      "abstract": "The prime minister’s conversation with the tech billionaire was part of an effort this week to present Britain as a leader in artificial intelligence.",
+      "byline": {
+        "original": "By Adam Satariano"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Elon Musk Discusses Perils and Benefits of A.I. With Rishi Sunak",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/914f6892-02ae-59e7-843d-dc67a3de13b2",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Musk, Elon",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Sunak, Rishi (1980- )",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Artificial Intelligence",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Computers and the Internet",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Regulation and Deregulation of Industry",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Rishi Sunak of Britain and Elon Musk in London on Thursday.",
+        "credit": "Pool photo by Kirsty Wigglesworth",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/11/02/multimedia/02musk-sunak-1-mtwp/02musk-sunak-1-mtwp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/11/02/multimedia/02musk-sunak-1-mtwp/02musk-sunak-1-mtwp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Business",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-11-02T22:11:57Z",
+      "section_name": "World",
+      "snippet": "The prime minister’s conversation with the tech billionaire was part of an effort this week to present Britain as a leader in artificial intelligence.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/914f6892-02ae-59e7-843d-dc67a3de13b2",
+      "web_url": "https://www.nytimes.com/2023/11/02/world/europe/elon-musk-rishi-sunak-ai.html",
+      "word_count": 878
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By The Daily Team"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The Daily discusses Biden’s trip to Israel.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/556bf04a-f141-5282-813c-bbc5eade9e46",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-10-18T11:40:45Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/556bf04a-f141-5282-813c-bbc5eade9e46",
+      "web_url": "https://www.nytimes.com/live/2023/10/18/world/israel-hamas-war-biden-gaza/the-daily-discusses-bidens-trip-to-israel",
+      "word_count": 62
+    },
+    {
+      "abstract": "Officials of the breakaway region met with representatives of Azerbaijan to talk about the future of its residents, many of whom strongly resist the idea of coming under Azerbaijani rule.",
+      "byline": {
+        "original": "By Ivan Nechepurenko"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "After Surrender in Nagorno-Karabakh, Leaders Discuss Armenians’ Fate",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f913fea5-a7a5-5652-a345-beb929235df1",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "War and Armed Conflicts",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Armenians",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Aliyev, Ilham H",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Pashinyan, Nikol",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Armenia",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Azerbaijan",
+          "rank": 9
+        },
+        {
+          "name": "Location",
+          "value": "Nagorno-Karabakh",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "A photo released by the Azerbaijan State News Agency showed representatives of the Armenian community of Nagorno-Karabakh, Azerbaijan’s government and the Russian peacekeeping contingent meeting on Thursday.",
+        "credit": "Roman Ismailov/AZERTAC, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/09/21/multimedia/21karabach-01-gkwq/21karabach-01-gkwq-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/09/21/multimedia/21karabach-01-gkwq/21karabach-01-gkwq-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-09-21T10:51:04Z",
+      "section_name": "World",
+      "snippet": "Officials of the breakaway region met with representatives of Azerbaijan to talk about the future of its residents, many of whom strongly resist the idea of coming under Azerbaijani rule.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/f913fea5-a7a5-5652-a345-beb929235df1",
+      "web_url": "https://www.nytimes.com/2023/09/21/world/europe/armenia-azerbaijan-nagorno-karabakh.html",
+      "word_count": 722
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Frances Robles"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S., Kenyan and Haitian officials meet on the sidelines to discuss possible security mission to Haiti.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/4f7ba27c-5728-55ee-9f2f-fea452c0af6c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Speeches and Statements",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Haiti",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Kenya",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Demonstrations, Protests and Riots",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "General Assembly (UN)",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Security Council (UN)",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Thousands of residents of Port-au-Prince, Haiti, the nation’s capital, have been forced to flee their homes in order to escape from gangs who have taken over swaths of the city.",
+        "credit": "Odelyn Joseph/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/09/19/multimedia/19unga-blog-haiti-topart-gzmb/19unga-blog-haiti-topart-gzmb-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/09/19/multimedia/19unga-blog-haiti-topart-gzmb/19unga-blog-haiti-topart-gzmb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-09-19T19:41:09Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/4f7ba27c-5728-55ee-9f2f-fea452c0af6c",
+      "web_url": "https://www.nytimes.com/live/2023/09/19/world/united-nations-general-assembly/us-kenyan-and-haitian-officials-meet-on-the-sidelines-to-discuss-possible-security-mission-to-haiti",
+      "word_count": 375
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Gaya Gupta"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A U.S. official meets with a Ukrainian delegation to discuss Kyiv’s anti-corruption efforts.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/33b69f0a-a373-54ee-b7fe-50200fb07b08",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The national security adviser, Jake Sullivan, at a news briefing at Camp David on Aug. 18.",
+        "credit": "Evelyn Hockstein/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/09/01/multimedia/01ukraine-briefing-corruption-zqtm/01ukraine-briefing-corruption-zqtm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/09/01/multimedia/01ukraine-briefing-corruption-zqtm/01ukraine-briefing-corruption-zqtm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-09-01T21:42:14Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/33b69f0a-a373-54ee-b7fe-50200fb07b08",
+      "web_url": "https://www.nytimes.com/live/2023/09/01/world/russia-ukraine-news/a-us-official-meets-with-a-ukrainian-delegation-to-discuss-kyivs-anti-corruption-efforts",
+      "word_count": 327
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Valeriya Safronova"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "An undated video of Prigozhin discussing his well-being surfaces a day after his funeral.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5fa852a0-e242-537c-bb34-f015724e255e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "The cemetery in St. Petersburg, Russia, where the mercenary chief Yevgeny V. Prigozhin was buried on Tuesday.",
+        "credit": "Nanna Heitmann for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/08/31/multimedia/31ukraine-briefing-prigozhin-video-sub-hjpt/31ukraine-briefing-prigozhin-video-sub-hjpt-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/08/31/multimedia/31ukraine-briefing-prigozhin-video-sub-hjpt/31ukraine-briefing-prigozhin-video-sub-hjpt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-08-31T13:02:57Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/5fa852a0-e242-537c-bb34-f015724e255e",
+      "web_url": "https://www.nytimes.com/live/2023/08/31/world/russia-ukraine-news/an-undated-video-of-prigozhin-discussing-his-well-being-surfaces-a-day-after-his-funeral",
+      "word_count": 458
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Jesus Jiménez and Gaya Gupta"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia and Turkey discuss Moscow’s grain proposal.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b8c2f284-5630-516f-90dc-9891fc11d50b",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Cargo ships in the Black Sea off the coast of Romania in August.",
+        "credit": "Andreea Campeanu for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/08/31/multimedia/31ukraine-briefing-russia-turkey-grain-pmbw/31ukraine-briefing-russia-turkey-grain-pmbw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/08/31/multimedia/31ukraine-briefing-russia-turkey-grain-pmbw/31ukraine-briefing-russia-turkey-grain-pmbw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-08-31T06:51:17Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/b8c2f284-5630-516f-90dc-9891fc11d50b",
+      "web_url": "https://www.nytimes.com/live/2023/08/31/world/russia-ukraine-news/russia-and-turkey-to-discuss-moscows-grain-proposal",
+      "word_count": 595
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Helene Cooper"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Biden’s top military adviser meets Pope Francis to discuss Ukraine.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7729ae59-ac29-54b0-b4f5-a756da9ac2ea",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A photograph provided by the Vatican of Gen. Mark A. Milley, left, with Pope Francis in the Vatican on Monday.",
+        "credit": "Vatican Media, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/08/21/multimedia/21ukraine-briefing-milley-wgcb/21ukraine-briefing-milley-wgcb-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/08/21/multimedia/21ukraine-briefing-milley-wgcb/21ukraine-briefing-milley-wgcb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-08-21T17:56:26Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7729ae59-ac29-54b0-b4f5-a756da9ac2ea",
+      "web_url": "https://www.nytimes.com/live/2023/08/21/world/russia-ukraine-news-war/bidens-top-military-adviser-a-devout-catholic-meets-pope-francis-to-discuss-ukraine",
+      "word_count": 244
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By David Pierson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The top diplomats from Russia and China meet to discuss cooperation.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/7074e53a-2c25-53d9-a52f-0a0b223264da",
+      "keywords": [],
+      "multimedia": {
+        "caption": "In this photo released by the Russian Foreign Ministry, Foreign Minister Sergei V. Lavrov of Russia meets with China’s top diplomat, Wang Yi, on the sidelines of a Southeast Asian summit in Jakarta, Indonesia, on Thursday.",
+        "credit": "Russian Foreign Ministry, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/07/13/multimedia/13ukraine-briefing-china-russia-tmgj/13ukraine-briefing-china-russia-tmgj-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/07/13/multimedia/13ukraine-briefing-china-russia-tmgj/13ukraine-briefing-china-russia-tmgj-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-07-13T10:55:11Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/7074e53a-2c25-53d9-a52f-0a0b223264da",
+      "web_url": "https://www.nytimes.com/live/2023/07/13/world/russia-ukraine-news/the-top-diplomats-from-russia-and-china-meet-to-discuss-cooperation-and-the-war",
+      "word_count": 458
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anushka Patil"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Zelensky will discuss the grain deal with Turkey’s president, with a NATO bid in mind, too.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/15091a3a-a2a2-5e08-ade7-da350e957ee1",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A grain storage facility in Ternopil, Ukraine, last year. A grain deal with Russia is once again facing an uncertain future.",
+        "credit": "Diego Ibarra Sanchez for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/15/multimedia/07ukraine-briefing-zelensky-turkey/15china-ukraine-04-mvtc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/15/multimedia/07ukraine-briefing-zelensky-turkey/15china-ukraine-04-mvtc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-07-07T05:50:36Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/15091a3a-a2a2-5e08-ade7-da350e957ee1",
+      "web_url": "https://www.nytimes.com/2023/07/07/world/europe/zelensky-to-discuss-the-grain-deal-with-turkeys-president-with-a-nato-bid-in-mind-too.html",
+      "word_count": 450
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Maggie Astor and Katie Rogers"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Biden and the Swedish prime minister meet to discuss Sweden’s NATO bid.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b394ee0d-79df-5f8e-9196-5e3666edbbde",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kristersson, Ulf",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Sweden",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "North Atlantic Treaty Organization",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "President Biden met with Prime Minister Ulf Kristersson of Sweden at the White House on Wednesday.",
+        "credit": "Kenny Holston/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/07/05/multimedia/05ukraine-briefing-sweden/05dc-biden-sub-zpcg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/07/05/multimedia/05ukraine-briefing-sweden/05dc-biden-sub-zpcg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-07-05T06:35:03Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b394ee0d-79df-5f8e-9196-5e3666edbbde",
+      "web_url": "https://www.nytimes.com/2023/07/05/world/europe/biden-and-the-swedish-prime-minister-to-discuss-nato-bid.html",
+      "word_count": 365
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Gaya Gupta"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Putin and Modi discuss Ukraine and the uprising, but offer differing accounts of the call.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/80bf72d0-bbd6-50b7-8e40-dd265da4ccf4",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Just over a week ago, at a lavish state visit at the White House, Prime Minister Narendra Modi of India pledged greater defense cooperation with the United States.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/30/multimedia/30ukraine-briefing-modi-putin-cgtk/30ukraine-briefing-modi-putin-cgtk-articleLarge.jpg",
+          "height": 396,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/30/multimedia/30ukraine-briefing-modi-putin-cgtk/30ukraine-briefing-modi-putin-cgtk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-06-30T16:07:29Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/80bf72d0-bbd6-50b7-8e40-dd265da4ccf4",
+      "web_url": "https://www.nytimes.com/live/2023/06/30/world/russia-ukraine-news/putin-and-modi-discuss-ukraine-and-the-uprising-but-offer-differing-accounts-of-the-call",
+      "word_count": 386
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Valerie Hopkins"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Lukashenko says he and Putin, in a phone call on Saturday, discussed killing the mercenary leader.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/51fe0088-3e3f-5365-9814-e74e69caad6e",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Aleksandr G. Lukashenko in a photo provided by the presidential press service.",
+        "credit": "Agence France-Presse, via Belarusian Presidential Press Service",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/27/multimedia/27ukraine-blog-Lukashenko-negotiations-kpvc/27ukraine-blog-Lukashenko-negotiations-kpvc-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/27/multimedia/27ukraine-blog-Lukashenko-negotiations-kpvc/27ukraine-blog-Lukashenko-negotiations-kpvc-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-06-27T17:46:12Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/51fe0088-3e3f-5365-9814-e74e69caad6e",
+      "web_url": "https://www.nytimes.com/live/2023/06/27/world/russia-ukraine-news/belarus-lukashenko",
+      "word_count": 670
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Aurelien Breeden"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The leaders of France, Germany and Poland discuss more support for Ukraine.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/77a448f1-9169-5e35-b26d-560e13e6deec",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Emmanuel Macron of France, Chancellor Olaf Scholz of Germany and President Andrzej Duda of Poland on Monday in Paris. Mr. Macron said France would ramp up its deliveries of aid to the Ukrainian military.",
+        "credit": "Pool photo by Sarah Meyssonnier",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/12/multimedia/12ukraine-briefing-Macron-Duda-Scholz-wkvt/12ukraine-briefing-Macron-Duda-Scholz-wkvt-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/12/multimedia/12ukraine-briefing-Macron-Duda-Scholz-wkvt/12ukraine-briefing-Macron-Duda-Scholz-wkvt-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-06-12T20:38:31Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/77a448f1-9169-5e35-b26d-560e13e6deec",
+      "web_url": "https://www.nytimes.com/live/2023/06/13/world/russia-ukraine-news/the-question-of-nato-membership-for-ukraine-looms-as-the-leaders-of-france-germany-and-poland-meet",
+      "word_count": 411
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": ""
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A climate columnist for The Times discusses the smoke on today’s episode of ‘The Daily.’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/25deb4b6-be46-5d48-8019-fe96367f8ca7",
+      "keywords": [],
+      "multimedia": {
+        "caption": "",
+        "credit": "",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-06-09T09:56:10Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/25deb4b6-be46-5d48-8019-fe96367f8ca7",
+      "web_url": "https://www.nytimes.com/live/2023/06/09/world/canada-wildfires-air-quality-smoke/a-climate-columnist-for-the-times-discusses-the-smoke-on-todays-episode-of-the-daily",
+      "word_count": 63
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Crowley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Security guarantees for Ukraine are discussed as Blinken meets with NATO officials in Oslo.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/734bc58d-db72-5b04-b75e-5663998f8333",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Secretary of State Antony J. Blinken, far left, with some of his NATO counterparts in Oslo on Thursday.",
+        "credit": "Pool photo by Javad Parsa",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/06/01/multimedia/01ukraine-briefing-blinken-nato-mcbh/01ukraine-briefing-blinken-nato-mcbh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/06/01/multimedia/01ukraine-briefing-blinken-nato-mcbh/01ukraine-briefing-blinken-nato-mcbh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-06-01T09:42:30Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/734bc58d-db72-5b04-b75e-5663998f8333",
+      "web_url": "https://www.nytimes.com/live/2023/06/01/world/russia-ukraine-news/blinken-meets-with-nato-officials-in-oslo-to-discuss-the-war-in-ukraine-and-a-forthcoming-summit",
+      "word_count": 376
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Michael Crowley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Blinken discusses Russia and China with European officials in Sweden.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/69a82e08-4e72-5581-bd47-b0112f66d03c",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Secretary of State Antony J. Blinken, left, with Prime Minister Ulf Kristersson of Sweden, in Lulea, Sweden, on Tuesday.",
+        "credit": "Jonas Ekstromer/TT News Agency, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/31/multimedia/31ukraine-briefing-Blinken-Wednesday-phjb/31ukraine-briefing-Blinken-Wednesday-phjb-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/31/multimedia/31ukraine-briefing-Blinken-Wednesday-phjb/31ukraine-briefing-Blinken-Wednesday-phjb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-05-31T09:53:43Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/69a82e08-4e72-5581-bd47-b0112f66d03c",
+      "web_url": "https://www.nytimes.com/live/2023/05/31/world/russia-ukraine-news/blinken-is-expected-to-discuss-russia-and-china-with-european-officials-in-sweden",
+      "word_count": 410
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Motoko Rich"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Indo-Pacific ‘Quad’ allies met, but not in Australia, to discuss China.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e65e4408-1ed7-5bb3-a7d0-74df33adf2cb",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Developing Countries",
+          "rank": 7
+        },
+        {
+          "name": "Organization",
+          "value": "Group of Seven",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Center for Strategic and International Studies",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Biden, Joseph R Jr",
+          "rank": 11
+        },
+        {
+          "name": "Person",
+          "value": "Albanese, Anthony (1963- )",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 13
+        },
+        {
+          "name": "Person",
+          "value": "Jean-Pierre, Karine",
+          "rank": 14
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 15
+        },
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 16
+        },
+        {
+          "name": "Location",
+          "value": "Papua New Guinea",
+          "rank": 17
+        }
+      ],
+      "multimedia": {
+        "caption": "President Biden at a meeting in Hiroshima, Japan, on Saturday.",
+        "credit": "Kenny Holston/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/20/multimedia/20ukraine-briefing-quad-meeting-preview-lzgj/20ukraine-briefing-quad-meeting-preview-lzgj-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/20/multimedia/20ukraine-briefing-quad-meeting-preview-lzgj/20ukraine-briefing-quad-meeting-preview-lzgj-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-05-20T07:11:05Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/e65e4408-1ed7-5bb3-a7d0-74df33adf2cb",
+      "web_url": "https://www.nytimes.com/live/2023/05/20/world/russia-ukraine-news/quad-china-australia",
+      "word_count": 313
+    },
+    {
+      "abstract": "Russia already has used large numbers of Iranian drones against Ukraine and seeks to acquire more, according to a White House spokesman.",
+      "byline": {
+        "original": "By Daniel Victor"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran and Russia are discussing more drone sales, the White House says.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/db6c9dce-2925-5771-b31d-094459bde954",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Three Iranian drones were exhibited near Azadi Tower in Tehran in February, during an annual rally commemorating Iran’s 1979 Islamic Revolution.",
+        "credit": "Arash Khamooshi for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/16/multimedia/16ukraine-briefing-iran-drones-01-qhvp/16ukraine-briefing-iran-drones-01-qhvp-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/16/multimedia/16ukraine-briefing-iran-drones-01-qhvp/16ukraine-briefing-iran-drones-01-qhvp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-05-16T05:08:39Z",
+      "section_name": "World",
+      "snippet": "Russia already has used large numbers of Iranian drones against Ukraine and seeks to acquire more, according to a White House spokesman.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/db6c9dce-2925-5771-b31d-094459bde954",
+      "web_url": "https://www.nytimes.com/live/2023/05/15/world/russia-ukraine-news/iran-russia-drones",
+      "word_count": 383
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Daniel Victor"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "European leaders gather in Iceland to discuss human rights and support for Ukraine.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/1dd5f8b9-f368-53da-a454-3f266e36e35a",
+      "keywords": [],
+      "multimedia": {
+        "caption": "President Volodymyr Zelensky of Ukraine virtually addressed the Council of Europe summit in Reykjavik, Iceland, on Tuesday.",
+        "credit": "Pool photo by Alastair Grant",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/05/16/multimedia/16ukraine-briefing-council-europe-qjcm/16ukraine-briefing-council-europe-qjcm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/05/16/multimedia/16ukraine-briefing-council-europe-qjcm/16ukraine-briefing-council-europe-qjcm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-05-16T05:08:37Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/1dd5f8b9-f368-53da-a454-3f266e36e35a",
+      "web_url": "https://www.nytimes.com/2023/05/16/world/europe/european-leaders-gather-in-iceland-to-discuss-human-rights-and-support-for-ukraine.html",
+      "word_count": 451
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Alex Travelli"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia and India are discussing a free-trade agreement, officials say.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/c7ac5282-c6e2-5894-bc89-928193abcd09",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A refinery operated in Guwahati, India, last month. India has become one of Russia’s main buyers of crude oil.",
+        "credit": "Biju Boro/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/19/multimedia/19ukraine-briefing-Russia-India-Trade-topart-jklv/19ukraine-briefing-Russia-India-Trade-topart-jklv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/19/multimedia/19ukraine-briefing-Russia-India-Trade-topart-jklv/19ukraine-briefing-Russia-India-Trade-topart-jklv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-19T17:52:19Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/c7ac5282-c6e2-5894-bc89-928193abcd09",
+      "web_url": "https://www.nytimes.com/live/2023/04/19/world/russia-ukraine-news/russia-and-india-are-discussing-a-free-trade-agreement-officials-say",
+      "word_count": 405
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Carly Olson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Austin will discuss more arms and aid for Ukraine during his European trip.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bde33e59-3b5f-5b8d-bc53-a7b9db0f922d",
+      "keywords": [],
+      "multimedia": {
+        "caption": "Defense Secretary Lloyd J. Austin III last week in Washington.",
+        "credit": "Alex Brandon/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/19/multimedia/19ukraine-briefing-sweden-meeting-whkg/19ukraine-briefing-sweden-meeting-whkg-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/19/multimedia/19ukraine-briefing-sweden-meeting-whkg/19ukraine-briefing-sweden-meeting-whkg-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-19T05:19:54Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/bde33e59-3b5f-5b8d-bc53-a7b9db0f922d",
+      "web_url": "https://www.nytimes.com/2023/04/19/world/europe/defense-secretary-austin-will-meet-with-officials-in-sweden.html",
+      "word_count": 420
+    },
+    {
+      "abstract": "House Speaker Kevin McCarthy spoke with Ukrainian President Volodymyr Zelensky on Tuesday about the state of the conflict with Russia, amid fresh G.O.P. objections to continuing U.S. support for Ukraine’s war effort.",
+      "byline": {
+        "original": "By Karoun Demirjian"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "McCarthy and Zelensky discuss U.S. support for the war.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/998d56d6-fd0e-54e1-99c3-5b2c5740a320",
+      "keywords": [],
+      "multimedia": {
+        "caption": "House Speaker Kevin McCarthy in California this month.",
+        "credit": "Philip Cheung for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/18/multimedia/18ukraine-briefing-zelensky-mccarthy-hptk/18ukraine-briefing-zelensky-mccarthy-hptk-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/18/multimedia/18ukraine-briefing-zelensky-mccarthy-hptk/18ukraine-briefing-zelensky-mccarthy-hptk-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-18T23:22:47Z",
+      "section_name": "World",
+      "snippet": "House Speaker Kevin McCarthy spoke with Ukrainian President Volodymyr Zelensky on Tuesday about the state of the conflict with Russia, amid fresh G.O.P. objections to continuing U.S. support for Ukraine’s war effort.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/998d56d6-fd0e-54e1-99c3-5b2c5740a320",
+      "web_url": "https://www.nytimes.com/live/2023/04/19/world/russia-ukraine-news/mccarthy-and-zelensky-discuss-us-support-for-the-war",
+      "word_count": 395
+    },
+    {
+      "abstract": "The two countries had found common ground in opposing “perceived U.S. efforts to expand influence in Latin America,” according to an intelligence update based on C.I.A. intercepts.",
+      "byline": {
+        "original": "By Vivian Yee"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran and Nicaragua Discussed Military Cooperation, Leaked Report Says",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/2d5dc4a0-5e4f-52ec-8197-021b926ebc18",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Nicaragua",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Latin America",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Ortega, Daniel",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Amir Abdollahian, Hossein",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "The Iranian foreign minister, Hossein Amir Abdollahian, left, greeting his Nicaraguan counterpart, Denis Moncada, in Tehran in December. Their two countries share grudges against the United States.",
+        "credit": "Vahid Salemi/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/13/multimedia/13iran-nicaragua-lbzh/13iran-nicaragua-lbzh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/13/multimedia/13iran-nicaragua-lbzh/13iran-nicaragua-lbzh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-13T20:31:27Z",
+      "section_name": "World",
+      "snippet": "The two countries had found common ground in opposing “perceived U.S. efforts to expand influence in Latin America,” according to an intelligence update based on C.I.A. intercepts.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/2d5dc4a0-5e4f-52ec-8197-021b926ebc18",
+      "web_url": "https://www.nytimes.com/2023/04/13/world/middleeast/iran-nicaragua-military-cooperation.html",
+      "word_count": 618
+    },
+    {
+      "abstract": "Lynne M. Tracy, the ambassador, spoke with Sergei A. Ryabkov, the Russian deputy foreign minister. U.S. officials have not been granted consular access to Mr. Gershkovich in the past week, a State Department official said.",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The new U.S. ambassador in Moscow meets with a diplomat to discuss Evan Gershkovich, the detained reporter.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/46b92c09-0eeb-5134-9ce5-312db7345e68",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Wall Street Journal",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Gershkovich, Evan",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Evan Gershkovich, a Wall Street Journal reporter, was escorted from the Lefortovsky court in Moscow to a bus last week.",
+        "credit": "Alexander Zemlianichenko/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/04/06/multimedia/06ukraine-brief-gershkovich-vfkw/06ukraine-brief-gershkovich-vfkw-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/04/06/multimedia/06ukraine-brief-gershkovich-vfkw/06ukraine-brief-gershkovich-vfkw-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Washington",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-04-06T22:06:06Z",
+      "section_name": "World",
+      "snippet": "Lynne M. Tracy, the ambassador, spoke with Sergei A. Ryabkov, the Russian deputy foreign minister. U.S. officials have not been granted consular access to Mr. Gershkovich in the past week, a State Department official said.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/46b92c09-0eeb-5134-9ce5-312db7345e68",
+      "web_url": "https://www.nytimes.com/2023/04/06/world/europe/evan-gershkovich-wsj-russia.html",
+      "word_count": 468
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Anushka Patil"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Ukraine’s allies are set to discuss the dwindling ammunition supply.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8041662c-9396-5049-ac98-98e7493792ca",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Russian Invasion of Ukraine (2022)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Arms Trade",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Foreign Aid",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Ukraine",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Missile casings under production in Scranton, Pa., in January. Many will be shipped to Ukraine to help replenish dwindling ammunition supplies.",
+        "credit": "Natalie Keyssar for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/14/multimedia/14ukraine-briefing-ramstein-preview-clfh/14ukraine-briefing-ramstein-preview-clfh-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/14/multimedia/14ukraine-briefing-ramstein-preview-clfh/14ukraine-briefing-ramstein-preview-clfh-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-03-15T05:57:52Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/8041662c-9396-5049-ac98-98e7493792ca",
+      "web_url": "https://www.nytimes.com/2023/03/15/world/ukraines-allies-are-set-to-discuss-the-dwindling-ammunition-supply.html",
+      "word_count": 317
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Steven Erlanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "E.U. defense ministers discuss Ukraine’s need for more artillery shells, seeing ‘critical’ weeks ahead.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/abdad1f4-33af-5b48-96ef-517d5df18a22",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A Ukrainian artillery team during an operation to fire at a Russian ammunition depot across the Dnipro River in the Kherson region in December.",
+        "credit": "Finbarr O'Reilly for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/08/multimedia/08ukraine-briefing-eu-defense-klpm/08ukraine-briefing-eu-defense-klpm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/08/multimedia/08ukraine-briefing-eu-defense-klpm/08ukraine-briefing-eu-defense-klpm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-03-08T16:27:56Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/abdad1f4-33af-5b48-96ef-517d5df18a22",
+      "web_url": "https://www.nytimes.com/live/2023/03/08/world/russia-ukraine-news/eu-defense-ministers-discuss-ukraines-need-for-more-artillery-shells-seeing-critical-weeks-ahead",
+      "word_count": 403
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Carly Olson"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "The U.N. chief meets with Zelensky to discuss extending the grain deal.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5eed56de-977f-5304-81a5-e9860b0892d9",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A cargo vessel was filed with grain at the port of Pivdennyi, Ukraine, last August. The ship was bound for the Horn of Africa.",
+        "credit": "Daniel Berehulak for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/03/08/multimedia/08ukraine-briefing-guterres-curtain-raiser-gmtv/08ukraine-briefing-guterres-curtain-raiser-gmtv-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/03/08/multimedia/08ukraine-briefing-guterres-curtain-raiser-gmtv/08ukraine-briefing-guterres-curtain-raiser-gmtv-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-03-08T05:59:54Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/5eed56de-977f-5304-81a5-e9860b0892d9",
+      "web_url": "https://www.nytimes.com/live/2023/03/08/world/russia-ukraine-news/un-chief-will-meet-with-zelensky-to-discuss-extending-the-grain-deal",
+      "word_count": 512
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Edward Wong"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Officials from Japan and China discuss diplomatic tensions in Munich.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f9e961e9-baea-5407-bf31-03fc5c8d3f95",
+      "keywords": [],
+      "multimedia": {
+        "caption": "A view from Ishigaki Harbor in the direction of the Senkaku Islands in the East China Sea. Yoshimasa Hayashi, the foreign minister of Japan, and Wang Yi, China’s top foreign policy official, discussed the islands in Munich on Saturday.",
+        "credit": "The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18ukraine-blog-japan-china-si-cfzm/18ukraine-blog-japan-china-si-cfzm-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2023/02/18/multimedia/18ukraine-blog-japan-china-si-cfzm/18ukraine-blog-japan-china-si-cfzm-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2023-02-18T18:43:33Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Live Blog Post",
+      "uri": "nyt://article/f9e961e9-baea-5407-bf31-03fc5c8d3f95",
+      "web_url": "https://www.nytimes.com/live/2023/02/17/world/russia-ukraine-war/officials-from-japan-and-china-discuss-diplomatic-tensions-in-munich",
+      "word_count": 222
+    }
+  ]
+}

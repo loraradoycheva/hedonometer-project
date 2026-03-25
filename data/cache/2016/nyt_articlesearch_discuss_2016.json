@@ -1,0 +1,949 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20160101",
+    "end_date": "20161231",
+    "fq": "(headline.default:(\"discuss\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 11,
+  "docs": [
+    {
+      "abstract": "The Russian foreign minister said that any insurgents who refused to leave under terms of an agreement would be considered terrorists and risked death.",
+      "byline": {
+        "original": "By Anne Barnard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Russia Says Talks With U.S. Will Discuss Deal for Aleppo Rebels",
+        "kicker": "",
+        "print_headline": "Russia Says Talks With U.S. Will Discuss Deal for Aleppo Rebels"
+      },
+      "_id": "nyt://article/5677a5d3-2ad4-5264-ad81-71499a92f0d7",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Barnard, Anne",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Aleppo (Syria)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Kerry, John",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Lavrov, Sergey V",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Destroyed buildings dominate an eastern Aleppo neighborhood as pro-government troops advanced toward the area on Monday.",
+        "credit": "George Ourfalian/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/12/06/world/06Syria/06Syria-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/12/06/world/06Syria/06Syria-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-12-05T17:51:23Z",
+      "section_name": "World",
+      "snippet": "The Russian foreign minister said that any insurgents who refused to leave under terms of an agreement would be considered terrorists and risked death.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/5677a5d3-2ad4-5264-ad81-71499a92f0d7",
+      "web_url": "https://www.nytimes.com/2016/12/05/world/middleeast/russia-lavrov-kerry-aleppo-rebels.html",
+      "word_count": 846
+    },
+    {
+      "abstract": "The United States is Japan’s most important ally, and Prime Minister Shinzo Abe will want to find out how serious Donald Trump was in his campaign criticisms.",
+      "byline": {
+        "original": "By Motoko Rich and Jonathan Soble"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump and Shinzo Abe to Meet to Discuss Japan Security and Trade",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/ab0c33a5-6aee-5506-a316-4c5f1fc30ec8",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Japan",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Abe, Shinzo",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Trans-Pacific Partnership",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Military Bases and Installations",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Shinzo Abe of Japan at Parliament in Tokyo in September. Mr. Abe is expected to meet with President-elect Donald J. Trump in New York on Thursday.",
+        "credit": "Franck Robichon/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/11/17/world/17JAPANQA-1/17JAPANQA-1-articleLarge.jpg",
+          "height": 402,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/11/17/world/17JAPANQA-1/17JAPANQA-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-11-17T05:01:23Z",
+      "section_name": "World",
+      "snippet": "The United States is Japan’s most important ally, and Prime Minister Shinzo Abe will want to find out how serious Donald Trump was in his campaign criticisms.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/ab0c33a5-6aee-5506-a316-4c5f1fc30ec8",
+      "web_url": "https://www.nytimes.com/2016/11/17/world/asia/shinzo-abe-donald-trump.html",
+      "word_count": 711
+    },
+    {
+      "abstract": "Fu Yuanhui, already a media star for her exuberant style, broke a taboo among female athletes by telling an interviewer she had her period at the Olympics.",
+      "byline": {
+        "original": "By Emily Feng"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Uninhibited Chinese Swimmer, Discussing Her Period, Shatters Another Barrier",
+        "kicker": "Sinosphere",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/210e4cb6-ad76-53e8-ba28-76db627de946",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Olympic Games (2016)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Menstruation",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Women and Girls",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Fu Yuanhui (1996- )",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Swimming",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Fu Yuanhui competing in the women’s 100-meter backstroke final at the Olympics in Rio de Janeiro.",
+        "credit": "Martin Bureau/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/08/17/world/17chinafu/17chinafu-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/08/17/world/17chinafu/17chinafu-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-08-16T05:55:12Z",
+      "section_name": "World",
+      "snippet": "Fu Yuanhui, already a media star for her exuberant style, broke a taboo among female athletes by telling an interviewer she had her period at the Olympics.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/210e4cb6-ad76-53e8-ba28-76db627de946",
+      "web_url": "https://www.nytimes.com/2016/08/17/world/asia/china-fu-yuanhui-period-olympics.html",
+      "word_count": 605
+    },
+    {
+      "abstract": "The prince was 12 when his mother, Princess Diana, died, but did not speak of it until three years ago. He made the comments while hosting a barbecue for a mental health charity.",
+      "byline": {
+        "original": "By Dan Bilefsky"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Prince Harry Says He Regrets Not Discussing His Mother’s Death",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/b00b9578-7d0d-595e-bc60-dfa067f9f3f0",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Harry, Prince of Wales",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Diana, Princess of Wales",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Mental Health and Disorders",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Prince Harry, with his mother, Princess Diana, in 1995, two years before she died in a Paris car crash.",
+        "credit": "Allan Lewis/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/26/world/26HArry-web/26HArry-web-articleLarge.jpg",
+          "height": 825,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/26/world/26HArry-web/26HArry-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-07-26T01:16:44Z",
+      "section_name": "World",
+      "snippet": "The prince was 12 when his mother, Princess Diana, died, but did not speak of it until three years ago. He made the comments while hosting a barbecue for a mental health charity.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b00b9578-7d0d-595e-bc60-dfa067f9f3f0",
+      "web_url": "https://www.nytimes.com/2016/07/26/world/europe/prince-harry-princess-diana.html",
+      "word_count": 491
+    },
+    {
+      "abstract": "Officials from the United States and its allies reviewed a drive against Islamic State-held cities, but also discussed the broader campaign against the group.",
+      "byline": {
+        "original": "By Helene Cooper"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Military Leaders Discuss Plans to Counter ISIS Beyond the Battlefield",
+        "kicker": "",
+        "print_headline": "Officials Discuss Plans to Diminish ISIS’s Reach"
+      },
+      "_id": "nyt://article/067cd66d-2138-5aea-a1ba-11e3e2f7eb9e",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Cooper, Helene",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Carter, Ashton B",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Mosul (Iraq)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Raqqa (Syria)",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 10
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 11
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 12
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Cliff Owen/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/21/world/17military-carter-vid/17military-carter-vid-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/21/world/17military-carter-vid/17military-carter-vid-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-07-21T00:10:11Z",
+      "section_name": "World",
+      "snippet": "Officials from the United States and its allies reviewed a drive against Islamic State-held cities, but also discussed the broader campaign against the group.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/067cd66d-2138-5aea-a1ba-11e3e2f7eb9e",
+      "web_url": "https://www.nytimes.com/2016/07/21/world/middleeast/isis-military-leaders.html",
+      "word_count": 694
+    },
+    {
+      "abstract": "The proposed agreement would create a joint Russia-U.S. command center to share intelligence and targeting information for “integrated operations.”",
+      "byline": {
+        "original": "By Gardiner Harris and Anne Barnard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "John Kerry Meets Vladimir Putin to Discuss New Syria Plan",
+        "kicker": "",
+        "print_headline": "Kerry Meets Putin to Talk Cooperation on Syria"
+      },
+      "_id": "nyt://article/66343061-806f-5360-becf-0439e41293cd",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Barnard, Anne",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Harris, Gardiner",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Kerry, John",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Russia",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 10
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 11
+        },
+        {
+          "name": "Organization",
+          "value": "Al Nusra Front",
+          "rank": 12
+        },
+        {
+          "name": "Person",
+          "value": "Obama, Barack",
+          "rank": 13
+        },
+        {
+          "name": "Organization",
+          "value": "Al Qaeda",
+          "rank": 14
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 15
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 16
+        }
+      ],
+      "multimedia": {
+        "caption": "President Vladimir V. Putin of Russia and Secretary of State John Kerry on Thursday during their meeting at the Kremlin in Moscow.",
+        "credit": "Pool photo by Vasily Maximov",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/07/15/world/15KERRY/15KERRY-articleLarge.jpg",
+          "height": 410,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/07/15/world/15KERRY/15KERRY-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2016-07-14T18:26:48Z",
+      "section_name": "World",
+      "snippet": "The proposed agreement would create a joint Russia-U.S. command center to share intelligence and targeting information for “integrated operations.”",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/66343061-806f-5360-becf-0439e41293cd",
+      "web_url": "https://www.nytimes.com/2016/07/15/world/middleeast/john-kerry-vladimir-putin-syria-plan.html",
+      "word_count": 1183
+    },
+    {
+      "abstract": "The minister, Jan Jambon, expressed interest in the New York Police Department’s counterterrorism technology and bomb-sniffing dogs.",
+      "byline": {
+        "original": "By Rick Gladstone"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Belgium’s Interior Minister Visits New York Police to Discuss Terror Threats",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/53fe15cb-0e16-5230-8b79-2cfa2b120912",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Police Department (NYC)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Jambon, Jan (1960- )",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Miller, John J",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Brussels Attacks (March 2016)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "New York City",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Belgium",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Belgium’s interior minister, Jan Jambon, with John J. Miller, New York City’s deputy police commissioner for intelligence and counterterrorism, right, at a tour of a New York Police Department antiterrorism unit on Thursday.",
+        "credit": "Bebeto Matthews/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/06/03/world/03belgium_web1/03belgium_web1-articleLarge.jpg",
+          "height": 412,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/06/03/world/03belgium_web1/03belgium_web1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-06-03T01:49:59Z",
+      "section_name": "World",
+      "snippet": "The minister, Jan Jambon, expressed interest in the New York Police Department’s counterterrorism technology and bomb-sniffing dogs.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/53fe15cb-0e16-5230-8b79-2cfa2b120912",
+      "web_url": "https://www.nytimes.com/2016/06/03/world/europe/belgiums-interior-minister-visits-new-york-police-to-discuss-terror-threats.html",
+      "word_count": 483
+    },
+    {
+      "abstract": "It would be a rare official meeting between Iran and Saudi Arabia, which broke relations in January after protesters burned the Saudi Embassy in Tehran.",
+      "byline": {
+        "original": "By Ben Hubbard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iran Plans Visit to Rival Saudis to Discuss Hajj Pilgrimage",
+        "kicker": "",
+        "print_headline": "Iran to Meet With Saudis on Pilgrimage"
+      },
+      "_id": "nyt://article/645d48c6-5798-5765-ac61-495fb0187296",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Hubbard, Ben",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Mecca (Saudi Arabia)",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Pilgrimages",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Stampedes",
+          "rank": 6
+        },
+        {
+          "name": "Keyword",
+          "value": "Hajj",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Muslims and Islam",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Medina (Saudi Arabia)",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Bodies were gathered in Mina, Saudi Arabia, near Mecca, after a stampede in September killed hundreds of Muslim pilgrims.",
+        "credit": "Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/04/07/world/07saudi-web/07saudi-web-articleLarge.jpg",
+          "height": 381,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/04/07/world/07saudi-web/07saudi-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2016-04-06T21:42:30Z",
+      "section_name": "World",
+      "snippet": "It would be a rare official meeting between Iran and Saudi Arabia, which broke relations in January after protesters burned the Saudi Embassy in Tehran.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/645d48c6-5798-5765-ac61-495fb0187296",
+      "web_url": "https://www.nytimes.com/2016/04/07/world/middleeast/iran-plans-visit-to-rival-saudis-to-discuss-hajj-pilgrimage.html",
+      "word_count": 437
+    },
+    {
+      "abstract": "There are no guarantees that leaders in Brussels will reach a deal to convince Britain to stay in the bloc, and Prime Minister David Cameron could also face a tough campaign to avoid an exit.",
+      "byline": {
+        "original": "By Stephen Castle"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "What’s at Stake as Britain and E.U. Discuss How to Maintain a Union",
+        "kicker": "Q. and A.",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/13a99d68-6930-5b20-bede-2c706163411f",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Referendums",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Cameron, David",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Conservative Party (Great Britain)",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Great Britain Withdrawal from EU (Brexit)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Opinion polls show that Britons are divided in a referendum on European Union membership, although most voters have not focused yet on the issue.",
+        "credit": "Francois Lenoir/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/02/19/world/19BritainQA-web/19BritainQA-web-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/02/19/world/19BritainQA-web/19BritainQA-web-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2016-02-18T12:20:40Z",
+      "section_name": "World",
+      "snippet": "There are no guarantees that leaders in Brussels will reach a deal to convince Britain to stay in the bloc, and Prime Minister David Cameron could also face a tough campaign to avoid an exit.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "Question",
+      "uri": "nyt://article/13a99d68-6930-5b20-bede-2c706163411f",
+      "web_url": "https://www.nytimes.com/2016/02/19/world/europe/european-union-david-cameron-brexit.html",
+      "word_count": 1120
+    },
+    {
+      "abstract": "Francis and Hassan Rouhani stressed “the importance of interreligious dialogue” to achieve solutions to the conflicts in the Middle East.",
+      "byline": {
+        "original": "By Elisabetta Povoledo"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pope Francis and Hassan Rouhani of Iran Discuss Mideast Unrest",
+        "kicker": "",
+        "print_headline": "At Vatican, Pope and Iran’s President Discuss Mideast Unrest"
+      },
+      "_id": "nyt://article/4c13cf55-d6a1-5aef-a8d7-85859f78a47e",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Francis",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Povoledo, Elisabetta",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Rouhani, Hassan",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Iran",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "President Hassan Rouhani of Iran, left, and Pope Francis at the Vatican on Tuesday. They spoke privately for 40 minutes.",
+        "credit": "Pool photo by Andrew Medichini",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/01/27/world/27POPE-2/27POPE-2-articleLarge.jpg",
+          "height": 432,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/01/27/world/27POPE-2/27POPE-2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2016-01-26T17:04:57Z",
+      "section_name": "World",
+      "snippet": "Francis and Hassan Rouhani stressed “the importance of interreligious dialogue” to achieve solutions to the conflicts in the Middle East.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/4c13cf55-d6a1-5aef-a8d7-85859f78a47e",
+      "web_url": "https://www.nytimes.com/2016/01/27/world/middleeast/pope-francis-hassan-rouhani-meeting.html",
+      "word_count": 924
+    },
+    {
+      "abstract": "China’s industrial safety record has improved in recent years, but the ruling Communist Party still struggles to impose accountability on local bureaucrats.",
+      "byline": {
+        "original": "By Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Before Debris Collapse in China, Safety Fears Were Discussed",
+        "kicker": "",
+        "print_headline": "Before Debris Collapse in China, Officials Fretted Over Safety"
+      },
+      "_id": "nyt://article/42533217-494a-5695-849f-8f5251606dc6",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Buckley, Chris",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Shenzhen (China)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Landslides and Mudslides",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Accidents and Safety",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Engineering and Engineers",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Building (Construction)",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Firefighters searched for survivors amid the debris of destroyed buildings in Shenzhen, China, on Dec. 21.",
+        "credit": "China Stringer Network/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2016/01/17/world/SHENZHEN/SHENZHEN-articleLarge.jpg",
+          "height": 450,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2016/01/17/world/SHENZHEN/SHENZHEN-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2016-01-17T00:08:45Z",
+      "section_name": "World",
+      "snippet": "China’s industrial safety record has improved in recent years, but the ruling Communist Party still struggles to impose accountability on local bureaucrats.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/42533217-494a-5695-849f-8f5251606dc6",
+      "web_url": "https://www.nytimes.com/2016/01/17/world/asia/shenzhen-landslide-china.html",
+      "word_count": 1853
+    }
+  ]
+}

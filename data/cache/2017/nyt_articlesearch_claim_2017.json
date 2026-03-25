@@ -1,0 +1,3085 @@
+{
+  "source": "articlesearch",
+  "params": {
+    "api-key": "e6B9VE1DXGmh3kratkVFC1lsB3zge5e5w5zVzhgYpxpSbwcX",
+    "begin_date": "20170101",
+    "end_date": "20171231",
+    "fq": "(headline.default:(\"claim\")) AND (section.name:\"World\")"
+  },
+  "hits": null,
+  "count": 42,
+  "docs": [
+    {
+      "abstract": "A suicide bomber struck a crowded gathering in Kabul, leaving more than 40 dead. The group has claimed several attacks on Shiite targets across the country.",
+      "byline": {
+        "original": "By Fahim Abed, Fatima Faizi and Mujib Mashal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Islamic State Claims Deadly Blast at Afghan Shiite Center",
+        "kicker": "",
+        "print_headline": "ISIS Claims Deadly Blast  At Afghan Shiite Center"
+      },
+      "_id": "nyt://article/99f3fbb7-736e-5e5f-a2fd-6f3b4ac78c40",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Shiite Muslims",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Afghanistan War (2001- )",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Bombs and Explosives",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "vis-multimedia",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "The scene of a suicide bomb attack that killed dozens in Kabul, Afghanistan, on Thursday.",
+        "credit": "Hedayatullah Amid/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/12/29/world/29afghanistan-1sub2/29afghanistan-1sub2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/12/29/world/29afghanistan-1sub2/29afghanistan-1sub2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-12-28T09:11:34Z",
+      "section_name": "World",
+      "snippet": "At least one suicide bomber made it inside the cultural center, detonating in the middle of a student discussion. The Taliban denied responsibility.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/99f3fbb7-736e-5e5f-a2fd-6f3b4ac78c40",
+      "web_url": "https://www.nytimes.com/2017/12/28/world/asia/afghanistan-suicide-attack.html",
+      "word_count": 931
+    },
+    {
+      "abstract": "Nothing brings people together like a daily commute. Readers share their favorite transit memories.",
+      "byline": {
+        "original": "By Diana Oliva Cave"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Australia Diary: Claim Your Onions",
+        "kicker": "f",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/bd48386f-bfb4-5cd2-a743-e145390a90b4",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Transit Systems",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Diaries",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Sydney (Australia)",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Evelyn Yang/Melbourne",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/28/world/australia/00AustraliaMetroDiary_SydneyBusPic/00AustraliaMetroDiary_SydneyBusPic-articleLarge-v7.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/28/world/australia/00AustraliaMetroDiary_SydneyBusPic/00AustraliaMetroDiary_SydneyBusPic-thumbStandard-v4.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-12-10T18:00:14Z",
+      "section_name": "World",
+      "snippet": "Nothing brings people together like a daily commute. Readers share their favorite transit memories.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/bd48386f-bfb4-5cd2-a743-e145390a90b4",
+      "web_url": "https://www.nytimes.com/2017/12/10/world/australia/australia-diary-claim-your-onions.html",
+      "word_count": 409
+    },
+    {
+      "abstract": "Prosecutors said the arrests were part of a campaign against corruption, but critics of the president say he is engaged in a political purge.",
+      "byline": {
+        "original": "By Ana Vanessa Herrero and Nicholas Casey"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Venezuela Arrests 2 Former Oil Officials, Claiming Corruption",
+        "kicker": "",
+        "print_headline": "Venezuela Arrests 2 Former Oil Officials, Claiming Corruption"
+      },
+      "_id": "nyt://article/104924e5-5074-57b0-b2df-4b13e3472bad",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Citgo Petroleum Corp",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Petroleos de Venezuela SA",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Maduro, Nicolas",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Venezuela",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "President President Nicolás Maduro of Venezuela, left, and Nelson Martínez, then the oil and mining minister, in Caracas in January. Mr. Martínez was arrested on Thursday.",
+        "credit": "Juan Barreto/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/12/01/world/01venez1/01venez1-articleLarge.jpg",
+          "height": 438,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/12/01/world/01venez1/01venez1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2017-11-30T23:42:48Z",
+      "section_name": "World",
+      "snippet": "Prosecutors said the arrests were part of a campaign against corruption, but critics of the president say he is engaged in a political purge.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/104924e5-5074-57b0-b2df-4b13e3472bad",
+      "web_url": "https://www.nytimes.com/2017/11/30/world/americas/venezuela-maduro-oil-corruption-arrests.html",
+      "word_count": 688
+    },
+    {
+      "abstract": "He scoured the world for evidence to make his case, but a scholar now finds his government reluctant to challenge Beijing, its powerful rival.",
+      "byline": {
+        "original": "By Mike Ives"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Defiant Map-Hunter Stakes Vietnam’s Claims in the South China Sea",
+        "kicker": "",
+        "print_headline": "In Hanoi, Case for Disputed Sea Is ‘Kept in Dark’"
+      },
+      "_id": "nyt://article/75085365-218c-5806-b04f-0f02febee8c9",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Maps",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Vietnam",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Danang (Vietnam)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Spratly Islands",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Research",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Paracel Islands",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Tran Duc Anh Son, a historian in Danang, Vietnam, says his government is afraid to use the records he uncovered to challenge Beijing. &ldquo;That&rsquo;s why we have many documents that are kept in the dark.&rdquo;",
+        "credit": "Quinn Ryan Mattingly for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/26/world/26vietnam-maps/00vietnam-maps1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/26/world/26vietnam-maps/00vietnam-maps1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-11-25T22:48:15Z",
+      "section_name": "World",
+      "snippet": "He scoured the world of documents and maps to make his case, but a Vietnamese scholar now finds his government reluctant to challenge Beijing, its powerful rival.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/75085365-218c-5806-b04f-0f02febee8c9",
+      "web_url": "https://www.nytimes.com/2017/11/25/world/asia/vietnam-south-china-sea.html",
+      "word_count": 1043
+    },
+    {
+      "abstract": "Prime Minister Saad Hariri tells an interviewer that he will return home, and that his resignation may not be final. But many Lebanese remain skeptical.",
+      "byline": {
+        "original": "By Anne Barnard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Lebanon’s Leader, Still in Saudi Arabia, Claims He’s Free to Go",
+        "kicker": "",
+        "print_headline": "Live From Saudi Arabia,  Lebanese Leader Speaks"
+      },
+      "_id": "nyt://article/a35a4077-09f7-5899-8d3f-34603adcb114",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Hezbollah",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Aoun, Michel (1935- )",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Hariri, Saad",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Lebanon",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Saudi Arabia",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Middle East",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Prime Minister Saad Hariri&rsquo;s television interview, seen at a coffee shop in Beirut, Lebanon, on Sunday evening.",
+        "credit": "Anwar Amro/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/13/world/13lebanon1/13lebanon1-articleLarge.jpg",
+          "height": 394,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/13/world/13lebanon1/13lebanon1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-11-12T20:46:09Z",
+      "section_name": "World",
+      "snippet": "Prime Minister Saad Hariri tells an interviewer that he will return home, and that his resignation may not be final.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/a35a4077-09f7-5899-8d3f-34603adcb114",
+      "web_url": "https://www.nytimes.com/2017/11/12/world/middleeast/lebanon-saad-hariri-saudi-arabia.html",
+      "word_count": 834
+    },
+    {
+      "abstract": "Of the many issues dividing Canada’s government from its indigenous people, land claims are among the most symbolically important and economically consequential.",
+      "byline": {
+        "original": "By Ian Austen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Vast Indigenous Land Claims in Canada Encompass Parliament Hill",
+        "kicker": "",
+        "print_headline": "In Canada, Unraveling Centuries of Indigenous Land Claims"
+      },
+      "_id": "nyt://article/972cc9cb-7f77-56e4-a86f-1e8e7753bb73",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Ontario (Canada)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Ottawa (Ontario)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Indigenous People",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Treaties",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Assembly of First Nations",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Trudeau, Justin",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Parliament Hill in Ottawa. For decades, a vast swath of eastern Ontario, including parts of Canada&rsquo;s capital city, has been claimed by various groups of Algonquin.",
+        "credit": "Cole Burston for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/13/world/13canada-landclaims1/xxcanada-landclaims1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/13/world/13canada-landclaims1/xxcanada-landclaims1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-11-12T10:00:34Z",
+      "section_name": "World",
+      "snippet": "Of the many issues dividing Canada’s government from its indigenous people, land claims are among the most symbolically important and economically consequential.",
+      "source": "The New York Times",
+      "subsection_name": "Canada",
+      "type_of_material": "News",
+      "uri": "nyt://article/972cc9cb-7f77-56e4-a86f-1e8e7753bb73",
+      "web_url": "https://www.nytimes.com/2017/11/12/world/canada/canada-first-nations-algonquin-land-claims.html",
+      "word_count": 1301
+    },
+    {
+      "abstract": "It was not clear whether telecommunications providers would comply with the government’s request, which an official said had come from the country’s spy agency.",
+      "byline": {
+        "original": "By Mujib Mashal and Fatima Faizi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Afghanistan Acts to Ban WhatsApp, but Claims Move Is Temporary",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/96e8e0a0-d079-5876-9e56-680d0d339bd5",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Freedom of Speech and Expression",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "WhatsApp Inc",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Telephones and Telecommunications",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Telegram LLC",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Facebook Inc",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 8
+        }
+      ],
+      "multimedia": {
+        "caption": "Afghans selling phones last year at a market in Kabul, the capital. The government has asked service providers to suspend WhatsApp and another encrypted messaging app, Telegram.",
+        "credit": "Adam Ferguson for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/11/04/world/04afghanistan-1/04afghanistan-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/11/04/world/04afghanistan-1/04afghanistan-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-11-03T14:33:38Z",
+      "section_name": "World",
+      "snippet": "It was not clear whether telecommunications providers would comply with the government’s request, which an official said had come from the country’s spy agency.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/96e8e0a0-d079-5876-9e56-680d0d339bd5",
+      "web_url": "https://www.nytimes.com/2017/11/03/world/asia/afghanistan-whatsapp-ban.html",
+      "word_count": 648
+    },
+    {
+      "abstract": "One minister faces an inquiry after asking a staff member to buy sex toys, while dozens of lawmakers are accused of sexism, harassment or inappropriate behavior.",
+      "byline": {
+        "original": "By Stephen Castle"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Sexual Harassment Claims Surface in U.K. Parliament",
+        "kicker": "",
+        "print_headline": "Wave of Sex Harassment Claims Surfacing in Britain’s Parliament"
+      },
+      "_id": "nyt://article/4c1dbf05-ccc7-58b4-af42-5e10e7c9051e",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sexual Harassment",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "House of Commons (Great Britain)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "London (England)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Mark Garnier, right, Britain&rsquo;s minister for international trade, during an interview last year. He is under investigation after admitting to asking a female member of his staff to buy sex toys.",
+        "credit": "Jason Alden/Bloomberg",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/31/world/31Britain/31Britain-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/31/world/31Britain/31Britain-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-10-30T19:59:07Z",
+      "section_name": "World",
+      "snippet": "One minister faces an inquiry after asking a staff member to buy sex toys, while dozens of lawmakers are accused of sexism, harassment or inappropriate behavior.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/4c1dbf05-ccc7-58b4-af42-5e10e7c9051e",
+      "web_url": "https://www.nytimes.com/2017/10/30/world/europe/sexual-harassment-british-parliament.html",
+      "word_count": 788
+    },
+    {
+      "abstract": "The church is holding a congress in Rome on protecting children from online abuse, but with a new scandal involving a priest, the timing is awkward.",
+      "byline": {
+        "original": "By Jason Horowitz"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Vatican Shines Light on Child Abuse as Claims Against Priests Persist",
+        "kicker": "",
+        "print_headline": "Vatican Shines a Light on Child Abuse as Claims Against Priests Persist"
+      },
+      "_id": "nyt://article/39ad661b-c120-5c9c-b580-7d2784e6446f",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Roman Catholic Church",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Capella, Carlo",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Child Pornography",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Child Abuse and Neglect",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Sex Crimes",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Pope Francis at the Vatican on Wednesday. He has said that the church “arrived late” to the sexual abuse crisis.",
+        "credit": "Alessandro Di Meo/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/06/world/06Vatican1/06Vatican1-articleLarge.jpg",
+          "height": 391,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/06/world/06Vatican1/06Vatican1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-10-05T17:41:29Z",
+      "section_name": "World",
+      "snippet": "The church is holding a congress in Rome on protecting children from online abuse, but with a new scandal involving a priest, the timing is awkward.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/39ad661b-c120-5c9c-b580-7d2784e6446f",
+      "web_url": "https://www.nytimes.com/2017/10/05/world/europe/catholic-church-sex-abuse.html",
+      "word_count": 1064
+    },
+    {
+      "abstract": "With the fall of Hawija, the militants’ foothold has been reduced to a shrinking area along the Euphrates River in Iraq and substantial territory across the border in Syria.",
+      "byline": {
+        "original": "By David Zucchino and Rod Nordland"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Iraq Claims Victory in ISIS’ Last Urban Stronghold",
+        "kicker": "",
+        "print_headline": "Iraq Claims Victory in the Islamic State’s Last Urban Stronghold"
+      },
+      "_id": "nyt://article/8688324e-ee58-55c5-ac9d-344d773e6258",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Iraqi Army",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Pesh Merga",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Abadi, Haider al-",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Hawija (Iraq)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Iraq",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Kirkuk (Iraq)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Iraqi forces and Shiite militias advancing toward the former Islamic State stronghold of Hawija on Thursday.",
+        "credit": "Ahmad Al-Rubaye/Agence France-Presse &mdash; Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/10/06/world/06Iraq3/06Iraq3-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/10/06/world/06Iraq3/06Iraq3-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2017-10-05T12:37:52Z",
+      "section_name": "World",
+      "snippet": "With the fall of Hawija, the militants’ foothold has been reduced to a shrinking area along the Euphrates River in Iraq and substantial territory across the border in Syria.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/8688324e-ee58-55c5-ac9d-344d773e6258",
+      "web_url": "https://www.nytimes.com/2017/10/05/world/middleeast/iraq-hawija-isis.html",
+      "word_count": 1117
+    },
+    {
+      "abstract": "The former prime minister, a same-sex marriage opponent, said a man in Tasmania wearing a “Vote Yes” badge had left him with a swollen lip.",
+      "byline": {
+        "original": "By Isabella Kwai"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Tony Abbott Claims Head-Butt by Australian Gay-Marriage Supporter",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/39cfc0bd-8c16-5427-96c1-63f6d2f5483c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Hobart (Tasmania)",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Abbott, Tony",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Homosexuality and Bisexuality",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A mural by the artist Scott Marsh featuring a likeness of former Prime Minister Tony Abbott marrying himself in Sydney, Australia, this month. Mr. Abbott is an outspoken opponent of same-sex marriage.",
+        "credit": "Dean Lewins/Australian Associated Press, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/09/23/world/22oz-headbutt-1/22oz-headbutt-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/09/23/world/22oz-headbutt-1/22oz-headbutt-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-09-22T04:09:20Z",
+      "section_name": "World",
+      "snippet": "The former prime minister, a same-sex marriage opponent, said a man in Tasmania wearing a “Vote Yes” badge had left him with a swollen lip.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "News",
+      "uri": "nyt://article/39cfc0bd-8c16-5427-96c1-63f6d2f5483c",
+      "web_url": "https://www.nytimes.com/2017/09/22/world/australia/tony-abbott-head-butt.html",
+      "word_count": 575
+    },
+    {
+      "abstract": "A military buildup and maritime skirmishes involving Chinese boats suggest a more aggressive posture by Indonesia in the South China Sea.",
+      "byline": {
+        "original": "By Joe Cochrane"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Indonesia, Long on Sidelines, Starts to Confront China’s Territorial Claims",
+        "kicker": "",
+        "print_headline": "Long on Sidelines, Indonesia Starts to Assert Itself Against China’s Territorial Claims"
+      },
+      "_id": "nyt://article/e33945bd-7b93-552d-b953-81c97ef9b53c",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Indonesia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Natuna Islands (Indonesia)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Oil (Petroleum) and Gasoline",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Fishing, Commercial",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Joko Widodo",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Territorial Disputes",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Ulet Ifansasti/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/09/10/briefing/11BRIEFING-asia-slide-AV9S/11BRIEFING-asia-slide-AV9S-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/09/10/briefing/11BRIEFING-asia-slide-AV9S/11BRIEFING-asia-slide-AV9S-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-09-10T16:22:37Z",
+      "section_name": "World",
+      "snippet": "A military buildup and maritime skirmishes involving Chinese boats suggest a more aggressive posture by Indonesia in the South China Sea.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e33945bd-7b93-552d-b953-81c97ef9b53c",
+      "web_url": "https://www.nytimes.com/2017/09/10/world/asia/indonesia-south-china-sea-military-buildup.html",
+      "word_count": 1162
+    },
+    {
+      "abstract": "North Korea’s state news agency offered no evidence for the claim, other than a photo of what it said was a hydrogen bomb ready to be loaded onto an ICBM.",
+      "byline": {
+        "original": "By Choe Sang-Hun"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea Claims to Have Developed a Missile-Ready Hydrogen Bomb",
+        "kicker": "",
+        "print_headline": "North Korea Says It Has Missile-Ready Hydrogen Bomb"
+      },
+      "_id": "nyt://article/cbbb8402-ca74-563b-b2f8-a45c5287efe6",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Nuclear Tests",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Missiles and Missile Defense Systems",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "North Korea’s state news agency released this photo Sunday showing the country’s leader, Kim Jong-un, inspecting what it said was a missile-ready hydrogen bomb.",
+        "credit": "Korea Central News Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/09/03/world/03NKOREA/03NKOREA-articleLarge.jpg",
+          "height": 382,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/09/03/world/03NKOREA/03NKOREA-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2017-09-03T01:01:30Z",
+      "section_name": "World",
+      "snippet": "North Korea’s state news agency offered no evidence for the claim, other than a photo of what it said was a hydrogen bomb ready to be loaded onto an ICBM.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/cbbb8402-ca74-563b-b2f8-a45c5287efe6",
+      "web_url": "https://www.nytimes.com/2017/09/02/world/asia/north-korea-hydrogen-bomb-missile.html",
+      "word_count": 1034
+    },
+    {
+      "abstract": "A storm in a wineglass has erupted between Italy and Britain when some British dentists claimed that prosecco causes chronic tooth decay.",
+      "byline": {
+        "original": "By Elisabetta Povoledo"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Give Up Prosecco to Save Your Teeth? British Claim Riles Italy",
+        "kicker": "",
+        "print_headline": "Quit Prosecco to Save Your Teeth? British Claim Riles Italy"
+      },
+      "_id": "nyt://article/7f197466-37e8-57f1-b4de-2fbb0fa8870b",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Prosecco (Wine)",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Teeth and Dentistry",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Italy",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Prosecco became an unlikely issue in Britain’s pending divorce from the European Union.",
+        "credit": "Gianni Cipriano for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/09/03/world/europe/wine-img/merlin-to-scoop-26236069-317214-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/09/03/world/europe/wine-img/wine-img-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "11",
+      "print_section": "A",
+      "pub_date": "2017-09-02T12:03:52Z",
+      "section_name": "World",
+      "snippet": "Some British dentists claimed that prosecco causes chronic tooth decay. Italy isn’t pleased.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/7f197466-37e8-57f1-b4de-2fbb0fa8870b",
+      "web_url": "https://www.nytimes.com/2017/09/02/world/europe/prosecco-teeth-italy-uk.html",
+      "word_count": 838
+    },
+    {
+      "abstract": "At least 20 people were killed after explosions were heard and gunmen entered the compound in Kabul during Friday Prayer.",
+      "byline": {
+        "original": "By Mujib Mashal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Deadly Attack on Shiite Mosque in Afghanistan",
+        "kicker": "",
+        "print_headline": "Islamic State Claims Attack at Shiite Mosque in Afghanistan"
+      },
+      "_id": "nyt://article/c4ba7257-2586-524b-ad44-e91962decbf2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Kabul (Afghanistan)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Shiite Muslims",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Afghans inspected a Shiite mosque in Kabul on Friday after dozens of casualties occurred in a suicide attack.",
+        "credit": "Omar Sobhani/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/26/world/26afghanistan4/26afghanistan4-articleLarge.jpg",
+          "height": 424,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/26/world/26afghanistan4/26afghanistan4-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-08-25T12:14:27Z",
+      "section_name": "World",
+      "snippet": "At least 20 people were killed after explosions were heard and gunmen entered the compound in Kabul during Friday Prayer.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/c4ba7257-2586-524b-ad44-e91962decbf2",
+      "web_url": "https://www.nytimes.com/2017/08/25/world/asia/mosque-kabul-attack.html",
+      "word_count": 669
+    },
+    {
+      "abstract": "Isolation, physically demanding work and financial pressures are pushing farmers to despair, even as the authorities and associations try to help.",
+      "byline": {
+        "original": "By Paméla Rougerie"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Quiet Epidemic of Suicide Claims France’s Farmers",
+        "kicker": "",
+        "print_headline": "French Farms Endure a Rash Of Suicides"
+      },
+      "_id": "nyt://article/541c2ab2-c008-5df2-a22a-9b3e9ba05662",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Agriculture and Farming",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Suicides and Suicide Attempts",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Dairy Products",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Milk",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Prices (Fares, Fees and Rates)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Marie Le Guelvout at the farm in the Brittany region of France where her brother Jean-Pierre killed himself in December.",
+        "credit": "Pierre Terdjman for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/18/world/xxfrancefarmers1/xxfrancefarmers1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/18/world/xxfrancefarmers1/xxfrancefarmers1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-08-20T17:49:24Z",
+      "section_name": "World",
+      "snippet": "Isolation, physically demanding work and financial pressures are pushing farmers to despair, even as the authorities and associations try to help.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/541c2ab2-c008-5df2-a22a-9b3e9ba05662",
+      "web_url": "https://www.nytimes.com/2017/08/20/world/europe/france-farm-suicide.html",
+      "word_count": 1216
+    },
+    {
+      "abstract": "A South African model said Grace Mugabe attacked her with an extension cord after finding her with the first lady’s two sons in a luxury hotel room in Johannesburg.",
+      "byline": {
+        "original": "By Jeffrey Moyo"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Zimbabwe’s First Lady Said to Seek Diplomatic Immunity Over Assault Claim",
+        "kicker": "",
+        "print_headline": "First Lady of Zimbabwe Is Said to Seek Immunity"
+      },
+      "_id": "nyt://article/56d31ece-6381-5bb4-b951-3fa4e20150de",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Diplomatic Immunity",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Mugabe, Grace",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Assaults",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Engels, Gabriella",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Mugabe, Robert",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Johannesburg (South Africa)",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Zimbabwe African National Union-Patriotic Front (ZANU-PF)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "South Africa",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Zimbabwe",
+          "rank": 9
+        },
+        {
+          "name": "Person",
+          "value": "Mugabe, Robert Jr",
+          "rank": 10
+        },
+        {
+          "name": "Person",
+          "value": "Mugabe, Chatunga",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Grace Mugabe, right, the wife of President Robert Mugabe of Zimbabwe, left, at a welcome-home event at Harare International Airport in 2016.",
+        "credit": "Aaron Ufumeli/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/17/world/17mugabe/17mugabe-articleLarge.jpg",
+          "height": 422,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/17/world/17mugabe/17mugabe-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-08-16T21:03:36Z",
+      "section_name": "World",
+      "snippet": "A model said Grace Mugabe attacked her after finding her with the first lady’s two sons in a hotel room.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/56d31ece-6381-5bb4-b951-3fa4e20150de",
+      "web_url": "https://www.nytimes.com/2017/08/16/world/africa/grace-mugabe-model.html",
+      "word_count": 740
+    },
+    {
+      "abstract": "The revelation that Deputy Prime Minister Barnaby Joyce is also a New Zealander risks making him the latest Australian forced from office over dual citizenship.",
+      "byline": {
+        "original": "By Charlotte Graham-McLay"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Barnaby Joyce, Australia’s No. 2, Can Claim New Zealand Citizenship. Too Bad for Him.",
+        "kicker": "The Breakdown",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/f8d9c1f5-ed81-5533-92a4-97d0bb1d0d9a",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "vis-multimedia",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Australia",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "New Zealand",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Citizenship and Naturalization",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Deputy Prime Minister Barnaby Joyce at Parliament House in Canberra, Australia, on Monday. He said he would let the courts decide whether New Zealand citizenship should cost him his seat.",
+        "credit": "Lukas Coch/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/15/world/15oz-citizenship-1/15oz-citizenship-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/15/world/15oz-citizenship-1/15oz-citizenship-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-08-14T09:26:15Z",
+      "section_name": "World",
+      "snippet": "Deputy Prime Minister Barnaby Joyce is the latest politician under scrutiny over dual citizenship.",
+      "source": "The New York Times",
+      "subsection_name": "Australia",
+      "type_of_material": "briefing",
+      "uri": "nyt://article/f8d9c1f5-ed81-5533-92a4-97d0bb1d0d9a",
+      "web_url": "https://www.nytimes.com/2017/08/14/world/australia/barnaby-joyce-deputy-pm-new-zealand.html",
+      "word_count": 1073
+    },
+    {
+      "abstract": "The bomber riding a motorcycle on Saturday rammed a military truck in Quetta, ahead of Pakistan’s 70th anniversary of independence.",
+      "byline": {
+        "original": "By Salman Masood"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Suicide Bombing That Killed at Least 15 in Pakistan",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/acff0b10-4f9c-5f23-9976-aec20ffccd00",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Quetta (Pakistan)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Pakistan",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Baluchistan (Pakistan)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Vehicles burn after an attack by a suicide bomber on a motorcycle in Quetta, Pakistan, on Saturday.",
+        "credit": "Banaras Khan/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/14/world/asia/pakistan-img/merlin-to-scoop-125913467-870520-articleLarge.jpg",
+          "height": 388,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/14/world/asia/pakistan-img/pakistan-img-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-08-13T10:02:00Z",
+      "section_name": "World",
+      "snippet": "The bomber rammed a military truck in Quetta, ahead of Pakistan’s 70th anniversary of independence.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/acff0b10-4f9c-5f23-9976-aec20ffccd00",
+      "web_url": "https://www.nytimes.com/2017/08/13/world/asia/pakistan-suicide-bomber-motorbike.html",
+      "word_count": 290
+    },
+    {
+      "abstract": "Raila Odinga, the opposition leader, accused election officials of handing a re-election victory to President Uhuru Kenyatta.",
+      "byline": {
+        "original": "By Kimiko de Freytas-Tamura"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Kenyan Election Tensions Rise as Opposition Claims Fraud",
+        "kicker": "",
+        "print_headline": "Kenya Vote Falsified, Opposition Claims"
+      },
+      "_id": "nyt://article/3360b26e-6bc6-5902-b7ab-c79d916aa7b2",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Kenya",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Kenyatta, Uhuru Muigai",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Odinga, Raila",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "Riot police officers clashed with protesters in a poor area of Nairobi on Thursday following opposition allegations of vote-rigging.",
+        "credit": "Ben Curtis/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/08/11/world/11Kenya/11Kenya-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/08/11/world/11Kenya/11Kenya-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-08-10T18:47:54Z",
+      "section_name": "World",
+      "snippet": "The opposition leader accused officials of falsifying results to hand victory to President Uhuru Kenyatta.",
+      "source": "The New York Times",
+      "subsection_name": "Africa",
+      "type_of_material": "News",
+      "uri": "nyt://article/3360b26e-6bc6-5902-b7ab-c79d916aa7b2",
+      "web_url": "https://www.nytimes.com/2017/08/10/world/africa/kenya-election-raila-odinga-uhuru-kenyatta.html",
+      "word_count": 747
+    },
+    {
+      "abstract": "In Unesco applications, the neighbors are trying to formally tie Tibetan medicine, an ancient practice with a growing commercial value, to their national patrimonies.",
+      "byline": {
+        "original": "By Mike Ives"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "China and India File Rival Claims Over Tibetan Medicine",
+        "kicker": "",
+        "print_headline": "China and India File Rival Claims Over Tibetan Medicine"
+      },
+      "_id": "nyt://article/0527d698-9d77-5230-a614-397bc6d17f62",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Alternative and Complementary Medicine",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "United Nations Educational, Scientific and Cultural Organization",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Tibet",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Dalai Lama",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "On the Tibetan Plateau near Zadoi, in the Chinese province of Qinghai, a Tibetan nomad searching for caterpillar fungus, a prized ingredient in Tibetan and Chinese traditional medicine.",
+        "credit": "Kevin Frayer/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/07/27/world/xxtibet-unesco-1/xxtibet-unesco-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/07/27/world/xxtibet-unesco-1/xxtibet-unesco-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "7",
+      "print_section": "A",
+      "pub_date": "2017-07-27T04:01:24Z",
+      "section_name": "World",
+      "snippet": "In Unesco applications, the neighbors are trying to formally tie Tibetan medicine, an ancient practice with a growing commercial value, to their national patrimonies.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/0527d698-9d77-5230-a614-397bc6d17f62",
+      "web_url": "https://www.nytimes.com/2017/07/27/world/asia/unesco-tibetan-medicine-india-china.html",
+      "word_count": 1082
+    },
+    {
+      "abstract": "The exiled tycoon Guo Wengui has riled the Communist Party with claims against the top leaders. But he has also divided the party’s opponents in China and abroad.",
+      "byline": {
+        "original": "By Chris Buckley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Tycoon’s Claims Reverberate in China Despite Censorship and Thin Evidence",
+        "kicker": "",
+        "print_headline": "Tycoon’s Claims Reverberate in China Despite Censorship and Thin Evidence"
+      },
+      "_id": "nyt://article/d808a1ee-3124-53ab-9600-28debbb12a4d",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Guo Wengui",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Communist Party of China",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Censorship",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Xi Jinping",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Guo Wengui at a private club in London last year. His sensational claims against top Chinese leaders have muddied an image of austere probity cultivated by President Xi Jinping.",
+        "credit": "Andrew Testa for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/06/27/world/27china-guo/27china-guo-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/06/27/world/27china-guo/27china-guo-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-06-27T05:58:43Z",
+      "section_name": "World",
+      "snippet": "The exiled tycoon Guo Wengui has riled the Communist Party, but he has also divided the party’s opponents.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/d808a1ee-3124-53ab-9600-28debbb12a4d",
+      "web_url": "https://www.nytimes.com/2017/06/27/world/asia/guo-wengui-china-corruption-xi-jinping.html",
+      "word_count": 1289
+    },
+    {
+      "abstract": "La République en Marche’s commanding lead in the first round of voting completes a remarkable 14 months for President Emmanuel Macron, and puts him in a strong position to enact his pro-business agenda.",
+      "byline": {
+        "original": "By Alissa J. Rubin"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Emmanuel Macron’s Party on Track to Claim Majority in France’s Parliament",
+        "kicker": "",
+        "print_headline": "Macron’s Party on Track to Claim Majority in Parliament"
+      },
+      "_id": "nyt://article/85ab3330-9ff8-5faa-bada-490070d5d685",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Elections",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Macron, Emmanuel (1977- )",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "France",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Legislatures and Parliaments",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Politics and Government",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "La Republique en Marche",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "A political poster in Dinan, France, earlier month shows President Emmanuel Macron with Hervé Berville, one of the candidates of the French president’s party for the National Assembly.",
+        "credit": "Dmitry Kostyukov for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/06/10/world/12FRANCE/12FRANCE-articleLarge.jpg",
+          "height": 401,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/06/10/world/12FRANCE/12FRANCE-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "5",
+      "print_section": "A",
+      "pub_date": "2017-06-11T05:00:33Z",
+      "section_name": "World",
+      "snippet": "With an apparent majority in Parliament, the president will be in a strong position to enact his pro-business agenda.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/85ab3330-9ff8-5faa-bada-490070d5d685",
+      "web_url": "https://www.nytimes.com/2017/06/11/world/europe/france-legislative-elections-emmanuel-macron.html",
+      "word_count": 1004
+    },
+    {
+      "abstract": "The guided missile destroyer Dewey came within 12 nautical miles of Mischief Reef in the Spratly Islands, showing a shift in the White House’s dealings with Beijing.",
+      "byline": {
+        "original": "By Jane Perlez"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "U.S. Warship Sails Near Island Claimed by Beijing in South China Sea",
+        "kicker": "",
+        "print_headline": "U.S. Warship Approaches An Island Claimed by China"
+      },
+      "_id": "nyt://article/d7429993-3d64-5c5d-b9ea-45f4e13c1a1c",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "United States Navy",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Chinese ships dredging around Mischief Reef in the Spratly Islands in the South China Sea in 2015. Beijing has placed weapons and runways for fighter jets on the islands.",
+        "credit": "U.S. Navy, via Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/26/world/26china-island-1/26china-island-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/26/world/26china-island-1/26china-island-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-05-25T03:15:59Z",
+      "section_name": "World",
+      "snippet": "The move shows a new firmness by the Trump administration in its dealings with Beijing.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/d7429993-3d64-5c5d-b9ea-45f4e13c1a1c",
+      "web_url": "https://www.nytimes.com/2017/05/24/world/asia/south-china-sea-us-navy-warship-spratly-islands.html",
+      "word_count": 764
+    },
+    {
+      "abstract": "Britain’s prime minister put the nation on a “critical” level of alert on Tuesday and deployed the military to work with the police over fears that another terrorist attack was imminent.",
+      "byline": {
+        "original": "By Katrin Bennhold, Steven Erlanger and Ceylan Yeginsu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Terror Alert in Britain Is Raised to Maximum as ISIS Claims Manchester Attack",
+        "kicker": "",
+        "print_headline": "Britain on Edge As Terror Alert Hits Top Level"
+      },
+      "_id": "nyt://article/dc085480-2513-54c2-b404-70671d37b40c",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Manchester Arena Bombing (May, 2017)",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Abedi, Salman (d 2017)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Manchester (England)",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Grande, Ariana",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "",
+        "credit": "Andrew Testa for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/28/world/23Manchester-alpha-sub2/23Manchester-alpha-sub2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/28/world/23Manchester-alpha-sub2/23Manchester-alpha-sub2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2017-05-23T08:23:18Z",
+      "section_name": "World",
+      "snippet": "The explosion at an arena where the singer Ariana Grande was performing was almost certainly carried out by one person and is being treated as a “terrorist incident,” the police said.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/dc085480-2513-54c2-b404-70671d37b40c",
+      "web_url": "https://www.nytimes.com/2017/05/23/world/europe/manchester-arena-attack-ariana-grande.html",
+      "word_count": 1279
+    },
+    {
+      "abstract": "Reports that President Michel Temer authorized the payment of hush money to a jailed ally engulfed Latin America’s largest country.",
+      "byline": {
+        "original": "By Simon Romero"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Brazil’s President Rejects Calls to Quit Amid New Corruption Claims",
+        "kicker": "",
+        "print_headline": "Brazil’s Leader, Accused of Bribing, Rejects Calls to Quit"
+      },
+      "_id": "nyt://article/235c7261-c41a-5c0e-8104-b2fd295fe4e4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Brazil",
+          "rank": 1
+        },
+        {
+          "name": "Person",
+          "value": "Temer, Michel (1940- )",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Corruption (Institutional)",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Cunha, Eduardo Consentino da (1958- )",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Bribery and Kickbacks",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Rousseff, Dilma",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "Petroleo Brasileiro SA Petrobras",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "A demonstration against President Michel Temer of Brazil in São Paulo on Wednesday.",
+        "credit": "Nacho Doce/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/19/world/19Brazil/19Brazil-articleLarge.jpg",
+          "height": 364,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/19/world/19Brazil/19Brazil-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "10",
+      "print_section": "A",
+      "pub_date": "2017-05-18T17:59:56Z",
+      "section_name": "World",
+      "snippet": "President Michel Temer is facing reports that he authorized the payment of hush money to a jailed ally.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/235c7261-c41a-5c0e-8104-b2fd295fe4e4",
+      "web_url": "https://www.nytimes.com/2017/05/18/world/americas/brazil-president-michel-temer-corruption-claims.html",
+      "word_count": 970
+    },
+    {
+      "abstract": "Dr. Jan Karbaat, who died last month at 89, ran a fertility clinic near Rotterdam from 1980 to 2009.",
+      "byline": {
+        "original": "By Christopher F. Schuetze"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Dutch Fertility Doctor Swapped Donors’ Sperm With His, Lawsuit Claims",
+        "kicker": "",
+        "print_headline": "Fertility Doctor Fathered Children, Dutch Suit Says"
+      },
+      "_id": "nyt://article/86cbb705-e5f6-547b-aef3-a086c4f8b040",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Sperm",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Infertility",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Karbaat, Jan",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Artificial Insemination",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Wassenaar, Moniek",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Suits and Litigation (Civil)",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Rotterdam (Netherlands)",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Netherlands",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Malpractice",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Moniek Wassenaar, a plaintiff in the lawsuit, wants to know if she is Dr. Jan Karbaat’s daughter.",
+        "credit": "Jaap Biemans",
+        "default": {
+          "url": "",
+          "height": 0,
+          "width": 0
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/16/world/16dutch/16dutch-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-05-15T19:18:10Z",
+      "section_name": "World",
+      "snippet": "Dr. Jan Karbaat, who died last month at 89, ran a fertility clinic near Rotterdam from 1980 to 2009.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/86cbb705-e5f6-547b-aef3-a086c4f8b040",
+      "web_url": "https://www.nytimes.com/2017/05/15/world/europe/dutch-fertility-doctor-swapped-donors-sperm-with-his-lawsuit-claims.html",
+      "word_count": 941
+    },
+    {
+      "abstract": "In the country that had Europe’s largest prewar Jewish population, Holocaust victims and their heirs struggle to reclaim property, a new report has found.",
+      "byline": {
+        "original": "By Nina Siegal"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Holocaust Survivors in Poland Find Restitution Claims ‘Like a Carousel’",
+        "kicker": "",
+        "print_headline": "Poland’s Holocaust Victims Struggle for Restitution"
+      },
+      "_id": "nyt://article/98705ef9-ea93-560a-ba2b-a861748e1230",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Holocaust and the Nazi Era",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Jews and Judaism",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Reparations",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "World War II (1939-45)",
+          "rank": 4
+        },
+        {
+          "name": "Organization",
+          "value": "Auschwitz Concentration Camp",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "European Shoah Legacy Institute",
+          "rank": 6
+        },
+        {
+          "name": "Organization",
+          "value": "World Jewish Restitution Organization",
+          "rank": 7
+        },
+        {
+          "name": "Location",
+          "value": "Oswiecim (Poland)",
+          "rank": 8
+        },
+        {
+          "name": "Location",
+          "value": "Poland",
+          "rank": 9
+        },
+        {
+          "name": "Organization",
+          "value": "Law and Justice (Poland)",
+          "rank": 10
+        },
+        {
+          "name": "Subject",
+          "value": "Compensation for Damages (Law)",
+          "rank": 11
+        }
+      ],
+      "multimedia": {
+        "caption": "Hania Rosenberg, who now lives in Stockholm, Sweden, survived the Holocaust and is now trying to get back the properties that her family had in Poland.",
+        "credit": "Casper Hedberg for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/05/10/world/10Poland1/10Poland1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/05/10/world/10Poland1/10Poland1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-05-10T12:00:37Z",
+      "section_name": "World",
+      "snippet": "Poland is the only European Union nation that has not established formal procedures to resolve claims.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/98705ef9-ea93-560a-ba2b-a861748e1230",
+      "web_url": "https://www.nytimes.com/2017/05/10/world/europe/holocaust-survivors-poland-restitution.html",
+      "word_count": 1185
+    },
+    {
+      "abstract": "Experts urged caution because the statement was posted on a site used by terrorists in North Africa, not a normal venue for claims about attacks in Europe.",
+      "byline": {
+        "original": "By Ivan Nechepurenko and Rukmini Callimachi"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Website With Qaeda Ties Publishes Claim on St. Petersburg Bombing",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/5041387c-9fdb-5b12-8cbb-2b2161524682",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "St Petersburg (Russia)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Subways",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Al Qaeda",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Putin, Vladimir V",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Assad, Bashar al-",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Zawahri, Ayman Al-",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Russians at a memorial for the victims of an April 3 terrorist attack at a subway station in St. Petersburg.",
+        "credit": "Alexander Aksakov/Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/26/world/26Russia/26Russia-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/26/world/26Russia/26Russia-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-04-25T19:16:11Z",
+      "section_name": "World",
+      "snippet": "The group, the Imam Shamil Battalion, said a suicide bomber acted on the orders of Ayman al-Zawahri.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/5041387c-9fdb-5b12-8cbb-2b2161524682",
+      "web_url": "https://www.nytimes.com/2017/04/25/world/europe/st-petersburg-metro-al-qaeda.html",
+      "word_count": 528
+    },
+    {
+      "abstract": "The main opposition demanded a recount and warned that the vote might cement authoritarian rule within one of the critical power brokers of the Middle East.",
+      "byline": {
+        "original": "By Patrick Kingsley"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Erdogan Claims Vast Powers in Turkey After Narrow Victory in Referendum",
+        "kicker": "",
+        "print_headline": "Erdogan Tightens His Grip on Turkey After Close Vote"
+      },
+      "_id": "nyt://article/3cf2a333-356f-50ea-98c9-f4a413f9bfd6",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Referendums",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Erdogan, Recep Tayyip",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Constitutional Amendments",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "A supporter of a proposal to expand the powers of President Recep Tayyip Erdogan of Turkey held a picture of him at a rally on Sunday in Istanbul.",
+        "credit": "Ozan Kose/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/17/world/17turkey7/17turkey7-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/17/world/17turkey7/17turkey7-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2017-04-16T04:01:03Z",
+      "section_name": "World",
+      "snippet": "President Recep Tayyip Erdogan hopes Turks will vote “yes” on his plan to overhaul the government and grant sweeping powers to the presidency.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3cf2a333-356f-50ea-98c9-f4a413f9bfd6",
+      "web_url": "https://www.nytimes.com/2017/04/16/world/europe/turkey-referendum-polls-erdogan.html",
+      "word_count": 1416
+    },
+    {
+      "abstract": "The encounter underscores the tensions between increasingly emboldened right-wing Hindu activists and India’s minority groups, particularly over missionary activity.",
+      "byline": {
+        "original": "By Suhasini Raj and Nida Najar"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Hindu Group Claims Christians Tried Forced Conversions in India",
+        "kicker": "",
+        "print_headline": "Christians  in India Face a Backlash"
+      },
+      "_id": "nyt://article/dbba7835-5d55-5aec-8b04-0a8e39d6d8d4",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "India",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Hinduism",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "Bharatiya Janata Party",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Adityanath, Yogi",
+          "rank": 4
+        },
+        {
+          "name": "Person",
+          "value": "Modi, Narendra",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Uttar Pradesh State (India)",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "Yogi Adityanath, the new chief minister of the Indian state of Uttar Pradesh, during a news conference last month in Lucknow.",
+        "credit": "European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/09/world/09india/09india-articleLarge.jpg",
+          "height": 395,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/09/world/09india/09india-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "15",
+      "print_section": "A",
+      "pub_date": "2017-04-08T15:07:30Z",
+      "section_name": "World",
+      "snippet": "The encounter underscores the tensions between increasingly emboldened right-wing Hindu activists and India’s minority groups, particularly over missionary activity.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/dbba7835-5d55-5aec-8b04-0a8e39d6d8d4",
+      "web_url": "https://www.nytimes.com/2017/04/08/world/asia/india-uttar-pradesh-hindu-christian-church-conversions.html",
+      "word_count": 471
+    },
+    {
+      "abstract": "The president’s claims about the trade deficit with China are exaggerated, and his accusations of currency manipulation are outdated.",
+      "byline": {
+        "original": "By Linda Qiu"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Recycles Overstated Campaign Claims About China and Trade",
+        "kicker": "Fact Check",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e43f9c37-e698-5161-988f-37928148ca30",
+      "keywords": [
+        {
+          "name": "Keyword",
+          "value": "Fact Check",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Trade and World Market",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "Labor and Jobs",
+          "rank": 6
+        },
+        {
+          "name": "Subject",
+          "value": "Factories and Manufacturing",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "Renminbi (Currency)",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "Customs (Tariff)",
+          "rank": 9
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 10
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump and the first lady, Melania Trump, with President Xi Jinping of China and his wife, Peng Liyuan, at the Trumps’ Mar-a-Lago club in Palm Beach, Fla., on Thursday.",
+        "credit": "Doug Mills/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/08/world/08factcheck-1/08factcheck-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/08/world/08factcheck-1/08factcheck-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-04-07T06:40:33Z",
+      "section_name": "World",
+      "snippet": "The president’s claims about the trade deficit with China are exaggerated, and his accusations of currency manipulation are outdated.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/e43f9c37-e698-5161-988f-37928148ca30",
+      "web_url": "https://www.nytimes.com/2017/04/07/world/asia/fact-check-trump-china-trade.html",
+      "word_count": 975
+    },
+    {
+      "abstract": "The step was a significant departure from President Rodrigo Duterte’s previous policy of not antagonizing China, which claims most of the sea.",
+      "byline": {
+        "original": "By Felipe Villamor"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Duterte Orders Military to Parts of South China Sea Claimed by Philippines",
+        "kicker": "",
+        "print_headline": "Duterte Orders Philippines’ Military to the South China Sea"
+      },
+      "_id": "nyt://article/f8c6f0f7-1702-50ec-b0c0-999bbcbf93dd",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Philippines",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "South China Sea",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Duterte, Rodrigo",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "China",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "International Relations",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "A Philippine Navy frigate in Manila on Thursday. An order by President Rodrigo Duterte of the Philippines to deploy to parts of the South China Sea was a significant departure from his previous policy of not antagonizing China, which claims most of the body of water.",
+        "credit": "European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/07/world/07Philippines1/07Philippines1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/07/world/07Philippines1/07Philippines1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-04-06T16:48:35Z",
+      "section_name": "World",
+      "snippet": "The step was a significant departure from President Rodrigo Duterte’s previous policy of not antagonizing China, which claims most of the sea.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/f8c6f0f7-1702-50ec-b0c0-999bbcbf93dd",
+      "web_url": "https://www.nytimes.com/2017/04/06/world/asia/rodrigo-duterte-south-china-sea.html",
+      "word_count": 783
+    },
+    {
+      "abstract": "This list is meant for terrorists, and although the men have worked in combat zones and had contact with Al Qaeda and other extremist groups, they deny that they are militants.",
+      "byline": {
+        "original": "By Ben Hubbard"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "2 Sue Trump and U.S. Officials, Claiming They Are on ‘Kill List’",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/8382f4ba-b9ab-50c9-bff6-dfb410250d38",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Targeted Killings",
+          "rank": 2
+        },
+        {
+          "name": "Person",
+          "value": "Abdul Kareem, Bilal",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Zaidan, Ahmad Muaffaq",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "News and News Media",
+          "rank": 5
+        },
+        {
+          "name": "Organization",
+          "value": "Al Qaeda",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 7
+        },
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 8
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "Ahmad Muaffaq Zaidan in 2004. Mr. Zaidan said that documents from the National Security Agency leaked by Edward J. Snowden suggest that he is on a list of people marked for death by the United States government.",
+        "credit": "Anjum Naveed/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/04/01/world/01Journalists2/01Journalists2-articleLarge.jpg",
+          "height": 474,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/04/01/world/01Journalists2/01Journalists2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2017-03-31T23:12:12Z",
+      "section_name": "World",
+      "snippet": "This list is meant for terrorists, and although the men have worked in combat zones and had contact with Al Qaeda and other extremist groups, they deny that they are militants.",
+      "source": "The New York Times",
+      "subsection_name": "Middle East",
+      "type_of_material": "News",
+      "uri": "nyt://article/8382f4ba-b9ab-50c9-bff6-dfb410250d38",
+      "web_url": "https://www.nytimes.com/2017/03/31/world/middleeast/united-states-kill-list.html",
+      "word_count": 1019
+    },
+    {
+      "abstract": "British officials were livid after the White House aired an unverified claim that Britain’s spy agency had monitored Mr. Trump during last year’s campaign at the behest of President Barack Obama.",
+      "byline": {
+        "original": "By Peter Baker and Steven Erlanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Trump Offers No Apology for Claim on British Spying",
+        "kicker": "",
+        "print_headline": "Britain Furious as Trump Pushes Claim of Spying  "
+      },
+      "_id": "nyt://article/2bb7d547-f905-5de5-aa27-f7b55b426cd8",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "United States Politics and Government",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Great Britain",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Espionage and Intelligence Services",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Trump, Donald J",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Wiretapping and Other Eavesdropping Devices and Methods",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States International Relations",
+          "rank": 6
+        },
+        {
+          "name": "Person",
+          "value": "Obama, Barack",
+          "rank": 7
+        },
+        {
+          "name": "Person",
+          "value": "Merkel, Angela",
+          "rank": 8
+        },
+        {
+          "name": "Organization",
+          "value": "Fox News Channel",
+          "rank": 9
+        }
+      ],
+      "multimedia": {
+        "caption": "President Trump and the German chancellor, Angela Merkel, at their news conference at the White House on Friday.",
+        "credit": "Stephen Crowley/The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/03/18/us/18TRUMPBRITAIN-update/18TRUMPBRITAIN-update-articleLarge.jpg",
+          "height": 350,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/03/18/us/18TRUMPBRITAIN-update/18TRUMPBRITAIN-update-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "National",
+      "print_page": "1",
+      "print_section": "A",
+      "pub_date": "2017-03-17T14:02:56Z",
+      "section_name": "World",
+      "snippet": "The White House aired an unverified claim that Britain’s spy agency had monitored Mr. Trump during last year’s campaign at the behest of President Barack Obama.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/2bb7d547-f905-5de5-aa27-f7b55b426cd8",
+      "web_url": "https://www.nytimes.com/2017/03/17/world/europe/trump-britain-obama-wiretap-gchq.html",
+      "word_count": 1381
+    },
+    {
+      "abstract": "The intermediate-range test is an important stride for the North as it pursues an ability to hit the United States with an intercontinental ballistic missile.",
+      "byline": {
+        "original": "By Choe Sang-Hun and David E. Sanger"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "North Korea Claims Progress on Long-Range Goal With Missile Test",
+        "kicker": "",
+        "print_headline": "As North Korea Tests Missile, Experts See New Dangers in Its Mobility and Stealth"
+      },
+      "_id": "nyt://article/3da3d180-18d7-5002-bfde-125160d593ae",
+      "keywords": [
+        {
+          "name": "Person",
+          "value": "Kim Jong-un",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "North Korea",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Missiles and Missile Defense Systems",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Weapons",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Nuclear Tests",
+          "rank": 5
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The leader of North Korea, Kim Jong-un, in an undated photo. Military experts in the region say that the country is still years away from achieving capabilities that it has claimed, like striking the continental United States, as well as its military bases in the Pacific.",
+        "credit": "Korean Central News Agency, via Agence France-Presse - Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/14/us/14KOREA-1/14KOREA-1-articleLarge.jpg",
+          "height": 399,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/14/us/14KOREA-1/14KOREA-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "16",
+      "print_section": "A",
+      "pub_date": "2017-02-13T05:03:08Z",
+      "section_name": "World",
+      "snippet": "The intermediate-range test is an important stride for the North as it pursues an ability to hit the United States with an intercontinental ballistic missile.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/3da3d180-18d7-5002-bfde-125160d593ae",
+      "web_url": "https://www.nytimes.com/2017/02/13/world/asia/north-korea-missile-launch-success.html",
+      "word_count": 1025
+    },
+    {
+      "abstract": "Elders from the Sangin district have said that multiple American airstrikes early Friday killed at least 22 civilians, including several women and children.",
+      "byline": {
+        "original": "By Mujib Mashal and Taimoor Shah"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "NATO Checking Claim that U.S. Airstrikes Killed 22 Afghan Civilians",
+        "kicker": "",
+        "print_headline": "NATO Checking Claim that U.S. Airstrikes Killed 22 Civilians in Afghanistan"
+      },
+      "_id": "nyt://article/dcf9b8ed-ce16-5beb-9d0f-27ad28446fbc",
+      "keywords": [
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Civilian Casualties",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "North Atlantic Treaty Organization",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "United States Defense and Military Forces",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Helmand Province (Afghanistan)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Afghan police during an operation against Taliban militants in the Sangin district of Afghanistan’s Helmand province in January.",
+        "credit": "Watan Yar/European Pressphoto Agency",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/12/world/12afghanistan/12afghanistan-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/12/world/12afghanistan/12afghanistan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "8",
+      "print_section": "A",
+      "pub_date": "2017-02-11T17:05:17Z",
+      "section_name": "World",
+      "snippet": "Elders from the Sangin district have said that multiple American airstrikes early Friday killed at least 22 civilians, including several women and children.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/dcf9b8ed-ce16-5beb-9d0f-27ad28446fbc",
+      "web_url": "https://www.nytimes.com/2017/02/11/world/asia/afghanistan-nato.html",
+      "word_count": 942
+    },
+    {
+      "abstract": "A record 4,579 people died along the so-called Central Mediterranean route last year, and the bloc’s leaders said they aimed to “break the business model of smugglers.”",
+      "byline": {
+        "original": "By James Kanter"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "E.U. Vows to Slow Migration on Sea Route That Claimed Thousands of Lives",
+        "kicker": "",
+        "print_headline": "Europe’s Leaders Aim to Slow Migration on Dangerous Sea Route From Africa"
+      },
+      "_id": "nyt://article/3b7c82d7-9ebe-507e-a9e3-2e8557a699dc",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Immigration and Emigration",
+          "rank": 1
+        },
+        {
+          "name": "Subject",
+          "value": "Refugees and Displaced Persons",
+          "rank": 2
+        },
+        {
+          "name": "Organization",
+          "value": "European Union",
+          "rank": 3
+        },
+        {
+          "name": "Location",
+          "value": "Europe",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Libya",
+          "rank": 5
+        },
+        {
+          "name": "Location",
+          "value": "Malta",
+          "rank": 6
+        },
+        {
+          "name": "Location",
+          "value": "Syria",
+          "rank": 7
+        }
+      ],
+      "multimedia": {
+        "caption": "Migrants rescued from a rubber boat last month in the Mediterranean Sea, north of Libya. A record 4,579 people died last year along the so-called Central Mediterranean route — typically while trying to reach Italy from Libya.",
+        "credit": "Emilio Morenatti/Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/02/04/world/04Europe/04Europe-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/02/04/world/04Europe/04Europe-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "6",
+      "print_section": "A",
+      "pub_date": "2017-02-03T20:48:50Z",
+      "section_name": "World",
+      "snippet": "A record 4,579 people died along the so-called Central Mediterranean route last year, and the bloc’s leaders said they aimed to “break the business model of smugglers.”",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/3b7c82d7-9ebe-507e-a9e3-2e8557a699dc",
+      "web_url": "https://www.nytimes.com/2017/02/03/world/europe/eu-mediterranean-migrants.html",
+      "word_count": 1018
+    },
+    {
+      "abstract": "The blast ended a long lull in militant violence in Parachinar, a Shiite town that has been a center of resistance to the Pakistani Taliban.",
+      "byline": {
+        "original": "By Salman Masood and Ismail Khan"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Pakistani Taliban Claim Deadly Market Bombing",
+        "kicker": "",
+        "print_headline": "Pakistani Taliban Claim Deadly Market Bombing"
+      },
+      "_id": "nyt://article/5ae41d1b-dff1-5fc4-9b06-3b74ff5e19a5",
+      "keywords": [
+        {
+          "name": "Organization",
+          "value": "Taliban",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Tehrik-e-Taliban",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Afghanistan",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Deaths (Fatalities)",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "The Pakistani Taliban claimed responsibility for the blast Saturday in Parachinar, capital of the Kurram tribal region.",
+        "credit": "Ali Jan/Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/22/world/middleeast/22pakistan/22pakistan-articleLarge.jpg",
+          "height": 396,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/22/world/middleeast/22pakistan/22pakistan-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-01-21T17:18:21Z",
+      "section_name": "World",
+      "snippet": "The blast ended a long lull in militant violence in Parachinar, a Shiite town that has been a center of resistance to the Pakistani Taliban.",
+      "source": "The New York Times",
+      "subsection_name": "Asia Pacific",
+      "type_of_material": "News",
+      "uri": "nyt://article/5ae41d1b-dff1-5fc4-9b06-3b74ff5e19a5",
+      "web_url": "https://www.nytimes.com/2017/01/21/world/asia/pakistani-taliban-claim-deadly-market-bombing-in-parachinar.html",
+      "word_count": 307
+    },
+    {
+      "abstract": "A report by an indigenous television network in Canada challenged the indigenous ancestry of Joseph Boyden, author of “The Orenda” and other novels.",
+      "byline": {
+        "original": "By Ian Austen"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "A Voice for Indigenous Canadians Defends His Claim to Be One",
+        "kicker": "",
+        "print_headline": "Voice for Native Canadians Defends Claim to Be One"
+      },
+      "_id": "nyt://article/5afebf19-6496-5096-a24d-431bfb325ffd",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Indigenous People",
+          "rank": 1
+        },
+        {
+          "name": "Location",
+          "value": "Canada",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Books and Literature",
+          "rank": 3
+        },
+        {
+          "name": "Person",
+          "value": "Boyden, Joseph (1966- )",
+          "rank": 4
+        }
+      ],
+      "multimedia": {
+        "caption": "The Canadian author Joseph Boyden at the Edinburgh International Book Festival in Scotland. After nearly three weeks of silence, Mr. Boyden defended his claim to indigenous ancestry this week in two interviews and a news release.",
+        "credit": "Russell G Sneddon/Writer Pictures, via Associated Press",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/14/world/14Canada1/14Canada1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/14/world/14Canada1/14Canada1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "3",
+      "print_section": "A",
+      "pub_date": "2017-01-13T14:50:20Z",
+      "section_name": "World",
+      "snippet": "A report by an indigenous television network in Canada challenged the indigenous ancestry of Joseph Boyden, author of “The Orenda” and other novels.",
+      "source": "The New York Times",
+      "subsection_name": "Americas",
+      "type_of_material": "News",
+      "uri": "nyt://article/5afebf19-6496-5096-a24d-431bfb325ffd",
+      "web_url": "https://www.nytimes.com/2017/01/13/world/americas/canada-joseph-boyden-indigenous-canadians.html",
+      "word_count": 1105
+    },
+    {
+      "abstract": "A documentary posits that the demise of the ship may have been accelerated by a giant blaze in its hull that appeared to have started as long as three weeks before it set off.",
+      "byline": {
+        "original": "By Dan Bilefsky"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "Coal Fire, Not Just Iceberg, Doomed the Titanic, a Journalist Claims",
+        "kicker": "",
+        "print_headline": "Fire Helped Doom the Titanic, New Theory Says"
+      },
+      "_id": "nyt://article/b8120f09-54ab-5b23-8502-2adfe4247bad",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Titanic (Ship)",
+          "rank": 1
+        },
+        {
+          "name": "Title",
+          "value": "Titanic: The New Evidence (TV Program)",
+          "rank": 2
+        },
+        {
+          "name": "Subject",
+          "value": "Shipwrecks (Historic)",
+          "rank": 3
+        },
+        {
+          "name": "Subject",
+          "value": "Maritime Accidents and Safety",
+          "rank": 4
+        },
+        {
+          "name": "Subject",
+          "value": "Documentary Films and Programs",
+          "rank": 5
+        },
+        {
+          "name": "Person",
+          "value": "Molony, Senan",
+          "rank": 6
+        }
+      ],
+      "multimedia": {
+        "caption": "The Titanic leaving Southampton, England, on its ill-fated voyage on April 10, 1912.",
+        "credit": "Southampton City Council, via Agence France-Presse — Getty Images",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/04/world/04Titanic/04Titanic-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/04/world/04Titanic/04Titanic-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "9",
+      "print_section": "A",
+      "pub_date": "2017-01-03T19:44:20Z",
+      "section_name": "World",
+      "snippet": "A documentary posits that the demise of the ship may have been accelerated by a giant blaze in its hull that appeared to have started as long as three weeks before it set off.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/b8120f09-54ab-5b23-8502-2adfe4247bad",
+      "web_url": "https://www.nytimes.com/2017/01/03/world/europe/titanic-coal-fire-iceberg.html",
+      "word_count": 981
+    },
+    {
+      "abstract": "The authorities are still searching for the gunman who killed at least 39 people at the upscale Reina nightclub.",
+      "byline": {
+        "original": "By Tim Arango"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "ISIS Claims Responsibility for Istanbul Nightclub Attack",
+        "kicker": "",
+        "print_headline": "ISIS, Praising Its ‘Hero Soldier,’ Claims Responsibility for Istanbul Attack"
+      },
+      "_id": "nyt://article/64e16fbb-7525-53f7-a4c3-86009b01e7af",
+      "keywords": [
+        {
+          "name": "Subject",
+          "value": "Terrorism",
+          "rank": 1
+        },
+        {
+          "name": "Organization",
+          "value": "Reina (Istanbul, Turkey, Nightclub)",
+          "rank": 2
+        },
+        {
+          "name": "Location",
+          "value": "Istanbul (Turkey)",
+          "rank": 3
+        },
+        {
+          "name": "Organization",
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "rank": 4
+        },
+        {
+          "name": "Location",
+          "value": "Turkey",
+          "rank": 5
+        }
+      ],
+      "multimedia": {
+        "caption": "Relatives of Fatih Cakmak, a security guard killed in the attack at the Reina nightclub, at his funeral on Monday in Istanbul.",
+        "credit": "Umit Bektas/Reuters",
+        "default": {
+          "url": "https://static01.nyt.com/images/2017/01/03/world/03Turkey2/03Turkey2-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2017/01/03/world/03Turkey2/03Turkey2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "4",
+      "print_section": "A",
+      "pub_date": "2017-01-02T08:53:31Z",
+      "section_name": "World",
+      "snippet": "The authorities are still searching for the gunman who killed at least 39 people at the upscale Reina nightclub.",
+      "source": "The New York Times",
+      "subsection_name": "Europe",
+      "type_of_material": "News",
+      "uri": "nyt://article/64e16fbb-7525-53f7-a4c3-86009b01e7af",
+      "web_url": "https://www.nytimes.com/2017/01/02/world/europe/istanbul-nightclub-attack.html",
+      "word_count": 868
+    }
+  ]
+}
