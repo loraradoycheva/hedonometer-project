@@ -14,7 +14,7 @@ import openpyxl
 
 
 API = "https://api.nytimes.com/svc/search/v2/articlesearch.json"
-api_key = "beprTHgUtEwPUQZZXyrAsGAR4gprARlizSSkyJgOxA1HywXE"
+api_key = "49DFgOqvegSUosGsqxBDnHu4ZmQ1pA6AhBS9YArVgrCteCMh"
 
 
 QUERY = ""
@@ -35,7 +35,8 @@ CACHE_DIR.mkdir(parents=True, exist_ok=True)
 LIMIT = None          # None => as many as possible (still limited by MAX_PAGES and API caps)
 MAX_PAGES = 100      # pages 0..99 (10 docs/page => up to ~1000 docs maximum)
 REFRESH_MULTI = False
-multi_cache = CACHE_DIR / "nyt_articlesearch_multi.json"
+
+multi_cache = CACHE_DIR / "nyt_articlesearch_multi2020.json"
 
 if (not REFRESH_MULTI) and multi_cache.exists() and multi_cache.stat().st_size > 0:
     result_multi = json.loads(multi_cache.read_text(encoding="utf-8"))
@@ -133,92 +134,18 @@ df = df.drop_duplicates(subset=["web_url"]).reset_index(drop=True)
 
 (df[["pub_date", "headline", "web_url"]].head())
 
-df['pub_date'] = df['pub_date'].dt.tz_localize(None) #THIS IS OPTIONAL IF YOU WANT TO REVIEW THE DATA MANUALLY
+# remove timezone
+df['pub_date'] = df['pub_date'].dt.tz_localize(None)
 
-df.to_excel("testing.xlsx") #THIS IS OPTIONAL IF YOU WANT TO REVIEW THE DATA MANUALLY
+# keep only headline and date
+df_clean = df[["headline", "pub_date"]].copy()
 
+# remove empty headlines
+df_clean = df_clean[df_clean["headline"] != ""]
 
-import matplotlib.pyplot as plt
-from collections import Counter
+# remove duplicates
+df_clean = df_clean.drop_duplicates().reset_index(drop=True)
 
-# Load hedonometer lexicon
-# labMT1.txt contains ~10,000 words rated for happiness (1-9 scale)
-hedonometer = pd.read_csv('data/labMT1.txt', sep='\t', comment='#')
-hedonometer = hedonometer.replace('--', pd.NA)
-hedonometer['happs'] = pd.to_numeric(hedonometer['happs'], errors='coerce')
+# save cleaned data
+df_clean.to_csv("data/cache/nyt_headlines.csv", index=False)
 
-# Create a dictionary: word -> happiness score
-happs_dict = dict(zip(hedonometer['word'], hedonometer['happs']))
-
-# --- STEP 1: Count word frequencies across all headlines ---
-# We tokenize (split into words) and lowercase for consistency
-all_words = []
-for headline in df['headline']:
-    words = headline.lower().split()
-    all_words.extend(words)
-
-word_counts = Counter(all_words)
-
-# Stop words: common neutral words
-stop_words = {'the', 'a', 'an', 'in', 'of', 'to', 'and', 
-              'for', 'on', 'at', 'is', 'as', 'by', 'with', 
-              'from', 'that', 'it', 'its', 'are', 'was', 'after', 'hong', 'kong'}
-
-# Only keep words that are IN the hedonometer lexicon
-# Methodological choice: if a word has no happiness score, 
-# it's not relevant to our analysis
-word_counts = {w: c for w, c in word_counts.items() 
-               if w not in stop_words 
-               and w in happs_dict  # only hedonometer words!
-               and len(w) > 2}
-
-print(f"\nUnique words found in hedonometer: {len(word_counts)}")
-
-# --- CHART 1: Most Frequent Words in NYT Headlines (2019) ---
-top_words = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)[:20]
-words, counts = zip(*top_words)
-
-plt.figure(figsize=(12, 6))
-plt.bar(words, counts, color='steelblue')
-plt.title('Most Frequent Words in NYT World Headlines (2020)')
-plt.xlabel('Word')
-plt.ylabel('Frequency')
-plt.xticks(rotation=45, ha='right')
-plt.tight_layout()
-plt.savefig('figures/top_words_2020.png')
-plt.close()
-print("Chart 1 saved: top_words_2020.png")
-
-# --- STEP 2: Score each headline using hedonometer ---
-# Methodological choice: we ignore words not in the lexicon
-# and report coverage (how many words matched)
-def score_headline(text):
-    words = text.lower().split()
-    scores = [happs_dict[w] for w in words if w in happs_dict]
-    if len(scores) == 0:
-        return None  # return None if no words matched
-    return sum(scores) / len(scores)
-
-df['happs_score'] = df['headline'].apply(score_headline)
-
-# Report coverage
-total_headlines = len(df)
-scored_headlines = df['happs_score'].notna().sum()
-print(f"Coverage: {scored_headlines}/{total_headlines} headlines scored")
-print(f"Mean happiness score (2020): {df['happs_score'].mean():.3f}")
-
-# --- CHART 2: Word Happiness vs Frequency ---
-# Only include words that appear in both our corpus and the hedonometer
-common_words = {w: c for w, c in word_counts.items() if w in happs_dict}
-happs_scores = [happs_dict[w] for w in common_words]
-frequencies  = [common_words[w] for w in common_words]
-
-plt.figure(figsize=(10, 6))
-plt.scatter(happs_scores, frequencies, alpha=0.5, color='steelblue')
-plt.title('Word Happiness vs Frequency — NYT World Headlines (2020)')
-plt.xlabel('Happiness Score (1=negative, 9=positive)')
-plt.ylabel('Word Frequency in Corpus')
-plt.tight_layout()
-plt.savefig('figures/happiness_vs_frequency_2020.png')
-plt.close()
-print("Chart 2 saved: happiness_vs_frequency_2020.png")

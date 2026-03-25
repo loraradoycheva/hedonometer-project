@@ -1,7 +1,7 @@
 {
   "source": "articlesearch",
   "params": {
-    "api-key": "beprTHgUtEwPUQZZXyrAsGAR4gprARlizSSkyJgOxA1HywXE",
+    "api-key": "49DFgOqvegSUosGsqxBDnHu4ZmQ1pA6AhBS9YArVgrCteCMh",
     "q": "",
     "begin_date": "20200101",
     "end_date": "20201231",
@@ -36116,46 +36116,6 @@
     {
       "abstract": "",
       "byline": {
-        "original": "By Megan Specia"
-      },
-      "document_type": "article",
-      "headline": {
-        "main": "First vaccine recipients hope to set an example and are looking forward to holidays with family.",
-        "kicker": "",
-        "print_headline": ""
-      },
-      "_id": "nyt://article/e672a6a7-8310-55c3-847b-17224823b9c6",
-      "keywords": [],
-      "multimedia": {
-        "caption": "John Pollard, 90, near his home in Brighton on Tuesday.",
-        "credit": "Jane Stockdale for The New York Times",
-        "default": {
-          "url": "https://static01.nyt.com/images/2020/12/08/world/08virus-briefing-uk-first1/08virus-briefing-uk-first1-articleLarge.jpg",
-          "height": 400,
-          "width": 600
-        },
-        "thumbnail": {
-          "url": "https://static01.nyt.com/images/2020/12/08/world/08virus-briefing-uk-first1/08virus-briefing-uk-first1-thumbStandard.jpg",
-          "height": 75,
-          "width": 75
-        }
-      },
-      "news_desk": "Foreign",
-      "print_page": "",
-      "print_section": "",
-      "pub_date": "2020-12-08T06:04:03Z",
-      "section_name": "World",
-      "snippet": "",
-      "source": "The New York Times",
-      "subsection_name": "",
-      "type_of_material": "News",
-      "uri": "nyt://article/e672a6a7-8310-55c3-847b-17224823b9c6",
-      "web_url": "https://www.nytimes.com/2020/12/08/world/first-vaccine-recipients-hope-to-set-an-example-and-are-looking-forward-to-holidays-with-family.html",
-      "word_count": 430
-    },
-    {
-      "abstract": "",
-      "byline": {
         "original": "By Benjamin Mueller and Carl Zimmer"
       },
       "document_type": "article",
@@ -36192,6 +36152,46 @@
       "uri": "nyt://article/3fea8ef7-451e-54f2-bd99-e8224b4ed169",
       "web_url": "https://www.nytimes.com/2020/11/08/world/as-britain-begins-vaccinations-here-are-answers-to-some-common-questions.html",
       "word_count": 477
+    },
+    {
+      "abstract": "",
+      "byline": {
+        "original": "By Megan Specia"
+      },
+      "document_type": "article",
+      "headline": {
+        "main": "First vaccine recipients hope to set an example and are looking forward to holidays with family.",
+        "kicker": "",
+        "print_headline": ""
+      },
+      "_id": "nyt://article/e672a6a7-8310-55c3-847b-17224823b9c6",
+      "keywords": [],
+      "multimedia": {
+        "caption": "John Pollard, 90, near his home in Brighton on Tuesday.",
+        "credit": "Jane Stockdale for The New York Times",
+        "default": {
+          "url": "https://static01.nyt.com/images/2020/12/08/world/08virus-briefing-uk-first1/08virus-briefing-uk-first1-articleLarge.jpg",
+          "height": 400,
+          "width": 600
+        },
+        "thumbnail": {
+          "url": "https://static01.nyt.com/images/2020/12/08/world/08virus-briefing-uk-first1/08virus-briefing-uk-first1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75
+        }
+      },
+      "news_desk": "Foreign",
+      "print_page": "",
+      "print_section": "",
+      "pub_date": "2020-12-08T06:04:03Z",
+      "section_name": "World",
+      "snippet": "",
+      "source": "The New York Times",
+      "subsection_name": "",
+      "type_of_material": "News",
+      "uri": "nyt://article/e672a6a7-8310-55c3-847b-17224823b9c6",
+      "web_url": "https://www.nytimes.com/2020/12/08/world/first-vaccine-recipients-hope-to-set-an-example-and-are-looking-forward-to-holidays-with-family.html",
+      "word_count": 430
     },
     {
       "abstract": "The barrier-shattering deal puts an Emirati royal at the helm of Beitar Jerusalem, the only Israeli team that has never fielded an Arab player and whose most extreme fans chant racist slurs.",
