@@ -80,6 +80,8 @@ This creates an overall impression on what the news were focused on, when the wh
 
 - `2023`
 ![composite_words_2023.png](figures/composite_words_2023.png)
+Words indicative of discourse are related to geopolitics: state, China, war, Russia, officials, military.  Given the events of the year, “Russia” scores high in frequency hence the ongoing war with Ukraine since 2022. Words relating to the Israel-Gaza war also score high on frequency, however Gaza appears only once, whereas Israel appears multiple times. Common words that are shared between news reports relating to military conflicts are: killed, children, military, attack, nuclear. 
+Overall the news for 2023 were majorly war related.  Neutral/not obviously charged words like state, officials, military are structurally tied to conflict in this case. 
 
 - `2025`
 ![composite_words_2025.png](figures/composite_words_2025.png)  
