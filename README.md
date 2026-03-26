@@ -167,6 +167,9 @@ These words have happiness scores that are slightly negative to neutral. Trump a
 
 However, the happiness scores come from a dataset created in 2011, so they may not fully reflect how people felt about these words in 2025.
 
+[weird_words.md](data/processed/wierd_words.md)
+
+
 # Limitations of the hedonometer 
 1.Static Word Meanings - The instrument does not account for words with multiple meanings (polysemi). While the researchers argue that such error is overridden by the massive dataset, it remains a limitation for fine-grained analysis. 
 
