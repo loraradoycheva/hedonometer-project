@@ -89,6 +89,7 @@ middle because it can feel clinical and neutral to some, but deeply distressing 
 
 - A missing rank means the word did not appear in the top 5000 most frequent 
   words in that corpus.
+The NYT data was scored using the labMT dataset.
 
 ### Histogram of happiness score 
 ![histogram_happs.png](figures/hedonometer_visuals/histogram_happs.png)
@@ -99,8 +100,6 @@ roughly bell-shaped but slightly skewed to the left, meaning there are more word
 trailing off toward the sad end than the happy end. The middle 90% of words fall 
 between scores of 3.18 and 7.08, suggesting that truly extreme words are relatively rare.
 
-
-The NYT data was scored using the labMT dataset.
 
 ### We have selected a time period from 2015 to 2025, separating it into two periods: before and after the pandemic.
 
