@@ -103,6 +103,18 @@ The first 3 showed up as verbs; “state” occasionally showed up as a noun(as 
 We have tested including “say” and its derivatives, following the same logic as the other report words. This filter, however, gave flawed results as “say” is so prevalent in the headlines and body text, respectively, api pulls articles for only the last months of the year, as it filters by “best fit” and “relevance,” and those conditions get fulfilled with the most recent data, that being the end of the year.
 
 # Methods
+To test this research question empirically, we scored NYT World section headlines for emotional tone using the labMT hedonometer lexicon, a dataset from 2011 that ranks words on a happiness scale from 1 to 9. In the first part of our research, we scored exactly 1000 headlines per year between 2019 and 2025. When the mean happiness scores did not show the expected downward trend, we broadened our scope and became more selective about which words we included in the scoring. This led us to examine two periods: 2015 to 2019, covering the years leading up to the pandemic, and 2020 to 2025, covering the pandemic and its aftermath. 
+This README documents the project in two parts: first, how we conducted the initial analysis scoring headlines from 2019 to 2025, and second, how we expanded the research to compare the pre- and post-pandemic periods. 
+
+## Bootstrap
+NYT publishes between 70,000 and 90,000 articles per year. Our sample includes only 1000 World section headlines per year. This raises the question of how reliable our mean happiness score is. We apply a non-parametric bootstrap to estimate this uncertainty. Rather than collecting new samples, the bootstrap resamples our existing data with replacement to simulate what different samples might have looked like. Non-parametric means we make no assumptions about the distribution of scores and we let the data speak for itself.
+The bootstrap works as follows:
+Resample the array of ~1000 scores with replacement. This produces a new sample of the same size
+Compute the mean of that resample
+Repeat 2000 times
+Take the 2.5th and 97.5th percentiles of the 2000 means as the 95% confidence interval. We use numpy.random.default_rng(42) for reproducibility. Anyone rerunning the code should get identical results.
+Resampling with replacement means some headlines are picked multiple times and some not at all. This variation across 2000 resamples simulates what would happen if we had collected slightly different sets of headlines, giving us an estimate of sampling uncertainty
+
 
 # Figures + findings
 
