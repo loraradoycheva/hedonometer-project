@@ -71,6 +71,12 @@ We have tested including “say” and its derivatives, following the same logic
 - `2021`
 ![composite_words_2021.png](figures/composite_words_2021.png)
 
+2021 was a year that resolved mainly about health related topics, which resulted in frequent use of words like emergency, virus, mask or death. 
+
+This is the result of the still active and growing in danger epidemic of COVID-19 that has taken over the world. There were very few words that related to other events but we can highlight “Haiti” that relates to earthquakes in this part of the world and "France", “workers” and “abuse” that relate to the 2021 French labour protests. 
+
+This creates an overall impression on what the news were focused on, when the whole world was locked down and faced a major crisis. The word happiness vs frequency chart informs us that most words were scored on the neutral part of the scale, but they were less frequent than those with lower ratings. It shows how the news were negative and more focused on bad events. 
+
 
 - `2023`
 ![composite_words_2023.png](figures/composite_words_2023.png)
