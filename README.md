@@ -95,11 +95,16 @@ To test this research question empirically, we scored NYT World section headline
 This README documents the project in two parts: first, how we conducted the initial analysis scoring headlines from 2019 to 2025, and second, how we expanded the research to compare the pre- and post-pandemic periods. 
 
 1. Data Collection
+
 We collected exactly 1000 NYT World section headlines per year from 2019 to 2025 using the Article Search API. Requests filtered by section.name:("World") with sort=relevance and an empty query string. Results are cached in data/cache/ as JSON files and treated as read-only.
 Each JSON file contains full article metadata including headline, abstract, keywords, publication date, byline, and word count. Our analysis uses only the headline.main field.
+
 2. Tokenization
+
 Each headline is lowercased and split by whitespace using Python's .split(). This is intentionally simple. It does not handle punctuation, so "war," and "war" are treated as different tokens. The word "war," with a comma attached would not match the labMT entry "war" and would be silently skipped.
-3. Headline Scoring
+
+3.  Headline Scoring
+   
 Each headline receives a single happiness score: the mean labMT rating of all matched words. Words not in the lexicon are silently skipped. A headline where no words match at all returns no score and is excluded from further analysis. 
 We did not apply a stopword filter before scoring. Common words like "the", "a", "in", and "of" pass through tokenisation. However, most stopwords do not appear in the labMT lexicon, so they are automatically ignored during scoring. Only words with a labMT entry contribute a score.
 
@@ -184,15 +189,15 @@ However, the happiness scores come from a dataset created in 2011, so they may n
 
 
 # Limitations of the hedonometer 
-1.Static Word Meanings - The instrument does not account for words with multiple meanings (polysemi). While the researchers argue that such error is overridden by the massive dataset, it remains a limitation for fine-grained analysis. 
+1. Static Word Meanings - The instrument does not account for words with multiple meanings (polysemi). While the researchers argue that such error is overridden by the massive dataset, it remains a limitation for fine-grained analysis. 
 
-2.Counting different forms of the same word - The study avoided "stemming" meaning words, so it treated several word forms as unique entries with their own scores. This makes it easier to see distinct emotional nuances provided by tense and context. For example, the researchers found that "captured" (3.22) has a significantly different score than "capture". However, this makes it harder to aggregate the total frequency of an underlying concept as the data for a single idea is split across many different word forms. 
+2. Counting different forms of the same word - The study avoided "stemming" meaning words, so it treated several word forms as unique entries with their own scores. This makes it easier to see distinct emotional nuances provided by tense and context. For example, the researchers found that "captured" (3.22) has a significantly different score than "capture". However, this makes it harder to aggregate the total frequency of an underlying concept as the data for a single idea is split across many different word forms. 
 
-3.Omitting rare or specialized words displaying emotion - Instead of selecting words based on their emotional meaning, the researchers merged the top 5000 most frequent words from four disparate sources: Twitter, Google Books, music lyrics, and the New York Times. This makes it easier to achieve high "coverage" of a text, ensuring the instrument has data for a large percentage of the words actually being used in common language. However, it makes it harder to see the emotional impact of rare or specialized words that may carry heavy sentiment but do not appear frequently enough to make the top 5,000 list
+3. Omitting rare or specialized words displaying emotion - Instead of selecting words based on their emotional meaning, the researchers merged the top 5000 most frequent words from four disparate sources: Twitter, Google Books, music lyrics, and the New York Times. This makes it easier to achieve high "coverage" of a text, ensuring the instrument has data for a large percentage of the words actually being used in common language. However, it makes it harder to see the emotional impact of rare or specialized words that may carry heavy sentiment but do not appear frequently enough to make the top 5,000 list
 
-4.Absence of Context and Structure - Text is treated as a simple collection of words, calculating happiness based on individual word frequencies while ignoring sentence structure or word order. This makes the instrument transparent, fast, and highly robust when dealing with "web-scale" data like billions of tweets, where structural complexity might be computationally prohibitiveConversely, it cannot account for word order or negated sentiments (e.g., "not happy"), which effectively omits a significant portion of a text's actual content. It makes it hard to also recognize meaning in small texts (like single sentences) where irony, sarcasm, or negation (e.g., "not happy") would completely change the sentiment but are missed by a word-by-word average
+4. Absence of Context and Structure - Text is treated as a simple collection of words, calculating happiness based on individual word frequencies while ignoring sentence structure or word order. This makes the instrument transparent, fast, and highly robust when dealing with "web-scale" data like billions of tweets, where structural complexity might be computationally prohibitiveConversely, it cannot account for word order or negated sentiments (e.g., "not happy"), which effectively omits a significant portion of a text's actual content. It makes it hard to also recognize meaning in small texts (like single sentences) where irony, sarcasm, or negation (e.g., "not happy") would completely change the sentiment but are missed by a word-by-word average
 
-5.Contamination from accounts with disputed authenticity - The dataset treats all accounts equally, meaning the emotional signal is a blend of accounts belonging to individuals, news organisations, companies and automated bots. This makes it difficult to distinguish genuine human sentiment from corporate broadcasting. The dataset is also vulnerable to entities that intentionally alter expressions online to misinform and manipulate. 
+5. Contamination from accounts with disputed authenticity - The dataset treats all accounts equally, meaning the emotional signal is a blend of accounts belonging to individuals, news organisations, companies and automated bots. This makes it difficult to distinguish genuine human sentiment from corporate broadcasting. The dataset is also vulnerable to entities that intentionally alter expressions online to misinform and manipulate. 
 
 # General project limitations
 1. Headline only scoring: We scored headlines only. Headlines are written to attract attention and may not reflect the emotional content of the full article. Scoring abstracts or full article text would give a more complete picture.
