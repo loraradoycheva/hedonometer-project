@@ -129,7 +129,7 @@ For the 2015-2025 data set, we scored NYT World section headlines for emotional 
 This README documents the project in two parts: first, how we conducted the initial analysis scoring headlines from 2019 to 2025, and second, how we expanded the research to compare the pre- and post-pandemic periods. 
 
 
-# Sanity checks 
+## Sanity checks 
 
 There were several checks performed in the code to verify whether the dataset is loaded correctly and structured well.
 
@@ -150,6 +150,14 @@ Compute the mean of that resample
 Repeat 2000 times
 Take the 2.5th and 97.5th percentiles of the 2000 means as the 95% confidence interval. We use numpy.random.default_rng(42) for reproducibility. Anyone rerunning the code should get identical results.
 Resampling with replacement means some headlines are picked multiple times and some not at all. This variation across 2000 resamples simulates what would happen if we had collected slightly different sets of headlines, giving us an estimate of sampling uncertainty
+
+## Privacy concerns
+In order to not commit API keys, which are considered sensitive info, we have used an .env file( a text configuration file used to define environment-specific variables). 
+1. create a file, store the api keys within a variable
+2. pip install python-dotenv – install a module that allows python to read environment variables from .env
+
+Later on we have used just the variable name inside the scripts, so the actual api keys were pulled from the .env file. The file contents were not committed and stayed local on the computers. 
+
 
 
 # Figures + findings
