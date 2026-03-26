@@ -50,6 +50,13 @@ hedonometer-project/
 └── requirements.txt
 ```
 
+# NYT Article Search API
+We collected approximately 1000 NYT World section headlines per year from 2019 to 2025 using the Article Search API. Requests filtered by section.name:("World") with 'sort=relevance’. Results are cached in 'data/cache/' as JSON files and treated as read-only. Each JSON file contains full article metadata including headline, abstract, keywords, publication date, byline, and word count. Our analysis uses only the 'headline.main' field.
+Note on 2023: Only 449 articles were returned instead of the expected 1000. The API stopped returning results at page 45. The most likely explanation is that fewer World section articles were indexed under our query parameters for that year. This smaller sample produces a wider confidence interval for 2023, reflecting greater uncertainty in that estimate.
+# labMT Hedonometer 
+The labMT lexicon contains approximately 10,000 words rated for happiness on a 1-9 scale by Mechanical Turk workers. A score of 1 is very negative, 5 is neutral, and 9 is very positive. It was constructed from four corpora: Twitter, Google Books, NYT, and song lyrics.
+
+
 # Scatterplot of happiness vs standard deviation (figures/scatter_happs_stddev.png) - `lets keep it relevant to the figures`
 The scatterplot shows that the most contested words tend to cluster around the middle happiness scores rather than at the extremes. 
 Words like "whiskey" and "cigarettes" are contested because people associate them with both 
