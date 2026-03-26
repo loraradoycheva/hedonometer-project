@@ -94,6 +94,19 @@ We have tested including “say” and its derivatives, following the same logic
 To test this research question empirically, we scored NYT World section headlines for emotional tone using the labMT hedonometer lexicon, a dataset from 2011 that ranks words on a happiness scale from 1 to 9. In the first part of our research, we scored exactly 1000 headlines per year between 2019 and 2025. When the mean happiness scores did not show the expected downward trend, we broadened our scope and became more selective about which words we included in the scoring. This led us to examine two periods: 2015 to 2019, covering the years leading up to the pandemic, and 2020 to 2025, covering the pandemic and its aftermath. 
 This README documents the project in two parts: first, how we conducted the initial analysis scoring headlines from 2019 to 2025, and second, how we expanded the research to compare the pre- and post-pandemic periods. 
 
+1. Data Collection
+We collected exactly 1000 NYT World section headlines per year from 2019 to 2025 using the Article Search API. Requests filtered by section.name:("World") with sort=relevance and an empty query string. Results are cached in data/cache/ as JSON files and treated as read-only.
+Each JSON file contains full article metadata including headline, abstract, keywords, publication date, byline, and word count. Our analysis uses only the headline.main field.
+2. Tokenization
+Each headline is lowercased and split by whitespace using Python's .split(). This is intentionally simple. It does not handle punctuation, so "war," and "war" are treated as different tokens. The word "war," with a comma attached would not match the labMT entry "war" and would be silently skipped.
+3. Headline Scoring
+Each headline receives a single happiness score: the mean labMT rating of all matched words. Words not in the lexicon are silently skipped. A headline where no words match at all returns no score and is excluded from further analysis. 
+We did not apply a stopword filter before scoring. Common words like "the", "a", "in", and "of" pass through tokenisation. However, most stopwords do not appear in the labMT lexicon, so they are automatically ignored during scoring. Only words with a labMT entry contribute a score.
+
+For the 2015-2025 data set, we scored NYT World section headlines for emotional tone using the labMT hedonometer lexicon, a dataset from 2011 that ranks words on a happiness scale from 1 to 9. In the first part of our research, we scored exactly 1000 headlines per year between 2019 and 2025. When the mean happiness scores did not show the expected downward trend, we broadened our scope and became more selective about which words we included in the scoring. This led us to examine two periods: 2015 to 2019, covering the years leading up to the pandemic, and 2020 to 2025, covering the pandemic and its aftermath. 
+This README documents the project in two parts: first, how we conducted the initial analysis scoring headlines from 2019 to 2025, and second, how we expanded the research to compare the pre- and post-pandemic periods. 
+
+
 # Sanity checks 
 
 There were several checks performed in the code to verify whether the dataset is loaded correctly and structured well.
@@ -192,7 +205,7 @@ However, the happiness scores come from a dataset created in 2011, so they may n
 
 
 # Conclusion 
-No statistically significant changes were observed in mood between 2015 and 2025. Most words scored as neutral, even during years with major geopolitical events. This may be due to the relatively small corpus for the 2011-2025 data set, which ranged from 40 to 300 articles per year, making the sample less representative. Additionally, the LabMT hedonometer is based on 2011 data, so it may not fully capture shifts in sentiment or accurately reflect the mood of headlines over time. Similarly, the data from 2019 to 2025 also showed no significant changes in mood. Once again, most words scored as neutral, even though notable events occurred during these years.
+No statistically significant changes were observed in mood between 2015 and 2025. Most words scored as neutral, even during years with major geopolitical events. This may be due to the relatively small corpus for the 2015-2025 data set, which ranged from 40 to 300 articles per year, making the sample less representative. Additionally, the LabMT hedonometer is based on 2011 data, so it may not fully capture shifts in sentiment or accurately reflect the mood of headlines over time. Similarly, the data from 2019 to 2025 also showed no significant changes in mood. Once again, most words scored as neutral, even though notable events occurred during these years.
 
 
 # Possible improvements
