@@ -4,6 +4,18 @@
 
 In the years following the pandemic, a widespread perception seems to emerge that the world has become sadder and more unstable (). Online discourse routinely frames the post-pandemic period as one of compounding crises: war, inflation, and political instability (). Our aim was to contribute to a larger body of literature about the emotions news exhibit. Existing research over large data sets points to headlines becoming more negative over time (). We wanted to test this with one single major news outlet. We chose The New York Times as it is read globally and covers international affairs extensively.
 
+# Sanity checks 
+
+There were several checks performed in the code to verify whether the dataset is loaded correctly and structured well.
+
+For this project, .csv files were used; the small size of the yearly corpora meant it was possible to analyze the data manually which we used to our advantage. The files clearly show key columns like date, headline, section name, and document type, which made the analysis more straightforward.
+
+Verified that all the happiness  scores fell within the range of 1 to 9. The LabMT lexicon rates words on this scale, so any score outside this scale would be an error in the scoring function.
+
+Checked that the dictionary of happiness scores was created correctly by checking that it contained approximately 10,000 words. Also checked those words, for example “love”, to have a high score on the scale and “war” to have a lower score. If these did not match, it would indicate that the lexicon was not loaded properly.
+
+For the stop words, scikit-learn has a built-in ENGLISH_STOP_WORDS library, which provides a standardized set of approximately 318 common English words. This is more comprehensive than a manual list and is the academic standard for text analysis. 
+
 # Research Question 
 How has the mood of New York Times (NYT) news changed in the period between 2015 and 2025 and has the pandemic made a difference?
 
@@ -142,6 +154,14 @@ These words have happiness scores that are slightly negative to neutral. Trump a
 However, the happiness scores come from a dataset created in 2011, so they may not fully reflect how people felt about these words in 2025.
 
 
-# Limitations:
+# Limitations
+- Headline only scoring: We scored headlines only. Headlines are written to attract attention and may not reflect the emotional content of the full article. Scoring abstracts or full article text would give a more complete picture.
+- No stopword filter: We did not remove stopwords before scoring. In practice this has limited impact because most stopwords are absent from labMT. However, any stopwords that do appear in the lexicon contribute to scores without adding meaningful sentiment information.
+- Coverage does not equal accuracy: Coverage of 99-100% means most headlines had at least one matched word. But a headline scored on one or two words is less reliable than one scored on five or six. We do not report the average number of words matched per headline.
+- labMT cultural assumptions: The lexicon was built from ratings by English-speaking Mechanical Turk workers. Their happiness ratings carry cultural and linguistic assumptions that may not generalise across topics, time periods, or regions. The word "death" scores low regardless of whether it appears in a tragedy or a historical analysis. Context is entirely ignored.
+- sort=relevance with empty query: Our API requests used relevance sorting with no search query. This is not a random sample. The API's definition of relevance without a query is unclear, and results may reflect indexing priorities rather than a representative cross-section of World section articles.
+- 2023 sample size: The 2023 dataset contains only 449 headlines. The estimate for this year is less precise and should be interpreted with more caution than other years.
+- “Say” as a filter word. We have tested including “say” and its derivatives, following the same logic as the other report words. This filter, however gave flawed result as “say” is so prevalent in the headlines and body text respectively, api pulls articles for only the last months of the year, as it filters by “best fit” and “relevance” and those conditions get fulfilled with the most recent data, that being the end of the year.
+
 
 # Conclusion: 
