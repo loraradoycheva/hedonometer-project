@@ -1,6 +1,43 @@
 # New York Times Headlines under a Hedonometer: Measuring Happiness in News Repoerting from 2015 to 2025
 
-# Introduction
+# Project Aim
+
+In the years following the pandemic, a widespread perception seems to emerge that the world has become sadder and more unstable (). Online discourse routinely frames the post-pandemic period as one of compounding crises: war, inflation, and political instability (). Our aim was to contribute to a larger body of literature about the emotions news exhibit. Existing research over large data sets points to headlines becoming more negative over time (). We wanted to test this with one single major news outlet. We chose The New York Times as it is read globally and covers international affairs extensively.
+
+# Research Question 
+How has the mood of New York Times (NYT) news changed in the period between 2015 and 2025 and has the pandemic made a difference?
+
+# How to run
+1) Create + activate .venv
+2) Install packages: python -m pip install -r requirements.txt
+3) Run: Open src/ folder. Scripts have been enumerated in their title. Run them in order. Additional bits of code are in the comments.
+
+# Repository Map
+
+hedonometer-project/
+│
+├── data/
+│   ├── raw/ 
+│   ├── processed/
+│    
+├── figures/
+│   ├── hedonometer_visuals/
+│   ├── top_words_years_visuals/
+|   ├── nyt_happiness_vs_frequency_visuals/
+|   ├── nyt_bootstraps/
+|   ├── composite_words/
+|   ├── nyt_timelines/
+|   ├── nyt_overlaps/
+│   
+├── src/     
+|
+├── .DS_Store
+|
+├── .gitignore
+│
+├── README.md
+│
+├── requirements.txt
 
 # Data Dictionary
 | VARIABLE | DESCRIPTION | TYPE | MISSING VALUES |
