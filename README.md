@@ -4,18 +4,6 @@
 
 In the years following the pandemic, a widespread perception seems to emerge that the world has become sadder and more unstable. Our aim was to contribute to a larger body of literature about the emotions news exhibit. Existing research over large data sets points to headlines becoming more negative over time (Hughes and Halberstadt 2022). We wanted to test this with one single major news outlet. We chose The New York Times as it is read globally and covers international affairs extensively.
 
-# Sanity checks 
-
-There were several checks performed in the code to verify whether the dataset is loaded correctly and structured well.
-
-For this project, .csv files were used; the small size of the yearly corpora meant it was possible to analyze the data manually which we used to our advantage. The files clearly show key columns like date, headline, section name, and document type, which made the analysis more straightforward.
-
-Verified that all the happiness  scores fell within the range of 1 to 9. The LabMT lexicon rates words on this scale, so any score outside this scale would be an error in the scoring function.
-
-Checked that the dictionary of happiness scores was created correctly by checking that it contained approximately 10,000 words. Also checked those words, for example “love”, to have a high score on the scale and “war” to have a lower score. If these did not match, it would indicate that the lexicon was not loaded properly.
-
-For the stop words, scikit-learn has a built-in ENGLISH_STOP_WORDS library, which provides a standardized set of approximately 318 common English words. This is more comprehensive than a manual list and is the academic standard for text analysis. 
-
 # Research Question 
 How has the mood of New York Times (NYT) news changed in the period between 2015 and 2025 and has the pandemic made a difference?
 
@@ -105,6 +93,19 @@ We have tested including “say” and its derivatives, following the same logic
 # Methods
 To test this research question empirically, we scored NYT World section headlines for emotional tone using the labMT hedonometer lexicon, a dataset from 2011 that ranks words on a happiness scale from 1 to 9. In the first part of our research, we scored exactly 1000 headlines per year between 2019 and 2025. When the mean happiness scores did not show the expected downward trend, we broadened our scope and became more selective about which words we included in the scoring. This led us to examine two periods: 2015 to 2019, covering the years leading up to the pandemic, and 2020 to 2025, covering the pandemic and its aftermath. 
 This README documents the project in two parts: first, how we conducted the initial analysis scoring headlines from 2019 to 2025, and second, how we expanded the research to compare the pre- and post-pandemic periods. 
+
+# Sanity checks 
+
+There were several checks performed in the code to verify whether the dataset is loaded correctly and structured well.
+
+For this project, .csv files were used; the small size of the yearly corpora meant it was possible to analyze the data manually which we used to our advantage. The files clearly show key columns like date, headline, section name, and document type, which made the analysis more straightforward.
+
+Verified that all the happiness scores fell within the range of 1 to 9. The LabMT lexicon rates words on this scale, so any score outside this scale would be an error in the scoring function.
+
+Checked that the dictionary of happiness scores was created correctly by seeing if it contained approximately 10,000 words. Also checked those words, for example “love”, to have a high score on the scale and “war” to have a lower score. If these did not match, it would indicate that the lexicon was not loaded properly.
+
+For the stop words, scikit-learn has a built-in ENGLISH_STOP_WORDS library, which provides a standardized set of approximately 318 common English words. This is more comprehensive than a manual list and is the academic standard for text analysis. 
+
 
 ## Bootstrap
 NYT publishes between 70,000 and 90,000 articles per year. Our sample includes only 1000 World section headlines per year. This raises the question of how reliable our mean happiness score is. We apply a non-parametric bootstrap to estimate this uncertainty. Rather than collecting new samples, the bootstrap resamples our existing data with replacement to simulate what different samples might have looked like. Non-parametric means we make no assumptions about the distribution of scores and we let the data speak for itself.
