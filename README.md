@@ -9,14 +9,14 @@ starting with #. Missing values (--) were replaced with NaN.
 The dataset has 10,222 rows and 9 columns.
 
 # Data Dictionary
-- **word** — the English word being rated. Type: text. No missing values.
-- **rank** — overall frequency rank across all corpora. Type: integer. No missing values.
-- **happs** — average happiness score (scale 1–9). Type: float. No missing values.
-- **stddev** — standard deviation of happiness ratings (how much raters disagreed). Type: float. No missing values.
-- **rank.1** — frequency rank in Twitter. Type: float. 5192 missing values (word not in top 5000).
-- **rank.2** — frequency rank in Google Books. Type: float. 5192 missing values.
-- **rank.3** — frequency rank in New York Times. Type: float. 5192 missing values.
-- **rank.4** — frequency rank in Music Lyrics. Type: float. 5192 missing values.
+|**word** | the English word being rated | text | No missing values|
+|**rank** | overall frequency rank across all corpora | integer | No missing values|
+|**happs** | average happiness score (scale 1–9) | float | No missing values|
+|**stddev** | standard deviation of happiness ratings (how much raters disagreed) | float | No missing values|
+|**rank.1** | frequency rank in Twitter | float | 5192 missing values (word not in top 5000)|
+|**rank.2** | frequency rank in Google Books | float | 5192 missing values|
+|**rank.3** | frequency rank in New York Times | float | 5192 missing values|
+|**rank.4** | frequency rank in Music Lyrics | float | 5192 missing values|
 
 A missing rank means the word did not appear in the top 5000 most frequent 
 words in that corpus.
