@@ -210,7 +210,7 @@ These words have happiness scores that are slightly negative to neutral. Trump a
 
 However, the happiness scores come from a dataset created in 2011, so they may not fully reflect how people felt about these words in 2025.
 
-[weird_words.md](data/processed/wierd_words.md)
+![weird_words.md](data/processed/wierd_words.md)
 
 
 # Limitations of the hedonometer 
