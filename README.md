@@ -99,6 +99,9 @@ We have tested including “say” and its derivatives, following the same logic
 
 # Figures + findings:
 
+Across all years, we consistently used neutral terms such as “state,” “report,” “claims,” and “says” to avoid introducing bias into the analysis. As expected, these words appeared with the highest frequency each year, reflecting their neutral and widely used nature. However, beyond these common terms, each year also revealed additional high frequency words, indicating the presence of distinct themes or emphases specific to that period.
+
+
 - `2017`
 ![composite_words_2017.png](figures/composite_words_2017.png)
 
