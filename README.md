@@ -14,30 +14,29 @@ How has the mood of New York Times (NYT) news changed in the period between 2015
 
 # Repository Map
 
+```bash
 hedonometer-project/
 │
 ├── data/
-│   ├── raw/ 
-│   ├── processed/
-│    
+│   ├── raw/
+│   └── processed/
+│
 ├── figures/
 │   ├── hedonometer_visuals/
 │   ├── top_words_years_visuals/
-|   ├── nyt_happiness_vs_frequency_visuals/
-|   ├── nyt_bootstraps/
-|   ├── composite_words/
-|   ├── nyt_timelines/
-|   ├── nyt_overlaps/
-│   
-├── src/     
-|
+│   ├── nyt_happiness_vs_frequency_visuals/
+│   ├── nyt_bootstraps/
+│   ├── composite_words/
+│   ├── nyt_timelines/
+│   └── nyt_overlaps/
+│
+├── src/
+│
 ├── .DS_Store
-|
 ├── .gitignore
-│
 ├── README.md
-│
-├── requirements.txt
+└── requirements.txt
+```
 
 # Data Dictionary
 | VARIABLE | DESCRIPTION | TYPE | MISSING VALUES |
