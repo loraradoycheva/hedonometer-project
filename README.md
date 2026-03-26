@@ -38,14 +38,6 @@ hedonometer-project/
 └── requirements.txt
 ```
 
-
-# Histogram of happiness score (figures/histogram_happs.png) - `this would be with data dictionary`
-The histogram shows that most words in the labMT dataset score around 5 on the 
-happiness scale, with a mean of 5.37 and a median of 5.44. The distribution is 
-roughly bell-shaped but slightly skewed to the left, meaning there are more words 
-trailing off toward the sad end than the happy end. The middle 90% of words fall 
-between scores of 3.18 and 7.08, suggesting that truly extreme words are relatively rare.
-
 # Scatterplot of happiness vs standard deviation (figures/scatter_happs_stddev.png) - `lets keep it relevant to the figures`
 The scatterplot shows that the most contested words tend to cluster around the middle happiness scores rather than at the extremes. 
 Words like "whiskey" and "cigarettes" are contested because people associate them with both 
