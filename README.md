@@ -192,6 +192,8 @@ However, the happiness scores come from a dataset created in 2011, so they may n
 
 
 # Conclusion 
+No statistically significant changes were observed in mood between 2015 and 2025. Most words scored as neutral, even during years with major geopolitical events. This may be due to the relatively small corpus for the 2011-2025 data set, which ranged from 40 to 300 articles per year, making the sample less representative. Additionally, the LabMT hedonometer is based on 2011 data, so it may not fully capture shifts in sentiment or accurately reflect the mood of headlines over time. Similarly, the data from 2019 to 2025 also showed no significant changes in mood. Once again, most words scored as neutral, even though notable events occurred during these years.
+
 
 # Possible improvements
 
@@ -202,4 +204,13 @@ Instead of single words, the instrument could include common short phrases. This
 Another significant improvement would be distinguishing between human users and automated bots or news organizations, which currently mix individual emotional signals with corporate or automated messaging.
 
 Currently, we used the Article Search API to collect data by querying specific keywords and then organizing the results into dataframes. An alternative approach would be to use the NYT Archive API, which allows us to retrieve all articles within a given time frame. We could then filter the data within the dataframes afterward, effectively reversing the order of operations. This method may provide a more comprehensive dataset and reduce potential bias from pre-selecting keywords.
+
+# AI use
+For this project the following AI models were used for vibe coding and debugging:
+- Deepseek
+- Uva AI chat
+- Chat GPT
+- NotebookLM
+- Claude
+
 
