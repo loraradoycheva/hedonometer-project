@@ -65,8 +65,18 @@ We have tested including “say” and its derivatives, following the same logic
 
 # Figures + findings:
 
-- `2015`
-  
+- `2017`
+![composite_words_2017.png](figures/composite_words_2017.png)
+
+- `2021`
+![composite_words_2021.png](figures/composite_words_2021.png)
+
+
+- `2023`
+![composite_words_2023.png](figures/composite_words_2023.png)
+
+- `2025`
+![composite_words_2025.png](figures/composite_words_2025.png)  
 
 # Limitations:
 
