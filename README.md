@@ -78,6 +78,21 @@ middle because it can feel clinical and neutral to some, but deeply distressing 
 
  The labMT lexicon contains approximately 10,000 words rated for happiness on a 1-9 scale by Mechanical Turk workers. A score of 1 is very negative, 5 is neutral, and 9 is very positive. It was constructed from four corpora: Twitter, Google Books, NYT, and song lyrics. 
 
+ ### Data Dictionary
+| VARIABLE | DESCRIPTION | TYPE | MISSING VALUES |
+|----------|-------------|------|----------------|
+| **word** | the English word being rated | text | No missing values |
+| **rank** | overall frequency rank across all corpora | integer | No missing values |
+| **happs** | average happiness score (scale 1–9) | float | No missing values |
+| **stddev** | standard deviation of happiness ratings (how much raters disagreed) | float | No missing values |
+| **rank.1** | frequency rank in Twitter | float | 5192 missing values (word not in top 5000) |
+| **rank.2** | frequency rank in Google Books | float | 5192 missing values |
+| **rank.3** | frequency rank in New York Times | float | 5192 missing values |
+| **rank.4** | frequency rank in Music Lyrics | float | 5192 missing values |
+
+A missing rank means the word did not appear in the top 5000 most frequent 
+words in that corpus.
+
 The NYT data was scored using the labMT dataset.
 
 We have selected a time period from 2015 to 2025, separating it into two periods: before and after the pandemic.
