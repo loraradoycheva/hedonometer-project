@@ -1,4 +1,4 @@
-# HEDONOMETER PROJECT
+# New York Times Headlines under a Hedonometer: Measuring Happiness in News Repoerting from 2015 to 2025
 # Dataset
 The dataset used is labMT 1.0 (language assessment by Mechanical Turk), 
 from Dodds et al. (2011). It contains happiness scores for 10,222 words, 
