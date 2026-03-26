@@ -130,7 +130,14 @@ Common words that are shared between news reports relating to military conflicts
 Overall the news for 2023 were majorly war related.  Neutral/not obviously charged words like state, officials, military are structurally tied to conflict in this case. 
 
 - `2025`
-![composite_words_2025.png](figures/composite_words_2025.png)  
+![composite_words_2025.png](figures/composite_words_2025.png)
+
+In 2025, some of the most frequent words include Trump, Palestinian, Israel, and Russia. This makes sense because of major political events and ongoing conflicts that were widely covered in the news.
+
+These words have happiness scores that are slightly negative to neutral. Trump appears the most, likely because of his reelection. Palestinian and Israel are also common due to the conflict in that region, while Russia appears often because of its role in global affairs.
+
+However, the happiness scores come from a dataset created in 2011, so they may not fully reflect how people felt about these words in 2025.
+
 
 # Limitations:
 
