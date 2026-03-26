@@ -322,6 +322,8 @@ Dodds, Peter Sheridan, Kameron Decker Harris, Isabel M. Kloumann, Catherine A. B
 
 https://developer.nytimes.com/docs/articlesearch-product/1/overview
 
+nyt_archive.py code by Roberto
+
 
 # AI use
 For this project the following AI models were used for vibe coding and debugging:
