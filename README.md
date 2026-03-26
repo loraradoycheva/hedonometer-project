@@ -51,7 +51,7 @@ hedonometer-project/
 ```
 
 
-# ​​Data:
+# ​​Data
 
 - `NYT Article Search API`
 
@@ -102,9 +102,9 @@ The first 3 showed up as verbs; “state” occasionally showed up as a noun(as 
 
 We have tested including “say” and its derivatives, following the same logic as the other report words. This filter, however, gave flawed results as “say” is so prevalent in the headlines and body text, respectively, api pulls articles for only the last months of the year, as it filters by “best fit” and “relevance,” and those conditions get fulfilled with the most recent data, that being the end of the year.
 
-# Methods:
+# Methods
 
-# Figures + findings:
+# Figures + findings
 
 Across all years, we consistently used neutral terms such as “state,” “report,” “claims,” and “says” to avoid introducing bias into the analysis. As expected, these words appeared with the highest frequency each year, reflecting their neutral and widely used nature. However, beyond these common terms, each year also revealed additional high frequency words, indicating the presence of distinct themes or emphases specific to that period.
 
@@ -175,4 +175,15 @@ However, the happiness scores come from a dataset created in 2011, so they may n
 7. “Say” as a filter word. We have tested including “say” and its derivatives, following the same logic as the other report words. This filter, however gave flawed result as “say” is so prevalent in the headlines and body text respectively, api pulls articles for only the last months of the year, as it filters by “best fit” and “relevance” and those conditions get fulfilled with the most recent data, that being the end of the year.
 
 
-# Conclusion: 
+# Conclusion 
+
+# Possible improvements
+
+The dataset can be updated to include modern slang, hashtags, and cultural references that have evolved since its creation. 
+
+Instead of single words, the instrument could include common short phrases. This would make handling negation possible ("not happy") and could include indicative short phrases ("child abuse", "sex scandal") to provide more accurate sentiment readings. 
+
+Another significant improvement would be distinguishing between human users and automated bots or news organizations, which currently mix individual emotional signals with corporate or automated messaging.
+
+Currently, we used the Article Search API to collect data by querying specific keywords and then organizing the results into dataframes. An alternative approach would be to use the NYT Archive API, which allows us to retrieve all articles within a given time frame. We could then filter the data within the dataframes afterward, effectively reversing the order of operations. This method may provide a more comprehensive dataset and reduce potential bias from pre-selecting keywords.
+
