@@ -68,8 +68,6 @@ pleasure and addiction. "Churches" and "capitalism" are politically and cultural
 meaning people's backgrounds strongly influence how they rate them. "Mortality" sits in the 
 middle because it can feel clinical and neutral to some, but deeply distressing to others.
 
-### Research question: `after introduction`
-Have news reports gotten sadder or more emotionally charged from 2015 till 2025 and what might be reasons for it / what can that indicate about current world affairs? 
 
 # ​​Data: `with data dictionary`
 
