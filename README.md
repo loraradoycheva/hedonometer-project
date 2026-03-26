@@ -313,6 +313,16 @@ Another significant improvement would be distinguishing between human users and 
 
 Currently, we used the Article Search API to collect data by querying specific keywords and then organizing the results into dataframes. An alternative approach would be to use the NYT Archive API, which allows us to retrieve all articles within a given time frame. We could then filter the data within the dataframes afterward, effectively reversing the order of operations. This method may provide a more comprehensive dataset and reduce potential bias from pre-selecting keywords.
 
+
+# Resources
+
+Rozado, David, Ruth Hughes, and Jamin Halberstadt. 2022. “Longitudinal Analysis of Sentiment and Emotion in News Media Headlines Using Automated Labelling With Transformer Language Models.” PLoS ONE 17 (10): e0276367. https://doi.org/10.1371/journal.pone.0276367.
+
+Dodds, Peter Sheridan, Kameron Decker Harris, Isabel M. Kloumann, Catherine A. Bliss, and Christopher M. Danforth. 2011. “Temporal Patterns of Happiness and Information in a Global Social Network: Hedonometrics and Twitter.” PLoS ONE 6 (12): e26752. https://doi.org/10.1371/journal.pone.0026752.
+
+https://developer.nytimes.com/docs/articlesearch-product/1/overview
+
+
 # AI use
 For this project the following AI models were used for vibe coding and debugging:
 - Deepseek
