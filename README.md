@@ -38,20 +38,6 @@ hedonometer-project/
 └── requirements.txt
 ```
 
-# Data Dictionary
-| VARIABLE | DESCRIPTION | TYPE | MISSING VALUES |
-|----------|-------------|------|----------------|
-| **word** | the English word being rated | text | No missing values |
-| **rank** | overall frequency rank across all corpora | integer | No missing values |
-| **happs** | average happiness score (scale 1–9) | float | No missing values |
-| **stddev** | standard deviation of happiness ratings (how much raters disagreed) | float | No missing values |
-| **rank.1** | frequency rank in Twitter | float | 5192 missing values (word not in top 5000) |
-| **rank.2** | frequency rank in Google Books | float | 5192 missing values |
-| **rank.3** | frequency rank in New York Times | float | 5192 missing values |
-| **rank.4** | frequency rank in Music Lyrics | float | 5192 missing values |
-
-A missing rank means the word did not appear in the top 5000 most frequent 
-words in that corpus.
 
 # Histogram of happiness score (figures/histogram_happs.png) - `this would be with data dictionary`
 The histogram shows that most words in the labMT dataset score around 5 on the 
@@ -68,7 +54,7 @@ meaning people's backgrounds strongly influence how they rate them. "Mortality" 
 middle because it can feel clinical and neutral to some, but deeply distressing to others.
 
 
-# ​​Data: `with data dictionary`
+# ​​Data:
 
 - `NYT Article Search API`
 
@@ -90,12 +76,12 @@ middle because it can feel clinical and neutral to some, but deeply distressing 
 | **rank.3** | frequency rank in New York Times | float | 5192 missing values |
 | **rank.4** | frequency rank in Music Lyrics | float | 5192 missing values |
 
-A missing rank means the word did not appear in the top 5000 most frequent 
-words in that corpus.
+- A missing rank means the word did not appear in the top 5000 most frequent 
+  words in that corpus.
 
 The NYT data was scored using the labMT dataset.
 
-We have selected a time period from 2015 to 2025, separating it into two periods: before and after the pandemic.
+### We have selected a time period from 2015 to 2025, separating it into two periods: before and after the pandemic.
 
  The justification for this choice is that the covid pandemic has significantly impacted many processes in the world. The public discourse commonly regards the years following the pandemic as “worse” than the ones prior to it. With our research question, we aimed at getting empirical evidence on whether the discourse  actually got sadder/ more charged.
 ​
