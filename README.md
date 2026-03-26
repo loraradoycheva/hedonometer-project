@@ -1,4 +1,4 @@
-# hedonometer-project
+# HEDONOMETER PROJECT
 # Dataset
 The dataset used is labMT 1.0 (language assessment by Mechanical Turk), 
 from Dodds et al. (2011). It contains happiness scores for 10,222 words, 
