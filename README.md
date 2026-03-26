@@ -132,7 +132,7 @@ middle because it can feel clinical and neutral to some, but deeply distressing 
 
 ### Findings
 - `2017`
-![composite_words_2017.png](figures/composite_words_2017.png)
+![composite_words_2017.png](figures/composite_words/composite_words_2017.png)
 
 In 2017, some of the most frequent words were Islamic, China, and Trump. This makes sense because 2017 was the first year of Donald Trump’s presidency, when there was a lot of news coverage about his policies and international relations.
 
@@ -141,7 +141,7 @@ Islamic appears about 14 times and has a happiness score of around 4.8, which is
 These words are likely common because of major political and global issues during that time, especially related to Trump’s first year in office. However, the happiness scores come from a dataset created in 2011, so they may not fully reflect how these words were perceived in 2017.
 
 - `2021`
-![composite_words_2021.png](figures/composite_words_2021.png)
+![composite_words_2021.png](figures/composite_words/composite_words_2021.png)
 
 2021 was a year that resolved mainly about health related topics, which resulted in frequent use of words like emergency, virus, mask or death. 
 
@@ -151,7 +151,7 @@ This creates an overall impression on what the news were focused on, when the wh
 
 
 - `2023`
-![composite_words_2023.png](figures/composite_words_2023.png)
+![composite_words_2023.png](figures/composite_words/composite_words_2023.png)
 
 Words indicative of discourse are related to geopolitics: state, China, war, Russia, officials, military.  Given the events of the year, “Russia” scores high in frequency hence the ongoing war with Ukraine since 2022. Words relating to the Israel-Gaza war also score high on frequency, however Gaza appears only once, whereas Israel appears multiple times.
 Common words that are shared between news reports relating to military conflicts are: killed, children, military, attack, nuclear. 
@@ -159,7 +159,7 @@ Common words that are shared between news reports relating to military conflicts
 Overall the news for 2023 were majorly war related.  Neutral/not obviously charged words like state, officials, military are structurally tied to conflict in this case. 
 
 - `2025`
-![composite_words_2025.png](figures/composite_words_2025.png)
+![composite_words_2025.png](figures/composite_words/composite_words_2025.png)
 
 In 2025, some of the most frequent words include Trump, Palestinian, Israel, and Russia. This makes sense because of major political events and ongoing conflicts that were widely covered in the news.
 
