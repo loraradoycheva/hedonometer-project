@@ -109,7 +109,7 @@ We have tested including “say” and its derivatives, following the same logic
 Across all years, we consistently used neutral terms such as “state,” “report,” “claims,” and “says” to avoid introducing bias into the analysis. As expected, these words appeared with the highest frequency each year, reflecting their neutral and widely used nature. However, beyond these common terms, each year also revealed additional high frequency words, indicating the presence of distinct themes or emphases specific to that period.
 
 ### Scatterplot of happiness vs standard deviation 
-![scatter_happs_stddev.png](figures/scatter_happs_stddev.png)
+![scatter_happs_stddev.png](figures/hedonometer_visuals/scatter_happs_stddev.png)
 
 The scatterplot shows that the most contested words tend to cluster around the middle happiness scores rather than at the extremes. 
 Words like "whiskey" and "cigarettes" are contested because people associate them with both 
