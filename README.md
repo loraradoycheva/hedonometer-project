@@ -36,11 +36,11 @@ Have news reports gotten sadder or more emotionally charged from 2015 till 2025 
 
 # ​​Data: `with data dictionary`
 
-- NYT Article Search API
+- `NYT Article Search API`
 
  We collected approximately 1000 NYT World section headlines per year from 2019 to 2025 using the Article Search API. Requests filtered by section.name:("World") with 'sort=relevance' and an empty query string. Results are cached in 'data/cache/' as JSON files and treated as read-only. Each JSON file contains full article metadata, including headline, abstract, keywords, publication date, byline, and word count. Our analysis uses only the 'headline.main' field.
 
-- labMT Hedonometer
+- `labMT Hedonometer`
 
  The labMT lexicon contains approximately 10,000 words rated for happiness on a 1-9 scale by Mechanical Turk workers. A score of 1 is very negative, 5 is neutral, and 9 is very positive. It was constructed from four corpora: Twitter, Google Books, NYT, and song lyrics. 
 
