@@ -108,6 +108,23 @@ Each headline is lowercased and split by whitespace using Python's .split(). Thi
 Each headline receives a single happiness score: the mean labMT rating of all matched words. Words not in the lexicon are silently skipped. A headline where no words match at all returns no score and is excluded from further analysis. 
 We did not apply a stopword filter before scoring. Common words like "the", "a", "in", and "of" pass through tokenisation. However, most stopwords do not appear in the labMT lexicon, so they are automatically ignored during scoring. Only words with a labMT entry contribute a score.
 
+Example:
+
+Headline: "War kills thousands in Syria"
+
+"war" = 2.10
+
+"kills" = 2.00
+
+"thousands" = 5.30
+
+"syria" = not in labMT, skipped
+
+Score = (2.10 + 2.00 + 5.30) / 3 = 3.13
+
+Coverage across all years was between 99% and 100%, meaning almost every headline had at least one matched word. This step produces an array of approximately 1000 happiness scores per year.
+
+
 For the 2015-2025 data set, we scored NYT World section headlines for emotional tone using the labMT hedonometer lexicon, a dataset from 2011 that ranks words on a happiness scale from 1 to 9. In the first part of our research, we scored exactly 1000 headlines per year between 2019 and 2025. When the mean happiness scores did not show the expected downward trend, we broadened our scope and became more selective about which words we included in the scoring. This led us to examine two periods: 2015 to 2019, covering the years leading up to the pandemic, and 2020 to 2025, covering the pandemic and its aftermath. 
 This README documents the project in two parts: first, how we conducted the initial analysis scoring headlines from 2019 to 2025, and second, how we expanded the research to compare the pre- and post-pandemic periods. 
 
