@@ -2,7 +2,7 @@
 
 # Project Aim
 
-In the years following the pandemic, a widespread perception seems to emerge that the world has become sadder and more unstable. Our aim was to contribute to a larger body of literature about the emotions news exhibit. Existing research over large data sets points to headlines becoming more negative over time (Rozado, Hughes, and Halberstadt 2022). We wanted to test this with one single major news outlet. We chose The New York Times as it is read globally and covers international affairs extensively.
+In the years following the pandemic, a widespread perception seems to emerge that the world has become sadder and more unstable. Our aim was to contribute to a larger body of literature about the emotions news exhibit. Existing research over large data sets points to headlines becoming more negative over time (Hughes and Halberstadt 2022). We wanted to test this with one single major news outlet. We chose The New York Times as it is read globally and covers international affairs extensively.
 
 # Sanity checks 
 
