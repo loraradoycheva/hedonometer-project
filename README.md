@@ -1,5 +1,7 @@
 # New York Times Headlines under a Hedonometer: Measuring Happiness in News Repoerting from 2015 to 2025
 
+# Introduction
+
 # Data Dictionary
 | VARIABLE | DESCRIPTION | TYPE | MISSING VALUES |
 |----------|-------------|------|----------------|
@@ -15,24 +17,24 @@
 A missing rank means the word did not appear in the top 5000 most frequent 
 words in that corpus.
 
-# Histogram of happiness score (figures/histogram_happs.png)
+# Histogram of happiness score (figures/histogram_happs.png) - `this would be with data dictionary`
 The histogram shows that most words in the labMT dataset score around 5 on the 
 happiness scale, with a mean of 5.37 and a median of 5.44. The distribution is 
 roughly bell-shaped but slightly skewed to the left, meaning there are more words 
 trailing off toward the sad end than the happy end. The middle 90% of words fall 
 between scores of 3.18 and 7.08, suggesting that truly extreme words are relatively rare.
 
-# Scatterplot of happiness vs standard deviation (figures/scatter_happs_stddev.png)
+# Scatterplot of happiness vs standard deviation (figures/scatter_happs_stddev.png) - `lets keep it relevant to the figures`
 The scatterplot shows that the most contested words tend to cluster around the middle happiness scores rather than at the extremes. 
 Words like "whiskey" and "cigarettes" are contested because people associate them with both 
 pleasure and addiction. "Churches" and "capitalism" are politically and culturally divisive, 
 meaning people's backgrounds strongly influence how they rate them. "Mortality" sits in the 
 middle because it can feel clinical and neutral to some, but deeply distressing to others.
 
-### Research question:
+### Research question: `after introduction`
 Have news reports gotten sadder or more emotionally charged from 2015 till 2025 and what might be reasons for it / what can that indicate about current world affairs? 
 
-### ​​Data:
+# ​​Data: `with data dictionary`
 
 - NYT Article Search API
 
@@ -59,3 +61,10 @@ The first 3 showed up as verbs; “state” occasionally showed up as a noun(as 
 
 We have tested including “say” and its derivatives, following the same logic as the other report words. This filter, however, gave flawed results as “say” is so prevalent in the headlines and body text, respectively, api pulls articles for only the last months of the year, as it filters by “best fit” and “relevance,” and those conditions get fulfilled with the most recent data, that being the end of the year.
 
+# Methods:
+
+# Figures + findings:
+
+# Limitations:
+
+# Conclusion: 
