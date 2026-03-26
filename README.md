@@ -110,6 +110,7 @@ Across all years, we consistently used neutral terms such as “state,” “rep
 
 ### Scatterplot of happiness vs standard deviation 
 ![scatter_happs_stddev.png](figures/scatter_happs_stddev.png)
+
 The scatterplot shows that the most contested words tend to cluster around the middle happiness scores rather than at the extremes. 
 Words like "whiskey" and "cigarettes" are contested because people associate them with both 
 pleasure and addiction. "Churches" and "capitalism" are politically and culturally divisive, 
