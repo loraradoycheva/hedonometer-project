@@ -175,6 +175,7 @@ middle because it can feel clinical and neutral to some, but deeply distressing 
 
 ### Findings
 ![happiness_over_time.png](figures/nyt_timelines/happiness_over_time.png)
+For the happiness scores between 2019 and 2025, we did not find evidence of a clear downward trend. Scores fluctuate within a narrow range (roughly 5.15 to 5.29 on a 1-9 scale), with 2021 and 2022 scoring slightly higher than other years. The emotional tone of world news headlines appears relatively stable over this period rather than systematically declining.
 
 - `2017`
 ![composite_words_2017.png](figures/composite_words/composite_words_2017.png)
