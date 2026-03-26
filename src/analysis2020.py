@@ -11,7 +11,7 @@ import numpy as npgi
 
 
 
-df = pd.read_csv('data/cache/2016/claim_16.csv')
+df = pd.read_csv('data/cache/2024/claim_24.csv')
 
 
 # Load hedonometer lexicon
@@ -47,20 +47,20 @@ word_counts = {w: c for w, c in word_counts.items()
 
 print(f"\nUnique words found in hedonometer: {len(word_counts)}")
 
-# --- CHART 1: Most Frequent Words in NYT Headlines (2016) ---
-top_words = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)[:20]
+# --- CHART 1: Most Frequent Words in NYT Headlines (2020) ---
+top_words = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)[:25]
 words, counts = zip(*top_words)
 
 plt.figure(figsize=(12, 6))
 plt.bar(words, counts, color='steelblue')
-plt.title('Most Frequent Words in NYT World Headlines (2016)')
+plt.title('Most Frequent Words in NYT World Headlines (2024)')
 plt.xlabel('Word')
 plt.ylabel('Frequency')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
-plt.savefig('figures/top_words_2016.png')
+plt.savefig('figures/top_words_2024.png')
 plt.close()
-print("Chart 1 saved: top_words_2016.png")
+print("Chart 1 saved: top_words_2024.png")
 
 # --- STEP 2: Score each headline using hedonometer ---
 # Methodological choice: we ignore words not in the lexicon
@@ -78,7 +78,7 @@ df['happs_score'] = df['headline'].apply(score_headline)
 total_headlines = len(df)
 scored_headlines = df['happs_score'].notna().sum()
 print(f"Coverage: {scored_headlines}/{total_headlines} headlines scored")
-print(f"Mean happiness score (2016): {df['happs_score'].mean():.3f}")
+print(f"Mean happiness score (2024): {df['happs_score'].mean():.3f}")
 
 # --- CHART 2: Word Happiness vs Frequency ---
 # Only include words that appear in both our corpus and the hedonometer
@@ -88,10 +88,10 @@ frequencies  = [common_words[w] for w in common_words]
 
 plt.figure(figsize=(10, 6))
 plt.scatter(happs_scores, frequencies, alpha=0.5, color='steelblue')
-plt.title('Word Happiness vs Frequency — NYT World Headlines (2016)')
+plt.title('Word Happiness vs Frequency — NYT World Headlines (2024)')
 plt.xlabel('Happiness Score (1=negative, 9=positive)')
 plt.ylabel('Word Frequency in Corpus')
 plt.tight_layout()
-plt.savefig('figures/happiness_vs_frequency_2016.png')
+plt.savefig('figures/happiness_vs_frequency_2024.png')
 plt.close()
-print("Chart 2 saved: happiness_vs_frequency_2016.png")
+print("Chart 2 saved: happiness_vs_frequency_2024.png")
