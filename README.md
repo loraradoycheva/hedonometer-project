@@ -266,6 +266,7 @@ However, the happiness scores come from a dataset created in 2011, so they may n
 | strife | 4.02 | 1.8349 |
 | abyss | 4.1 | 1.7108 |
 
+Several words in the labMT lexicon show high standard deviations. This means raters disagree on their emotional tone. This is especially visible in political and geographic terms. "American" scores 6.74 while "communist" scores 4.32, "arab" 4.50 and "palestinians" 4.50. This reflects the cultural assumptions of the lexicon's raters, predominantly American Mechanical Turk workers, rather than a neutral baseline. Western regions score higher too: "western" scores 6.10 while "mideast" scores only 4.82. Proper names like "trump" (stddev 1.71) and "clinton" (stddev 1.58) show high disagreement as their emotional charge depends entirely on political perspective. "Liberal" (stddev 2.17) and "republican" (stddev 1.92) show the highest disagreement of all. For a corpus of World news headlines dealing with geopolitics and political actors, this introduces systematic bias into the happiness scores and undermines the lexicon's claim to neutrality.
 
 # Limitations of the hedonometer 
 1. Static Word Meanings - The instrument does not account for words with multiple meanings (polysemi). While the researchers argue that such error is overridden by the massive dataset, it remains a limitation for fine-grained analysis. 
@@ -286,6 +287,16 @@ However, the happiness scores come from a dataset created in 2011, so they may n
 5. sort=relevance with empty query: Our API requests used relevance sorting with no search query. This is not a random sample. The API's definition of relevance without a query is unclear, and results may reflect indexing priorities rather than a representative cross-section of World section articles.
 6. 2023 sample size: The 2023 dataset contains only 449 headlines. The estimate for this year is less precise and should be interpreted with more caution than other years.
 7. “Say” as a filter word. We have tested including “say” and its derivatives, following the same logic as the other report words. This filter, however gave flawed result as “say” is so prevalent in the headlines and body text respectively, api pulls articles for only the last months of the year, as it filters by “best fit” and “relevance” and those conditions get fulfilled with the most recent data, that being the end of the year.
+
+## Instrument note
+
+1. What can this data set be trusted to measure well?
+
+This hedonometer can only measure exhibited behavior. It can quantify exhibited emotional tone as perceived by a generic user of Twitter. It is unable to reflect accurately actual internal emotional states or private beliefs of individuals or populations included.
+
+2. What claims can NOT be made based on this data set?
+
+While the patterns observed in the data might suggest universal human behaviors, those cannot be statistically generalized to the broader population. Twitter user accounts are a non-representative population.
 
 
 # Conclusion 
