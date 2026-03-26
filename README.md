@@ -174,6 +174,8 @@ meaning people's backgrounds strongly influence how they rate them. "Mortality" 
 middle because it can feel clinical and neutral to some, but deeply distressing to others.
 
 ### Findings
+![happiness_over_time.png](figures/nyt_timelines/happiness_over_time.png)
+
 - `2017`
 ![composite_words_2017.png](figures/composite_words/composite_words_2017.png)
 
