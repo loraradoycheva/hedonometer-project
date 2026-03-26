@@ -1,12 +1,4 @@
 # New York Times Headlines under a Hedonometer: Measuring Happiness in News Repoerting from 2015 to 2025
-# Dataset
-The dataset used is labMT 1.0 (language assessment by Mechanical Turk), 
-from Dodds et al. (2011). It contains happiness scores for 10,222 words, 
-rated by workers on Amazon Mechanical Turk on a scale from 1 to 9.
-
-The file was loaded as a tab-delimited text file, skipping comment lines 
-starting with #. Missing values (--) were replaced with NaN. 
-The dataset has 10,222 rows and 9 columns.
 
 # Data Dictionary
 | VARIABLE | DESCRIPTION | TYPE | MISSING VALUES |
@@ -22,13 +14,6 @@ The dataset has 10,222 rows and 9 columns.
 
 A missing rank means the word did not appear in the top 5000 most frequent 
 words in that corpus.
-
-# Sanity Checks
-No duplicate rows were found. A random sample of 5 words (agent, doesn't, 
-variables, stem, pillow) showed mid-range happiness scores between 5.0 and 6.9 — 
-nothing unexpected. The 10 happiest words included laughter, happiness, love and joy, 
-while the 10 saddest included suicide, terrorism, murder and cancer. 
-Both lists match what you would intuitively expect.
 
 # Histogram of happiness score (figures/histogram_happs.png)
 The histogram shows that most words in the labMT dataset score around 5 on the 
