@@ -51,14 +51,6 @@ hedonometer-project/
 ```
 
 
-# Scatterplot of happiness vs standard deviation (figures/scatter_happs_stddev.png) - `lets keep it relevant to the figures`
-The scatterplot shows that the most contested words tend to cluster around the middle happiness scores rather than at the extremes. 
-Words like "whiskey" and "cigarettes" are contested because people associate them with both 
-pleasure and addiction. "Churches" and "capitalism" are politically and culturally divisive, 
-meaning people's backgrounds strongly influence how they rate them. "Mortality" sits in the 
-middle because it can feel clinical and neutral to some, but deeply distressing to others.
-
-
 # ​​Data:
 
 - `NYT Article Search API`
@@ -116,7 +108,15 @@ We have tested including “say” and its derivatives, following the same logic
 
 Across all years, we consistently used neutral terms such as “state,” “report,” “claims,” and “says” to avoid introducing bias into the analysis. As expected, these words appeared with the highest frequency each year, reflecting their neutral and widely used nature. However, beyond these common terms, each year also revealed additional high frequency words, indicating the presence of distinct themes or emphases specific to that period.
 
+### Scatterplot of happiness vs standard deviation 
+![scatter_happs_stddev.png](figures/scatter_happs_stddev.png)
+The scatterplot shows that the most contested words tend to cluster around the middle happiness scores rather than at the extremes. 
+Words like "whiskey" and "cigarettes" are contested because people associate them with both 
+pleasure and addiction. "Churches" and "capitalism" are politically and culturally divisive, 
+meaning people's backgrounds strongly influence how they rate them. "Mortality" sits in the 
+middle because it can feel clinical and neutral to some, but deeply distressing to others.
 
+### Findings
 - `2017`
 ![composite_words_2017.png](figures/composite_words_2017.png)
 
