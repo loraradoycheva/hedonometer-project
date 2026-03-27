@@ -51,6 +51,8 @@ hedonometer-project/
 
 We collected approximately 1000 NYT World section headlines per year from 2019 to 2025. Requests are filtered by section.name:("World") with 'sort=relevance' and an empty query string. Results are cached as JSON files and treated as read-only. Each JSON file contains full article metadata, including headline, abstract, keywords, publication date, byline, and word count. Our analysis uses only the 'headline.main' field.
 
+Additionally, we collected approximately 100–400 articles per year from 2015 to 2025 from the World section. Requests were filtered by section.name:("World") and compiled into a .csv file to provide a structured overview of the metadata. The dataset includes key fields such as headline, abstract, keywords, publication date, byline, and word count, enabling systematic analysis.
+
 - `labMT Hedonometer`
 
 The labMT lexicon contains approximately 10,000 words rated for happiness on a 1-9 scale by Mechanical Turk workers in 2011. A score of 1 is very negative, 5 is neutral, and 9 is very positive. It was constructed from four corpora: Twitter, Google Books, NYT, and song lyrics. 
@@ -122,7 +124,7 @@ For this project, .csv files were used; the small size of the yearly corpora mea
 
 We verified that all happiness scores fell within the range of 1 to 9. The LabMT lexicon rates words on this scale, so any score outside this scale would be an error in the scoring function.
 
-For the sto words, scikit-learn has a built-in ENGLISH_STOP_WORDS library, which provides a standardized set of approximately 318 common English words. This is more comprehensive than a manual list and is the academic standard for text analysis. 
+For the stop words, scikit-learn has a built-in ENGLISH_STOP_WORDS library, which provides a standardized set of approximately 318 common English words. This is more comprehensive than a manual list and is the academic standard for text analysis. 
 
 
 ## Bootstrap
@@ -280,7 +282,7 @@ While the patterns observed in the data might suggest universal human behaviors,
 
 
 # Conclusion 
-No statistically significant changes were observed in emotional tone between 2015 and 2025. Most words scored as neutral, even during years with major geopolitical events. This may be due to the relatively small corpus for the 2015-2025 data set, which ranged from 40 to 300 articles per year, making the sample less representative. Additionally, the LabMT hedonometer is based on 2011 data, so it may not fully capture shifts in sentiment or accurately reflect the mood of headlines over time. Similarly, the data from 2019 to 2025 also showed no significant changes. Once again, most words scored as neutral, even though notable events occurred during these years.
+No statistically significant changes were observed in emotional tone between 2015 and 2025. Most words scored as neutral, even during years with major geopolitical events. This may be due to the relatively small corpus for the 2015-2025 data set, which ranged from 100 to 400 articles per year, making the sample less representative. Additionally, the LabMT hedonometer is based on 2011 data, so it may not fully capture shifts in sentiment or accurately reflect the mood of headlines over time. Similarly, the data from 2019 to 2025 also showed no significant changes. Once again, most words scored as neutral, even though notable events occurred during these years.
 
 
 # Possible improvements
