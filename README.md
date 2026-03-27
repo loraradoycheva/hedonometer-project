@@ -92,7 +92,7 @@ We have tested other terms, including “say”, "said" and variants thereof; th
 
 # Methods
 
-This README documents the project in two parts: first, how we conducted the initial analysis scoring headlines from 2019 to 2025, and second, how we expanded the research to compare the pre- and post-pandemic periods. 
+When the mean happiness scores did not show the expected downward trend, we broadened our scope and became more selective about which words we included in the scoring. This led us to examine two periods: 2015 to 2019, covering the years leading up to the pandemic, and 2020 to 2025, covering the pandemic and its aftermath.  
 
 After data collection we conducted tokenization and headline scoring:
 
