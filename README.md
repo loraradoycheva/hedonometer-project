@@ -146,7 +146,7 @@ The words “state,” “report,” “claims,” and “says” appeared with 
 ### Scatterplot of happiness vs standard deviation 
 ![scatter_happs_stddev.png](figures/hedonometer_visuals/scatter_happs_stddev.png)
 
-The scatterplot shows that the most contested words tend to cluster around the middle happiness scores rather than at the extremes. Words like "whiskey" and "cigarettes" are contested because people associate them with both pleasure and addiction. "Churches" and "capitalism" are politically and culturally divisive, meaning people's backgrounds strongly influence how they rate them. "Mortality" sits in the middle because it can feel clinical and neutral to some, but deeply distressing to others.
+
 
 ### Findings
 ![happiness_over_time.png](figures/nyt_timelines/happiness_over_time.png)
